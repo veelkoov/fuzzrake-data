@@ -1025,7 +1025,6 @@ INSERT INTO artisans_urls VALUES(1066,241,'URL_PRICES','https://www.furaffinity.
 INSERT INTO artisans_urls VALUES(1067,241,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/eddiebear');
 INSERT INTO artisans_urls VALUES(1068,241,'URL_TWITTER','https://twitter.com/EddieBear58');
 INSERT INTO artisans_urls VALUES(1069,241,'URL_FACEBOOK','https://www.facebook.com/eddie.bear.14/');
-INSERT INTO artisans_urls VALUES(1070,242,'URL_WEBSITE','http://b1teclub.com/');
 INSERT INTO artisans_urls VALUES(1071,242,'URL_TWITTER','https://twitter.com/B1TECLUB');
 INSERT INTO artisans_urls VALUES(1072,242,'URL_FACEBOOK','https://www.facebook.com/b1teclub/');
 INSERT INTO artisans_urls VALUES(1073,242,'URL_INSTAGRAM','https://www.instagram.com/b1teclub/');
@@ -1874,4 +1873,15 @@ INSERT INTO artisans_urls VALUES(9357,388,'URL_WEBSITE','https://www.whitewingcr
 INSERT INTO artisans_urls VALUES(9358,388,'URL_PRICES','https://www.whitewingcreations.de/products-and-prices/');
 INSERT INTO artisans_urls VALUES(9359,388,'URL_QUEUE','https://trello.com/b/X0UVrjbL/');
 INSERT INTO artisans_urls VALUES(9360,388,'URL_CST','https://www.whitewingcreations.de/');
+INSERT INTO artisans_urls VALUES(9361,389,'URL_FURSUITREVIEW','http://fursuitreview.com/maker/skyehighstudios/');
+INSERT INTO artisans_urls VALUES(9362,389,'URL_WEBSITE','https://www.skyehighstudios.com/');
+INSERT INTO artisans_urls VALUES(9363,389,'URL_PRICES','https://www.furaffinity.net/journal/9527989/');
+INSERT INTO artisans_urls VALUES(9364,389,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/skyehighstudios');
+INSERT INTO artisans_urls VALUES(9365,389,'URL_TWITTER','https://twitter.com/Skyehighstudios');
+INSERT INTO artisans_urls VALUES(9366,389,'URL_FACEBOOK','https://www.facebook.com/skyehighstudios/');
+INSERT INTO artisans_urls VALUES(9367,389,'URL_INSTAGRAM','https://www.instagram.com/skyehighstudios/');
+INSERT INTO artisans_urls VALUES(9368,389,'URL_YOUTUBE','https://www.youtube.com/skyehighstudios');
+INSERT INTO artisans_urls VALUES(9369,389,'URL_QUEUE','https://trello.com/b/7S8afaoS');
+INSERT INTO artisans_urls VALUES(9370,389,'URL_SCRITCH','https://scritch.es/makers/skyehigh-studios');
+INSERT INTO artisans_urls VALUES(9371,389,'URL_CST','https://www.instagram.com/skyehighstudios/');
 COMMIT;
