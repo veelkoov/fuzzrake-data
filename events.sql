@@ -894,4 +894,6 @@ INSERT INTO events VALUES(2001,NULL,0,'2020-06-28 18:04:47','CS_UPDTD_DETLS','Nu
 INSERT INTO events VALUES(2002,1,NULL,'2020-06-28 18:04:54','CS_UPDTD_DETLS','Skyehighstudios','https://www.instagram.com/skyehighstudios/','','','');
 INSERT INTO events VALUES(2003,0,NULL,'2020-06-29 06:04:51','CS_UPDTD_DETLS','Go Fur It Studios','http://gofurit.co.uk/','','','');
 INSERT INTO events VALUES(2004,1,0,'2020-06-29 18:04:48','CS_UPDTD_DETLS','JawsandPaws_UK','https://twitter.com/JawsNpawsUK','','["=\"profileheadercard-bio u-dir\" dir=\"ltr\">welcome to STUDIO_NAME! aspiring fursuit maker from the uk ","commissions: closed","</p> <div class=\"profileheadercard-location \"> united kingdom </div> <div class=\"profileheadercard-u"]','');
+INSERT INTO events VALUES(2005,0,NULL,'2020-07-01 06:04:56','CS_UPDTD_DETLS','Fursuit Enterprise','http://www.fursuitenterprise.com/commission-forms.html','','','');
+INSERT INTO events VALUES(2006,0,1,'2020-07-01 18:04:51','CS_UPDTD_DETLS','Charred Fursuits','https://twitter.com/CubTheCharr','["\"profileheadercard-bio u-dir\" dir=\"ltr\">i''m a charr! uk fursuit maker! staff <s>@</s>fursnottingham ","commissions: open","</p> <div class=\"profileheadercard-location \"> chesterfield, england </div> <div class=\"profileheade"]','','');
 COMMIT;
