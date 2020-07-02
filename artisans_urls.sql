@@ -1884,4 +1884,8 @@ INSERT INTO artisans_urls VALUES(9368,389,'URL_YOUTUBE','https://www.youtube.com
 INSERT INTO artisans_urls VALUES(9369,389,'URL_QUEUE','https://trello.com/b/7S8afaoS');
 INSERT INTO artisans_urls VALUES(9370,389,'URL_SCRITCH','https://scritch.es/makers/skyehigh-studios');
 INSERT INTO artisans_urls VALUES(9371,389,'URL_CST','https://www.instagram.com/skyehighstudios/');
+INSERT INTO artisans_urls VALUES(9372,390,'URL_PRICES','http://aminoapps.com/p/ncc2ts');
+INSERT INTO artisans_urls VALUES(9373,390,'URL_FACEBOOK','https://www.facebook.com/lileaf_owo-110861350408209/');
+INSERT INTO artisans_urls VALUES(9374,390,'URL_INSTAGRAM','https://www.instagram.com/lileaf_owo/');
+INSERT INTO artisans_urls VALUES(9375,390,'URL_OTHER','aminoapps.com/p/gegb6t');
 COMMIT;
