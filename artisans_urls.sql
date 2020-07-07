@@ -1868,7 +1868,7 @@ INSERT INTO artisans_urls VALUES(9352,230,'URL_SCRITCH_MINIATURE',replace('https
 INSERT INTO artisans_urls VALUES(9353,387,'URL_SCRITCH_MINIATURE','https://storage.scritch.es/scritch/6d73d4e3c20bc454c2b9bd1f8565f1e9fe72c88d/thumbnail_8993a19e-cf6f-4527-9126-19b3c7172310.jpeg#0050');
 INSERT INTO artisans_urls VALUES(9354,188,'URL_SCRITCH_MINIATURE',replace('https://storage.scritch.es/scritch/25f2e81d2d9393121a2c79ae9e09e39062400573/thumbnail_aa836d72-96d7-4b77-84ef-6e688cb42861.jpeg\nhttps://storage.scritch.es/scritch/29745245632694041e7f0552efc8ae300ca2b060/thumbnail_154ca464-64b3-4432-ac94-9b26c14d4b0d.jpeg\nhttps://storage.scritch.es/scritch/e9398348449bd964f6a9838b427451800448a236/thumbnail_68c0ed4d-49ed-453b-b8f4-c3e08f8feb98.jpeg','\n',char(10)));
 INSERT INTO artisans_urls VALUES(9355,291,'URL_WEBSITE','https://www.schneepardicreations.com/en/');
-INSERT INTO artisans_urls VALUES(9356,14,'URL_INSTAGRAM','https://www.instagram.com/battitude_studios/?hl=en');
+INSERT INTO artisans_urls VALUES(9356,14,'URL_INSTAGRAM','https://www.instagram.com/battitude_studios/');
 INSERT INTO artisans_urls VALUES(9357,388,'URL_WEBSITE','https://www.whitewingcreations.de/');
 INSERT INTO artisans_urls VALUES(9358,388,'URL_PRICES','https://www.whitewingcreations.de/products-and-prices/');
 INSERT INTO artisans_urls VALUES(9359,388,'URL_QUEUE','https://trello.com/b/X0UVrjbL/');
