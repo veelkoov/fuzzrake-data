@@ -1237,11 +1237,11 @@ INSERT INTO artisans_urls VALUES(1284,280,'URL_CST','https://twitter.com/Goldenp
 INSERT INTO artisans_urls VALUES(1285,281,'URL_FURSUITREVIEW','http://fursuitreview.com/maker/northshore-mascots/');
 INSERT INTO artisans_urls VALUES(1286,281,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/Wildpup11');
 INSERT INTO artisans_urls VALUES(1287,282,'URL_WEBSITE','http://www.chaoticreationsfursuits.co.uk/');
-INSERT INTO artisans_urls VALUES(1288,282,'URL_PRICES','http://www.chaoticreationsfursuits.co.uk/pricing');
+INSERT INTO artisans_urls VALUES(1288,282,'URL_PRICES','https://www.chaoticreationsfursuits.co.uk/fursuit-commissions');
 INSERT INTO artisans_urls VALUES(1289,282,'URL_TWITTER','https://twitter.com/chaoticreation');
 INSERT INTO artisans_urls VALUES(1290,282,'URL_INSTAGRAM','https://www.instagram.com/chaoticreationsfursuits/');
 INSERT INTO artisans_urls VALUES(1291,282,'URL_QUEUE','https://trello.com/b/QtLHpJxv/chaoticreations-fursuit-queue');
-INSERT INTO artisans_urls VALUES(1292,282,'URL_CST','https://chaoticreations.wixsite.com/chaoticreations/commissions');
+INSERT INTO artisans_urls VALUES(1292,282,'URL_CST','https://www.chaoticreationsfursuits.co.uk/fursuit-commissions');
 INSERT INTO artisans_urls VALUES(1293,283,'URL_WEBSITE','https://chrysuits.weebly.com/');
 INSERT INTO artisans_urls VALUES(1294,283,'URL_PRICES','https://chrysuits.weebly.com/pricing.html');
 INSERT INTO artisans_urls VALUES(1295,283,'URL_FAQ','https://chrysuits.weebly.com/faq.html');
@@ -1906,4 +1906,11 @@ INSERT INTO artisans_urls VALUES(9390,391,'URL_SCRITCH_PHOTO',replace('https://w
 INSERT INTO artisans_urls VALUES(9391,391,'URL_OTHER','https://www.furtrack.com/index/maker:transfurence');
 INSERT INTO artisans_urls VALUES(9392,391,'URL_CST','https://twitter.com/transfurence');
 INSERT INTO artisans_urls VALUES(9393,51,'URL_FAQ','https://www.fursuiting.com/commission');
+INSERT INTO artisans_urls VALUES(9394,282,'URL_FAQ','https://www.chaoticreationsfursuits.co.uk/faq');
+INSERT INTO artisans_urls VALUES(9395,392,'URL_WEBSITE','https://firelizardstudios2.wixsite.com/kaijukreations/portfilio');
+INSERT INTO artisans_urls VALUES(9396,392,'URL_PRICES','https://firelizardstudios2.wixsite.com/kaijukreations/prices');
+INSERT INTO artisans_urls VALUES(9397,392,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/firelizstudios');
+INSERT INTO artisans_urls VALUES(9398,392,'URL_DEVIANTART','https://www.deviantart.com/wolfchick6');
+INSERT INTO artisans_urls VALUES(9399,392,'URL_TWITTER','https://twitter.com/FireLizStudios');
+INSERT INTO artisans_urls VALUES(9400,392,'URL_INSTAGRAM','https://www.instagram.com/kryptickaiju/');
 COMMIT;
