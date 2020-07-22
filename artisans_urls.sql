@@ -1913,4 +1913,11 @@ INSERT INTO artisans_urls VALUES(9397,392,'URL_FUR_AFFINITY','http://www.furaffi
 INSERT INTO artisans_urls VALUES(9398,392,'URL_DEVIANTART','https://www.deviantart.com/wolfchick6');
 INSERT INTO artisans_urls VALUES(9399,392,'URL_TWITTER','https://twitter.com/FireLizStudios');
 INSERT INTO artisans_urls VALUES(9400,392,'URL_INSTAGRAM','https://www.instagram.com/kryptickaiju/');
+INSERT INTO artisans_urls VALUES(9401,393,'URL_WEBSITE','https://www.patchworkcostumes.com/');
+INSERT INTO artisans_urls VALUES(9402,393,'URL_PRICES','https://www.patchworkcostumes.com/commission-prices/');
+INSERT INTO artisans_urls VALUES(9403,393,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/patchworkcostumes');
+INSERT INTO artisans_urls VALUES(9404,393,'URL_TWITTER','https://twitter.com/patchworksuits');
+INSERT INTO artisans_urls VALUES(9405,393,'URL_FACEBOOK','https://www.facebook.com/patchworkcostumes/');
+INSERT INTO artisans_urls VALUES(9406,393,'URL_INSTAGRAM','https://www.instagram.com/patchworksuits/');
+INSERT INTO artisans_urls VALUES(9407,393,'URL_QUEUE','https://trello.com/b/X3bYoI9A/commission-queue');
 COMMIT;
