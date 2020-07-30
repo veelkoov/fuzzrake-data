@@ -1936,4 +1936,6 @@ INSERT INTO artisans_urls VALUES(9422,185,'URL_SCRITCH_PHOTO',replace('https://s
 INSERT INTO artisans_urls VALUES(9423,185,'URL_CST','https://www.instagram.com/ladynightlight/');
 INSERT INTO artisans_urls VALUES(9424,185,'URL_SCRITCH_MINIATURE',replace('https://storage.scritch.es/scritch/e16889eee61ae971ed6ecb5be363e574587d6921/thumbnail_ede1b44a-e2bb-4c11-95cb-348933f051b9.jpeg\nhttps://storage.scritch.es/scritch/d6d2aa9dd2e84402d0699ee43f9d63251b4c2dd1/thumbnail_b68d1583-fdf5-4553-b8d4-240a85b71ce5.jpeg\nhttps://storage.scritch.es/scritch/eb11568c490ca84beeca18744139107dc9f7c204/thumbnail_738b4095-4c79-4760-a313-d16a940e696c.jpeg\nhttps://storage.scritch.es/scritch/e66a937f5f823ce731f86b9e024279480aee57ac/thumbnail_2e8fbcff-f1d0-4f00-9f6e-0e5aa124f9c5.jpeg\nhttps://storage.scritch.es/scritch/4545c18517be53ef2f1b27b127ae6d994b66da70/thumbnail_3f48a273-5ffc-45e0-915e-a299bfc69731.jpeg','\n',char(10)));
 INSERT INTO artisans_urls VALUES(9425,388,'URL_SCRITCH_MINIATURE','https://storage.scritch.es/scritch/c43daf0c3f16ffd63e8769916b75ce66be53e57b/thumbnail_86ca57e8-e2f2-4760-9767-587610b43610.jpeg');
+INSERT INTO artisans_urls VALUES(9426,337,'URL_WEBSITE','http://www.tuliuscostumes.com/');
+INSERT INTO artisans_urls VALUES(9427,337,'URL_PRICES','http://www.tuliuscostumes.com/order.php');
 COMMIT;
