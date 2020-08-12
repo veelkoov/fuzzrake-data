@@ -1938,4 +1938,10 @@ INSERT INTO artisans_urls VALUES(9424,185,'URL_SCRITCH_MINIATURE',replace('https
 INSERT INTO artisans_urls VALUES(9425,388,'URL_SCRITCH_MINIATURE','https://storage.scritch.es/scritch/c43daf0c3f16ffd63e8769916b75ce66be53e57b/thumbnail_86ca57e8-e2f2-4760-9767-587610b43610.jpeg');
 INSERT INTO artisans_urls VALUES(9426,337,'URL_WEBSITE','http://www.tuliuscostumes.com/');
 INSERT INTO artisans_urls VALUES(9427,337,'URL_PRICES','http://www.tuliuscostumes.com/order.php');
+INSERT INTO artisans_urls VALUES(9428,72,'URL_WEBSITE','https://www.mixedcandycostumes.com/');
+INSERT INTO artisans_urls VALUES(9429,72,'URL_FAQ','https://www.mixedcandycostumes.com/faq');
+INSERT INTO artisans_urls VALUES(9430,72,'URL_TWITTER','https://twitter.com/mixedcandy');
+INSERT INTO artisans_urls VALUES(9431,72,'URL_INSTAGRAM','https://www.instagram.com/mixedcandymascots/');
+INSERT INTO artisans_urls VALUES(9432,72,'URL_YOUTUBE','https://www.youtube.com/user/latinvixen');
+INSERT INTO artisans_urls VALUES(9433,72,'URL_CST','https://www.mixedcandycostumes.com/');
 COMMIT;
