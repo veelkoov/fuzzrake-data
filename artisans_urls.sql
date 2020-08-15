@@ -35,7 +35,7 @@ INSERT INTO artisans_urls VALUES(31,7,'URL_INSTAGRAM','https://www.instagram.com
 INSERT INTO artisans_urls VALUES(32,7,'URL_YOUTUBE','https://www.youtube.com/user/TheHanouk');
 INSERT INTO artisans_urls VALUES(33,7,'URL_QUEUE','https://trello.com/b/AEQOAYHp/nfs-commission-list');
 INSERT INTO artisans_urls VALUES(34,7,'URL_SCRITCH','https://scritch.es/makers/neon-fur-studios');
-INSERT INTO artisans_urls VALUES(35,7,'URL_SCRITCH_PHOTO',replace('https://scritch.es/pictures/c980fb70-3478-4f90-ad2b-c6e73f50e270\nhttps://scritch.es/pictures/997a186d-f724-4e28-a2fa-502565ae846c\nhttps://scritch.es/pictures/799759bb-82d0-4e35-991b-7bb80dc1de2a\nhttps://scritch.es/pictures/11dc1bab-dfa3-449f-88d3-4efc48075a22\nhttps://scritch.es/pictures/9d12e497-2a07-4231-bca4-2e413549572c','\n',char(10)));
+INSERT INTO artisans_urls VALUES(35,7,'URL_PHOTOS',replace('https://scritch.es/pictures/c980fb70-3478-4f90-ad2b-c6e73f50e270\nhttps://scritch.es/pictures/997a186d-f724-4e28-a2fa-502565ae846c\nhttps://scritch.es/pictures/799759bb-82d0-4e35-991b-7bb80dc1de2a\nhttps://scritch.es/pictures/11dc1bab-dfa3-449f-88d3-4efc48075a22\nhttps://scritch.es/pictures/9d12e497-2a07-4231-bca4-2e413549572c','\n',char(10)));
 INSERT INTO artisans_urls VALUES(36,7,'URL_OTHER','https://www.twitch.tv/neonfurstudios');
 INSERT INTO artisans_urls VALUES(37,7,'URL_CST','http://www.furaffinity.net/user/neonfurstudios/');
 INSERT INTO artisans_urls VALUES(38,8,'URL_FURSUITREVIEW','http://fursuitreview.com/maker/lemonbrat/');
@@ -1343,7 +1343,7 @@ INSERT INTO artisans_urls VALUES(1408,305,'URL_TWITTER','https://twitter.com/arv
 INSERT INTO artisans_urls VALUES(1409,305,'URL_FACEBOOK','https://www.facebook.com/ArvinsLair-331614857541234/');
 INSERT INTO artisans_urls VALUES(1410,305,'URL_INSTAGRAM','https://www.instagram.com/arvinslair/');
 INSERT INTO artisans_urls VALUES(1411,305,'URL_YOUTUBE','https://www.youtube.com/user/arvin689');
-INSERT INTO artisans_urls VALUES(1412,305,'URL_OTHER',replace('https://vk.com/arvins_lair\nhttp://www.flickr.com/photos/arvin69\nhttps://www.thedealersden.com/other-items/gedjit/112468','\n',char(10)));
+INSERT INTO artisans_urls VALUES(1412,305,'URL_OTHER',replace('https://vk.com/arvins_lair\nhttp://www.flickr.com/photos/arvin69','\n',char(10)));
 INSERT INTO artisans_urls VALUES(1413,306,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/beastlabs');
 INSERT INTO artisans_urls VALUES(1414,306,'URL_TWITTER','https://twitter.com/BeastLabsSuits');
 INSERT INTO artisans_urls VALUES(1415,307,'URL_WEBSITE','https://www.rumwolf.net/');
@@ -1511,7 +1511,7 @@ INSERT INTO artisans_urls VALUES(1587,341,'URL_QUEUE','https://trello.com/b/5GZR
 INSERT INTO artisans_urls VALUES(1589,149,'URL_CST','https://www.starfursuits.com/');
 INSERT INTO artisans_urls VALUES(1590,293,'URL_CST','https://www.hunnibear.art/');
 INSERT INTO artisans_urls VALUES(1591,293,'URL_FACEBOOK','https://www.facebook.com/HunniBearArt/');
-INSERT INTO artisans_urls VALUES(4839,7,'URL_SCRITCH_MINIATURE',replace('https://storage.scritch.es/scritch/417a43627ed64fabe72256c5f1da30914d5e9a47/thumbnail_300f5ab6-1960-44ea-b5c6-761fa15a9e08.jpeg#4550\nhttps://storage.scritch.es/scritch/8ee4e6ca0f6e9579271ed888dc51355b8bb8b4b5/thumbnail_8ff3b12a-4003-425f-86ef-19fd0a05bc4b.jpeg#5040\nhttps://storage.scritch.es/scritch/29a00e0385c4ea90715933283f5443906a1d3871/thumbnail_0556e242-ff62-4bdd-a6e4-188385824d6d.jpeg\nhttps://storage.scritch.es/scritch/6d41728e3c9f8e08ca414e04ae8146f566424ba1/thumbnail_c9384707-000c-48ba-9c61-2ddf8b3ca6a9.jpeg#4050\nhttps://storage.scritch.es/scritch/52bd52e48a18cf16f43ebf5d33863d1691ac8c46/thumbnail_f5ab0046-bbc2-40f0-869a-e517afee41b5.jpeg#4050','\n',char(10)));
+INSERT INTO artisans_urls VALUES(4839,7,'URL_MINIATURES',replace('https://storage.scritch.es/scritch/417a43627ed64fabe72256c5f1da30914d5e9a47/thumbnail_300f5ab6-1960-44ea-b5c6-761fa15a9e08.jpeg#4550\nhttps://storage.scritch.es/scritch/8ee4e6ca0f6e9579271ed888dc51355b8bb8b4b5/thumbnail_8ff3b12a-4003-425f-86ef-19fd0a05bc4b.jpeg#5040\nhttps://storage.scritch.es/scritch/29a00e0385c4ea90715933283f5443906a1d3871/thumbnail_0556e242-ff62-4bdd-a6e4-188385824d6d.jpeg\nhttps://storage.scritch.es/scritch/6d41728e3c9f8e08ca414e04ae8146f566424ba1/thumbnail_c9384707-000c-48ba-9c61-2ddf8b3ca6a9.jpeg#4050\nhttps://storage.scritch.es/scritch/52bd52e48a18cf16f43ebf5d33863d1691ac8c46/thumbnail_f5ab0046-bbc2-40f0-869a-e517afee41b5.jpeg#4050','\n',char(10)));
 INSERT INTO artisans_urls VALUES(4880,342,'URL_WEBSITE','https://toothyhoundsworkshop.weebly.com/');
 INSERT INTO artisans_urls VALUES(4882,342,'URL_FAQ','https://toothyhoundsworkshop.weebly.com/tos.html');
 INSERT INTO artisans_urls VALUES(4890,342,'URL_QUEUE','https://trello.com/b/JhrA8dfX/fursuit-queue');
@@ -1776,7 +1776,7 @@ INSERT INTO artisans_urls VALUES(9274,188,'URL_PRICES','https://www.weaselsoneas
 INSERT INTO artisans_urls VALUES(9275,188,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/96037');
 INSERT INTO artisans_urls VALUES(9276,188,'URL_QUEUE','https://www.facebook.com/weaselsoneasels/videos/1979763415449710/');
 INSERT INTO artisans_urls VALUES(9277,188,'URL_SCRITCH','https://scritch.es/makers/weasels-on-easels');
-INSERT INTO artisans_urls VALUES(9278,188,'URL_SCRITCH_PHOTO',replace('https://scritch.es/pictures/7e2722b6-91a5-470a-a1fd-a69c9012ae37\nhttps://scritch.es/pictures/981ab7fa-10d0-4140-b23b-80ad732ba12d\nhttps://scritch.es/pictures/7d56fddf-daf4-4f61-9deb-d81b78bc92f7','\n',char(10)));
+INSERT INTO artisans_urls VALUES(9278,188,'URL_PHOTOS',replace('https://scritch.es/pictures/7e2722b6-91a5-470a-a1fd-a69c9012ae37\nhttps://scritch.es/pictures/981ab7fa-10d0-4140-b23b-80ad732ba12d\nhttps://scritch.es/pictures/7d56fddf-daf4-4f61-9deb-d81b78bc92f7','\n',char(10)));
 INSERT INTO artisans_urls VALUES(9279,198,'URL_TWITTER','https://twitter.com/DRD_Creations');
 INSERT INTO artisans_urls VALUES(9280,198,'URL_QUEUE','https://trello.com/b/bfHr90gr/to-do-list');
 INSERT INTO artisans_urls VALUES(9281,198,'URL_SCRITCH','https://scritch.es/makers/dark-rainbow-dragon');
@@ -1839,7 +1839,7 @@ INSERT INTO artisans_urls VALUES(9338,387,'URL_FACEBOOK','https://www.facebook.c
 INSERT INTO artisans_urls VALUES(9339,387,'URL_INSTAGRAM','https://www.instagram.com/jawsandpaws_uk/');
 INSERT INTO artisans_urls VALUES(9340,387,'URL_QUEUE','https://jawsandpaws.uk/current-queue/');
 INSERT INTO artisans_urls VALUES(9341,387,'URL_SCRITCH','https://scritch.es/makers/jaws-and-paws-uk');
-INSERT INTO artisans_urls VALUES(9342,387,'URL_SCRITCH_PHOTO','https://scritch.es/pictures/a7284232-c278-4f2b-bc3b-4007692a3df2');
+INSERT INTO artisans_urls VALUES(9342,387,'URL_PHOTOS','https://scritch.es/pictures/a7284232-c278-4f2b-bc3b-4007692a3df2');
 INSERT INTO artisans_urls VALUES(9343,387,'URL_CST','https://twitter.com/JawsNpawsUK');
 INSERT INTO artisans_urls VALUES(9344,230,'URL_PRICES','https://www.furrytailor.co.uk/prices');
 INSERT INTO artisans_urls VALUES(9345,230,'URL_FAQ','https://www.furrytailor.co.uk/faq');
@@ -1848,10 +1848,10 @@ INSERT INTO artisans_urls VALUES(9347,230,'URL_INSTAGRAM','https://www.instagram
 INSERT INTO artisans_urls VALUES(9348,230,'URL_YOUTUBE','https://www.youtube.com/user/FurryTailor');
 INSERT INTO artisans_urls VALUES(9349,230,'URL_QUEUE','https://www.furrytailor.co.uk/slots');
 INSERT INTO artisans_urls VALUES(9350,230,'URL_SCRITCH','https://scritch.es/makers/furry-tailor');
-INSERT INTO artisans_urls VALUES(9351,230,'URL_SCRITCH_PHOTO',replace('https://scritch.es/pictures/0d310cf0-beae-45ad-ad6c-1d8a8e5103a4\nhttps://scritch.es/pictures/00554d51-eb36-4b65-8589-b61a20c70da0\nhttps://scritch.es/pictures/b0b4095e-0b9d-45a7-8bcb-ca0174eb7dce\nhttps://scritch.es/pictures/eb755c02-baa9-4eeb-85d0-c605bb5c60a7\nhttps://scritch.es/pictures/12cba214-cf7b-495e-a21b-e8512a25752d','\n',char(10)));
-INSERT INTO artisans_urls VALUES(9352,230,'URL_SCRITCH_MINIATURE',replace('https://storage.scritch.es/scritch/7a8c0606acac9739c7b1d45059592d363b28ded0/thumbnail_a6137160-14ee-4eda-b219-6cc053706139.jpeg#7050\nhttps://storage.scritch.es/scritch/5465e195fdc0c002f57117a8575b49c93f34589f/thumbnail_34d11d1f-7f0f-4eee-9877-d83355f36191.jpeg\nhttps://storage.scritch.es/scritch/f18c1dd1499bbc5a4fa10dd1b26cdb8fb7a551ec/thumbnail_77be4a60-487d-47e4-9976-23f29348c805.jpeg#r90\nhttps://storage.scritch.es/scritch/320dda2efa2ddfc1895ed0c7b3ade4f7ace866bd/thumbnail_b1c132ad-6118-4702-acb3-407fdcb9dc0d.jpeg#r90\nhttps://storage.scritch.es/scritch/1b6c1344dd7b2978417fe63976495c4e944c9901/thumbnail_a65a20cf-06fd-419f-8b46-d680d9e10cfb.jpeg#5020','\n',char(10)));
-INSERT INTO artisans_urls VALUES(9353,387,'URL_SCRITCH_MINIATURE','https://storage.scritch.es/scritch/6d73d4e3c20bc454c2b9bd1f8565f1e9fe72c88d/thumbnail_8993a19e-cf6f-4527-9126-19b3c7172310.jpeg#0050');
-INSERT INTO artisans_urls VALUES(9354,188,'URL_SCRITCH_MINIATURE',replace('https://storage.scritch.es/scritch/25f2e81d2d9393121a2c79ae9e09e39062400573/thumbnail_aa836d72-96d7-4b77-84ef-6e688cb42861.jpeg\nhttps://storage.scritch.es/scritch/29745245632694041e7f0552efc8ae300ca2b060/thumbnail_154ca464-64b3-4432-ac94-9b26c14d4b0d.jpeg\nhttps://storage.scritch.es/scritch/e9398348449bd964f6a9838b427451800448a236/thumbnail_68c0ed4d-49ed-453b-b8f4-c3e08f8feb98.jpeg','\n',char(10)));
+INSERT INTO artisans_urls VALUES(9351,230,'URL_PHOTOS',replace('https://scritch.es/pictures/0d310cf0-beae-45ad-ad6c-1d8a8e5103a4\nhttps://scritch.es/pictures/00554d51-eb36-4b65-8589-b61a20c70da0\nhttps://scritch.es/pictures/b0b4095e-0b9d-45a7-8bcb-ca0174eb7dce\nhttps://scritch.es/pictures/eb755c02-baa9-4eeb-85d0-c605bb5c60a7\nhttps://scritch.es/pictures/12cba214-cf7b-495e-a21b-e8512a25752d','\n',char(10)));
+INSERT INTO artisans_urls VALUES(9352,230,'URL_MINIATURES',replace('https://storage.scritch.es/scritch/7a8c0606acac9739c7b1d45059592d363b28ded0/thumbnail_a6137160-14ee-4eda-b219-6cc053706139.jpeg#7050\nhttps://storage.scritch.es/scritch/5465e195fdc0c002f57117a8575b49c93f34589f/thumbnail_34d11d1f-7f0f-4eee-9877-d83355f36191.jpeg\nhttps://storage.scritch.es/scritch/f18c1dd1499bbc5a4fa10dd1b26cdb8fb7a551ec/thumbnail_77be4a60-487d-47e4-9976-23f29348c805.jpeg#r90\nhttps://storage.scritch.es/scritch/320dda2efa2ddfc1895ed0c7b3ade4f7ace866bd/thumbnail_b1c132ad-6118-4702-acb3-407fdcb9dc0d.jpeg#r90\nhttps://storage.scritch.es/scritch/1b6c1344dd7b2978417fe63976495c4e944c9901/thumbnail_a65a20cf-06fd-419f-8b46-d680d9e10cfb.jpeg#5020','\n',char(10)));
+INSERT INTO artisans_urls VALUES(9353,387,'URL_MINIATURES','https://storage.scritch.es/scritch/6d73d4e3c20bc454c2b9bd1f8565f1e9fe72c88d/thumbnail_8993a19e-cf6f-4527-9126-19b3c7172310.jpeg#0050');
+INSERT INTO artisans_urls VALUES(9354,188,'URL_MINIATURES',replace('https://storage.scritch.es/scritch/25f2e81d2d9393121a2c79ae9e09e39062400573/thumbnail_aa836d72-96d7-4b77-84ef-6e688cb42861.jpeg\nhttps://storage.scritch.es/scritch/29745245632694041e7f0552efc8ae300ca2b060/thumbnail_154ca464-64b3-4432-ac94-9b26c14d4b0d.jpeg\nhttps://storage.scritch.es/scritch/e9398348449bd964f6a9838b427451800448a236/thumbnail_68c0ed4d-49ed-453b-b8f4-c3e08f8feb98.jpeg','\n',char(10)));
 INSERT INTO artisans_urls VALUES(9355,291,'URL_WEBSITE','https://www.schneepardicreations.com/en/');
 INSERT INTO artisans_urls VALUES(9356,14,'URL_INSTAGRAM','https://www.instagram.com/battitude_studios/');
 INSERT INTO artisans_urls VALUES(9357,388,'URL_WEBSITE','https://www.whitewingcreations.de/');
@@ -1876,7 +1876,7 @@ INSERT INTO artisans_urls VALUES(9376,388,'URL_FURSUITREVIEW','http://fursuitrev
 INSERT INTO artisans_urls VALUES(9377,388,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/whitewingcreations');
 INSERT INTO artisans_urls VALUES(9378,388,'URL_YOUTUBE','https://www.youtube.com/channel/UCIu3Mdmvt95EW9j6-CU0qRA');
 INSERT INTO artisans_urls VALUES(9379,388,'URL_SCRITCH','https://scritch.es/makers/whitewing-creations');
-INSERT INTO artisans_urls VALUES(9380,388,'URL_SCRITCH_PHOTO','https://scritch.es/pictures/0b226558-7ecb-4e36-b9c8-894390d8af62');
+INSERT INTO artisans_urls VALUES(9380,388,'URL_PHOTOS','https://scritch.es/pictures/0b226558-7ecb-4e36-b9c8-894390d8af62');
 INSERT INTO artisans_urls VALUES(9381,391,'URL_WEBSITE','https://transfurence.carrd.co/');
 INSERT INTO artisans_urls VALUES(9382,391,'URL_PRICES','https://transfurence.carrd.co/#comm');
 INSERT INTO artisans_urls VALUES(9383,391,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/transfurence');
@@ -1885,9 +1885,7 @@ INSERT INTO artisans_urls VALUES(9385,391,'URL_FACEBOOK','https://www.facebook.c
 INSERT INTO artisans_urls VALUES(9386,391,'URL_INSTAGRAM','https://www.instagram.com/transfurence/');
 INSERT INTO artisans_urls VALUES(9387,391,'URL_YOUTUBE','https://www.youtube.com/channel/UCLrDfzEvf0Fa9pwRqzZzIVA');
 INSERT INTO artisans_urls VALUES(9388,391,'URL_QUEUE','https://trello.com/b/nPTgIcz7/theas-work-queue');
-INSERT INTO artisans_urls VALUES(9389,391,'URL_SCRITCH','https://www.furtrack.com/index/maker:transfurence');
-INSERT INTO artisans_urls VALUES(9390,391,'URL_SCRITCH_PHOTO',replace('https://www.furtrack.com/p/65\nhttps://www.furtrack.com/p/48847\nhttps://www.furtrack.com/p/49282','\n',char(10)));
-INSERT INTO artisans_urls VALUES(9391,391,'URL_OTHER','https://www.furtrack.com/index/maker:transfurence');
+INSERT INTO artisans_urls VALUES(9390,391,'URL_PHOTOS',replace('https://www.furtrack.com/p/65\nhttps://www.furtrack.com/p/48847\nhttps://www.furtrack.com/p/49282','\n',char(10)));
 INSERT INTO artisans_urls VALUES(9392,391,'URL_CST','https://twitter.com/transfurence');
 INSERT INTO artisans_urls VALUES(9393,51,'URL_FAQ','https://www.fursuiting.com/commission');
 INSERT INTO artisans_urls VALUES(9394,282,'URL_FAQ','https://www.chaoticreationsfursuits.co.uk/faq');
@@ -1918,10 +1916,10 @@ INSERT INTO artisans_urls VALUES(9418,23,'URL_PRICES','https://craftyvulpine.com
 INSERT INTO artisans_urls VALUES(9419,23,'URL_QUEUE','https://trello.com/b/AdEK6hdL/fursuit-queue');
 INSERT INTO artisans_urls VALUES(9420,185,'URL_FURSUITREVIEW','http://fursuitreview.com/maker/lady-night-light/');
 INSERT INTO artisans_urls VALUES(9421,185,'URL_SCRITCH','https://scritch.es/ladynightlight');
-INSERT INTO artisans_urls VALUES(9422,185,'URL_SCRITCH_PHOTO',replace('https://scritch.es/pictures/a29b6230-132f-4953-98c7-5c132659cba3\nhttps://scritch.es/pictures/9b6fa405-e1cf-43b0-a19a-8470dd69039f\nhttps://scritch.es/pictures/90532ae8-7ec2-4f28-8ede-01f92bc9672a\nhttps://scritch.es/pictures/9e80fb24-2c26-4775-bc3b-8407a38772ee\nhttps://scritch.es/pictures/a3ea5fc5-64ce-441d-9d55-fc34306b4548','\n',char(10)));
+INSERT INTO artisans_urls VALUES(9422,185,'URL_PHOTOS',replace('https://scritch.es/pictures/a29b6230-132f-4953-98c7-5c132659cba3\nhttps://scritch.es/pictures/9b6fa405-e1cf-43b0-a19a-8470dd69039f\nhttps://scritch.es/pictures/90532ae8-7ec2-4f28-8ede-01f92bc9672a\nhttps://scritch.es/pictures/9e80fb24-2c26-4775-bc3b-8407a38772ee\nhttps://scritch.es/pictures/a3ea5fc5-64ce-441d-9d55-fc34306b4548','\n',char(10)));
 INSERT INTO artisans_urls VALUES(9423,185,'URL_CST','https://www.instagram.com/ladynightlight/');
-INSERT INTO artisans_urls VALUES(9424,185,'URL_SCRITCH_MINIATURE',replace('https://storage.scritch.es/scritch/e16889eee61ae971ed6ecb5be363e574587d6921/thumbnail_ede1b44a-e2bb-4c11-95cb-348933f051b9.jpeg\nhttps://storage.scritch.es/scritch/d6d2aa9dd2e84402d0699ee43f9d63251b4c2dd1/thumbnail_b68d1583-fdf5-4553-b8d4-240a85b71ce5.jpeg\nhttps://storage.scritch.es/scritch/eb11568c490ca84beeca18744139107dc9f7c204/thumbnail_738b4095-4c79-4760-a313-d16a940e696c.jpeg\nhttps://storage.scritch.es/scritch/e66a937f5f823ce731f86b9e024279480aee57ac/thumbnail_2e8fbcff-f1d0-4f00-9f6e-0e5aa124f9c5.jpeg\nhttps://storage.scritch.es/scritch/4545c18517be53ef2f1b27b127ae6d994b66da70/thumbnail_3f48a273-5ffc-45e0-915e-a299bfc69731.jpeg','\n',char(10)));
-INSERT INTO artisans_urls VALUES(9425,388,'URL_SCRITCH_MINIATURE','https://storage.scritch.es/scritch/c43daf0c3f16ffd63e8769916b75ce66be53e57b/thumbnail_86ca57e8-e2f2-4760-9767-587610b43610.jpeg');
+INSERT INTO artisans_urls VALUES(9424,185,'URL_MINIATURES',replace('https://storage.scritch.es/scritch/e16889eee61ae971ed6ecb5be363e574587d6921/thumbnail_ede1b44a-e2bb-4c11-95cb-348933f051b9.jpeg\nhttps://storage.scritch.es/scritch/d6d2aa9dd2e84402d0699ee43f9d63251b4c2dd1/thumbnail_b68d1583-fdf5-4553-b8d4-240a85b71ce5.jpeg\nhttps://storage.scritch.es/scritch/eb11568c490ca84beeca18744139107dc9f7c204/thumbnail_738b4095-4c79-4760-a313-d16a940e696c.jpeg\nhttps://storage.scritch.es/scritch/e66a937f5f823ce731f86b9e024279480aee57ac/thumbnail_2e8fbcff-f1d0-4f00-9f6e-0e5aa124f9c5.jpeg\nhttps://storage.scritch.es/scritch/4545c18517be53ef2f1b27b127ae6d994b66da70/thumbnail_3f48a273-5ffc-45e0-915e-a299bfc69731.jpeg','\n',char(10)));
+INSERT INTO artisans_urls VALUES(9425,388,'URL_MINIATURES','https://storage.scritch.es/scritch/c43daf0c3f16ffd63e8769916b75ce66be53e57b/thumbnail_86ca57e8-e2f2-4760-9767-587610b43610.jpeg');
 INSERT INTO artisans_urls VALUES(9426,337,'URL_WEBSITE','http://www.tuliuscostumes.com/');
 INSERT INTO artisans_urls VALUES(9427,337,'URL_PRICES','http://www.tuliuscostumes.com/order.php');
 INSERT INTO artisans_urls VALUES(9428,72,'URL_WEBSITE','https://www.mixedcandycostumes.com/');
@@ -1952,7 +1950,7 @@ INSERT INTO artisans_urls VALUES(9452,399,'URL_FACEBOOK','https://www.facebook.c
 INSERT INTO artisans_urls VALUES(9453,399,'URL_INSTAGRAM','https://www.instagram.com/wolfskinstudios/');
 INSERT INTO artisans_urls VALUES(9454,399,'URL_YOUTUBE','https://www.youtube.com/channel/UChzpTZ1_pNultTmeTiS-6NA');
 INSERT INTO artisans_urls VALUES(9455,399,'URL_QUEUE','https://trello.com/b/qOTNPoIo/wolfskin-studio');
-INSERT INTO artisans_urls VALUES(9456,399,'URL_SCRITCH_PHOTO','https://scritch.es/wolfskin-studio');
+INSERT INTO artisans_urls VALUES(9456,399,'URL_PHOTOS','https://scritch.es/wolfskin-studio');
 INSERT INTO artisans_urls VALUES(9457,39,'URL_OTHER_SHOP','https://www.artfire.com/ext/shop/home/Beetlecat');
 INSERT INTO artisans_urls VALUES(9458,137,'URL_ETSY','https://www.etsy.com/shop/curlworks');
 INSERT INTO artisans_urls VALUES(9459,264,'URL_FURRY_AMINO','https://aminoapps.com/c/furry-amino/page/user/taffy-the-rat/BQkR_B7Jhbf5268z5aoDD3aJ56wQaY8a7dE');
@@ -1969,4 +1967,6 @@ INSERT INTO artisans_urls VALUES(9469,356,'URL_FURRY_AMINO','https://aminoapps.c
 INSERT INTO artisans_urls VALUES(9470,132,'URL_LINKLIST','https://linktr.ee/Rhee_Urboros');
 INSERT INTO artisans_urls VALUES(9471,380,'URL_FURRY_AMINO','https://aminoapps.com/u/AlpineHuskies');
 INSERT INTO artisans_urls VALUES(9472,390,'URL_FURRY_AMINO','https://aminoapps.com/p/gegb6t/');
+INSERT INTO artisans_urls VALUES(9473,391,'URL_FURTRACK','https://www.furtrack.com/index/maker:transfurence');
+INSERT INTO artisans_urls VALUES(9474,305,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/other-items/gedjit/112468');
 COMMIT;
