@@ -1969,4 +1969,5 @@ INSERT INTO artisans_urls VALUES(9471,380,'URL_FURRY_AMINO','https://aminoapps.c
 INSERT INTO artisans_urls VALUES(9472,390,'URL_FURRY_AMINO','https://aminoapps.com/p/gegb6t/');
 INSERT INTO artisans_urls VALUES(9473,391,'URL_FURTRACK','https://www.furtrack.com/index/maker:transfurence');
 INSERT INTO artisans_urls VALUES(9474,305,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/other-items/gedjit/112468');
+INSERT INTO artisans_urls VALUES(9475,391,'URL_MINIATURES',replace('https://orca.furtrack.com/gallery/thumb/18049-3a3beb219d431233cbdb7a668b873ffa.jpg\nhttps://orca.furtrack.com/gallery/thumb/48847-993a114d9923ff2a54f674bac260aee8.jpg\nhttps://orca.furtrack.com/gallery/thumb/49282-df3533261ac640a2ee9beb67fe5783be.jpg','\n',char(10)));
 COMMIT;
