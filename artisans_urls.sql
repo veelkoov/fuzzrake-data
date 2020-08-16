@@ -1497,12 +1497,11 @@ INSERT INTO artisans_urls VALUES(1573,339,'URL_INSTAGRAM','https://www.instagram
 INSERT INTO artisans_urls VALUES(1574,339,'URL_QUEUE','https://trello.com/b/tJK8PdWl/fursuit-queue-to-do-list');
 INSERT INTO artisans_urls VALUES(1575,339,'URL_OTHER','http://patreon.com/cassmutt');
 INSERT INTO artisans_urls VALUES(1576,339,'URL_CST','http://thatonepinkdog.studio/fursuit-prices');
-INSERT INTO artisans_urls VALUES(1577,340,'URL_WEBSITE','http://sandcatcustoms.com/');
-INSERT INTO artisans_urls VALUES(1578,340,'URL_PRICES','https://sandcatcustoms.wordpress.com/price-guide/');
-INSERT INTO artisans_urls VALUES(1579,340,'URL_TWITTER','https://twitter.com/AleynaSandcat');
+INSERT INTO artisans_urls VALUES(1577,340,'URL_WEBSITE','https://www.sandcatcustoms.com/');
+INSERT INTO artisans_urls VALUES(1578,340,'URL_PRICES','https://www.sandcatcustoms.com/pricing/');
+INSERT INTO artisans_urls VALUES(1579,340,'URL_TWITTER','https://twitter.com/SandcatCustoms');
 INSERT INTO artisans_urls VALUES(1580,340,'URL_INSTAGRAM','https://www.instagram.com/aleyna.sand/');
 INSERT INTO artisans_urls VALUES(1581,340,'URL_QUEUE','https://trello.com/b/cVOB4cYP/');
-INSERT INTO artisans_urls VALUES(1582,340,'URL_CST','https://sandcatcustoms.wordpress.com/commission-status/');
 INSERT INTO artisans_urls VALUES(1583,341,'URL_WEBSITE','https://www.nyyote.com/');
 INSERT INTO artisans_urls VALUES(1584,341,'URL_PRICES','https://www.nyyote.com/prices.html');
 INSERT INTO artisans_urls VALUES(1585,341,'URL_DEVIANTART','https://www.deviantart.com/nyyote');
@@ -1970,4 +1969,8 @@ INSERT INTO artisans_urls VALUES(9472,390,'URL_FURRY_AMINO','https://aminoapps.c
 INSERT INTO artisans_urls VALUES(9473,391,'URL_FURTRACK','https://www.furtrack.com/index/maker:transfurence');
 INSERT INTO artisans_urls VALUES(9474,305,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/other-items/gedjit/112468');
 INSERT INTO artisans_urls VALUES(9475,391,'URL_MINIATURES',replace('https://orca.furtrack.com/gallery/thumb/18049-3a3beb219d431233cbdb7a668b873ffa.jpg\nhttps://orca.furtrack.com/gallery/thumb/48847-993a114d9923ff2a54f674bac260aee8.jpg\nhttps://orca.furtrack.com/gallery/thumb/49282-df3533261ac640a2ee9beb67fe5783be.jpg','\n',char(10)));
+INSERT INTO artisans_urls VALUES(9476,340,'URL_FURSUITREVIEW','http://fursuitreview.com/maker/sandcat-customs/');
+INSERT INTO artisans_urls VALUES(9477,340,'URL_SCRITCH','https://scritch.es/makers/sandcat-customs');
+INSERT INTO artisans_urls VALUES(9478,340,'URL_PHOTOS',replace('https://scritch.es/pictures/5eed2778-7d9f-47b3-972f-b4cc9b9a1c16\nhttps://scritch.es/pictures/e4700fc3-727c-457d-bbfc-61364848cdc0\nhttps://scritch.es/pictures/40dc8c08-4a3e-40e3-8c81-a827f5bff495\nhttps://scritch.es/pictures/1445223a-fa31-403a-b653-7c1d924c6748','\n',char(10)));
+INSERT INTO artisans_urls VALUES(9479,340,'URL_MINIATURES',replace('https://storage.scritch.es/scritch/928da03c9d56406b12ce2c3ad2248c35e2613103/thumbnail_f04b3ae7-d97f-4c88-9f91-a2fec4bbc7f9.jpeg\nhttps://storage.scritch.es/scritch/6c60e017d1fbe9c3da993314228b52f751f790a4/thumbnail_8481f85f-c295-4d59-995c-04df6aed3f53.jpeg\nhttps://storage.scritch.es/scritch/f926a4d37d1eb01704c25a36e7dc281229a2388d/thumbnail_b9df646a-ee7b-4270-8d62-3d4a2e78bf21.jpeg\nhttps://storage.scritch.es/scritch/5aec9fb57ce37985b5be9ed43bdbaccf84cff163/thumbnail_9824cb8f-59bb-40b1-a489-e2c859412aab.jpeg','\n',char(10)));
 COMMIT;
