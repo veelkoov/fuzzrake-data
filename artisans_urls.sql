@@ -474,8 +474,8 @@ INSERT INTO artisans_urls VALUES(489,136,'URL_QUEUE','http://www.cfstudiosonline
 INSERT INTO artisans_urls VALUES(490,136,'URL_CST','https://twitter.com/C_F_Studios');
 INSERT INTO artisans_urls VALUES(491,137,'URL_FURSUITREVIEW','http://fursuitreview.com/maker/curlworks/');
 INSERT INTO artisans_urls VALUES(492,137,'URL_WEBSITE','https://www.curlworks.net/');
-INSERT INTO artisans_urls VALUES(493,137,'URL_PRICES','http://www.curlworks.net/kigurumi');
-INSERT INTO artisans_urls VALUES(494,137,'URL_FAQ','http://www.curlworks.net/faq');
+INSERT INTO artisans_urls VALUES(493,137,'URL_PRICES','https://www.curlworks.net/kigurumi');
+INSERT INTO artisans_urls VALUES(494,137,'URL_FAQ','https://www.curlworks.net/faq');
 INSERT INTO artisans_urls VALUES(495,137,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/curlworks');
 INSERT INTO artisans_urls VALUES(496,137,'URL_TWITTER','https://twitter.com/CurlworksKigus');
 INSERT INTO artisans_urls VALUES(497,137,'URL_FACEBOOK','https://www.facebook.com/curlworks/');
@@ -1949,7 +1949,6 @@ INSERT INTO artisans_urls VALUES(9452,399,'URL_FACEBOOK','https://www.facebook.c
 INSERT INTO artisans_urls VALUES(9453,399,'URL_INSTAGRAM','https://www.instagram.com/wolfskinstudios/');
 INSERT INTO artisans_urls VALUES(9454,399,'URL_YOUTUBE','https://www.youtube.com/channel/UChzpTZ1_pNultTmeTiS-6NA');
 INSERT INTO artisans_urls VALUES(9455,399,'URL_QUEUE','https://trello.com/b/qOTNPoIo/wolfskin-studio');
-INSERT INTO artisans_urls VALUES(9456,399,'URL_PHOTOS','https://scritch.es/wolfskin-studio');
 INSERT INTO artisans_urls VALUES(9457,39,'URL_OTHER_SHOP','https://www.artfire.com/ext/shop/home/Beetlecat');
 INSERT INTO artisans_urls VALUES(9458,137,'URL_ETSY','https://www.etsy.com/shop/curlworks');
 INSERT INTO artisans_urls VALUES(9459,264,'URL_FURRY_AMINO','https://aminoapps.com/c/furry-amino/page/user/taffy-the-rat/BQkR_B7Jhbf5268z5aoDD3aJ56wQaY8a7dE');
@@ -1973,4 +1972,6 @@ INSERT INTO artisans_urls VALUES(9476,340,'URL_FURSUITREVIEW','http://fursuitrev
 INSERT INTO artisans_urls VALUES(9477,340,'URL_SCRITCH','https://scritch.es/makers/sandcat-customs');
 INSERT INTO artisans_urls VALUES(9478,340,'URL_PHOTOS',replace('https://scritch.es/pictures/5eed2778-7d9f-47b3-972f-b4cc9b9a1c16\nhttps://scritch.es/pictures/e4700fc3-727c-457d-bbfc-61364848cdc0\nhttps://scritch.es/pictures/40dc8c08-4a3e-40e3-8c81-a827f5bff495\nhttps://scritch.es/pictures/1445223a-fa31-403a-b653-7c1d924c6748','\n',char(10)));
 INSERT INTO artisans_urls VALUES(9479,340,'URL_MINIATURES',replace('https://storage.scritch.es/scritch/928da03c9d56406b12ce2c3ad2248c35e2613103/thumbnail_f04b3ae7-d97f-4c88-9f91-a2fec4bbc7f9.jpeg\nhttps://storage.scritch.es/scritch/6c60e017d1fbe9c3da993314228b52f751f790a4/thumbnail_8481f85f-c295-4d59-995c-04df6aed3f53.jpeg\nhttps://storage.scritch.es/scritch/f926a4d37d1eb01704c25a36e7dc281229a2388d/thumbnail_b9df646a-ee7b-4270-8d62-3d4a2e78bf21.jpeg\nhttps://storage.scritch.es/scritch/5aec9fb57ce37985b5be9ed43bdbaccf84cff163/thumbnail_9824cb8f-59bb-40b1-a489-e2c859412aab.jpeg','\n',char(10)));
+INSERT INTO artisans_urls VALUES(9480,399,'URL_SCRITCH','https://scritch.es/wolfskin-studio');
+INSERT INTO artisans_urls VALUES(9481,137,'URL_OTHER_SHOP','https://www.curlworks.net/shop');
 COMMIT;
