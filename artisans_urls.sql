@@ -1974,4 +1974,7 @@ INSERT INTO artisans_urls VALUES(9478,340,'URL_PHOTOS',replace('https://scritch.
 INSERT INTO artisans_urls VALUES(9479,340,'URL_MINIATURES',replace('https://storage.scritch.es/scritch/928da03c9d56406b12ce2c3ad2248c35e2613103/thumbnail_f04b3ae7-d97f-4c88-9f91-a2fec4bbc7f9.jpeg\nhttps://storage.scritch.es/scritch/6c60e017d1fbe9c3da993314228b52f751f790a4/thumbnail_8481f85f-c295-4d59-995c-04df6aed3f53.jpeg\nhttps://storage.scritch.es/scritch/f926a4d37d1eb01704c25a36e7dc281229a2388d/thumbnail_b9df646a-ee7b-4270-8d62-3d4a2e78bf21.jpeg\nhttps://storage.scritch.es/scritch/5aec9fb57ce37985b5be9ed43bdbaccf84cff163/thumbnail_9824cb8f-59bb-40b1-a489-e2c859412aab.jpeg','\n',char(10)));
 INSERT INTO artisans_urls VALUES(9480,399,'URL_SCRITCH','https://scritch.es/wolfskin-studio');
 INSERT INTO artisans_urls VALUES(9481,137,'URL_OTHER_SHOP','https://www.curlworks.net/shop');
+INSERT INTO artisans_urls VALUES(9482,187,'URL_FURSUITREVIEW','http://fursuitreview.com/maker/bird-king-creations/');
+INSERT INTO artisans_urls VALUES(9483,246,'URL_TWITTER','https://twitter.com/mikusch_cat');
+INSERT INTO artisans_urls VALUES(9484,241,'URL_QUEUE','http://www.furaffinity.net/user/eddiebear');
 COMMIT;
