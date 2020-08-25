@@ -1097,12 +1097,10 @@ INSERT INTO artisans_urls VALUES(1143,256,'URL_FUR_AFFINITY','http://www.furaffi
 INSERT INTO artisans_urls VALUES(1145,256,'URL_INSTAGRAM','https://www.instagram.com/thekraftyhyena/');
 INSERT INTO artisans_urls VALUES(1146,256,'URL_YOUTUBE','https://www.youtube.com/channel/UCMTd9ZNpvB8_f3e1DMy7ddQ');
 INSERT INTO artisans_urls VALUES(1147,256,'URL_CST','http://www.furaffinity.net/user/hyenaclaw');
-INSERT INTO artisans_urls VALUES(1148,257,'URL_WEBSITE','https://northcatcreations.weebly.com/');
-INSERT INTO artisans_urls VALUES(1149,257,'URL_PRICES','https://northcatcreations.weebly.com/fursuitsmasks.html');
-INSERT INTO artisans_urls VALUES(1150,257,'URL_FAQ','https://northcatcreations.weebly.com/fursuitsmasks.html');
+INSERT INTO artisans_urls VALUES(1148,257,'URL_WEBSITE','https://www.northcatcreations.com/');
+INSERT INTO artisans_urls VALUES(1149,257,'URL_PRICES','https://www.northcatcreations.com/commission');
 INSERT INTO artisans_urls VALUES(1151,257,'URL_TWITTER','https://twitter.com/NorthcatC');
-INSERT INTO artisans_urls VALUES(1152,257,'URL_QUEUE','https://northcatcreations.weebly.com/queue.html');
-INSERT INTO artisans_urls VALUES(1153,257,'URL_CST','https://northcatcreations.weebly.com/fursuits.html');
+INSERT INTO artisans_urls VALUES(1153,257,'URL_CST','https://www.northcatcreations.com/');
 INSERT INTO artisans_urls VALUES(1154,258,'URL_WEBSITE','https://feelysden.weebly.com/');
 INSERT INTO artisans_urls VALUES(1155,258,'URL_PRICES','https://feelysden.weebly.com/fursuits.html');
 INSERT INTO artisans_urls VALUES(1156,258,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/feely');
@@ -1979,4 +1977,6 @@ INSERT INTO artisans_urls VALUES(9487,400,'URL_WEBSITE','https://drakeisafrick.w
 INSERT INTO artisans_urls VALUES(9488,400,'URL_PRICES','https://drakeisafrick.wixsite.com/tomberhollowsuitz/prices');
 INSERT INTO artisans_urls VALUES(9489,400,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/rovaansthemaans');
 INSERT INTO artisans_urls VALUES(9490,400,'URL_INSTAGRAM','https://www.instagram.com/maybitezartz/');
+INSERT INTO artisans_urls VALUES(9491,257,'URL_INSTAGRAM','https://www.instagram.com/northcat_creations/');
+INSERT INTO artisans_urls VALUES(9492,276,'URL_TWITTER','https://twitter.com/SlateSlothSuits');
 COMMIT;
