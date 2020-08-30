@@ -1998,4 +1998,5 @@ INSERT INTO artisans_urls VALUES(9508,402,'URL_LINKLIST','https://linktr.ee/feli
 INSERT INTO artisans_urls VALUES(9509,402,'URL_OTHER_SHOP','https://www.redbubble.com/people/Yeen-Bean/shop');
 INSERT INTO artisans_urls VALUES(9510,402,'URL_QUEUE','https://trello.com/b/dat3HFRK/felistellar-fursuits');
 INSERT INTO artisans_urls VALUES(9511,402,'URL_OTHER','https://toyhou.se/Felistellar');
+INSERT INTO artisans_urls VALUES(9512,403,'URL_WEBSITE','https://sites.google.com/view/fursocks-studios/home');
 COMMIT;
