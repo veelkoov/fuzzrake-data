@@ -1487,13 +1487,11 @@ INSERT INTO artisans_urls VALUES(1565,337,'URL_CST','https://twitter.com/Tuliusi
 INSERT INTO artisans_urls VALUES(1566,339,'URL_WEBSITE','http://thatonepinkdog.studio/');
 INSERT INTO artisans_urls VALUES(1567,339,'URL_PRICES','http://thatonepinkdog.studio/fursuit-prices');
 INSERT INTO artisans_urls VALUES(1568,339,'URL_FAQ','https://www.thatonepinkdog.studio/terms-of-service1.html');
-INSERT INTO artisans_urls VALUES(1569,339,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/cassmutt');
-INSERT INTO artisans_urls VALUES(1570,339,'URL_DEVIANTART','https://www.deviantart.com/cassmutt');
 INSERT INTO artisans_urls VALUES(1571,339,'URL_TWITTER','https://twitter.com/thatonepinkdog');
 INSERT INTO artisans_urls VALUES(1572,339,'URL_FACEBOOK','https://www.facebook.com/thatonepinkdogstudios/');
 INSERT INTO artisans_urls VALUES(1573,339,'URL_INSTAGRAM','https://www.instagram.com/thatonepinkdogstudios/');
 INSERT INTO artisans_urls VALUES(1574,339,'URL_QUEUE','https://trello.com/b/tJK8PdWl/fursuit-queue-to-do-list');
-INSERT INTO artisans_urls VALUES(1575,339,'URL_OTHER','http://patreon.com/cassmutt');
+INSERT INTO artisans_urls VALUES(1575,339,'URL_OTHER',replace('http://thatonepinkdog.studio/suits-for-sale\nhttp://thatonepinkdog.studio/suit-gallery\nhttp://patreon.com/cassmutt','\n',char(10)));
 INSERT INTO artisans_urls VALUES(1576,339,'URL_CST','http://thatonepinkdog.studio/fursuit-prices');
 INSERT INTO artisans_urls VALUES(1577,340,'URL_WEBSITE','https://www.sandcatcustoms.com/');
 INSERT INTO artisans_urls VALUES(1578,340,'URL_PRICES','https://www.sandcatcustoms.com/pricing/');
@@ -1999,4 +1997,6 @@ INSERT INTO artisans_urls VALUES(9509,402,'URL_OTHER_SHOP','https://www.redbubbl
 INSERT INTO artisans_urls VALUES(9510,402,'URL_QUEUE','https://trello.com/b/dat3HFRK/felistellar-fursuits');
 INSERT INTO artisans_urls VALUES(9511,402,'URL_OTHER','https://toyhou.se/Felistellar');
 INSERT INTO artisans_urls VALUES(9512,403,'URL_WEBSITE','https://sites.google.com/view/fursocks-studios/home');
+INSERT INTO artisans_urls VALUES(9513,339,'URL_OTHER_SHOP','http://thatonepinkdog.studio/online-store');
+INSERT INTO artisans_urls VALUES(9514,176,'URL_QUEUE','https://tiggcreations.de.tl/Commission-FAQ.htm');
 COMMIT;
