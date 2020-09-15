@@ -1028,4 +1028,5 @@ INSERT INTO events VALUES(2243,NULL,0,'2020-09-14 06:04:53','CS_UPDTD_DETLS','Fu
 INSERT INTO events VALUES(2244,NULL,0,'2020-09-14 06:04:57','CS_UPDTD_DETLS','GoldMouse Studios','https://twitter.com/GoldMouseStudio','','[" <h1 class=\"profileheadercard-name\"> cheeks (","commissions closed","!!) </h1> <h2 class=\"profileheadercard-screenname u-inlineblock u-dir\" dir=\"ltr\"> @goldmousestudio <"]','',0,0,0,'');
 INSERT INTO events VALUES(2245,0,NULL,'2020-09-15 18:04:49','CS_UPDTD_DETLS','Starry Kitsune','https://www.starrykitsune.com/contact','','','',0,0,0,'');
 INSERT INTO events VALUES(2246,0,NULL,'2020-09-15 18:04:54','CS_UPDTD_DETLS','Chaoticreations','https://www.chaoticreationsfursuits.co.uk/fursuit-commissions','','','',0,0,0,'');
+INSERT INTO events VALUES(2247,NULL,0,'2020-09-15 19:02:56','CS_UPDTD_DETLS','Selkie Suits','https://selkiesuits.co.uk/quotes.php','','["ntainer\"> <div class=\"row\"> <div class=\"col\"> </div> </div> <div class=\"row\"> <div class=\"col\"> <h2>","commissions are currently closed"," </h2> <p>re-opening december 2020</p> </div> </div> <div class=\"row\"> <div class=\"col-lg-8 mx-auto\""]','',0,0,0,'');
 COMMIT;

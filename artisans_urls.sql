@@ -132,14 +132,14 @@ INSERT INTO artisans_urls VALUES(132,27,'URL_CST','https://twitter.com/StreifenS
 INSERT INTO artisans_urls VALUES(133,28,'URL_FURSUITREVIEW','http://fursuitreview.com/maker/blue-fox-fursuits/');
 INSERT INTO artisans_urls VALUES(134,28,'URL_WEBSITE','https://www.bf-fursuits.com/');
 INSERT INTO artisans_urls VALUES(135,28,'URL_TWITTER','https://twitter.com/BlueFoxFursuits');
-INSERT INTO artisans_urls VALUES(136,29,'URL_WEBSITE','https://www.fixitfursuits.com/');
+INSERT INTO artisans_urls VALUES(136,29,'URL_WEBSITE','https://selkiesuits.co.uk');
 INSERT INTO artisans_urls VALUES(137,29,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/fixitfursuits');
-INSERT INTO artisans_urls VALUES(138,29,'URL_TWITTER','https://twitter.com/FixItFursuits');
-INSERT INTO artisans_urls VALUES(139,29,'URL_FACEBOOK','https://www.facebook.com/fixitfursuits/');
-INSERT INTO artisans_urls VALUES(140,29,'URL_INSTAGRAM','https://www.instagram.com/fixitfursuits/');
+INSERT INTO artisans_urls VALUES(138,29,'URL_TWITTER','https://twitter.com/selkiesuits');
+INSERT INTO artisans_urls VALUES(139,29,'URL_FACEBOOK','https://www.facebook.com/selkiesuits');
+INSERT INTO artisans_urls VALUES(140,29,'URL_INSTAGRAM','https://www.instagram.com/selkiesuits/');
 INSERT INTO artisans_urls VALUES(141,29,'URL_YOUTUBE','https://www.youtube.com/user/fimiller');
-INSERT INTO artisans_urls VALUES(142,29,'URL_QUEUE','https://trello.com/b/uRS1I5QY/fix-it-fursuitsfursuit-commissions-parts');
-INSERT INTO artisans_urls VALUES(143,29,'URL_CST','https://www.fixitfursuits.com/get-a-quote');
+INSERT INTO artisans_urls VALUES(142,29,'URL_QUEUE','https://trello.com/b/KgjclDep/selkie-suits-public-commission-access');
+INSERT INTO artisans_urls VALUES(143,29,'URL_CST','https://selkiesuits.co.uk/quotes.php');
 INSERT INTO artisans_urls VALUES(144,30,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/brekwolf');
 INSERT INTO artisans_urls VALUES(145,30,'URL_TWITTER','https://twitter.com/BrekWoof');
 INSERT INTO artisans_urls VALUES(146,30,'URL_CST','http://www.furaffinity.net/user/brekwolf/');
@@ -1999,4 +1999,7 @@ INSERT INTO artisans_urls VALUES(9511,402,'URL_OTHER','https://toyhou.se/Feliste
 INSERT INTO artisans_urls VALUES(9512,403,'URL_WEBSITE','https://sites.google.com/view/fursocks-studios/home');
 INSERT INTO artisans_urls VALUES(9513,339,'URL_OTHER_SHOP','http://thatonepinkdog.studio/online-store');
 INSERT INTO artisans_urls VALUES(9514,176,'URL_QUEUE','https://tiggcreations.de.tl/Commission-FAQ.htm');
+INSERT INTO artisans_urls VALUES(9515,29,'URL_PRICES','https://selkiesuits.co.uk/pricing.php');
+INSERT INTO artisans_urls VALUES(9516,179,'URL_ETSY','https://www.etsy.com/shop/grayREALMStudio?ref=simple-shop-header-name&listing_id=818268925');
+INSERT INTO artisans_urls VALUES(9517,179,'URL_FURTRACK','https://www.furtrack.com/index/maker:grayrealmstudio');
 COMMIT;
