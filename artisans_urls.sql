@@ -1532,7 +1532,6 @@ INSERT INTO artisans_urls VALUES(5099,345,'URL_TWITTER','https://twitter.com/Mar
 INSERT INTO artisans_urls VALUES(5100,345,'URL_FACEBOOK','https://www.facebook.com/MeepsMarvelousMonstrosities/');
 INSERT INTO artisans_urls VALUES(5102,345,'URL_INSTAGRAM','https://www.instagram.com/meepsmarvelousmonstrosities/');
 INSERT INTO artisans_urls VALUES(5104,345,'URL_QUEUE','https://trello.com/b/q0q0clQ7/meeps-marvelous-monstrosities-projects');
-INSERT INTO artisans_urls VALUES(5108,345,'URL_CST','https://twitter.com/MarvelousMeep');
 INSERT INTO artisans_urls VALUES(5111,303,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/smallblacksticky');
 INSERT INTO artisans_urls VALUES(5120,239,'URL_FACEBOOK','https://www.facebook.com/furoar.suits/');
 INSERT INTO artisans_urls VALUES(5122,239,'URL_INSTAGRAM','https://www.instagram.com/furoar.suits/');
@@ -2020,4 +2019,7 @@ INSERT INTO artisans_urls VALUES(9532,405,'URL_YOUTUBE','https://www.youtube.com
 INSERT INTO artisans_urls VALUES(9533,405,'URL_QUEUE','https://trello.com/b/Uf2VBpfl/auftr%C3%A4ge');
 INSERT INTO artisans_urls VALUES(9534,405,'URL_SCRITCH','https://scritch.es/makers/shiryu-design');
 INSERT INTO artisans_urls VALUES(9535,405,'URL_FURTRACK','https://www.furtrack.com/index/maker:shiryudesign');
+INSERT INTO artisans_urls VALUES(9536,345,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/meepsmarvelousmonstrosities');
+INSERT INTO artisans_urls VALUES(9537,345,'URL_YOUTUBE','https://www.youtube.com/channel/UCGptGlpQRhkxvdjBeYUpHSw');
+INSERT INTO artisans_urls VALUES(9538,345,'URL_LINKLIST','https://linktr.ee/MeepsMarvelousMonstrosities');
 COMMIT;
