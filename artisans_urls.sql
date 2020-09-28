@@ -2022,4 +2022,5 @@ INSERT INTO artisans_urls VALUES(9535,405,'URL_FURTRACK','https://www.furtrack.c
 INSERT INTO artisans_urls VALUES(9536,345,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/meepsmarvelousmonstrosities');
 INSERT INTO artisans_urls VALUES(9537,345,'URL_YOUTUBE','https://www.youtube.com/channel/UCGptGlpQRhkxvdjBeYUpHSw');
 INSERT INTO artisans_urls VALUES(9538,345,'URL_LINKLIST','https://linktr.ee/MeepsMarvelousMonstrosities');
+INSERT INTO artisans_urls VALUES(9539,49,'URL_FAQ','http://www.randdfursuits.co.uk/question/');
 COMMIT;
