@@ -605,7 +605,7 @@ INSERT INTO artisans_urls VALUES(626,161,'URL_TWITTER','https://twitter.com/Pixe
 INSERT INTO artisans_urls VALUES(627,161,'URL_FACEBOOK','https://www.facebook.com/CraftyHuskyWorkshop/');
 INSERT INTO artisans_urls VALUES(628,161,'URL_INSTAGRAM','https://www.instagram.com/craftyhuskycosplay/');
 INSERT INTO artisans_urls VALUES(629,161,'URL_YOUTUBE','https://www.youtube.com/user/thetomownu');
-INSERT INTO artisans_urls VALUES(630,161,'URL_CST','https://www.etsy.com/uk/shop/CraftyHuskyWorkshop');
+INSERT INTO artisans_urls VALUES(630,161,'URL_CST','https://twitter.com/PixelCraftHusky');
 INSERT INTO artisans_urls VALUES(631,162,'URL_WEBSITE','https://fun-fur-all.com/');
 INSERT INTO artisans_urls VALUES(632,162,'URL_PRICES','https://fun-fur-all.com/how-to-order/pricing/');
 INSERT INTO artisans_urls VALUES(633,162,'URL_FAQ','https://fun-fur-all.com/faq/');
@@ -2063,4 +2063,5 @@ INSERT INTO artisans_urls VALUES(9576,409,'URL_CST','https://trello.com/b/q8u2zT
 INSERT INTO artisans_urls VALUES(9577,409,'URL_MINIATURES',replace('https://storage.scritch.es/scritch/b1b71206244fc2e2b70e10a47241f2847993b82c/thumbnail_826fbf70-cc3b-48b4-ad38-0c6fbc2c2c24.jpeg\nhttps://storage.scritch.es/scritch/7594197f6a7e2f0405c2f834845ae2ceb6ff53a9/thumbnail_2b42bdbd-074c-4cbc-a977-5ac346516762.jpeg\nhttps://storage.scritch.es/scritch/4cf2f346daa5d4c493f576a1e756c0ee631b51b0/thumbnail_b060841e-abca-4e68-87b9-269f9647d134.jpeg\nhttps://storage.scritch.es/scritch/ae38c8d779fe28cbc0c4ff40c06d6bd436a9d480/thumbnail_65d6ff19-682e-4841-96ac-8c3e1b69c7d7.jpeg','\n',char(10)));
 INSERT INTO artisans_urls VALUES(9578,408,'URL_MINIATURES',replace('https://orca.furtrack.com/gallery/thumb/18162-6ed14483b55623901ae4ff3552f087e2.jpg\nhttps://orca.furtrack.com/gallery/thumb/18162-985ea6a3b5fe2fbf60d536bab4086652.jpg','\n',char(10)));
 INSERT INTO artisans_urls VALUES(9579,407,'URL_MINIATURES',replace('https://storage.scritch.es/scritch/3621a5be3da3f866d5779e8039e4f85f0063a7ed/thumbnail_c645e4b8-f2f5-4a29-a4a6-f59e0189e214.jpeg\nhttps://orca.furtrack.com/gallery/thumb/18167-b099f51fa0d4794fd1ebdc03d7ff18e5.jpg\nhttps://storage.scritch.es/scritch/fff6e533e8c33d0ad0f6af417a09c1b05a04f414/thumbnail_c1ef5fd1-d851-4be4-bc65-f92d82dd29a5.jpeg\nhttps://storage.scritch.es/scritch/94be23a4e4a379126cc8817fe7fa68f66d0da6eb/thumbnail_f6f059d4-9f03-49c2-a982-4e35e0b32e12.jpeg','\n',char(10)));
+INSERT INTO artisans_urls VALUES(9580,161,'URL_WEBSITE','https://www.craftyhuskyworkshop.co.uk/');
 COMMIT;
