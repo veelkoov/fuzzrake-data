@@ -2064,4 +2064,10 @@ INSERT INTO artisans_urls VALUES(9577,409,'URL_MINIATURES',replace('https://stor
 INSERT INTO artisans_urls VALUES(9578,408,'URL_MINIATURES',replace('https://orca.furtrack.com/gallery/thumb/18162-6ed14483b55623901ae4ff3552f087e2.jpg\nhttps://orca.furtrack.com/gallery/thumb/18162-985ea6a3b5fe2fbf60d536bab4086652.jpg','\n',char(10)));
 INSERT INTO artisans_urls VALUES(9579,407,'URL_MINIATURES',replace('https://storage.scritch.es/scritch/3621a5be3da3f866d5779e8039e4f85f0063a7ed/thumbnail_c645e4b8-f2f5-4a29-a4a6-f59e0189e214.jpeg\nhttps://orca.furtrack.com/gallery/thumb/18167-b099f51fa0d4794fd1ebdc03d7ff18e5.jpg\nhttps://storage.scritch.es/scritch/fff6e533e8c33d0ad0f6af417a09c1b05a04f414/thumbnail_c1ef5fd1-d851-4be4-bc65-f92d82dd29a5.jpeg\nhttps://storage.scritch.es/scritch/94be23a4e4a379126cc8817fe7fa68f66d0da6eb/thumbnail_f6f059d4-9f03-49c2-a982-4e35e0b32e12.jpeg','\n',char(10)));
 INSERT INTO artisans_urls VALUES(9580,161,'URL_WEBSITE','https://www.craftyhuskyworkshop.co.uk/');
+INSERT INTO artisans_urls VALUES(9581,410,'URL_TWITTER','https://twitter.com/KitsuAnuma');
+INSERT INTO artisans_urls VALUES(9582,410,'URL_FURTRACK','https://www.furtrack.com/user/Kitsuanuma');
+INSERT INTO artisans_urls VALUES(9583,411,'URL_WEBSITE','https://www.knightlyfurs.com/home');
+INSERT INTO artisans_urls VALUES(9584,411,'URL_PRICES','https://www.knightlyfurs.com/estimate-prices');
+INSERT INTO artisans_urls VALUES(9585,411,'URL_TWITTER','https://twitter.com/Starryknightttt');
+INSERT INTO artisans_urls VALUES(9586,411,'URL_CST','https://www.knightlyfurs.com/home');
 COMMIT;
