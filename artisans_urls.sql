@@ -1001,7 +1001,7 @@ INSERT INTO artisans_urls VALUES(1039,237,'URL_FUR_AFFINITY','http://www.furaffi
 INSERT INTO artisans_urls VALUES(1040,237,'URL_TWITTER','https://twitter.com/Beautyofthebass');
 INSERT INTO artisans_urls VALUES(1041,237,'URL_FACEBOOK','https://www.facebook.com/beautyofthebasscreations/');
 INSERT INTO artisans_urls VALUES(1042,237,'URL_YOUTUBE','https://www.youtube.com/channel/UC5sSxUfvbpaHlAOGSThlf4g');
-INSERT INTO artisans_urls VALUES(1043,237,'URL_CST','http://www.furaffinity.net/user/beautyofthebass');
+INSERT INTO artisans_urls VALUES(1043,237,'URL_CST','https://www.facebook.com/beautyofthebasscreations/');
 INSERT INTO artisans_urls VALUES(1044,238,'URL_FURSUITREVIEW','http://fursuitreview.com/maker/velkss/');
 INSERT INTO artisans_urls VALUES(1045,238,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/velkss');
 INSERT INTO artisans_urls VALUES(1046,238,'URL_DEVIANTART','https://www.deviantart.com/velkss');
@@ -2070,4 +2070,11 @@ INSERT INTO artisans_urls VALUES(9583,411,'URL_WEBSITE','https://www.knightlyfur
 INSERT INTO artisans_urls VALUES(9584,411,'URL_PRICES','https://www.knightlyfurs.com/estimate-prices');
 INSERT INTO artisans_urls VALUES(9585,411,'URL_TWITTER','https://twitter.com/Starryknightttt');
 INSERT INTO artisans_urls VALUES(9586,411,'URL_CST','https://www.knightlyfurs.com/home');
+INSERT INTO artisans_urls VALUES(9587,237,'URL_PRICES','https://www.beautyofthebass.com/commissions');
+INSERT INTO artisans_urls VALUES(9588,237,'URL_FAQ','https://www.beautyofthebass.com/faq');
+INSERT INTO artisans_urls VALUES(9589,237,'URL_INSTAGRAM','https://www.instagram.com/beautyofthebass/');
+INSERT INTO artisans_urls VALUES(9590,412,'URL_WEBSITE','https://sites.google.com/view/zipgrowl-art');
+INSERT INTO artisans_urls VALUES(9591,412,'URL_PRICES','https://sites.google.com/view/zipgrowl-art/price-guide');
+INSERT INTO artisans_urls VALUES(9592,412,'URL_TWITTER','https://twitter.com/zipgrowl');
+INSERT INTO artisans_urls VALUES(9593,412,'URL_INSTAGRAM','https://www.instagram.com/zipgrowl/');
 COMMIT;
