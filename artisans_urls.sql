@@ -2077,4 +2077,9 @@ INSERT INTO artisans_urls VALUES(9590,412,'URL_WEBSITE','https://sites.google.co
 INSERT INTO artisans_urls VALUES(9591,412,'URL_PRICES','https://sites.google.com/view/zipgrowl-art/price-guide');
 INSERT INTO artisans_urls VALUES(9592,412,'URL_TWITTER','https://twitter.com/zipgrowl');
 INSERT INTO artisans_urls VALUES(9593,412,'URL_INSTAGRAM','https://www.instagram.com/zipgrowl/');
+INSERT INTO artisans_urls VALUES(9594,413,'URL_PRICES','https://docs.google.com/document/d/1L_mRyhMOLvEZRUK7eo7cTj0c_P8h8unJmFV865weENc');
+INSERT INTO artisans_urls VALUES(9595,413,'URL_TWITTER','https://twitter.com/Geckoworks');
+INSERT INTO artisans_urls VALUES(9596,413,'URL_LINKLIST','https://linktr.ee/Geckoworks');
+INSERT INTO artisans_urls VALUES(9597,413,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/other-items/geckoworks/114859');
+INSERT INTO artisans_urls VALUES(9598,413,'URL_QUEUE','https://trello.com/b/jDe9XILR/geckoworks-queue');
 COMMIT;
