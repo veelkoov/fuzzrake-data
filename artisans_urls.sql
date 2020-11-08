@@ -2082,4 +2082,7 @@ INSERT INTO artisans_urls VALUES(9595,413,'URL_TWITTER','https://twitter.com/Gec
 INSERT INTO artisans_urls VALUES(9596,413,'URL_LINKLIST','https://linktr.ee/Geckoworks');
 INSERT INTO artisans_urls VALUES(9597,413,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/other-items/geckoworks/114859');
 INSERT INTO artisans_urls VALUES(9598,413,'URL_QUEUE','https://trello.com/b/jDe9XILR/geckoworks-queue');
+INSERT INTO artisans_urls VALUES(9599,414,'URL_WEBSITE','https://fluffypancakesenpa.wixsite.com/pinkandblueaddicts');
+INSERT INTO artisans_urls VALUES(9600,414,'URL_PRICES','https://fluffypancakesenpa.wixsite.com/pinkandblueaddicts/prices');
+INSERT INTO artisans_urls VALUES(9601,414,'URL_TWITTER','https://twitter.com/addicts_pink');
 COMMIT;
