@@ -329,11 +329,11 @@ INSERT INTO artisans_urls VALUES(337,90,'URL_TWITTER','https://twitter.com/wild_
 INSERT INTO artisans_urls VALUES(338,90,'URL_CST','http://wild---life.com/faq/');
 INSERT INTO artisans_urls VALUES(339,91,'URL_WEBSITE','http://whitewolf.denofwolves.com/');
 INSERT INTO artisans_urls VALUES(340,91,'URL_CST','https://docs.google.com/forms/d/e/1FAIpQLScZyjoeutHiDWSiM2Lw7Rxx709YFRmFPnxcIctEm_sZnW-VNg/viewform');
-INSERT INTO artisans_urls VALUES(341,92,'URL_WEBSITE','http://yaboylukesuits.com/');
-INSERT INTO artisans_urls VALUES(342,92,'URL_TWITTER','https://twitter.com/yaboylukesuits');
+INSERT INTO artisans_urls VALUES(341,92,'URL_WEBSITE','https://www.yblsuits.com/');
+INSERT INTO artisans_urls VALUES(342,92,'URL_TWITTER','https://twitter.com/yblsuits');
 INSERT INTO artisans_urls VALUES(343,92,'URL_FACEBOOK','https://www.facebook.com/yaboyluke/');
 INSERT INTO artisans_urls VALUES(344,92,'URL_INSTAGRAM','https://www.instagram.com/yab0yluke/');
-INSERT INTO artisans_urls VALUES(345,92,'URL_CST','http://yaboylukesuits.com/index.html');
+INSERT INTO artisans_urls VALUES(345,92,'URL_CST','https://www.instagram.com/yab0yluke/');
 INSERT INTO artisans_urls VALUES(346,93,'URL_FURSUITREVIEW','http://fursuitreview.com/maker/paciulo-fursuits/');
 INSERT INTO artisans_urls VALUES(347,93,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/paciulofursuits');
 INSERT INTO artisans_urls VALUES(348,93,'URL_TWITTER','https://twitter.com/Paciuloo');
@@ -2093,4 +2093,9 @@ INSERT INTO artisans_urls VALUES(9606,415,'URL_THE_DEALERS_DEN','https://www.the
 INSERT INTO artisans_urls VALUES(9607,415,'URL_PHOTOS',replace('https://scritch.es/pictures/bbe963f3-5744-499e-a4d8-df21a40109b0\nhttps://scritch.es/pictures/d324afeb-490b-4bfb-88a7-661a719b6119\nhttps://scritch.es/pictures/f4bb89a5-d96d-4474-adac-5f824a50ae82\nhttps://scritch.es/pictures/9cebcd20-ba39-40b1-ba45-eb9a457206fc','\n',char(10)));
 INSERT INTO artisans_urls VALUES(9608,415,'URL_CST','https://aikostudios.weebly.com/');
 INSERT INTO artisans_urls VALUES(9609,415,'URL_MINIATURES',replace('https://storage.scritch.es/scritch/db263c8d3af21a1271e657a59ef20f7dbe5e3ab0/thumbnail_8f78e0e2-5c4c-4bd7-8656-c73e4ec4ee79.jpeg\nhttps://storage.scritch.es/scritch/7dd72e3749b2600d62e4fb57af36294c550b391c/thumbnail_88ef7cad-4db9-4f22-a958-dbf07385aea2.jpeg\nhttps://storage.scritch.es/scritch/1d60a7594d2ed3f740b7dd33d66210c6a49649b0/thumbnail_9aef05e4-df05-4815-81dd-af7c7577eb09.jpeg\nhttps://storage.scritch.es/scritch/1c55a9622e3e4a6ddfd356d1a0d07dc6910ddb01/thumbnail_746d8a14-412c-453f-ab11-b9925b90216c.jpeg','\n',char(10)));
+INSERT INTO artisans_urls VALUES(9610,92,'URL_SCRITCH','https://scritch.es/makers/ya-boy-luke-fursuits');
+INSERT INTO artisans_urls VALUES(9611,92,'URL_LINKLIST','https://linktr.ee/yab0yluke');
+INSERT INTO artisans_urls VALUES(9612,92,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/other-items/cosmohusky/105940');
+INSERT INTO artisans_urls VALUES(9613,92,'URL_ETSY','https://www.etsy.com/ca/shop/YBLSuits');
+INSERT INTO artisans_urls VALUES(9614,92,'URL_OTHER_SHOP','https://www.yblsuits.com/shop');
 COMMIT;
