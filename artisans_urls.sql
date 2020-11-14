@@ -2085,4 +2085,12 @@ INSERT INTO artisans_urls VALUES(9598,413,'URL_QUEUE','https://trello.com/b/jDe9
 INSERT INTO artisans_urls VALUES(9599,414,'URL_WEBSITE','https://fluffypancakesenpa.wixsite.com/pinkandblueaddicts');
 INSERT INTO artisans_urls VALUES(9600,414,'URL_PRICES','https://fluffypancakesenpa.wixsite.com/pinkandblueaddicts/prices');
 INSERT INTO artisans_urls VALUES(9601,414,'URL_TWITTER','https://twitter.com/addicts_pink');
+INSERT INTO artisans_urls VALUES(9602,415,'URL_WEBSITE','https://aikostudios.weebly.com/');
+INSERT INTO artisans_urls VALUES(9603,415,'URL_PRICES','https://aikostudios.weebly.com/');
+INSERT INTO artisans_urls VALUES(9604,415,'URL_FACEBOOK','https://www.facebook.com/Aiko-Studios-103227254716311/');
+INSERT INTO artisans_urls VALUES(9605,415,'URL_INSTAGRAM','https://www.instagram.com/aiko_studios/');
+INSERT INTO artisans_urls VALUES(9606,415,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/other-items/aikofurr/117660');
+INSERT INTO artisans_urls VALUES(9607,415,'URL_PHOTOS',replace('https://scritch.es/pictures/bbe963f3-5744-499e-a4d8-df21a40109b0\nhttps://scritch.es/pictures/d324afeb-490b-4bfb-88a7-661a719b6119\nhttps://scritch.es/pictures/f4bb89a5-d96d-4474-adac-5f824a50ae82\nhttps://scritch.es/pictures/9cebcd20-ba39-40b1-ba45-eb9a457206fc','\n',char(10)));
+INSERT INTO artisans_urls VALUES(9608,415,'URL_CST','https://aikostudios.weebly.com/');
+INSERT INTO artisans_urls VALUES(9609,415,'URL_MINIATURES',replace('https://storage.scritch.es/scritch/db263c8d3af21a1271e657a59ef20f7dbe5e3ab0/thumbnail_8f78e0e2-5c4c-4bd7-8656-c73e4ec4ee79.jpeg\nhttps://storage.scritch.es/scritch/7dd72e3749b2600d62e4fb57af36294c550b391c/thumbnail_88ef7cad-4db9-4f22-a958-dbf07385aea2.jpeg\nhttps://storage.scritch.es/scritch/1d60a7594d2ed3f740b7dd33d66210c6a49649b0/thumbnail_9aef05e4-df05-4815-81dd-af7c7577eb09.jpeg\nhttps://storage.scritch.es/scritch/1c55a9622e3e4a6ddfd356d1a0d07dc6910ddb01/thumbnail_746d8a14-412c-453f-ab11-b9925b90216c.jpeg','\n',char(10)));
 COMMIT;
