@@ -1507,9 +1507,9 @@ INSERT INTO artisans_urls VALUES(1589,149,'URL_CST','https://www.starfursuits.co
 INSERT INTO artisans_urls VALUES(1590,293,'URL_CST','https://www.hunnibear.art/');
 INSERT INTO artisans_urls VALUES(1591,293,'URL_FACEBOOK','https://www.facebook.com/HunniBearArt/');
 INSERT INTO artisans_urls VALUES(4839,7,'URL_MINIATURES',replace('https://storage.scritch.es/scritch/417a43627ed64fabe72256c5f1da30914d5e9a47/thumbnail_300f5ab6-1960-44ea-b5c6-761fa15a9e08.jpeg#4550\nhttps://storage.scritch.es/scritch/8ee4e6ca0f6e9579271ed888dc51355b8bb8b4b5/thumbnail_8ff3b12a-4003-425f-86ef-19fd0a05bc4b.jpeg#5040\nhttps://storage.scritch.es/scritch/29a00e0385c4ea90715933283f5443906a1d3871/thumbnail_0556e242-ff62-4bdd-a6e4-188385824d6d.jpeg\nhttps://storage.scritch.es/scritch/6d41728e3c9f8e08ca414e04ae8146f566424ba1/thumbnail_c9384707-000c-48ba-9c61-2ddf8b3ca6a9.jpeg#4050\nhttps://storage.scritch.es/scritch/52bd52e48a18cf16f43ebf5d33863d1691ac8c46/thumbnail_f5ab0046-bbc2-40f0-869a-e517afee41b5.jpeg#4050','\n',char(10)));
-INSERT INTO artisans_urls VALUES(4880,342,'URL_WEBSITE','https://toothyhoundsworkshop.weebly.com/');
-INSERT INTO artisans_urls VALUES(4882,342,'URL_FAQ','https://toothyhoundsworkshop.weebly.com/tos.html');
-INSERT INTO artisans_urls VALUES(4890,342,'URL_QUEUE','https://trello.com/b/JhrA8dfX/fursuit-queue');
+INSERT INTO artisans_urls VALUES(4880,342,'URL_WEBSITE','https://toothyhounds.carrd.co/');
+INSERT INTO artisans_urls VALUES(4882,342,'URL_FAQ','https://toothyhounds.carrd.co/#faq');
+INSERT INTO artisans_urls VALUES(4890,342,'URL_QUEUE','https://trello.com/b/Bj802hSs/small-part-queue');
 INSERT INTO artisans_urls VALUES(4905,343,'URL_WEBSITE','https://maxyncheese.wixsite.com/home');
 INSERT INTO artisans_urls VALUES(4906,343,'URL_PRICES','https://maxyncheese.wixsite.com/home/prices');
 INSERT INTO artisans_urls VALUES(4914,343,'URL_YOUTUBE','https://www.youtube.com/channel/UCrSsey2owgw5Ki8RqZrLLng');
@@ -1784,7 +1784,7 @@ INSERT INTO artisans_urls VALUES(9292,380,'URL_TWITTER','https://twitter.com/Alp
 INSERT INTO artisans_urls VALUES(9293,380,'URL_INSTAGRAM','https://www.instagram.com/Alpine_Huskies/');
 INSERT INTO artisans_urls VALUES(9294,380,'URL_SCRITCH','https://scritch.es/alpinehuskies');
 INSERT INTO artisans_urls VALUES(9296,380,'URL_CST','https://alpinehuskiesfursuits.weebly.com/commission-status.html');
-INSERT INTO artisans_urls VALUES(9297,342,'URL_CST','https://toothyhoundsworkshop.weebly.com/');
+INSERT INTO artisans_urls VALUES(9297,342,'URL_CST','https://toothyhounds.carrd.co/');
 INSERT INTO artisans_urls VALUES(9298,381,'URL_WEBSITE','https://miffyiscute.wixsite.com/miffyiscute4fursuits');
 INSERT INTO artisans_urls VALUES(9299,381,'URL_PRICES','https://miffyiscute.wixsite.com/miffyiscute4fursuits/prices');
 INSERT INTO artisans_urls VALUES(9300,381,'URL_DEVIANTART','https://www.deviantart.com/miffyspastelpetshop');
@@ -2114,4 +2114,8 @@ INSERT INTO artisans_urls VALUES(9627,417,'URL_QUEUE','https://trello.com/b/TKEa
 INSERT INTO artisans_urls VALUES(9628,417,'URL_SCRITCH','https://scritch.es/makers/blue-eyed-butterfly-works');
 INSERT INTO artisans_urls VALUES(9629,417,'URL_PHOTOS',replace('https://scritch.es/pictures/fe7ea3e2-d375-4e13-a7ad-90e3c964b711\nhttps://scritch.es/pictures/9d1308a2-c485-4312-ae3e-77e60dbc3463\nhttps://scritch.es/pictures/84e9ad12-3aa1-424d-9755-e7bc5d8406a8\nhttps://scritch.es/pictures/3a39ebbe-acbd-4b47-9569-ba25a04788ec','\n',char(10)));
 INSERT INTO artisans_urls VALUES(9630,417,'URL_MINIATURES',replace('https://storage.scritch.es/scritch/59df5fac3a5d8834cd267acaa35e33819224a1a4/thumbnail_cf74ffea-cfe8-4176-95a7-f4e1f6cdfa1d.png\nhttps://storage.scritch.es/scritch/bcf34fc5cd5abcac121eab919de9cf8feeb36f1f/thumbnail_a2872813-6c5f-4459-b906-4eb703b189a6.png#5040\nhttps://storage.scritch.es/scritch/53fea437035455a04cf9830178c1e2fb54ffebf4/thumbnail_d750f53b-f312-4709-8c0b-be717bfa3444.jpeg#0050r90\nhttps://storage.scritch.es/scritch/4a277769ae2f6580f048773cdc7c8e6bdf38719b/thumbnail_331cd238-d64e-4b74-a0ad-523f57c16c49.jpeg','\n',char(10)));
+INSERT INTO artisans_urls VALUES(9631,342,'URL_PRICES','http://toothyhounds.carrd.co/#pawprices');
+INSERT INTO artisans_urls VALUES(9632,342,'URL_TWITTER','https://twitter.com/toothyhounds');
+INSERT INTO artisans_urls VALUES(9633,342,'URL_INSTAGRAM','https://www.instagram.com/toothy.hounds/');
+INSERT INTO artisans_urls VALUES(9634,342,'URL_LINKLIST','https://linktr.ee/Toothyhounds');
 COMMIT;
