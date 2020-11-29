@@ -2118,4 +2118,14 @@ INSERT INTO artisans_urls VALUES(9631,342,'URL_PRICES','http://toothyhounds.carr
 INSERT INTO artisans_urls VALUES(9632,342,'URL_TWITTER','https://twitter.com/toothyhounds');
 INSERT INTO artisans_urls VALUES(9633,342,'URL_INSTAGRAM','https://www.instagram.com/toothy.hounds/');
 INSERT INTO artisans_urls VALUES(9634,342,'URL_LINKLIST','https://linktr.ee/Toothyhounds');
+INSERT INTO artisans_urls VALUES(9635,418,'URL_WEBSITE','https://whizmi.wixsite.com/whizmicreations');
+INSERT INTO artisans_urls VALUES(9636,418,'URL_PRICES','https://whizmi.wixsite.com/whizmicreations/price-guide');
+INSERT INTO artisans_urls VALUES(9637,418,'URL_FAQ','https://whizmi.wixsite.com/whizmicreations/how-to-order');
+INSERT INTO artisans_urls VALUES(9638,418,'URL_TWITTER','https://twitter.com/whizmi');
+INSERT INTO artisans_urls VALUES(9639,418,'URL_INSTAGRAM','https://www.instagram.com/whizmi.creations/');
+INSERT INTO artisans_urls VALUES(9640,418,'URL_LINKLIST','https://linktr.ee/whizmi');
+INSERT INTO artisans_urls VALUES(9641,418,'URL_SCRITCH','https://scritch.es/makers/whizmi-creations');
+INSERT INTO artisans_urls VALUES(9642,418,'URL_PHOTOS',replace('https://scritch.es/pictures/7b0ef137-952b-4eae-b99e-c1cf492226fa\nhttps://scritch.es/pictures/7975ddad-639d-4742-b50f-49189dcb906d\nhttps://scritch.es/pictures/4f620196-2288-4e92-9257-99b0383d5579','\n',char(10)));
+INSERT INTO artisans_urls VALUES(9643,418,'URL_CST','https://www.instagram.com/whizmi.creations/');
+INSERT INTO artisans_urls VALUES(9644,418,'URL_MINIATURES',replace('https://storage.scritch.es/scritch/3bca523f8b8fe6c2d58d0bf3166b16bd0836dc70/thumbnail_a5eaa307-3161-4345-9045-80e11a84a209.jpeg\nhttps://storage.scritch.es/scritch/d7fb1ce8de64e4ae4b432b425e525cc942dc60d8/thumbnail_9d433db2-9ae9-43f9-b677-3279a10df361.jpeg\nhttps://storage.scritch.es/scritch/fabc96565c97e93b7284efa46f7cc3f57fd9f51a/thumbnail_5ea226e0-d435-495a-b071-ddf3d5498c5b.jpeg#r90','\n',char(10)));
 COMMIT;
