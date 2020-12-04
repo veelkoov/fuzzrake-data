@@ -80,7 +80,7 @@ INSERT INTO artisans_urls VALUES(78,15,'URL_CST','http://www.roofur.com/commissi
 INSERT INTO artisans_urls VALUES(79,16,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/mut-mut-furcostumes');
 INSERT INTO artisans_urls VALUES(80,16,'URL_FACEBOOK','https://www.facebook.com/mutmutfur/');
 INSERT INTO artisans_urls VALUES(81,17,'URL_WEBSITE','https://www.direcreatures.com/');
-INSERT INTO artisans_urls VALUES(82,17,'URL_PRICES','https://www.direcreatures.com/index.php/prices/');
+INSERT INTO artisans_urls VALUES(82,17,'URL_PRICES','https://www.direcreatures.com/pricelist');
 INSERT INTO artisans_urls VALUES(83,17,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/direcreatures');
 INSERT INTO artisans_urls VALUES(84,17,'URL_DEVIANTART','https://www.deviantart.com/direcreatures');
 INSERT INTO artisans_urls VALUES(85,17,'URL_TWITTER','https://twitter.com/DireCreatures');
@@ -2128,4 +2128,9 @@ INSERT INTO artisans_urls VALUES(9641,418,'URL_SCRITCH','https://scritch.es/make
 INSERT INTO artisans_urls VALUES(9642,418,'URL_PHOTOS',replace('https://scritch.es/pictures/7b0ef137-952b-4eae-b99e-c1cf492226fa\nhttps://scritch.es/pictures/7975ddad-639d-4742-b50f-49189dcb906d\nhttps://scritch.es/pictures/4f620196-2288-4e92-9257-99b0383d5579','\n',char(10)));
 INSERT INTO artisans_urls VALUES(9643,418,'URL_CST','https://www.instagram.com/whizmi.creations/');
 INSERT INTO artisans_urls VALUES(9644,418,'URL_MINIATURES',replace('https://storage.scritch.es/scritch/3bca523f8b8fe6c2d58d0bf3166b16bd0836dc70/thumbnail_a5eaa307-3161-4345-9045-80e11a84a209.jpeg\nhttps://storage.scritch.es/scritch/d7fb1ce8de64e4ae4b432b425e525cc942dc60d8/thumbnail_9d433db2-9ae9-43f9-b677-3279a10df361.jpeg\nhttps://storage.scritch.es/scritch/fabc96565c97e93b7284efa46f7cc3f57fd9f51a/thumbnail_5ea226e0-d435-495a-b071-ddf3d5498c5b.jpeg#r90','\n',char(10)));
+INSERT INTO artisans_urls VALUES(9645,17,'URL_FAQ','https://www.direcreatures.com/faq');
+INSERT INTO artisans_urls VALUES(9646,17,'URL_ETSY','https://www.etsy.com/shop/DireCreatures');
+INSERT INTO artisans_urls VALUES(9647,17,'URL_QUEUE','https://trello.com/b/NNXubV3x/direcreatures-project-list');
+INSERT INTO artisans_urls VALUES(9648,17,'URL_SCRITCH','https://scritch.es/makers/dire-creatures');
+INSERT INTO artisans_urls VALUES(9649,17,'URL_OTHER','https://www.patreon.com/direcreatures');
 COMMIT;
