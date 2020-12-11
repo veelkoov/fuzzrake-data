@@ -2133,4 +2133,5 @@ INSERT INTO artisans_urls VALUES(9646,17,'URL_ETSY','https://www.etsy.com/shop/D
 INSERT INTO artisans_urls VALUES(9647,17,'URL_QUEUE','https://trello.com/b/NNXubV3x/direcreatures-project-list');
 INSERT INTO artisans_urls VALUES(9648,17,'URL_SCRITCH','https://scritch.es/makers/dire-creatures');
 INSERT INTO artisans_urls VALUES(9649,17,'URL_OTHER','https://www.patreon.com/direcreatures');
+INSERT INTO artisans_urls VALUES(9650,388,'URL_TWITTER','https://twitter.com/whitewingsuits');
 COMMIT;
