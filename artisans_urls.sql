@@ -2134,4 +2134,13 @@ INSERT INTO artisans_urls VALUES(9647,17,'URL_QUEUE','https://trello.com/b/NNXub
 INSERT INTO artisans_urls VALUES(9648,17,'URL_SCRITCH','https://scritch.es/makers/dire-creatures');
 INSERT INTO artisans_urls VALUES(9649,17,'URL_OTHER','https://www.patreon.com/direcreatures');
 INSERT INTO artisans_urls VALUES(9650,388,'URL_TWITTER','https://twitter.com/whitewingsuits');
+INSERT INTO artisans_urls VALUES(9651,107,'URL_PRICES','http://www.grottocreations.com/commissions.html');
+INSERT INTO artisans_urls VALUES(9652,107,'URL_FAQ','http://www.grottocreations.com/faq.html');
+INSERT INTO artisans_urls VALUES(9653,107,'URL_TWITTER','https://twitter.com/grottocreations');
+INSERT INTO artisans_urls VALUES(9654,107,'URL_INSTAGRAM','https://www.instagram.com/grottocreations/');
+INSERT INTO artisans_urls VALUES(9655,107,'URL_LINKLIST','https://grottocreations.carrd.co/');
+INSERT INTO artisans_urls VALUES(9656,107,'URL_QUEUE','https://trello.com/b/Dhlvk8dE/grotto-creations-queue');
+INSERT INTO artisans_urls VALUES(9657,107,'URL_SCRITCH','https://scritch.es/makers/grotto-creations');
+INSERT INTO artisans_urls VALUES(9658,107,'URL_FURTRACK','https://www.furtrack.com/index/maker:grotto_creations');
+INSERT INTO artisans_urls VALUES(9659,107,'URL_CST','https://twitter.com/GrottoCreations');
 COMMIT;
