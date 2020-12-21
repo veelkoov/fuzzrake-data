@@ -1150,4 +1150,7 @@ INSERT INTO events VALUES(2455,NULL,1,'2020-12-15 06:04:43','CS_UPDTD_DETLS','St
 INSERT INTO events VALUES(2456,1,NULL,'2020-12-17 06:04:30','CS_UPDTD_DETLS','ByCats4Cats','http://bycats4cats.com/quote/','','','',0,0,0,'');
 INSERT INTO events VALUES(2457,NULL,1,'2020-12-17 18:04:32','CS_UPDTD_DETLS','ByCats4Cats','http://bycats4cats.com/quote/','["7'' class=''gfield gsection field_sublabel_below field_description_above'' ><h2 class=''gsection_title''>","we are open for commissions"," to fill spots for march-may &#039;21 completion!</h2><div class=''gsection_description''>this quote r"]','','',0,0,0,'');
 INSERT INTO events VALUES(2458,0,NULL,'2020-12-20 06:04:40','CS_UPDTD_DETLS','Carniv Creations','http://carnivcreations.weebly.com/','','','',0,0,0,'');
+INSERT INTO events VALUES(2459,NULL,NULL,'2020-12-20 22:30:00','DATA_UPDATED','','','','','',0,1,0,'a89c3e0c9c096573340c4ef123addbc08f1cf53e');
+INSERT INTO events VALUES(2460,NULL,0,'2020-12-21 06:04:31','CS_UPDTD_DETLS','The Grotto Creations','https://twitter.com/GrottoCreations','','[" <p class=\"profileheadercard-bio u-dir\" dir=\"ltr\">posting wip''s and news for STUDIO_NAME fursuits | ","commissions: closed"," | grottoc | they/she/32 <s>#</s>fursuit <s>#</s>fursuitmaker <s>#</s>furryfandom</p> <div class=\"pr"]','',0,0,0,'');
+INSERT INTO events VALUES(2461,1,NULL,'2020-12-21 18:04:35','CS_UPDTD_DETLS','ByCats4Cats','http://bycats4cats.com/quote/','','','',0,0,0,'');
 COMMIT;
