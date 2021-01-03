@@ -2148,4 +2148,5 @@ INSERT INTO artisans_urls VALUES(9661,258,'URL_SCRITCH','https://scritch.es/make
 INSERT INTO artisans_urls VALUES(9662,403,'URL_PRICES','https://sites.google.com/view/fursocksstudios/commissions');
 INSERT INTO artisans_urls VALUES(9663,403,'URL_TWITTER','https://twitter.com/MetroKitty_OW');
 INSERT INTO artisans_urls VALUES(9664,403,'URL_ETSY','https://www.etsy.com/people/5fb7vvmp');
+INSERT INTO artisans_urls VALUES(9665,395,'URL_CST','https://kingbayler.wixsite.com/28ghostiez');
 COMMIT;
