@@ -1995,7 +1995,7 @@ INSERT INTO artisans_urls VALUES(9508,402,'URL_LINKLIST','https://linktr.ee/feli
 INSERT INTO artisans_urls VALUES(9509,402,'URL_OTHER_SHOP','https://www.redbubble.com/people/Yeen-Bean/shop');
 INSERT INTO artisans_urls VALUES(9510,402,'URL_QUEUE','https://trello.com/b/dat3HFRK/felistellar-fursuits');
 INSERT INTO artisans_urls VALUES(9511,402,'URL_OTHER','https://toyhou.se/Felistellar');
-INSERT INTO artisans_urls VALUES(9512,403,'URL_WEBSITE','https://sites.google.com/view/fursocks-studios/home');
+INSERT INTO artisans_urls VALUES(9512,403,'URL_WEBSITE','https://sites.google.com/view/fursocksstudios/home');
 INSERT INTO artisans_urls VALUES(9513,339,'URL_OTHER_SHOP','http://thatonepinkdog.studio/online-store');
 INSERT INTO artisans_urls VALUES(9514,176,'URL_QUEUE','https://tiggcreations.de.tl/Commission-FAQ.htm');
 INSERT INTO artisans_urls VALUES(9515,29,'URL_PRICES','https://selkiesuits.co.uk/pricing.php');
@@ -2145,4 +2145,7 @@ INSERT INTO artisans_urls VALUES(9658,107,'URL_FURTRACK','https://www.furtrack.c
 INSERT INTO artisans_urls VALUES(9659,107,'URL_CST','https://twitter.com/GrottoCreations');
 INSERT INTO artisans_urls VALUES(9660,258,'URL_INSTAGRAM','https://www.instagram.com/feelymcnugget/');
 INSERT INTO artisans_urls VALUES(9661,258,'URL_SCRITCH','https://scritch.es/makers/feely-s-den');
+INSERT INTO artisans_urls VALUES(9662,403,'URL_PRICES','https://sites.google.com/view/fursocksstudios/commissions');
+INSERT INTO artisans_urls VALUES(9663,403,'URL_TWITTER','https://twitter.com/MetroKitty_OW');
+INSERT INTO artisans_urls VALUES(9664,403,'URL_ETSY','https://www.etsy.com/people/5fb7vvmp');
 COMMIT;
