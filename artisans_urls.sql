@@ -2149,4 +2149,7 @@ INSERT INTO artisans_urls VALUES(9662,403,'URL_PRICES','https://sites.google.com
 INSERT INTO artisans_urls VALUES(9663,403,'URL_TWITTER','https://twitter.com/MetroKitty_OW');
 INSERT INTO artisans_urls VALUES(9664,403,'URL_ETSY','https://www.etsy.com/people/5fb7vvmp');
 INSERT INTO artisans_urls VALUES(9665,395,'URL_CST','https://kingbayler.wixsite.com/28ghostiez');
+INSERT INTO artisans_urls VALUES(9666,419,'URL_TWITTER','https://twitter.com/RetrieverCrafts');
+INSERT INTO artisans_urls VALUES(9667,419,'URL_INSTAGRAM','https://www.instagram.com/honey_retrieverr/');
+INSERT INTO artisans_urls VALUES(9668,419,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/other-items/retrievercrafts/125478');
 COMMIT;
