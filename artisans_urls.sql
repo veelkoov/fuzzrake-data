@@ -613,10 +613,6 @@ INSERT INTO artisans_urls VALUES(634,162,'URL_FUR_AFFINITY','http://www.furaffin
 INSERT INTO artisans_urls VALUES(635,162,'URL_TWITTER','https://twitter.com/FFAFursuits');
 INSERT INTO artisans_urls VALUES(636,162,'URL_FACEBOOK','https://www.facebook.com/FFAFursuits/');
 INSERT INTO artisans_urls VALUES(637,162,'URL_CST','https://fun-fur-all.com/how-to-order/quote/');
-INSERT INTO artisans_urls VALUES(638,163,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/hevoyic');
-INSERT INTO artisans_urls VALUES(639,163,'URL_DEVIANTART','https://www.deviantart.com/failrp');
-INSERT INTO artisans_urls VALUES(641,163,'URL_INSTAGRAM','https://www.instagram.com/hevoyic/');
-INSERT INTO artisans_urls VALUES(642,163,'URL_CST','https://trello.com/b/oz5ZdDk4/art-to-do-list');
 INSERT INTO artisans_urls VALUES(643,164,'URL_WEBSITE','https://www.kaylaskritterz.org/');
 INSERT INTO artisans_urls VALUES(644,164,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/bluewolfcheetah');
 INSERT INTO artisans_urls VALUES(645,164,'URL_DEVIANTART','https://www.deviantart.com/bluewolfcheetah');
@@ -2152,4 +2148,14 @@ INSERT INTO artisans_urls VALUES(9665,395,'URL_CST','https://kingbayler.wixsite.
 INSERT INTO artisans_urls VALUES(9666,419,'URL_TWITTER','https://twitter.com/RetrieverCrafts');
 INSERT INTO artisans_urls VALUES(9667,419,'URL_INSTAGRAM','https://www.instagram.com/honey_retrieverr/');
 INSERT INTO artisans_urls VALUES(9668,419,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/other-items/retrievercrafts/125478');
+INSERT INTO artisans_urls VALUES(9669,420,'URL_WEBSITE','https://maskedmerchant.weebly.com/');
+INSERT INTO artisans_urls VALUES(9670,420,'URL_PRICES','https://maskedmerchant.weebly.com/fursuits.html');
+INSERT INTO artisans_urls VALUES(9671,420,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/maskedmerchant');
+INSERT INTO artisans_urls VALUES(9672,420,'URL_DEVIANTART','https://www.deviantart.com/maskedmerchantz');
+INSERT INTO artisans_urls VALUES(9673,420,'URL_TWITTER','https://twitter.com/MaskedMerchantZ');
+INSERT INTO artisans_urls VALUES(9674,420,'URL_INSTAGRAM','https://www.instagram.com/maskedmerchantz/');
+INSERT INTO artisans_urls VALUES(9675,420,'URL_LINKLIST','https://linktr.ee/maskedmerchantz');
+INSERT INTO artisans_urls VALUES(9676,420,'URL_ETSY','https://www.etsy.com/shop/MaskedMerchantGoods');
+INSERT INTO artisans_urls VALUES(9677,420,'URL_QUEUE','https://trello.com/b/8NgVGch1');
+INSERT INTO artisans_urls VALUES(9678,420,'URL_CST','https://maskedmerchant.weebly.com/fursuits.html');
 COMMIT;
