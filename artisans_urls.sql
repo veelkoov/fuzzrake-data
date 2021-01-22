@@ -1664,11 +1664,11 @@ INSERT INTO artisans_urls VALUES(9172,367,'URL_INSTAGRAM','https://www.instagram
 INSERT INTO artisans_urls VALUES(9173,367,'URL_CST','https://bettasfursuitstudios.wixsite.com/mysite/commissions');
 INSERT INTO artisans_urls VALUES(9174,368,'URL_DEVIANTART','https://www.deviantart.com/saltyseasadness');
 INSERT INTO artisans_urls VALUES(9175,368,'URL_TWITTER','https://twitter.com/saltyseasadness');
-INSERT INTO artisans_urls VALUES(9176,368,'URL_INSTAGRAM','https://www.instagram.com/saltyseasuits/');
-INSERT INTO artisans_urls VALUES(9177,368,'URL_YOUTUBE','https://www.youtube.com/channel/UCcQDYPsF5h2VSz_Q_BhnQhQ');
+INSERT INTO artisans_urls VALUES(9176,368,'URL_INSTAGRAM','https://www.instagram.com/saltyseasadness/');
+INSERT INTO artisans_urls VALUES(9177,368,'URL_YOUTUBE','https://www.youtube.com/c/saltyseasadness');
 INSERT INTO artisans_urls VALUES(9178,368,'URL_QUEUE','https://trello.com/b/QkdlOLY7/fursuit-queue');
 INSERT INTO artisans_urls VALUES(9179,368,'URL_SCRITCH','https://scritch.es/makers/saltyseasadness');
-INSERT INTO artisans_urls VALUES(9180,368,'URL_CST','https://instagram.com/saltyseasuits?igshid=1xnwr6n4ujaf4');
+INSERT INTO artisans_urls VALUES(9180,368,'URL_CST','https://saltyseasadness.carrd.co/');
 INSERT INTO artisans_urls VALUES(9181,268,'URL_FAQ','https://trello.com/b/qrWj57VG/important-information');
 INSERT INTO artisans_urls VALUES(9182,268,'URL_TWITTER','https://twitter.com/Feraldesignart');
 INSERT INTO artisans_urls VALUES(9183,268,'URL_QUEUE','https://trello.com/b/S52CgNzP/feral-unicorn-fusuits-queue');
@@ -2158,4 +2158,13 @@ INSERT INTO artisans_urls VALUES(9675,420,'URL_LINKLIST','https://linktr.ee/mask
 INSERT INTO artisans_urls VALUES(9676,420,'URL_ETSY','https://www.etsy.com/shop/MaskedMerchantGoods');
 INSERT INTO artisans_urls VALUES(9677,420,'URL_QUEUE','https://trello.com/b/8NgVGch1');
 INSERT INTO artisans_urls VALUES(9678,420,'URL_CST','https://maskedmerchant.weebly.com/fursuits.html');
+INSERT INTO artisans_urls VALUES(9679,368,'URL_FURSUITREVIEW','http://fursuitreview.com/maker/saltyseasadness/');
+INSERT INTO artisans_urls VALUES(9680,368,'URL_WEBSITE','https://saltyseasadness.carrd.co/');
+INSERT INTO artisans_urls VALUES(9681,368,'URL_PRICES','https://saltyseasadness.carrd.co/#prices');
+INSERT INTO artisans_urls VALUES(9682,368,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/saltyseasadness');
+INSERT INTO artisans_urls VALUES(9683,368,'URL_TUMBLR','https://saltyseasadness.tumblr.com/');
+INSERT INTO artisans_urls VALUES(9684,368,'URL_LINKLIST','https://linktr.ee/saltyseasadness');
+INSERT INTO artisans_urls VALUES(9685,368,'URL_FURRY_AMINO','http://aminoapps.com/p/4c9jv3');
+INSERT INTO artisans_urls VALUES(9686,368,'URL_PHOTOS',replace('https://scritch.es/pictures/4b6d2b92-2d95-47f9-ab62-a15aa340462d\nhttps://scritch.es/pictures/196342be-f160-47a4-8d93-3e049cb706b5','\n',char(10)));
+INSERT INTO artisans_urls VALUES(9687,368,'URL_MINIATURES',replace('https://storage.scritch.es/scritch/17fb358c5c0c1a9bbe70614c3a1899bd210105c7/thumbnail_9d2ca435-5fde-4884-baa7-9ccbc98c6be3.jpeg\nhttps://storage.scritch.es/scritch/08c7437578a85dc7ad02d5f65a06a43f62406ecb/thumbnail_2fe1b0d3-be81-4ed6-a8e7-20c4e3b627ea.jpeg','\n',char(10)));
 COMMIT;
