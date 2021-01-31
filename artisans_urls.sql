@@ -2167,4 +2167,14 @@ INSERT INTO artisans_urls VALUES(9684,368,'URL_LINKLIST','https://linktr.ee/salt
 INSERT INTO artisans_urls VALUES(9685,368,'URL_FURRY_AMINO','http://aminoapps.com/p/4c9jv3');
 INSERT INTO artisans_urls VALUES(9686,368,'URL_PHOTOS',replace('https://scritch.es/pictures/4b6d2b92-2d95-47f9-ab62-a15aa340462d\nhttps://scritch.es/pictures/196342be-f160-47a4-8d93-3e049cb706b5','\n',char(10)));
 INSERT INTO artisans_urls VALUES(9687,368,'URL_MINIATURES',replace('https://storage.scritch.es/scritch/17fb358c5c0c1a9bbe70614c3a1899bd210105c7/thumbnail_9d2ca435-5fde-4884-baa7-9ccbc98c6be3.jpeg\nhttps://storage.scritch.es/scritch/08c7437578a85dc7ad02d5f65a06a43f62406ecb/thumbnail_2fe1b0d3-be81-4ed6-a8e7-20c4e3b627ea.jpeg','\n',char(10)));
+INSERT INTO artisans_urls VALUES(9688,421,'URL_TWITTER','https://twitter.com/Minimoise3');
+INSERT INTO artisans_urls VALUES(9689,421,'URL_INSTAGRAM','https://www.instagram.com/mini_moise3/');
+INSERT INTO artisans_urls VALUES(9690,421,'URL_FURRY_AMINO','http://aminoapps.com/p/6axyx0');
+INSERT INTO artisans_urls VALUES(9691,421,'URL_QUEUE','https://trello.com/b/Hf2HcuRA/free-time-fursuits');
+INSERT INTO artisans_urls VALUES(9692,421,'URL_CST','https://twitter.com/Minimoise3');
+INSERT INTO artisans_urls VALUES(9693,422,'URL_WEBSITE','https://wolfendoecreations.weebly.com/');
+INSERT INTO artisans_urls VALUES(9694,422,'URL_PRICES','https://wolfendoecreations.weebly.com/pricing.html');
+INSERT INTO artisans_urls VALUES(9695,422,'URL_INSTAGRAM','https://www.instagram.com/Wolfen_Doe_Creations/');
+INSERT INTO artisans_urls VALUES(9696,422,'URL_SCRITCH','https://scritch.es/wolfendoecreations');
+INSERT INTO artisans_urls VALUES(9697,422,'URL_CST','https://wolfendoecreations.weebly.com/sales.html');
 COMMIT;
