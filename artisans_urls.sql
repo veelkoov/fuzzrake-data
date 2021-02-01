@@ -2175,6 +2175,6 @@ INSERT INTO artisans_urls VALUES(9692,421,'URL_CST','https://twitter.com/Minimoi
 INSERT INTO artisans_urls VALUES(9693,422,'URL_WEBSITE','https://wolfendoecreations.weebly.com/');
 INSERT INTO artisans_urls VALUES(9694,422,'URL_PRICES','https://wolfendoecreations.weebly.com/pricing.html');
 INSERT INTO artisans_urls VALUES(9695,422,'URL_INSTAGRAM','https://www.instagram.com/Wolfen_Doe_Creations/');
-INSERT INTO artisans_urls VALUES(9696,422,'URL_SCRITCH','https://scritch.es/wolfendoecreations');
-INSERT INTO artisans_urls VALUES(9697,422,'URL_CST','https://wolfendoecreations.weebly.com/sales.html');
+INSERT INTO artisans_urls VALUES(9696,422,'URL_SCRITCH','https://scritch.es/makers/wolfen-doe-creations');
+INSERT INTO artisans_urls VALUES(9697,422,'URL_CST','https://scritch.es/makers/wolfen-doe-creations');
 COMMIT;
