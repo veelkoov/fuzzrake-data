@@ -132,10 +132,10 @@ INSERT INTO artisans_urls VALUES(132,27,'URL_CST','https://twitter.com/StreifenS
 INSERT INTO artisans_urls VALUES(133,28,'URL_FURSUITREVIEW','http://fursuitreview.com/maker/blue-fox-fursuits/');
 INSERT INTO artisans_urls VALUES(134,28,'URL_WEBSITE','https://www.bf-fursuits.com/');
 INSERT INTO artisans_urls VALUES(135,28,'URL_TWITTER','https://twitter.com/BlueFoxFursuits');
-INSERT INTO artisans_urls VALUES(136,29,'URL_WEBSITE','https://selkiesuits.co.uk');
+INSERT INTO artisans_urls VALUES(136,29,'URL_WEBSITE','https://selkiesuits.co.uk/');
 INSERT INTO artisans_urls VALUES(137,29,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/fixitfursuits');
 INSERT INTO artisans_urls VALUES(138,29,'URL_TWITTER','https://twitter.com/selkiesuits');
-INSERT INTO artisans_urls VALUES(139,29,'URL_FACEBOOK','https://www.facebook.com/selkiesuits');
+INSERT INTO artisans_urls VALUES(139,29,'URL_FACEBOOK','https://www.facebook.com/selkiesuits/');
 INSERT INTO artisans_urls VALUES(140,29,'URL_INSTAGRAM','https://www.instagram.com/selkiesuits/');
 INSERT INTO artisans_urls VALUES(141,29,'URL_YOUTUBE','https://www.youtube.com/user/fimiller');
 INSERT INTO artisans_urls VALUES(142,29,'URL_QUEUE','https://trello.com/b/KgjclDep/selkie-suits-public-commission-access');
