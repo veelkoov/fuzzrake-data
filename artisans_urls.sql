@@ -1795,7 +1795,7 @@ INSERT INTO artisans_urls VALUES(9308,382,'URL_TWITTER','https://twitter.com/fri
 INSERT INTO artisans_urls VALUES(9309,382,'URL_INSTAGRAM','https://www.instagram.com/frilledlizardstudios/');
 INSERT INTO artisans_urls VALUES(9310,382,'URL_YOUTUBE','https://www.youtube.com/channel/UCWAssBqge4AVjwvz3Ic2UPg');
 INSERT INTO artisans_urls VALUES(9311,383,'URL_FUR_AFFINITY','http://www.furaffinity.net/user/guirla');
-INSERT INTO artisans_urls VALUES(9312,383,'URL_TWITTER','https://twitter.com/guirla13');
+INSERT INTO artisans_urls VALUES(9312,383,'URL_TWITTER','https://twitter.com/de_pattes');
 INSERT INTO artisans_urls VALUES(9313,384,'URL_WEBSITE','https://www.aeluromancy.com/');
 INSERT INTO artisans_urls VALUES(9314,384,'URL_PRICES','https://www.aeluromancy.com/fursuits/pricing');
 INSERT INTO artisans_urls VALUES(9315,384,'URL_TWITTER','https://twitter.com/aeluromancyarts');
@@ -2177,4 +2177,19 @@ INSERT INTO artisans_urls VALUES(9694,422,'URL_PRICES','https://wolfendoecreatio
 INSERT INTO artisans_urls VALUES(9695,422,'URL_INSTAGRAM','https://www.instagram.com/Wolfen_Doe_Creations/');
 INSERT INTO artisans_urls VALUES(9696,422,'URL_SCRITCH','https://scritch.es/makers/wolfen-doe-creations');
 INSERT INTO artisans_urls VALUES(9697,422,'URL_CST','https://scritch.es/makers/wolfen-doe-creations');
+INSERT INTO artisans_urls VALUES(9698,423,'URL_WEBSITE','https://sites.google.com/view/sneakydinostudios/home');
+INSERT INTO artisans_urls VALUES(9699,423,'URL_PRICES','https://sites.google.com/view/sneakydinostudios/fursuit-prices');
+INSERT INTO artisans_urls VALUES(9700,423,'URL_FAQ','https://sites.google.com/view/sneakydinostudios/faq');
+INSERT INTO artisans_urls VALUES(9701,423,'URL_INSTAGRAM','https://www.instagram.com/sneaky_dino_studios/');
+INSERT INTO artisans_urls VALUES(9702,423,'URL_YOUTUBE','https://www.youtube.com/channel/UCxiFToLBCSPjyv1g9Q4CfaQ');
+INSERT INTO artisans_urls VALUES(9703,383,'URL_INSTAGRAM','https://www.instagram.com/missguirla/');
+INSERT INTO artisans_urls VALUES(9704,383,'URL_LINKLIST','https://linktr.ee/Guirla');
+INSERT INTO artisans_urls VALUES(9705,383,'URL_ETSY','https://www.etsy.com/shop/PattesDeLapin');
+INSERT INTO artisans_urls VALUES(9706,383,'URL_QUEUE','https://trello.com/b/tqyNvHd1');
+INSERT INTO artisans_urls VALUES(9707,383,'URL_SCRITCH','https://scritch.es/makers/pattes-de-lapin');
+INSERT INTO artisans_urls VALUES(9708,424,'URL_WEBSITE','https://kryptidkreations.weebly.com/');
+INSERT INTO artisans_urls VALUES(9709,424,'URL_PRICES','https://kryptidkreations.weebly.com/fursuit-prices.html');
+INSERT INTO artisans_urls VALUES(9710,424,'URL_FAQ','https://kryptidkreations.weebly.com/tos.html');
+INSERT INTO artisans_urls VALUES(9711,424,'URL_TWITTER','https://twitter.com/vulcantanymore');
+INSERT INTO artisans_urls VALUES(9712,424,'URL_CST','https://kryptidkreations.weebly.com/ordering.html');
 COMMIT;
