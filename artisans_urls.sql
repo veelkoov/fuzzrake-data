@@ -2192,4 +2192,9 @@ INSERT INTO artisans_urls VALUES(9709,424,'URL_PRICES','https://kryptidkreations
 INSERT INTO artisans_urls VALUES(9710,424,'URL_FAQ','https://kryptidkreations.weebly.com/tos.html');
 INSERT INTO artisans_urls VALUES(9711,424,'URL_TWITTER','https://twitter.com/vulcantanymore');
 INSERT INTO artisans_urls VALUES(9712,424,'URL_CST','https://kryptidkreations.weebly.com/ordering.html');
+INSERT INTO artisans_urls VALUES(9713,137,'URL_YOUTUBE','https://www.youtube.com/channel/UCD7W8zIT8VKU2T6lNnj9PjA');
+INSERT INTO artisans_urls VALUES(9714,137,'URL_LINKLIST','https://linktr.ee/curlworkskigus');
+INSERT INTO artisans_urls VALUES(9715,137,'URL_OTHER','https://www.tiktok.com/@curlworkskigus');
+INSERT INTO artisans_urls VALUES(9716,225,'URL_PRICES','https://www.furaffinity.net/view/32850481/');
+INSERT INTO artisans_urls VALUES(9717,225,'URL_QUEUE','https://trello.com/b/Z3yJgcWd/creatury-projects');
 COMMIT;
