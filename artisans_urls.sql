@@ -2236,4 +2236,5 @@ INSERT INTO artisans_urls VALUES(9753,428,'URL_FURRY_AMINO','https://aminoapps.c
 INSERT INTO artisans_urls VALUES(9754,428,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/other-items/angel_tigress/107836');
 INSERT INTO artisans_urls VALUES(9755,428,'URL_QUEUE','https://www.angeltigress.com/order-queue/');
 INSERT INTO artisans_urls VALUES(9756,428,'URL_CST','https://www.angeltigress.com/price/');
+INSERT INTO artisans_urls VALUES(9757,414,'URL_CST','https://twitter.com/addicts_pink');
 COMMIT;
