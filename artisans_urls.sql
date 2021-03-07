@@ -2241,4 +2241,7 @@ INSERT INTO artisans_urls VALUES(9758,429,'URL_WEBSITE','https://darkclifffurs.w
 INSERT INTO artisans_urls VALUES(9759,429,'URL_INSTAGRAM','https://www.instagram.com/thebamboocookie/');
 INSERT INTO artisans_urls VALUES(9760,429,'URL_ETSY','https://www.etsy.com/de/shop/DarkcliffFurs');
 INSERT INTO artisans_urls VALUES(9761,429,'URL_CST','https://darkclifffurs.wixsite.com/darkcliff-furs');
+INSERT INTO artisans_urls VALUES(9762,356,'URL_FURSUITREVIEW','http://fursuitreview.com/maker/yeenbug-studio/');
+INSERT INTO artisans_urls VALUES(9763,356,'URL_TWITTER','https://twitter.com/yeenbug');
+INSERT INTO artisans_urls VALUES(9764,356,'URL_LINKLIST','https://linktr.ee/yeenbug');
 COMMIT;
