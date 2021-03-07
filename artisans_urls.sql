@@ -2237,4 +2237,8 @@ INSERT INTO artisans_urls VALUES(9754,428,'URL_THE_DEALERS_DEN','https://www.the
 INSERT INTO artisans_urls VALUES(9755,428,'URL_QUEUE','https://www.angeltigress.com/order-queue/');
 INSERT INTO artisans_urls VALUES(9756,428,'URL_CST','https://www.angeltigress.com/price/');
 INSERT INTO artisans_urls VALUES(9757,414,'URL_CST','https://twitter.com/addicts_pink');
+INSERT INTO artisans_urls VALUES(9758,429,'URL_WEBSITE','https://darkclifffurs.wixsite.com/darkcliff-furs');
+INSERT INTO artisans_urls VALUES(9759,429,'URL_INSTAGRAM','https://www.instagram.com/thebamboocookie/');
+INSERT INTO artisans_urls VALUES(9760,429,'URL_ETSY','https://www.etsy.com/de/shop/DarkcliffFurs');
+INSERT INTO artisans_urls VALUES(9761,429,'URL_CST','https://darkclifffurs.wixsite.com/darkcliff-furs');
 COMMIT;
