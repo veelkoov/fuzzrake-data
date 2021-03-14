@@ -153,7 +153,7 @@ INSERT INTO artisans_urls VALUES(153,34,'URL_TWITTER','https://twitter.com/artem
 INSERT INTO artisans_urls VALUES(154,34,'URL_CST','https://twitter.com/ArtemisBobcat');
 INSERT INTO artisans_urls VALUES(155,35,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/artslave/');
 INSERT INTO artisans_urls VALUES(156,35,'URL_QUEUE','https://trello.com/b/I7LWTibY/work-listup-to-date-always');
-INSERT INTO artisans_urls VALUES(157,35,'URL_CST','https://www.furaffinity.net/user/artslave/');
+INSERT INTO artisans_urls VALUES(157,35,'URL_CST','https://trello.com/b/I7LWTibY/work-listup-to-date-always');
 INSERT INTO artisans_urls VALUES(158,36,'URL_FURSUITREVIEW','http://fursuitreview.com/maker/multicolor-bark/');
 INSERT INTO artisans_urls VALUES(159,36,'URL_WEBSITE','https://www.multicolorbark.com/');
 INSERT INTO artisans_urls VALUES(160,36,'URL_TWITTER','https://twitter.com/MulticolorBark');
@@ -2244,4 +2244,9 @@ INSERT INTO artisans_urls VALUES(9761,429,'URL_CST','https://darkclifffurs.wixsi
 INSERT INTO artisans_urls VALUES(9762,356,'URL_FURSUITREVIEW','http://fursuitreview.com/maker/yeenbug-studio/');
 INSERT INTO artisans_urls VALUES(9763,356,'URL_TWITTER','https://twitter.com/yeenbug');
 INSERT INTO artisans_urls VALUES(9764,356,'URL_LINKLIST','https://linktr.ee/yeenbug');
+INSERT INTO artisans_urls VALUES(9765,35,'URL_WEBSITE','http://artslave.me/');
+INSERT INTO artisans_urls VALUES(9766,35,'URL_PRICES','https://form.jotform.com/70656090525153');
+INSERT INTO artisans_urls VALUES(9767,35,'URL_FAQ','https://www.furaffinity.net/journal/3231499/');
+INSERT INTO artisans_urls VALUES(9768,35,'URL_INSTAGRAM','https://www.instagram.com/artslavefursuits/');
+INSERT INTO artisans_urls VALUES(9769,35,'URL_SCRITCH','https://scritch.es/makers/artslave');
 COMMIT;
