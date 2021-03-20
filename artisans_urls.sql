@@ -2256,4 +2256,13 @@ INSERT INTO artisans_urls VALUES(9773,430,'URL_THE_DEALERS_DEN','https://www.the
 INSERT INTO artisans_urls VALUES(9774,430,'URL_SCRITCH','https://scritch.es/Sunblightstudios');
 INSERT INTO artisans_urls VALUES(9775,430,'URL_PHOTOS',replace('https://scritch.es/pictures/8620b379-068b-474a-bfc0-4a6cc09a6d5f\nhttps://scritch.es/pictures/4b705078-d202-468a-93ec-6690c6b45916\nhttps://scritch.es/pictures/59920c84-7b0e-42be-bf87-f984ddf97d8b\nhttps://scritch.es/pictures/c8d1d8f8-306e-46d7-ada9-89e74900aff3\nhttps://scritch.es/pictures/df242940-805d-4f43-aff6-7705b9eb287b','\n',char(10)));
 INSERT INTO artisans_urls VALUES(9776,430,'URL_MINIATURES',replace('https://storage.scritch.es/scritch/ef14eb55e4e58f46dc35096321302cef56ea04a9/thumbnail_6bbd368a-caee-4a0b-a49b-15b6b1996923.jpeg\nhttps://storage.scritch.es/scritch/5740d7de1b70ce5c00eb7f42098816b4734681f5/thumbnail_363d2262-e15d-4306-af0b-16d845b578a7.jpeg\nhttps://storage.scritch.es/scritch/d5b1e5fa521fd8058c4aab468d76e568dad30323/thumbnail_9099d38e-d0ee-45cf-bd43-c88d15f4ba8f.jpeg\nhttps://storage.scritch.es/scritch/692205589e20bdfcdb238e123f202112639d197b/thumbnail_e8f1c5fa-3b24-4991-a0ce-733e0d055a2e.jpeg\nhttps://storage.scritch.es/scritch/d549368af493858716d568b1c449a3c992722731/thumbnail_14530eca-bfa1-4248-ae18-57258be1de92.jpeg','\n',char(10)));
+INSERT INTO artisans_urls VALUES(9777,431,'URL_WEBSITE','https://questfursaplings.weebly.com/');
+INSERT INTO artisans_urls VALUES(9778,431,'URL_PRICES','https://questfursaplings.weebly.com/f-pricing.html');
+INSERT INTO artisans_urls VALUES(9779,431,'URL_FAQ','https://questfursaplings.weebly.com/f-faq.html');
+INSERT INTO artisans_urls VALUES(9780,431,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/elfinstray/');
+INSERT INTO artisans_urls VALUES(9781,431,'URL_TWITTER','https://twitter.com/ElfinStray');
+INSERT INTO artisans_urls VALUES(9782,431,'URL_FACEBOOK','https://www.facebook.com/QuestFurSaplings/');
+INSERT INTO artisans_urls VALUES(9783,431,'URL_YOUTUBE','https://www.youtube.com/channel/UCan4n3ggyQkIQvmxOe2oa2w');
+INSERT INTO artisans_urls VALUES(9784,431,'URL_QUEUE','https://questfursaplings.weebly.com/c-queue.html');
+INSERT INTO artisans_urls VALUES(9785,431,'URL_CST','https://questfursaplings.weebly.com/c-physical-creation.html');
 COMMIT;
