@@ -450,7 +450,7 @@ INSERT INTO artisans_urls VALUES(464,132,'URL_DEVIANTART','https://urboros.devia
 INSERT INTO artisans_urls VALUES(465,132,'URL_TWITTER','https://twitter.com/Urboros');
 INSERT INTO artisans_urls VALUES(466,132,'URL_CST','https://www.furaffinity.net/user/rhee/');
 INSERT INTO artisans_urls VALUES(467,133,'URL_TWITTER','https://twitter.com/ZappBEASTcustom');
-INSERT INTO artisans_urls VALUES(468,134,'URL_WEBSITE','https://fuzzyfurcreations.wixsite.com/home');
+INSERT INTO artisans_urls VALUES(468,134,'URL_WEBSITE','https://fuzzyfurcreations.com/');
 INSERT INTO artisans_urls VALUES(469,134,'URL_TWITTER','https://twitter.com/Dearly_Doo');
 INSERT INTO artisans_urls VALUES(470,134,'URL_FACEBOOK','https://www.facebook.com/fuzzyfurcreations/');
 INSERT INTO artisans_urls VALUES(471,134,'URL_INSTAGRAM','https://www.instagram.com/fuzzyfurcreations/');
@@ -2279,4 +2279,9 @@ INSERT INTO artisans_urls VALUES(9799,434,'URL_LINKLIST','https://linktr.ee/puzz
 INSERT INTO artisans_urls VALUES(9800,434,'URL_ETSY','https://www.etsy.com/people/orgm1id7');
 INSERT INTO artisans_urls VALUES(9801,434,'URL_OTHER','https://toyhou.se/puzzled_shark');
 INSERT INTO artisans_urls VALUES(9802,433,'URL_MINIATURES',replace('https://orca.furtrack.com/gallery/sample/55605-8ee6c80d707f78f67bcf17830d539649.jpg\nhttps://orca.furtrack.com/gallery/sample/55602-5addacd5604a920c18d175445b69d8a3.jpg\nhttps://orca.furtrack.com/gallery/sample/55603-df8f3cfee58b52e42419fe425de81b91.jpg\nhttps://orca.furtrack.com/gallery/sample/55601-7e422c9f6f63e010cb88c9397e70ed28.jpg','\n',char(10)));
+INSERT INTO artisans_urls VALUES(9803,134,'URL_PRICES','https://fuzzyfurcreations.wixsite.com/home/prices');
+INSERT INTO artisans_urls VALUES(9804,134,'URL_FAQ','https://fuzzyfurcreations.wixsite.com/home/faq');
+INSERT INTO artisans_urls VALUES(9805,134,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/dearlydoo/');
+INSERT INTO artisans_urls VALUES(9806,134,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/display-feedback/fuzzyfurcreations');
+INSERT INTO artisans_urls VALUES(9807,134,'URL_SCRITCH','https://scritch.es/makers/fuzzy-fur-creations');
 COMMIT;
