@@ -2284,4 +2284,15 @@ INSERT INTO artisans_urls VALUES(9804,134,'URL_FAQ','https://fuzzyfurcreations.w
 INSERT INTO artisans_urls VALUES(9805,134,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/dearlydoo/');
 INSERT INTO artisans_urls VALUES(9806,134,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/display-feedback/fuzzyfurcreations');
 INSERT INTO artisans_urls VALUES(9807,134,'URL_SCRITCH','https://scritch.es/makers/fuzzy-fur-creations');
+INSERT INTO artisans_urls VALUES(9808,435,'URL_WEBSITE','https://kittykaijuworks.wixsite.com/fursuit');
+INSERT INTO artisans_urls VALUES(9809,435,'URL_PRICES','https://kittykaijuworks.wixsite.com/fursuit/prices');
+INSERT INTO artisans_urls VALUES(9810,435,'URL_DEVIANTART','https://www.deviantart.com/fullsuitedglory');
+INSERT INTO artisans_urls VALUES(9811,435,'URL_TWITTER','https://twitter.com/achookitty');
+INSERT INTO artisans_urls VALUES(9812,435,'URL_FACEBOOK','https://www.facebook.com/kittykaijuworks/');
+INSERT INTO artisans_urls VALUES(9813,435,'URL_INSTAGRAM','https://www.instagram.com/kittykaijuworks/');
+INSERT INTO artisans_urls VALUES(9814,435,'URL_YOUTUBE','https://www.youtube.com/channel/UCZZBfoPPxq7FuZ3PWOLuHbQ');
+INSERT INTO artisans_urls VALUES(9815,435,'URL_LINKLIST','https://linktr.ee/KittyKaijuWorks');
+INSERT INTO artisans_urls VALUES(9816,435,'URL_QUEUE','https://trello.com/b/t927R2nG/fursuit-commissions-projects');
+INSERT INTO artisans_urls VALUES(9817,435,'URL_OTHER',replace('https://www.redbubble.com/people/KittyKaijuWorks/shop?asc=u\nhttps://www.tiktok.com/@fullsuitedglory?lang=en','\n',char(10)));
+INSERT INTO artisans_urls VALUES(9818,435,'URL_CST','https://twitter.com/achookitty');
 COMMIT;
