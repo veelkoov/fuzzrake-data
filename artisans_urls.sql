@@ -2285,4 +2285,11 @@ INSERT INTO artisans_urls VALUES(9816,435,'URL_QUEUE','https://trello.com/b/t927
 INSERT INTO artisans_urls VALUES(9817,435,'URL_OTHER',replace('https://www.redbubble.com/people/KittyKaijuWorks/shop?asc=u\nhttps://www.tiktok.com/@fullsuitedglory?lang=en','\n',char(10)));
 INSERT INTO artisans_urls VALUES(9818,435,'URL_CST','https://twitter.com/achookitty');
 INSERT INTO artisans_urls VALUES(9819,324,'URL_TWITTER','https://twitter.com/DrakainaC');
+INSERT INTO artisans_urls VALUES(9820,436,'URL_WEBSITE','https://www.starcanearts.com/');
+INSERT INTO artisans_urls VALUES(9821,436,'URL_PRICES','https://www.starcanearts.com/pricing');
+INSERT INTO artisans_urls VALUES(9822,436,'URL_DEVIANTART','https://www.deviantart.com/starcanearts');
+INSERT INTO artisans_urls VALUES(9823,436,'URL_TWITTER','https://twitter.com/StarcaneArts');
+INSERT INTO artisans_urls VALUES(9824,436,'URL_INSTAGRAM','https://www.instagram.com/starcanearts/');
+INSERT INTO artisans_urls VALUES(9825,436,'URL_QUEUE','https://trello.com/b/Al4t6QxW/starcane-arts-queue');
+INSERT INTO artisans_urls VALUES(9826,436,'URL_CST','https://www.starcanearts.com/pricing');
 COMMIT;
