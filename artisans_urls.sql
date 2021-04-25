@@ -2292,4 +2292,18 @@ INSERT INTO artisans_urls VALUES(9823,436,'URL_TWITTER','https://twitter.com/Sta
 INSERT INTO artisans_urls VALUES(9824,436,'URL_INSTAGRAM','https://www.instagram.com/starcanearts/');
 INSERT INTO artisans_urls VALUES(9825,436,'URL_QUEUE','https://trello.com/b/Al4t6QxW/starcane-arts-queue');
 INSERT INTO artisans_urls VALUES(9826,436,'URL_CST','https://www.starcanearts.com/pricing');
+INSERT INTO artisans_urls VALUES(9827,437,'URL_WEBSITE','https://runawayworkshop.com/');
+INSERT INTO artisans_urls VALUES(9828,437,'URL_PRICES','https://runawayworkshop.com/pages/custom-fursuits-and-parts-pricing');
+INSERT INTO artisans_urls VALUES(9829,437,'URL_TWITTER','https://twitter.com/AW_Runaway');
+INSERT INTO artisans_urls VALUES(9830,437,'URL_INSTAGRAM','https://www.instagram.com/adele_of_runaway/');
+INSERT INTO artisans_urls VALUES(9831,437,'URL_YOUTUBE','https://www.youtube.com/channel/UC9oI5qJ4aRmWN5sfvaQ_nsQ');
+INSERT INTO artisans_urls VALUES(9832,437,'URL_ETSY','https://www.etsy.com/shop/RunawayWorkshop');
+INSERT INTO artisans_urls VALUES(9833,438,'URL_PRICES','https://docs.google.com/document/d/1rTG7lp1ObPzZdn0ze5iYa4HAzESYo36-bJqpmvmEhg0/edit?usp=sharing');
+INSERT INTO artisans_urls VALUES(9834,438,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/abyssalkei/');
+INSERT INTO artisans_urls VALUES(9835,438,'URL_DEVIANTART','https://www.deviantart.com/katserura');
+INSERT INTO artisans_urls VALUES(9836,438,'URL_TWITTER','https://twitter.com/abyssalkei');
+INSERT INTO artisans_urls VALUES(9837,438,'URL_FACEBOOK','https://www.facebook.com/abyssalkrafting/');
+INSERT INTO artisans_urls VALUES(9838,438,'URL_INSTAGRAM','https://www.instagram.com/abyssalkei/');
+INSERT INTO artisans_urls VALUES(9839,438,'URL_ETSY','https://www.etsy.com/shop/AbyssalKrafting');
+INSERT INTO artisans_urls VALUES(9840,438,'URL_QUEUE','https://trello.com/b/SIj7Ag5d/abyssal-commissions');
 COMMIT;
