@@ -2306,4 +2306,10 @@ INSERT INTO artisans_urls VALUES(9837,438,'URL_FACEBOOK','https://www.facebook.c
 INSERT INTO artisans_urls VALUES(9838,438,'URL_INSTAGRAM','https://www.instagram.com/abyssalkei/');
 INSERT INTO artisans_urls VALUES(9839,438,'URL_ETSY','https://www.etsy.com/shop/AbyssalKrafting');
 INSERT INTO artisans_urls VALUES(9840,438,'URL_QUEUE','https://trello.com/b/SIj7Ag5d/abyssal-commissions');
+INSERT INTO artisans_urls VALUES(9841,439,'URL_WEBSITE','https://www.facebook.com/Arm-and-a-leg-fursuit-432777497525053/');
+INSERT INTO artisans_urls VALUES(9842,439,'URL_PRICES','https://docs.google.com/document/d/15aAEpdrlNqNhzh7gBe1tcgsdloT_p_wG6Ohh2luiBNg/edit');
+INSERT INTO artisans_urls VALUES(9843,439,'URL_FACEBOOK','https://www.facebook.com/Arm-and-a-leg-fursuit-432777497525053/');
+INSERT INTO artisans_urls VALUES(9844,439,'URL_ETSY','https://www.etsy.com/shop/ArmAndALegfursuit');
+INSERT INTO artisans_urls VALUES(9845,439,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/arm-and-a-leg-fursuit');
+INSERT INTO artisans_urls VALUES(9846,439,'URL_CST','https://www.facebook.com/Arm-and-a-leg-fursuit-432777497525053/');
 COMMIT;
