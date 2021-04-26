@@ -2203,7 +2203,7 @@ INSERT INTO artisans_urls VALUES(9734,426,'URL_FACEBOOK','https://www.facebook.c
 INSERT INTO artisans_urls VALUES(9735,426,'URL_INSTAGRAM','https://www.instagram.com/tapapat_creations/');
 INSERT INTO artisans_urls VALUES(9736,426,'URL_ETSY','https://www.etsy.com/shop/TapapatCreations');
 INSERT INTO artisans_urls VALUES(9737,426,'URL_CST','https://tapapatcreations.com/');
-INSERT INTO artisans_urls VALUES(9738,376,'URL_ETSY','https://www.etsy.com/uk/shop/NyxiaCreations');
+INSERT INTO artisans_urls VALUES(9738,376,'URL_ETSY','https://www.etsy.com/shop/NyxiaCreations');
 INSERT INTO artisans_urls VALUES(9739,427,'URL_WEBSITE','https://www.metalwuffworks.com/');
 INSERT INTO artisans_urls VALUES(9740,427,'URL_PRICES','https://www.howlmetalhorrors.com/pricing');
 INSERT INTO artisans_urls VALUES(9741,427,'URL_FAQ','https://www.howlmetalhorrors.com/tos');
