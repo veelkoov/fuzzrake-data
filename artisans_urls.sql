@@ -50,7 +50,6 @@ INSERT INTO artisans_urls VALUES(46,9,'URL_CST','http://www.fursuitup.com/');
 INSERT INTO artisans_urls VALUES(47,10,'URL_FURSUITREVIEW','http://fursuitreview.com/maker/suecreations/');
 INSERT INTO artisans_urls VALUES(49,11,'URL_FURSUITREVIEW','http://fursuitreview.com/maker/alpha-dogs/');
 INSERT INTO artisans_urls VALUES(50,11,'URL_WEBSITE','https://alphadogs.dk/');
-INSERT INTO artisans_urls VALUES(51,11,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/alphadogs/');
 INSERT INTO artisans_urls VALUES(52,11,'URL_TWITTER','https://twitter.com/alphadogsstudio');
 INSERT INTO artisans_urls VALUES(53,11,'URL_QUEUE','https://trello.com/b/3yp12BT1/alpha-dogs-studio-queue');
 INSERT INTO artisans_urls VALUES(54,11,'URL_CST','https://twitter.com/AlphaDogsStudio');
@@ -2312,4 +2311,6 @@ INSERT INTO artisans_urls VALUES(9843,439,'URL_FACEBOOK','https://www.facebook.c
 INSERT INTO artisans_urls VALUES(9844,439,'URL_ETSY','https://www.etsy.com/shop/ArmAndALegfursuit');
 INSERT INTO artisans_urls VALUES(9845,439,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/arm-and-a-leg-fursuit');
 INSERT INTO artisans_urls VALUES(9846,439,'URL_CST','https://www.facebook.com/Arm-and-a-leg-fursuit-432777497525053/');
+INSERT INTO artisans_urls VALUES(9847,11,'URL_PRICES','https://alphadogs.dk/');
+INSERT INTO artisans_urls VALUES(9848,11,'URL_YOUTUBE','https://www.youtube.com/c/AlphaDogsStudio');
 COMMIT;
