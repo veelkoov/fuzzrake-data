@@ -2331,4 +2331,6 @@ INSERT INTO artisans_urls VALUES(9863,441,'URL_INSTAGRAM','https://www.instagram
 INSERT INTO artisans_urls VALUES(9864,441,'URL_LINKLIST','https://linktr.ee/alecrimcarmim');
 INSERT INTO artisans_urls VALUES(9865,441,'URL_QUEUE','https://trello.com/b/yx3Cyh0o/2021-queue');
 INSERT INTO artisans_urls VALUES(9866,441,'URL_CST','https://www.instagram.com/alecrimcarmim/');
+INSERT INTO artisans_urls VALUES(9867,442,'URL_TWITTER','https://twitter.com/MakeAFur');
+INSERT INTO artisans_urls VALUES(9868,442,'URL_INSTAGRAM','https://www.instagram.com/makeafur/');
 COMMIT;
