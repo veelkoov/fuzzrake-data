@@ -816,13 +816,13 @@ INSERT INTO artisans_urls VALUES(863,202,'URL_FUR_AFFINITY','https://www.furaffi
 INSERT INTO artisans_urls VALUES(864,202,'URL_DEVIANTART','https://www.deviantart.com/thefurcollective');
 INSERT INTO artisans_urls VALUES(865,202,'URL_TWITTER','https://twitter.com/furcollective');
 INSERT INTO artisans_urls VALUES(866,203,'URL_WEBSITE','https://2stupidfurs.weebly.com/');
-INSERT INTO artisans_urls VALUES(867,203,'URL_PRICES','https://2stupidfurs.weebly.com/prices---quote-forms---deals.html');
+INSERT INTO artisans_urls VALUES(867,203,'URL_PRICES','https://2stupidfurs.weebly.com/prices---quote-forms---tos.html');
 INSERT INTO artisans_urls VALUES(868,203,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/2stupidfurs/');
 INSERT INTO artisans_urls VALUES(869,203,'URL_TWITTER','https://twitter.com/2stupidfurs');
 INSERT INTO artisans_urls VALUES(870,203,'URL_FACEBOOK','https://www.facebook.com/2StupidFurs/');
 INSERT INTO artisans_urls VALUES(871,203,'URL_YOUTUBE','https://www.youtube.com/channel/UC1cJ6VB6V16tsXFQ-7vVd1g');
 INSERT INTO artisans_urls VALUES(872,203,'URL_QUEUE','https://2stupidfurs.weebly.com/queue.html');
-INSERT INTO artisans_urls VALUES(873,203,'URL_CST','https://2stupidfurs.weebly.com/prices---quote-forms---deals.html');
+INSERT INTO artisans_urls VALUES(873,203,'URL_CST','https://2stupidfurs.weebly.com/prices---quote-forms---tos.html');
 INSERT INTO artisans_urls VALUES(875,204,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/Takumori/');
 INSERT INTO artisans_urls VALUES(876,205,'URL_WEBSITE','https://lazyleopard.ca/');
 INSERT INTO artisans_urls VALUES(877,205,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/lazyleopard/');
