@@ -2360,4 +2360,13 @@ INSERT INTO artisans_urls VALUES(9892,446,'URL_INSTAGRAM','https://www.instagram
 INSERT INTO artisans_urls VALUES(9893,446,'URL_YOUTUBE','https://www.youtube.com/channel/UCZl0pYJxE95ujk58jLqL0lA');
 INSERT INTO artisans_urls VALUES(9894,446,'URL_QUEUE','https://trello.com/b/jcooluOK/current-projects');
 INSERT INTO artisans_urls VALUES(9895,446,'URL_CST','https://www.kemonokapi.com/');
+INSERT INTO artisans_urls VALUES(9896,319,'URL_ETSY','https://www.etsy.com/shop/SpaceyCatCreations');
+INSERT INTO artisans_urls VALUES(9897,319,'URL_QUEUE','https://trello.com/b/DFOyybWi/current-list');
+INSERT INTO artisans_urls VALUES(9898,447,'URL_WEBSITE','https://rudebirdstudios.carrd.co/');
+INSERT INTO artisans_urls VALUES(9899,447,'URL_PRICES','https://docs.google.com/spreadsheets/d/1PqCIyna2MQGOqSmc8F7M5S8OSjiijTMhMu2iqo6_kQI/edit?usp=sharing');
+INSERT INTO artisans_urls VALUES(9900,447,'URL_TWITTER','https://twitter.com/rudebirdstudios');
+INSERT INTO artisans_urls VALUES(9901,447,'URL_QUEUE','https://trello.com/b/wk0SoyCt/rude-birds-commissions');
+INSERT INTO artisans_urls VALUES(9902,448,'URL_TWITTER','https://twitter.com/tws_fursuits');
+INSERT INTO artisans_urls VALUES(9903,448,'URL_INSTAGRAM','https://www.instagram.com/threadsworkshop/');
+INSERT INTO artisans_urls VALUES(9904,448,'URL_QUEUE','https://trello.com/b/6StKU6R0/threads-workshop-queue');
 COMMIT;
