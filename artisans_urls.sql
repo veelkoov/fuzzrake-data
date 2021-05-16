@@ -2369,4 +2369,11 @@ INSERT INTO artisans_urls VALUES(9901,447,'URL_QUEUE','https://trello.com/b/wk0S
 INSERT INTO artisans_urls VALUES(9902,448,'URL_TWITTER','https://twitter.com/tws_fursuits');
 INSERT INTO artisans_urls VALUES(9903,448,'URL_INSTAGRAM','https://www.instagram.com/threadsworkshop/');
 INSERT INTO artisans_urls VALUES(9904,448,'URL_QUEUE','https://trello.com/b/6StKU6R0/threads-workshop-queue');
+INSERT INTO artisans_urls VALUES(9905,449,'URL_FURSUITREVIEW','https://fursuitreview.com/maker/pajama-cat-studio/');
+INSERT INTO artisans_urls VALUES(9906,449,'URL_WEBSITE','https://www.pjcatstudio.com/');
+INSERT INTO artisans_urls VALUES(9907,449,'URL_PRICES','https://www.pjcatstudio.com/prices');
+INSERT INTO artisans_urls VALUES(9908,449,'URL_FAQ','https://www.pjcatstudio.com/how-to-commission');
+INSERT INTO artisans_urls VALUES(9909,449,'URL_TWITTER','https://twitter.com/PJCatStudio');
+INSERT INTO artisans_urls VALUES(9910,449,'URL_QUEUE','https://trello.com/b/FwzOA1Ib/pjcat-fursuit-queue');
+INSERT INTO artisans_urls VALUES(9911,449,'URL_SCRITCH','https://scritch.es/makers/pajama-cat-fursuit-studio-pjcatstudio');
 COMMIT;
