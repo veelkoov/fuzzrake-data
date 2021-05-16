@@ -2376,4 +2376,6 @@ INSERT INTO artisans_urls VALUES(9908,449,'URL_FAQ','https://www.pjcatstudio.com
 INSERT INTO artisans_urls VALUES(9909,449,'URL_TWITTER','https://twitter.com/PJCatStudio');
 INSERT INTO artisans_urls VALUES(9910,449,'URL_QUEUE','https://trello.com/b/FwzOA1Ib/pjcat-fursuit-queue');
 INSERT INTO artisans_urls VALUES(9911,449,'URL_SCRITCH','https://scritch.es/makers/pajama-cat-fursuit-studio-pjcatstudio');
+INSERT INTO artisans_urls VALUES(9912,18,'URL_PRICES','https://www.furaffinity.net/commissions/clockworkcarousel/');
+INSERT INTO artisans_urls VALUES(9913,18,'URL_QUEUE','https://trello.com/b/QlrV2m4z/queue-and-work-list');
 COMMIT;
