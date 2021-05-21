@@ -2411,4 +2411,16 @@ INSERT INTO artisans_urls VALUES(9943,448,'URL_FURSUITREVIEW','https://fursuitre
 INSERT INTO artisans_urls VALUES(9944,90,'URL_FURSUITREVIEW','https://fursuitreview.com/m/wild-life/');
 INSERT INTO artisans_urls VALUES(9945,253,'URL_FURSUITREVIEW','https://fursuitreview.com/m/windy-suits/');
 INSERT INTO artisans_urls VALUES(9946,29,'URL_FURSUITREVIEW','https://fursuitreview.com/m/fix-it-fursuits/');
+INSERT INTO artisans_urls VALUES(9947,450,'URL_FURSUITREVIEW','https://fursuitreview.com/m/ritz-costumes/');
+INSERT INTO artisans_urls VALUES(9948,450,'URL_WEBSITE','https://www.ritzcostumes.com/');
+INSERT INTO artisans_urls VALUES(9949,450,'URL_PRICES','https://www.ritzcostumes.com/pricing');
+INSERT INTO artisans_urls VALUES(9950,450,'URL_FAQ','https://www.ritzcostumes.com/faq-terms-of-service');
+INSERT INTO artisans_urls VALUES(9951,450,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/ritzbitz/');
+INSERT INTO artisans_urls VALUES(9952,450,'URL_TWITTER','https://twitter.com/RitzCostumes');
+INSERT INTO artisans_urls VALUES(9953,450,'URL_INSTAGRAM','https://www.instagram.com/ritzcostumes/');
+INSERT INTO artisans_urls VALUES(9954,450,'URL_YOUTUBE','https://www.youtube.com/channel/UCkHM1lBBvnu1LI6t22twKjA');
+INSERT INTO artisans_urls VALUES(9955,450,'URL_OTHER_SHOP','https://www.ritzcostumes.com/shop-1');
+INSERT INTO artisans_urls VALUES(9956,450,'URL_QUEUE','https://trello.com/b/qQn1srkv/commission-queue');
+INSERT INTO artisans_urls VALUES(9957,450,'URL_OTHER','https://www.twitch.tv/ritzbitzart');
+INSERT INTO artisans_urls VALUES(9958,450,'URL_CST','https://www.ritzcostumes.com/');
 COMMIT;
