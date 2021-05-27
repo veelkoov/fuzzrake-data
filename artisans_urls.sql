@@ -2423,4 +2423,5 @@ INSERT INTO artisans_urls VALUES(9955,450,'URL_OTHER_SHOP','https://www.ritzcost
 INSERT INTO artisans_urls VALUES(9956,450,'URL_QUEUE','https://trello.com/b/qQn1srkv/commission-queue');
 INSERT INTO artisans_urls VALUES(9957,450,'URL_OTHER','https://www.twitch.tv/ritzbitzart');
 INSERT INTO artisans_urls VALUES(9958,450,'URL_CST','https://www.ritzcostumes.com/');
+INSERT INTO artisans_urls VALUES(9959,438,'URL_CST','https://twitter.com/abyssalkei');
 COMMIT;
