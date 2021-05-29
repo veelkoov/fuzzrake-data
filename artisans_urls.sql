@@ -2203,13 +2203,13 @@ INSERT INTO artisans_urls VALUES(9735,426,'URL_INSTAGRAM','https://www.instagram
 INSERT INTO artisans_urls VALUES(9736,426,'URL_ETSY','https://www.etsy.com/shop/TapapatCreations');
 INSERT INTO artisans_urls VALUES(9737,426,'URL_CST','https://tapapatcreations.com/');
 INSERT INTO artisans_urls VALUES(9738,376,'URL_ETSY','https://www.etsy.com/shop/NyxiaCreations');
-INSERT INTO artisans_urls VALUES(9739,427,'URL_WEBSITE','https://www.metalwuffworks.com/');
+INSERT INTO artisans_urls VALUES(9739,427,'URL_WEBSITE','https://www.howlmetalhorrors.com/');
 INSERT INTO artisans_urls VALUES(9740,427,'URL_PRICES','https://www.howlmetalhorrors.com/pricing');
 INSERT INTO artisans_urls VALUES(9741,427,'URL_FAQ','https://www.howlmetalhorrors.com/tos');
 INSERT INTO artisans_urls VALUES(9742,427,'URL_TWITTER','https://twitter.com/howlmetalhorror');
 INSERT INTO artisans_urls VALUES(9743,427,'URL_INSTAGRAM','https://www.instagram.com/howlmetalhorrors/');
 INSERT INTO artisans_urls VALUES(9744,427,'URL_QUEUE','https://trello.com/b/SksS7JGv/howlmetal-horrors-commission-queue');
-INSERT INTO artisans_urls VALUES(9745,427,'URL_CST','https://www.howlmetalhorrors.com/oops');
+INSERT INTO artisans_urls VALUES(9745,427,'URL_CST','https://twitter.com/howlmetalhorror');
 INSERT INTO artisans_urls VALUES(9746,428,'URL_WEBSITE','https://www.angeltigress.com/');
 INSERT INTO artisans_urls VALUES(9747,428,'URL_PRICES','https://www.angeltigress.com/price/');
 INSERT INTO artisans_urls VALUES(9748,428,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/angeltigress/');

@@ -1503,4 +1503,5 @@ INSERT INTO events VALUES(2809,NULL,0,'2021-05-27 17:08:34','CS_UPDATED','Gatorw
 INSERT INTO events VALUES(2810,NULL,1,'2021-05-27 17:08:34','CS_UPDATED','R.W.C.','https://roxyswonderfulcreations8.webnode.cz/price-list/',0,0,0,'','');
 INSERT INTO events VALUES(2811,NULL,1,'2021-05-28 21:21:51','CS_UPDATED','Don''t Hug Cacti','https://donthugcacti.com/',0,0,0,'','');
 INSERT INTO events VALUES(2812,0,1,'2021-05-28 21:21:53','CS_UPDATED','That One Pink Dog Studios','http://thatonepinkdog.studio/fursuit-prices',0,0,0,'','');
+INSERT INTO events VALUES(2813,NULL,0,'2021-05-29 14:39:04','CS_UPDATED','Howlmetal Horrors','https://twitter.com/howlmetalhorror',0,0,0,'','');
 COMMIT;
