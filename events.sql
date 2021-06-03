@@ -1506,4 +1506,18 @@ INSERT INTO events VALUES(2812,0,1,'2021-05-28 21:21:53','CS_UPDATED','That One 
 INSERT INTO events VALUES(2813,NULL,0,'2021-05-29 14:39:04','CS_UPDATED','Howlmetal Horrors','https://twitter.com/howlmetalhorror',0,0,0,'','');
 INSERT INTO events VALUES(2814,NULL,NULL,'2021-05-29 14:39:00','DATA_UPDATED','','',0,1,0,'c637c93b28b872269ce1019aa69180b5fe39735c','');
 INSERT INTO events VALUES(2815,0,NULL,'2021-05-29 18:04:24','CS_UPDATED','Glitzy Fox Costumes','https://www.glitzyfoxcostumes.com/',0,0,0,'','');
+INSERT INTO events VALUES(2816,NULL,NULL,'2021-05-30 05:42:00','DATA_UPDATED','','',0,1,0,'bc1886feca0b051363a0abfa974d7ed908104a2f','');
+INSERT INTO events VALUES(2817,NULL,0,'2021-05-30 06:04:41','CS_UPDATED','Glitzy Fox Costumes','https://www.glitzyfoxcostumes.com/',0,0,0,'','');
+INSERT INTO events VALUES(2818,1,NULL,'2021-05-30 06:04:41','CS_UPDATED','Pink And Blue Addicts Fursuits','https://twitter.com/addicts_pink',0,0,0,'','');
+INSERT INTO events VALUES(2819,1,NULL,'2021-05-31 18:04:41','CS_UPDATED','Schorsuits','https://schorsuits.wixsite.com/schorsuits',0,0,0,'','');
+INSERT INTO events VALUES(2820,0,NULL,'2021-05-31 18:04:42','CS_UPDATED','BassPain Fursuits','https://darkclifffurs.wixsite.com/darkcliff-furs',0,0,0,'','');
+INSERT INTO events VALUES(2821,0,NULL,'2021-06-01 06:04:31','CS_UPDATED','Alpha Dogs','https://twitter.com/AlphaDogsStudio',0,0,0,'','');
+INSERT INTO events VALUES(2822,NULL,1,'2021-06-01 06:04:33','CS_UPDATED','Schorsuits','https://schorsuits.wixsite.com/schorsuits',0,0,0,'','');
+INSERT INTO events VALUES(2823,NULL,0,'2021-06-01 06:04:34','CS_UPDATED','BassPain Fursuits','https://darkclifffurs.wixsite.com/darkcliff-furs',0,0,0,'','');
+INSERT INTO events VALUES(2824,1,NULL,'2021-06-01 18:04:24','CS_UPDATED','Blue Wolf Studio Fursuit','https://twitter.com/BWSFursuit',0,0,0,'','');
+INSERT INTO events VALUES(2825,0,1,'2021-06-02 06:04:39','CS_UPDATED','CupcakeCritters','https://twitter.com/CupcakeCritters',0,0,0,'','');
+INSERT INTO events VALUES(2826,NULL,0,'2021-06-02 06:04:39','CS_UPDATED','Blue Wolf Studio Fursuit','https://twitter.com/BWSFursuit',0,0,0,'','');
+INSERT INTO events VALUES(2827,0,NULL,'2021-06-02 06:04:40','CS_UPDATED','AlpineHuskies Fursuits','https://alpinehuskiesfursuits.weebly.com/commission-status.html',0,0,0,'','');
+INSERT INTO events VALUES(2828,0,NULL,'2021-06-02 06:04:40','CS_UPDATED','KEMONOKAPI','https://www.kemonokapi.com/',0,0,0,'','');
+INSERT INTO events VALUES(2829,0,1,'2021-06-03 18:04:15','CS_UPDATED','Furry Tailor','https://www.furrytailor.co.uk/slots',0,0,0,'','');
 COMMIT;
