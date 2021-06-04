@@ -2485,4 +2485,11 @@ INSERT INTO artisans_urls VALUES(10017,458,'URL_QUEUE','https://trello.com/b/wCl
 INSERT INTO artisans_urls VALUES(10018,458,'URL_SCRITCH','https://scritch.es/styngerskies');
 INSERT INTO artisans_urls VALUES(10019,458,'URL_FURTRACK','https://www.furtrack.com/user/StyngerSkies/uploads');
 INSERT INTO artisans_urls VALUES(10020,458,'URL_CST','https://twitter.com/StyngerC');
+INSERT INTO artisans_urls VALUES(10021,459,'URL_WEBSITE','https://oneggiri.uwu.ai/#');
+INSERT INTO artisans_urls VALUES(10022,459,'URL_PRICES','https://oneggiri.uwu.ai/#fursuits');
+INSERT INTO artisans_urls VALUES(10023,459,'URL_TWITTER','https://twitter.com/oneggiri');
+INSERT INTO artisans_urls VALUES(10024,459,'URL_INSTAGRAM','https://www.instagram.com/oneggiri/');
+INSERT INTO artisans_urls VALUES(10025,459,'URL_YOUTUBE','https://www.youtube.com/channel/UCoGUEY7qiMKZpBRgn2lqKMQ');
+INSERT INTO artisans_urls VALUES(10026,459,'URL_ETSY','https://www.etsy.com/shop/OneggiriShop?');
+INSERT INTO artisans_urls VALUES(10027,459,'URL_QUEUE','https://trello.com/b/2SwmBvvI/oneggiri');
 COMMIT;
