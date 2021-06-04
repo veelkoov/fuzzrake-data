@@ -1522,4 +1522,6 @@ INSERT INTO events VALUES(2828,0,NULL,'2021-06-02 06:04:40','CS_UPDATED','KEMONO
 INSERT INTO events VALUES(2829,0,1,'2021-06-03 18:04:15','CS_UPDATED','Furry Tailor','https://www.furrytailor.co.uk/slots',0,0,0,'','');
 INSERT INTO events VALUES(2830,NULL,0,'2021-06-03 19:57:40','CS_UPDATED','EvilMakers','https://twitter.com/Evi1Makers',0,0,0,'','');
 INSERT INTO events VALUES(2831,NULL,1,'2021-06-03 19:57:40','CS_UPDATED','Stynger Skies','https://twitter.com/StyngerC',0,0,0,'','');
+INSERT INTO events VALUES(2832,NULL,NULL,'2021-06-03 19:58:00','DATA_UPDATED','','',4,0,0,'6b55db1eda7f8a8a217490fbba581381162d22f0','');
+INSERT INTO events VALUES(2833,NULL,0,'2021-06-04 06:04:34','CS_UPDATED','KEMONOKAPI','https://www.kemonokapi.com/',0,0,0,'','');
 COMMIT;
