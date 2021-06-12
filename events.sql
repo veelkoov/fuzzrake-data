@@ -1531,4 +1531,6 @@ INSERT INTO events VALUES(2837,1,0,'2021-06-07 18:05:06','CS_UPDATED','That One 
 INSERT INTO events VALUES(2838,0,NULL,'2021-06-09 06:04:25','CS_UPDATED','Gold Ribbon Studio','https://www.goldribbonstudio.com/',0,0,0,'','');
 INSERT INTO events VALUES(2839,1,NULL,'2021-06-10 18:04:32','CS_UPDATED','Fursuit Parade','http://www.furaffinity.net/user/theroyalbanana/#profile',0,0,0,'','');
 INSERT INTO events VALUES(2840,0,1,'2021-06-11 18:04:45','CS_UPDATED','Gatorwave','https://www.gatorwavesuits.com/',0,0,0,'','');
+INSERT INTO events VALUES(2841,NULL,1,'2021-06-12 18:41:52','CS_UPDATED','Desert Fizz','https://twitter.com/DesertFizz',0,0,0,'','');
+INSERT INTO events VALUES(2842,NULL,0,'2021-06-12 18:41:52','CS_UPDATED','WearCat Creations','https://wearcatcreations.com/',0,0,0,'','');
 COMMIT;
