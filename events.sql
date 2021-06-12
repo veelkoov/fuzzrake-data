@@ -1524,4 +1524,11 @@ INSERT INTO events VALUES(2830,NULL,0,'2021-06-03 19:57:40','CS_UPDATED','EvilMa
 INSERT INTO events VALUES(2831,NULL,1,'2021-06-03 19:57:40','CS_UPDATED','Stynger Skies','https://twitter.com/StyngerC',0,0,0,'','');
 INSERT INTO events VALUES(2832,NULL,NULL,'2021-06-03 19:58:00','DATA_UPDATED','','',4,0,0,'6b55db1eda7f8a8a217490fbba581381162d22f0','');
 INSERT INTO events VALUES(2833,NULL,0,'2021-06-04 06:04:34','CS_UPDATED','KEMONOKAPI','https://www.kemonokapi.com/',0,0,0,'','');
+INSERT INTO events VALUES(2834,NULL,NULL,'2021-06-04 18:21:00','DATA_UPDATED','','',1,1,0,'bcf6f5f1eb1fed890eb31229b04f9055001ddbd1','');
+INSERT INTO events VALUES(2835,1,NULL,'2021-06-07 06:04:34','CS_UPDATED','Furry Tailor','https://www.furrytailor.co.uk/slots',0,0,0,'','');
+INSERT INTO events VALUES(2836,NULL,0,'2021-06-07 18:05:05','CS_UPDATED','Furry Tailor','https://www.furrytailor.co.uk/slots',0,0,0,'','');
+INSERT INTO events VALUES(2837,1,0,'2021-06-07 18:05:06','CS_UPDATED','That One Pink Dog Studios','http://thatonepinkdog.studio/fursuit-prices',0,0,0,'','');
+INSERT INTO events VALUES(2838,0,NULL,'2021-06-09 06:04:25','CS_UPDATED','Gold Ribbon Studio','https://www.goldribbonstudio.com/',0,0,0,'','');
+INSERT INTO events VALUES(2839,1,NULL,'2021-06-10 18:04:32','CS_UPDATED','Fursuit Parade','http://www.furaffinity.net/user/theroyalbanana/#profile',0,0,0,'','');
+INSERT INTO events VALUES(2840,0,1,'2021-06-11 18:04:45','CS_UPDATED','Gatorwave','https://www.gatorwavesuits.com/',0,0,0,'','');
 COMMIT;
