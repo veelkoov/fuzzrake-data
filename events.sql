@@ -1537,4 +1537,5 @@ INSERT INTO events VALUES(2843,NULL,NULL,'2021-06-12 18:42:00','DATA_UPDATED',''
 INSERT INTO events VALUES(2844,0,NULL,'2021-06-13 06:04:42','CS_UPDATED','CityMutt Fursuits','http://www.citymuttfursuits.com/commissions',0,0,0,'','');
 INSERT INTO events VALUES(2845,1,NULL,'2021-06-13 06:04:42','CS_UPDATED','ToothyHounds Workshop','https://toothyhounds.carrd.co/',0,0,0,'','');
 INSERT INTO events VALUES(2846,NULL,0,'2021-06-13 18:04:33','CS_UPDATED','CityMutt Fursuits','http://www.citymuttfursuits.com/commissions',0,0,0,'','');
+INSERT INTO events VALUES(2847,0,1,'2021-06-13 20:58:54','CS_UPDATED','Melcaara','https://www.instagram.com/melcaara/',0,0,0,'','');
 COMMIT;

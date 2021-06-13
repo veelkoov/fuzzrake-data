@@ -2507,4 +2507,6 @@ INSERT INTO artisans_urls VALUES(10044,279,'URL_FURSUITREVIEW','https://fursuitr
 INSERT INTO artisans_urls VALUES(10045,279,'URL_LINKLIST','https://beacons.ai/melcaara');
 INSERT INTO artisans_urls VALUES(10046,279,'URL_FURRY_AMINO','https://aminoapps.com/c/furry-amino/page/user/melcaara/YjKZ_WQMuWfwQDvW76NDXXVvZn0YpXMPlcR');
 INSERT INTO artisans_urls VALUES(10047,279,'URL_OTHER','https://www.patreon.com/Melcaara');
+INSERT INTO artisans_urls VALUES(10048,279,'URL_FURTRACK','https://www.furtrack.com/user/Melcaara/');
+INSERT INTO artisans_urls VALUES(10049,279,'URL_CST','https://www.instagram.com/melcaara/');
 COMMIT;
