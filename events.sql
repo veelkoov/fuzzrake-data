@@ -1533,4 +1533,8 @@ INSERT INTO events VALUES(2839,1,NULL,'2021-06-10 18:04:32','CS_UPDATED','Fursui
 INSERT INTO events VALUES(2840,0,1,'2021-06-11 18:04:45','CS_UPDATED','Gatorwave','https://www.gatorwavesuits.com/',0,0,0,'','');
 INSERT INTO events VALUES(2841,NULL,1,'2021-06-12 18:41:52','CS_UPDATED','Desert Fizz','https://twitter.com/DesertFizz',0,0,0,'','');
 INSERT INTO events VALUES(2842,NULL,0,'2021-06-12 18:41:52','CS_UPDATED','WearCat Creations','https://wearcatcreations.com/',0,0,0,'','');
+INSERT INTO events VALUES(2843,NULL,NULL,'2021-06-12 18:42:00','DATA_UPDATED','','',2,1,0,'38b92654c2b5e5ac15190e00e893791d529328d5','');
+INSERT INTO events VALUES(2844,0,NULL,'2021-06-13 06:04:42','CS_UPDATED','CityMutt Fursuits','http://www.citymuttfursuits.com/commissions',0,0,0,'','');
+INSERT INTO events VALUES(2845,1,NULL,'2021-06-13 06:04:42','CS_UPDATED','ToothyHounds Workshop','https://toothyhounds.carrd.co/',0,0,0,'','');
+INSERT INTO events VALUES(2846,NULL,0,'2021-06-13 18:04:33','CS_UPDATED','CityMutt Fursuits','http://www.citymuttfursuits.com/commissions',0,0,0,'','');
 COMMIT;
