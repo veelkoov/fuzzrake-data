@@ -1553,4 +1553,5 @@ INSERT INTO events VALUES(2859,0,NULL,'2021-06-18 18:04:35','CS_UPDATED','Glitzy
 INSERT INTO events VALUES(2860,1,0,'2021-06-18 18:04:36','CS_UPDATED','Gatorwave','https://www.gatorwavesuits.com/',0,0,0,'','');
 INSERT INTO events VALUES(2861,NULL,1,'2021-06-19 06:04:31','CS_UPDATED','ByCats4Cats','http://bycats4cats.com/quote/',0,0,0,'','');
 INSERT INTO events VALUES(2862,NULL,0,'2021-06-19 06:04:34','CS_UPDATED','Glitzy Fox Costumes','https://www.glitzyfoxcostumes.com/',0,0,0,'','');
+INSERT INTO events VALUES(2863,NULL,0,'2021-06-19 20:29:18','CS_UPDATED','Foxes In Boxes Fursuits','https://foxesinboxes.wixsite.com/foxesinboxes',0,0,0,'','');
 COMMIT;
