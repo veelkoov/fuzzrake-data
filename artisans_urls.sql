@@ -2532,4 +2532,5 @@ INSERT INTO artisans_urls VALUES(10071,464,'URL_TWITTER','https://twitter.com/fo
 INSERT INTO artisans_urls VALUES(10072,464,'URL_INSTAGRAM','https://www.instagram.com/forest.tails.studio/');
 INSERT INTO artisans_urls VALUES(10073,464,'URL_LINKLIST','http://linktr.ee/foresttailsstudio');
 INSERT INTO artisans_urls VALUES(10074,464,'URL_QUEUE','https://trello.com/b/kwx6ACcr/forest-tails-studio-fursuit-queue');
+INSERT INTO artisans_urls VALUES(10075,461,'URL_TWITTER','https://twitter.com/WearCreations');
 COMMIT;
