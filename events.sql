@@ -1554,4 +1554,15 @@ INSERT INTO events VALUES(2860,1,0,'2021-06-18 18:04:36','CS_UPDATED','Gatorwave
 INSERT INTO events VALUES(2861,NULL,1,'2021-06-19 06:04:31','CS_UPDATED','ByCats4Cats','http://bycats4cats.com/quote/',0,0,0,'','');
 INSERT INTO events VALUES(2862,NULL,0,'2021-06-19 06:04:34','CS_UPDATED','Glitzy Fox Costumes','https://www.glitzyfoxcostumes.com/',0,0,0,'','');
 INSERT INTO events VALUES(2863,NULL,0,'2021-06-19 20:29:18','CS_UPDATED','Foxes In Boxes Fursuits','https://foxesinboxes.wixsite.com/foxesinboxes',0,0,0,'','');
+INSERT INTO events VALUES(2864,NULL,NULL,'2021-06-19 20:55:00','DATA_UPDATED','','',2,0,1,'c93e964c7daa253b00a67329910f95b2cab5d9d4','');
+INSERT INTO events VALUES(2865,1,0,'2021-06-20 06:04:36','CS_UPDATED','Curlworks','https://www.curlworks.net/',0,0,0,'','');
+INSERT INTO events VALUES(2866,0,NULL,'2021-06-22 06:04:36','CS_UPDATED','Glitzy Fox Costumes','https://www.glitzyfoxcostumes.com/',0,0,0,'','');
+INSERT INTO events VALUES(2867,1,NULL,'2021-06-22 18:04:33','CS_UPDATED','ByCats4Cats','http://bycats4cats.com/quote/',0,0,0,'','');
+INSERT INTO events VALUES(2868,NULL,0,'2021-06-22 18:04:36','CS_UPDATED','Glitzy Fox Costumes','https://www.glitzyfoxcostumes.com/',0,0,0,'','');
+INSERT INTO events VALUES(2869,0,NULL,'2021-06-23 06:04:28','CS_UPDATED','CityMutt Fursuits','http://www.citymuttfursuits.com/commissions',0,0,0,'','');
+INSERT INTO events VALUES(2870,NULL,0,'2021-06-23 18:04:39','CS_UPDATED','CityMutt Fursuits','http://www.citymuttfursuits.com/commissions',0,0,0,'','');
+INSERT INTO events VALUES(2871,0,NULL,'2021-06-24 18:04:28','CS_UPDATED','WMW66 Costumes','http://wmw66-costumes.com/content/pricing',0,0,0,'','');
+INSERT INTO events VALUES(2872,NULL,1,'2021-06-25 06:04:31','CS_UPDATED','Nyxia Creations','https://astranyxia.wixsite.com/nyxiacreations',0,0,0,'','');
+INSERT INTO events VALUES(2873,NULL,0,'2021-06-25 18:04:27','CS_UPDATED','Gold Ribbon Studio','https://www.goldribbonstudio.com/',0,0,0,'','');
+INSERT INTO events VALUES(2874,NULL,1,'2021-06-26 06:04:26','CS_UPDATED','Delicious Disguises','https://www.furaffinity.net/user/DeliciousDisguises/',0,0,0,'','');
 COMMIT;
