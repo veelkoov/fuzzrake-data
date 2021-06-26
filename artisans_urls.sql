@@ -2468,9 +2468,9 @@ INSERT INTO artisans_urls VALUES(10007,457,'URL_THE_DEALERS_DEN','https://www.th
 INSERT INTO artisans_urls VALUES(10008,457,'URL_QUEUE','https://trello.com/b/REt8ArwD/evilmakers-fursuits');
 INSERT INTO artisans_urls VALUES(10009,457,'URL_SCRITCH','https://scritch.es/makers/evil-makers');
 INSERT INTO artisans_urls VALUES(10010,457,'URL_CST','https://twitter.com/Evi1Makers');
-INSERT INTO artisans_urls VALUES(10011,458,'URL_WEBSITE','http://styngerskies.com/');
-INSERT INTO artisans_urls VALUES(10012,458,'URL_PRICES','https://sites.google.com/view/styngerskiescreations/ordering/starting-prices');
-INSERT INTO artisans_urls VALUES(10013,458,'URL_FAQ','https://sites.google.com/view/styngerskiescreations/faq');
+INSERT INTO artisans_urls VALUES(10011,458,'URL_WEBSITE','https://www.styngerskies.com/');
+INSERT INTO artisans_urls VALUES(10012,458,'URL_PRICES','https://www.styngerskies.com/pricing');
+INSERT INTO artisans_urls VALUES(10013,458,'URL_FAQ','https://www.styngerskies.com/faq');
 INSERT INTO artisans_urls VALUES(10014,458,'URL_TWITTER','https://twitter.com/StyngerC');
 INSERT INTO artisans_urls VALUES(10015,458,'URL_INSTAGRAM','https://www.instagram.com/styngerskies/');
 INSERT INTO artisans_urls VALUES(10016,458,'URL_ETSY','https://www.etsy.com/shop/StyngerSkies');
@@ -2527,4 +2527,9 @@ INSERT INTO artisans_urls VALUES(10066,463,'URL_TWITTER','https://twitter.com/Fo
 INSERT INTO artisans_urls VALUES(10067,463,'URL_FACEBOOK','https://www.facebook.com/foxesinboxesfursuits/');
 INSERT INTO artisans_urls VALUES(10068,463,'URL_QUEUE','https://trello.com/b/Y6kaQSmv/foxes-in-boxes');
 INSERT INTO artisans_urls VALUES(10069,463,'URL_CST','https://foxesinboxes.wixsite.com/foxesinboxes');
+INSERT INTO artisans_urls VALUES(10070,464,'URL_PRICES','https://docs.google.com/document/d/1-VFu0Oz6RQ2dcMd4NftXFIiBBduY1pTYHp2rg0MM9PI/edit?usp=sharing');
+INSERT INTO artisans_urls VALUES(10071,464,'URL_TWITTER','https://twitter.com/forest_tails');
+INSERT INTO artisans_urls VALUES(10072,464,'URL_INSTAGRAM','https://www.instagram.com/forest.tails.studio/');
+INSERT INTO artisans_urls VALUES(10073,464,'URL_LINKLIST','http://linktr.ee/foresttailsstudio');
+INSERT INTO artisans_urls VALUES(10074,464,'URL_QUEUE','https://trello.com/b/kwx6ACcr/forest-tails-studio-fursuit-queue');
 COMMIT;
