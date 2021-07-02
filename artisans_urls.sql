@@ -2506,7 +2506,7 @@ INSERT INTO artisans_urls VALUES(10045,279,'URL_LINKLIST','https://beacons.ai/me
 INSERT INTO artisans_urls VALUES(10046,279,'URL_FURRY_AMINO','https://aminoapps.com/c/furry-amino/page/user/melcaara/YjKZ_WQMuWfwQDvW76NDXXVvZn0YpXMPlcR');
 INSERT INTO artisans_urls VALUES(10047,279,'URL_OTHER','https://www.patreon.com/Melcaara');
 INSERT INTO artisans_urls VALUES(10048,279,'URL_FURTRACK','https://www.furtrack.com/user/Melcaara/');
-INSERT INTO artisans_urls VALUES(10049,279,'URL_CST','https://www.instagram.com/melcaara/');
+INSERT INTO artisans_urls VALUES(10049,279,'URL_CST','https://www.instagram.com/Kemoyagi/');
 INSERT INTO artisans_urls VALUES(10050,462,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/naritacoree/');
 INSERT INTO artisans_urls VALUES(10051,462,'URL_DEVIANTART','https://www.deviantart.com/naritacoree');
 INSERT INTO artisans_urls VALUES(10052,462,'URL_TWITTER','https://twitter.com/naritacoree');
@@ -2533,4 +2533,11 @@ INSERT INTO artisans_urls VALUES(10072,464,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(10073,464,'URL_LINKLIST','http://linktr.ee/foresttailsstudio');
 INSERT INTO artisans_urls VALUES(10074,464,'URL_QUEUE','https://trello.com/b/kwx6ACcr/forest-tails-studio-fursuit-queue');
 INSERT INTO artisans_urls VALUES(10075,461,'URL_TWITTER','https://twitter.com/WearCreations');
+INSERT INTO artisans_urls VALUES(10076,465,'URL_INSTAGRAM','https://www.instagram.com/femmefatalefursuits/');
+INSERT INTO artisans_urls VALUES(10077,466,'URL_PRICES','https://docs.google.com/document/d/1-LiPP-MdKq9lSkScAxe-FbrlJPHCL52vv1c8zPgseZc/edit');
+INSERT INTO artisans_urls VALUES(10078,466,'URL_TWITTER','https://twitter.com/Fizzy_Fur_');
+INSERT INTO artisans_urls VALUES(10079,466,'URL_INSTAGRAM','https://www.instagram.com/fizzy_fur_creations/');
+INSERT INTO artisans_urls VALUES(10080,466,'URL_LINKLIST','https://msha.ke/fizzyfurcreations');
+INSERT INTO artisans_urls VALUES(10081,466,'URL_FURRY_AMINO','http://aminoapps.com/p/6prxq');
+INSERT INTO artisans_urls VALUES(10082,466,'URL_ETSY','https://www.etsy.com/ca/shop/FizzyFurCreations?ref=seller-platform-mcnav');
 COMMIT;
