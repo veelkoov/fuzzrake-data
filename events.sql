@@ -1565,4 +1565,15 @@ INSERT INTO events VALUES(2871,0,NULL,'2021-06-24 18:04:28','CS_UPDATED','WMW66 
 INSERT INTO events VALUES(2872,NULL,1,'2021-06-25 06:04:31','CS_UPDATED','Nyxia Creations','https://astranyxia.wixsite.com/nyxiacreations',0,0,0,'','');
 INSERT INTO events VALUES(2873,NULL,0,'2021-06-25 18:04:27','CS_UPDATED','Gold Ribbon Studio','https://www.goldribbonstudio.com/',0,0,0,'','');
 INSERT INTO events VALUES(2874,NULL,1,'2021-06-26 06:04:26','CS_UPDATED','Delicious Disguises','https://www.furaffinity.net/user/DeliciousDisguises/',0,0,0,'','');
+INSERT INTO events VALUES(2875,NULL,NULL,'2021-06-26 14:58:00','DATA_UPDATED','','',1,1,0,'7e0fa12ce8e6559f849d9ac84b5aeeca7d3c88b0','');
+INSERT INTO events VALUES(2876,NULL,NULL,'2021-06-26 19:38:00','DATA_UPDATED','','',0,2,0,'64b959ae1bac506ce64c578fb91935d1ab07eeb6','');
+INSERT INTO events VALUES(2877,0,NULL,'2021-06-28 06:04:45','CS_UPDATED','Tesyra Creations','https://fire-feather.wixsite.com/tesyracreations/commission-status-and-current-queue',0,0,0,'','');
+INSERT INTO events VALUES(2878,1,NULL,'2021-06-28 06:04:46','CS_UPDATED','Schorsuits','https://schorsuits.wixsite.com/schorsuits',0,0,0,'','');
+INSERT INTO events VALUES(2879,NULL,0,'2021-06-28 18:04:41','CS_UPDATED','Tesyra Creations','https://fire-feather.wixsite.com/tesyracreations/commission-status-and-current-queue',0,0,0,'','');
+INSERT INTO events VALUES(2880,NULL,1,'2021-06-28 18:04:42','CS_UPDATED','Schorsuits','https://schorsuits.wixsite.com/schorsuits',0,0,0,'','');
+INSERT INTO events VALUES(2881,0,NULL,'2021-07-01 06:08:06','CS_UPDATED','PeaceWolf Creations','http://peacewolfcreations.com/',0,0,0,'','');
+INSERT INTO events VALUES(2882,NULL,0,'2021-07-01 18:04:45','CS_UPDATED','Plaid Paws by Maus','https://sites.google.com/view/plaid-paws-by-maus/home',0,0,0,'','');
+INSERT INTO events VALUES(2883,0,NULL,'2021-07-02 06:04:36','CS_UPDATED','MulticolorBark','https://www.multicolorbark.com/',0,0,0,'','');
+INSERT INTO events VALUES(2884,0,NULL,'2021-07-02 06:04:40','CS_UPDATED','KEMONOKAPI','https://www.kemonokapi.com/',0,0,0,'','');
+INSERT INTO events VALUES(2885,0,1,'2021-07-02 18:04:39','CS_UPDATED','Ritz Costumes','https://www.ritzcostumes.com/',0,0,0,'','');
 COMMIT;
