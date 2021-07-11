@@ -1588,4 +1588,5 @@ INSERT INTO events VALUES(2894,NULL,1,'2021-07-09 06:04:36','CS_UPDATED','Winter
 INSERT INTO events VALUES(2895,0,1,'2021-07-09 06:04:38','CS_UPDATED','saltyseasadness','https://saltyseasadness.carrd.co/',0,0,0,'','');
 INSERT INTO events VALUES(2896,0,1,'2021-07-10 06:04:45','CS_UPDATED','That One Pink Dog Studios','http://thatonepinkdog.studio/fursuit-prices',0,0,0,'','');
 INSERT INTO events VALUES(2897,NULL,0,'2021-07-10 18:04:42','CS_UPDATED','KEMONOKAPI','https://www.kemonokapi.com/',0,0,0,'','');
+INSERT INTO events VALUES(2898,NULL,1,'2021-07-11 14:48:41','CS_UPDATED','ArtZora Studios','https://artzorastudios.weebly.com/fursuit-commissions.html',0,0,0,'','');
 COMMIT;
