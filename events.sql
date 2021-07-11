@@ -1576,4 +1576,16 @@ INSERT INTO events VALUES(2882,NULL,0,'2021-07-01 18:04:45','CS_UPDATED','Plaid 
 INSERT INTO events VALUES(2883,0,NULL,'2021-07-02 06:04:36','CS_UPDATED','MulticolorBark','https://www.multicolorbark.com/',0,0,0,'','');
 INSERT INTO events VALUES(2884,0,NULL,'2021-07-02 06:04:40','CS_UPDATED','KEMONOKAPI','https://www.kemonokapi.com/',0,0,0,'','');
 INSERT INTO events VALUES(2885,0,1,'2021-07-02 18:04:39','CS_UPDATED','Ritz Costumes','https://www.ritzcostumes.com/',0,0,0,'','');
+INSERT INTO events VALUES(2886,NULL,NULL,'2021-07-02 19:53:00','DATA_UPDATED','','',2,1,0,'50cd19ec2b2bf7aa3878308bb8b2d6c8bde6490b','');
+INSERT INTO events VALUES(2887,0,1,'2021-07-03 06:04:38','CS_UPDATED','WearCat Creations','https://wearcatcreations.com/',0,0,0,'','');
+INSERT INTO events VALUES(2888,0,NULL,'2021-07-04 06:04:32','CS_UPDATED','Glitzy Fox Costumes','https://www.glitzyfoxcostumes.com/',0,0,0,'','');
+INSERT INTO events VALUES(2889,NULL,0,'2021-07-04 18:04:35','CS_UPDATED','Glitzy Fox Costumes','https://www.glitzyfoxcostumes.com/',0,0,0,'','');
+INSERT INTO events VALUES(2890,0,1,'2021-07-05 06:04:55','CS_UPDATED','Tulius Costumes','https://twitter.com/Tuliusis',0,0,0,'','');
+INSERT INTO events VALUES(2891,1,0,'2021-07-05 18:04:39','CS_UPDATED','Ritz Costumes','https://www.ritzcostumes.com/',0,0,0,'','');
+INSERT INTO events VALUES(2892,1,0,'2021-07-07 06:04:35','CS_UPDATED','Stynger Skies','https://twitter.com/StyngerC',0,0,0,'','');
+INSERT INTO events VALUES(2893,1,NULL,'2021-07-08 18:04:34','CS_UPDATED','Winters Howling','https://www.wintershowling.com/',0,0,0,'','');
+INSERT INTO events VALUES(2894,NULL,1,'2021-07-09 06:04:36','CS_UPDATED','Winters Howling','https://www.wintershowling.com/',0,0,0,'','');
+INSERT INTO events VALUES(2895,0,1,'2021-07-09 06:04:38','CS_UPDATED','saltyseasadness','https://saltyseasadness.carrd.co/',0,0,0,'','');
+INSERT INTO events VALUES(2896,0,1,'2021-07-10 06:04:45','CS_UPDATED','That One Pink Dog Studios','http://thatonepinkdog.studio/fursuit-prices',0,0,0,'','');
+INSERT INTO events VALUES(2897,NULL,0,'2021-07-10 18:04:42','CS_UPDATED','KEMONOKAPI','https://www.kemonokapi.com/',0,0,0,'','');
 COMMIT;
