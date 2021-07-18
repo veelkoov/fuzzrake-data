@@ -2462,7 +2462,7 @@ INSERT INTO artisans_urls VALUES(10001,457,'URL_PRICES','https://evilmakers.carr
 INSERT INTO artisans_urls VALUES(10002,457,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/evilmakers/');
 INSERT INTO artisans_urls VALUES(10003,457,'URL_TWITTER','https://twitter.com/Evi1Makers');
 INSERT INTO artisans_urls VALUES(10004,457,'URL_FACEBOOK','https://www.facebook.com/EvilMakersFursuits/');
-INSERT INTO artisans_urls VALUES(10005,457,'URL_INSTAGRAM','https://www.instagram.com/evi1makers/');
+INSERT INTO artisans_urls VALUES(10005,457,'URL_INSTAGRAM','https://www.instagram.com/evil.makers/');
 INSERT INTO artisans_urls VALUES(10006,457,'URL_YOUTUBE','https://www.youtube.com/channel/UC_iCRIuqPzkgNiZRVI3FgrA');
 INSERT INTO artisans_urls VALUES(10007,457,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/evilmakers');
 INSERT INTO artisans_urls VALUES(10008,457,'URL_QUEUE','https://trello.com/b/REt8ArwD/evilmakers-fursuits');
@@ -2559,4 +2559,10 @@ INSERT INTO artisans_urls VALUES(10098,469,'URL_ETSY','https://www.etsy.com/shop
 INSERT INTO artisans_urls VALUES(10099,469,'URL_OTHER_SHOP','https://artzorastudios.weebly.com/premades-for-sale.html');
 INSERT INTO artisans_urls VALUES(10100,469,'URL_QUEUE','https://trello.com/b/NJskTkot/artzora-fursuit-queue');
 INSERT INTO artisans_urls VALUES(10101,469,'URL_CST','https://artzorastudios.weebly.com/fursuit-commissions.html');
+INSERT INTO artisans_urls VALUES(10102,470,'URL_WEBSITE','https://www.wandernwild.com/');
+INSERT INTO artisans_urls VALUES(10103,470,'URL_PRICES','https://www.wandernwild.com/prices');
+INSERT INTO artisans_urls VALUES(10104,470,'URL_FAQ','https://www.wandernwild.com/frequently-asked-questions');
+INSERT INTO artisans_urls VALUES(10105,470,'URL_TWITTER','https://twitter.com/wandernwild');
+INSERT INTO artisans_urls VALUES(10106,470,'URL_INSTAGRAM','https://www.instagram.com/wander.n.wild/');
+INSERT INTO artisans_urls VALUES(10107,470,'URL_CST','https://www.wandernwild.com/');
 COMMIT;
