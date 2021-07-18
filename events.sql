@@ -1589,4 +1589,10 @@ INSERT INTO events VALUES(2895,0,1,'2021-07-09 06:04:38','CS_UPDATED','saltyseas
 INSERT INTO events VALUES(2896,0,1,'2021-07-10 06:04:45','CS_UPDATED','That One Pink Dog Studios','http://thatonepinkdog.studio/fursuit-prices',0,0,0,'','');
 INSERT INTO events VALUES(2897,NULL,0,'2021-07-10 18:04:42','CS_UPDATED','KEMONOKAPI','https://www.kemonokapi.com/',0,0,0,'','');
 INSERT INTO events VALUES(2898,NULL,1,'2021-07-11 14:48:41','CS_UPDATED','ArtZora Studios','https://artzorastudios.weebly.com/fursuit-commissions.html',0,0,0,'','');
+INSERT INTO events VALUES(2899,NULL,NULL,'2021-07-11 14:49:00','DATA_UPDATED','','',3,0,0,'af060e8906d61439bd4ad5136c76f1b334c8d674','');
+INSERT INTO events VALUES(2900,0,1,'2021-07-12 06:04:37','CS_UPDATED','Thunderhowl Studios','https://thunderhowlstudios.weebly.com/',0,0,0,'','');
+INSERT INTO events VALUES(2901,0,1,'2021-07-16 06:04:41','CS_UPDATED','Kani n'' Hyacin Productions','https://kaninhyacin.weebly.com/',0,0,0,'','');
+INSERT INTO events VALUES(2902,0,1,'2021-07-16 18:04:42','CS_UPDATED','Kayla''s Kritterz','https://twitter.com/KaylasKritterz',0,0,0,'','');
+INSERT INTO events VALUES(2903,1,0,'2021-07-18 18:04:41','CS_UPDATED','Kayla''s Kritterz','https://twitter.com/KaylasKritterz',0,0,0,'','');
+INSERT INTO events VALUES(2904,NULL,1,'2021-07-18 18:04:42','CS_UPDATED','Mei Fursuits','https://www.facebook.com/228395997528728/posts/488407388194253/',0,0,0,'','');
 COMMIT;
