@@ -1595,4 +1595,9 @@ INSERT INTO events VALUES(2901,0,1,'2021-07-16 06:04:41','CS_UPDATED','Kani n'' 
 INSERT INTO events VALUES(2902,0,1,'2021-07-16 18:04:42','CS_UPDATED','Kayla''s Kritterz','https://twitter.com/KaylasKritterz',0,0,0,'','');
 INSERT INTO events VALUES(2903,1,0,'2021-07-18 18:04:41','CS_UPDATED','Kayla''s Kritterz','https://twitter.com/KaylasKritterz',0,0,0,'','');
 INSERT INTO events VALUES(2904,NULL,1,'2021-07-18 18:04:42','CS_UPDATED','Mei Fursuits','https://www.facebook.com/228395997528728/posts/488407388194253/',0,0,0,'','');
+INSERT INTO events VALUES(2905,NULL,NULL,'2021-07-18 20:28:00','DATA_UPDATED','','',1,1,0,'2b9a523154b743c74a6226de6cf7505113c7fc77','');
+INSERT INTO events VALUES(2906,1,NULL,'2021-07-19 06:04:43','CS_UPDATED','Mei Fursuits','https://www.facebook.com/228395997528728/posts/488407388194253/',0,0,0,'','');
+INSERT INTO events VALUES(2907,NULL,0,'2021-07-19 06:04:45','CS_UPDATED','Wander & Wild','https://www.wandernwild.com/',0,0,0,'','');
+INSERT INTO events VALUES(2908,1,NULL,'2021-07-19 18:04:47','CS_UPDATED','Golden Maw','https://www.goldenmaw.com/how-to-commission',0,0,0,'','');
+INSERT INTO events VALUES(2909,0,1,'2021-07-19 18:04:50','CS_UPDATED','EvilMakers','https://twitter.com/Evi1Makers',0,0,0,'','');
 COMMIT;
