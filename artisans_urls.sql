@@ -2565,4 +2565,10 @@ INSERT INTO artisans_urls VALUES(10104,470,'URL_FAQ','https://www.wandernwild.co
 INSERT INTO artisans_urls VALUES(10105,470,'URL_TWITTER','https://twitter.com/wandernwild');
 INSERT INTO artisans_urls VALUES(10106,470,'URL_INSTAGRAM','https://www.instagram.com/wander.n.wild/');
 INSERT INTO artisans_urls VALUES(10107,470,'URL_CST','https://www.wandernwild.com/');
+INSERT INTO artisans_urls VALUES(10108,471,'URL_WEBSITE','https://www.lisanotuspaja.com/en/');
+INSERT INTO artisans_urls VALUES(10109,471,'URL_PRICES','https://www.lisanotuspaja.com/pricelist/');
+INSERT INTO artisans_urls VALUES(10110,471,'URL_FACEBOOK','https://www.facebook.com/lisanotuspaja/');
+INSERT INTO artisans_urls VALUES(10111,471,'URL_INSTAGRAM','https://www.instagram.com/lisanotuspaja/');
+INSERT INTO artisans_urls VALUES(10112,471,'URL_SCRITCH','https://scritch.es/makers/lisanotuspaja');
+INSERT INTO artisans_urls VALUES(10113,471,'URL_OTHER','https://www.tiktok.com/@lisanotuspaja');
 COMMIT;
