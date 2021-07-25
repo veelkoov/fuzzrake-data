@@ -2571,4 +2571,8 @@ INSERT INTO artisans_urls VALUES(10110,471,'URL_FACEBOOK','https://www.facebook.
 INSERT INTO artisans_urls VALUES(10111,471,'URL_INSTAGRAM','https://www.instagram.com/lisanotuspaja/');
 INSERT INTO artisans_urls VALUES(10112,471,'URL_SCRITCH','https://scritch.es/makers/lisanotuspaja');
 INSERT INTO artisans_urls VALUES(10113,471,'URL_OTHER','https://www.tiktok.com/@lisanotuspaja');
+INSERT INTO artisans_urls VALUES(10114,472,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/saltvalleycreations/');
+INSERT INTO artisans_urls VALUES(10115,472,'URL_TWITTER','https://twitter.com/SVFursuits');
+INSERT INTO artisans_urls VALUES(10116,472,'URL_INSTAGRAM','https://www.instagram.com/saltvalleycreations/');
+INSERT INTO artisans_urls VALUES(10117,472,'URL_QUEUE','https://trello.com/b/0OnG9IJ7/fursuits');
 COMMIT;
