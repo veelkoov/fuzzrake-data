@@ -1600,4 +1600,14 @@ INSERT INTO events VALUES(2906,1,NULL,'2021-07-19 06:04:43','CS_UPDATED','Mei Fu
 INSERT INTO events VALUES(2907,NULL,0,'2021-07-19 06:04:45','CS_UPDATED','Wander & Wild','https://www.wandernwild.com/',0,0,0,'','');
 INSERT INTO events VALUES(2908,1,NULL,'2021-07-19 18:04:47','CS_UPDATED','Golden Maw','https://www.goldenmaw.com/how-to-commission',0,0,0,'','');
 INSERT INTO events VALUES(2909,0,1,'2021-07-19 18:04:50','CS_UPDATED','EvilMakers','https://twitter.com/Evi1Makers',0,0,0,'','');
+INSERT INTO events VALUES(2910,NULL,NULL,'2021-07-19 18:42:00','DATA_UPDATED','','',1,1,0,'bef72c4dc76d1d4da8d5bee7964da3b54a856737','');
+INSERT INTO events VALUES(2911,1,0,'2021-07-21 06:05:12','CS_UPDATED','Thunderhowl Studios','https://thunderhowlstudios.weebly.com/',0,0,0,'','');
+INSERT INTO events VALUES(2912,0,NULL,'2021-07-22 18:04:34','CS_UPDATED','Norsewolf Creations','https://twitter.com/NWCfursuits',0,0,0,'','');
+INSERT INTO events VALUES(2913,1,NULL,'2021-07-22 18:04:37','CS_UPDATED','WearCat Creations','https://wearcatcreations.com/',0,0,0,'','');
+INSERT INTO events VALUES(2914,1,0,'2021-07-23 18:04:52','CS_UPDATED','EvilMakers','https://twitter.com/Evi1Makers',0,0,0,'','');
+INSERT INTO events VALUES(2943,0,NULL,'2021-07-24 18:04:31','CS_UPDATED','FancyBeast','http://www.fancybeastsuits.com/status.php',0,0,0,'','');
+INSERT INTO events VALUES(2956,NULL,1,'2021-07-25 10:20:42','CS_UPDATED','Fossa Studio','https://www.facebook.com/pg/FossaStudioo/posts/',0,0,0,'','');
+INSERT INTO events VALUES(2986,NULL,1,'2021-07-25 10:20:44','CS_UPDATED','Mei Fursuits','https://www.facebook.com/228395997528728/posts/488407388194253/',0,0,0,'','');
+INSERT INTO events VALUES(2997,0,1,'2021-07-25 10:20:48','CS_UPDATED','MaskedMerchant','https://maskedmerchant.weebly.com/fursuits.html',0,0,0,'','');
+INSERT INTO events VALUES(2999,NULL,1,'2021-07-25 10:20:48','CS_UPDATED','Arm and a Leg Fursuits','https://www.facebook.com/Arm-and-a-leg-fursuit-432777497525053/',0,0,0,'','');
 COMMIT;
