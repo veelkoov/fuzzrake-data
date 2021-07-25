@@ -1610,4 +1610,5 @@ INSERT INTO events VALUES(2956,NULL,1,'2021-07-25 10:20:42','CS_UPDATED','Fossa 
 INSERT INTO events VALUES(2986,NULL,1,'2021-07-25 10:20:44','CS_UPDATED','Mei Fursuits','https://www.facebook.com/228395997528728/posts/488407388194253/',0,0,0,'','');
 INSERT INTO events VALUES(2997,0,1,'2021-07-25 10:20:48','CS_UPDATED','MaskedMerchant','https://maskedmerchant.weebly.com/fursuits.html',0,0,0,'','');
 INSERT INTO events VALUES(2999,NULL,1,'2021-07-25 10:20:48','CS_UPDATED','Arm and a Leg Fursuits','https://www.facebook.com/Arm-and-a-leg-fursuit-432777497525053/',0,0,0,'','');
+INSERT INTO events VALUES(3000,NULL,NULL,'2021-07-25 10:52:00','DATA_UPDATED','','',1,0,0,'a92bb6880e38b52f52665cffdd36f99ed095607c','');
 COMMIT;

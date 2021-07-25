@@ -2575,4 +2575,5 @@ INSERT INTO artisans_urls VALUES(10114,472,'URL_FUR_AFFINITY','https://www.furaf
 INSERT INTO artisans_urls VALUES(10115,472,'URL_TWITTER','https://twitter.com/SVFursuits');
 INSERT INTO artisans_urls VALUES(10116,472,'URL_INSTAGRAM','https://www.instagram.com/saltvalleycreations/');
 INSERT INTO artisans_urls VALUES(10117,472,'URL_QUEUE','https://trello.com/b/0OnG9IJ7/fursuits');
+INSERT INTO artisans_urls VALUES(10118,457,'URL_FURSUITREVIEW','https://fursuitreview.com/m/evil-makers/');
 COMMIT;
