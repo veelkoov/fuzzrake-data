@@ -1611,4 +1611,9 @@ INSERT INTO events VALUES(2986,NULL,1,'2021-07-25 10:20:44','CS_UPDATED','Mei Fu
 INSERT INTO events VALUES(2997,0,1,'2021-07-25 10:20:48','CS_UPDATED','MaskedMerchant','https://maskedmerchant.weebly.com/fursuits.html',0,0,0,'','');
 INSERT INTO events VALUES(2999,NULL,1,'2021-07-25 10:20:48','CS_UPDATED','Arm and a Leg Fursuits','https://www.facebook.com/Arm-and-a-leg-fursuit-432777497525053/',0,0,0,'','');
 INSERT INTO events VALUES(3000,NULL,NULL,'2021-07-25 10:52:00','DATA_UPDATED','','',1,0,0,'a92bb6880e38b52f52665cffdd36f99ed095607c','');
+INSERT INTO events VALUES(3001,1,NULL,'2021-07-25 18:04:41','CS_UPDATED','Fossa Studio','https://www.facebook.com/pg/FossaStudioo/posts/',0,0,0,'','');
+INSERT INTO events VALUES(3002,1,NULL,'2021-07-25 18:04:43','CS_UPDATED','Mei Fursuits','https://www.facebook.com/228395997528728/posts/488407388194253/',0,0,0,'','');
+INSERT INTO events VALUES(3003,1,NULL,'2021-07-25 18:04:46','CS_UPDATED','Arm and a Leg Fursuits','https://www.facebook.com/Arm-and-a-leg-fursuit-432777497525053/',0,0,0,'','');
+INSERT INTO events VALUES(3004,0,NULL,'2021-07-26 06:04:36','CS_UPDATED','Wild Life','http://wild---life.com/faq/',0,0,0,'','');
+INSERT INTO events VALUES(3005,NULL,0,'2021-07-26 18:04:29','CS_UPDATED','Wild Life','http://wild---life.com/faq/',0,0,0,'','');
 COMMIT;
