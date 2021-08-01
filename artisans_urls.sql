@@ -2575,9 +2575,9 @@ INSERT INTO artisans_urls VALUES(10114,472,'URL_FUR_AFFINITY','https://www.furaf
 INSERT INTO artisans_urls VALUES(10115,472,'URL_TWITTER','https://twitter.com/SVFursuits');
 INSERT INTO artisans_urls VALUES(10116,472,'URL_INSTAGRAM','https://www.instagram.com/saltvalleycreations/');
 INSERT INTO artisans_urls VALUES(10117,472,'URL_QUEUE','https://trello.com/b/0OnG9IJ7/fursuits');
-INSERT INTO artisans_urls VALUES(10118,457,'URL_FURSUITREVIEW','https://fursuitreview.com/m/evil-makers/');
 INSERT INTO artisans_urls VALUES(10119,473,'URL_FAQ','https://docs.google.com/document/d/18X00wkd4F9Km-ArcGHxxz-79yKyQ0FypXw6Yk33fGxg/edit?fbclid=IwAR2SKa40lTn650ifOtadWdeSs-NVxUos8Ol0jBBVitIUs89iF7Qt7QBE6v0');
 INSERT INTO artisans_urls VALUES(10120,473,'URL_TWITTER','https://twitter.com/pomi_pat');
 INSERT INTO artisans_urls VALUES(10121,473,'URL_FACEBOOK','https://www.facebook.com/PomiPAT/');
 INSERT INTO artisans_urls VALUES(10122,473,'URL_YOUTUBE','https://www.youtube.com/channel/UCZuBWEIjid97XC7TM6-OU-g');
+INSERT INTO artisans_urls VALUES(10123,457,'URL_FURSUITREVIEW','https://fursuitreview.com/m/evil-makers/');
 COMMIT;

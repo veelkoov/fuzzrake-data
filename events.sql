@@ -1616,4 +1616,13 @@ INSERT INTO events VALUES(3002,1,NULL,'2021-07-25 18:04:43','CS_UPDATED','Mei Fu
 INSERT INTO events VALUES(3003,1,NULL,'2021-07-25 18:04:46','CS_UPDATED','Arm and a Leg Fursuits','https://www.facebook.com/Arm-and-a-leg-fursuit-432777497525053/',0,0,0,'','');
 INSERT INTO events VALUES(3004,0,NULL,'2021-07-26 06:04:36','CS_UPDATED','Wild Life','http://wild---life.com/faq/',0,0,0,'','');
 INSERT INTO events VALUES(3005,NULL,0,'2021-07-26 18:04:29','CS_UPDATED','Wild Life','http://wild---life.com/faq/',0,0,0,'','');
+INSERT INTO events VALUES(3006,NULL,NULL,'2021-07-26 18:55:00','DATA_UPDATED','','',1,0,0,'23352e6cfa05e0185a300d85df9c9754fb0ddcf5','');
+INSERT INTO events VALUES(3007,0,1,'2021-07-27 18:04:35','CS_UPDATED','Fursewna Studios','http://fursewnastudios.weebly.com/',0,0,0,'','');
+INSERT INTO events VALUES(3008,1,0,'2021-07-28 06:04:41','CS_UPDATED','Unleashed Studios','https://twitter.com/UnleashedSTU',0,0,0,'','');
+INSERT INTO events VALUES(3009,0,NULL,'2021-07-28 18:04:39','CS_UPDATED','JawsandPaws_UK','https://twitter.com/JawsNpawsUK',0,0,0,'','');
+INSERT INTO events VALUES(3010,1,NULL,'2021-07-30 06:04:36','CS_UPDATED','FurtasticStudios','https://www.furaffinity.net/user/furtasticstudios#profile/',0,0,0,'','');
+INSERT INTO events VALUES(3011,1,NULL,'2021-07-31 18:04:27','CS_UPDATED','saltyseasadness','https://saltyseasadness.carrd.co/',0,0,0,'','');
+INSERT INTO events VALUES(3012,0,NULL,'2021-08-01 06:04:36','CS_UPDATED','The Menagerie Costumes','https://twitter.com/tmcfursuits',0,0,0,'','');
+INSERT INTO events VALUES(3013,0,NULL,'2021-08-01 06:04:37','CS_UPDATED','CityMutt Fursuits','http://www.citymuttfursuits.com/commissions',0,0,0,'','');
+INSERT INTO events VALUES(3014,1,0,'2021-08-01 06:04:38','CS_UPDATED','Starcane Arts','https://www.starcanearts.com/pricing',0,0,0,'','');
 COMMIT;
