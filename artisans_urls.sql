@@ -2662,4 +2662,5 @@ INSERT INTO artisans_urls VALUES(10234,433,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(10235,433,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/55602-5addacd5604a920c18d175445b69d8a3.jpg');
 INSERT INTO artisans_urls VALUES(10236,433,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/55603-df8f3cfee58b52e42419fe425de81b91.jpg');
 INSERT INTO artisans_urls VALUES(10237,433,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/55601-7e422c9f6f63e010cb88c9397e70ed28.jpg');
+INSERT INTO artisans_urls VALUES(10238,474,'URL_TWITTER','https://twitter.com/8_8itArtistries');
 COMMIT;
