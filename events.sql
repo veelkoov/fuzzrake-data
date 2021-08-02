@@ -66,4 +66,11 @@ INSERT INTO events VALUES(62,'2021-08-01 10:38:58','CS_UPDATED','R.W.C.',0,0,0,'
 INSERT INTO events VALUES(63,'2021-08-01 10:38:58','CS_UPDATED','Desert Fizz',0,0,0,'','https://twitter.com/DesertFizz','','','Commissions',0);
 INSERT INTO events VALUES(64,'2021-08-01 10:38:58','CS_UPDATED','ArtZora Studios',0,0,0,'','https://artzorastudios.weebly.com/fursuit-commissions.html','','','Commissions',0);
 INSERT INTO events VALUES(65,'2021-08-01 10:43:00','GENERIC','',0,0,0,'','','New tracking system has been deployed. Past event records were removed.','','',0);
+INSERT INTO events VALUES(66,'2021-08-01 21:50:39','CS_UPDATED','Fossa Studio',0,0,0,'','https://www.facebook.com/pg/FossaStudioo/posts/','','Commissions','',1);
+INSERT INTO events VALUES(67,'2021-08-01 21:50:39','CS_UPDATED','CFStudios',0,0,0,'','https://twitter.com/C_F_Studios','','','Commissions',1);
+INSERT INTO events VALUES(68,'2021-08-01 21:50:39','CS_UPDATED','Hiero Craft Creations',0,0,0,'','https://www.facebook.com/pg/HieroCraftCreations/posts/','','Orders','',1);
+INSERT INTO events VALUES(69,'2021-08-01 21:50:39','CS_UPDATED','Mei Fursuits',0,0,0,'','https://www.facebook.com/228395997528728/posts/488407388194253/','',replace('Quotes\nCommissions','\n',char(10)),'',1);
+INSERT INTO events VALUES(70,'2021-08-01 21:50:39','CS_UPDATED','2 Stupid Furs',0,0,0,'','https://2stupidfurs.weebly.com/prices---quote-forms---tos.html','','','Commissions',0);
+INSERT INTO events VALUES(71,'2021-08-01 21:50:39','CS_UPDATED','Arm and a Leg Fursuits',0,0,0,'','https://www.facebook.com/Arm-and-a-leg-fursuit-432777497525053/','','Commissions','',1);
+INSERT INTO events VALUES(74,'2021-08-02 18:04:36','CS_UPDATED','EvilMakers',0,0,0,'','https://twitter.com/Evi1Makers','','','Commissions',0);
 COMMIT;
