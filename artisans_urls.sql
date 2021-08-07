@@ -1758,7 +1758,6 @@ INSERT INTO artisans_urls VALUES(9297,342,'URL_COMMISSIONS','https://toothyhound
 INSERT INTO artisans_urls VALUES(9298,381,'URL_WEBSITE','https://miffyiscute.wixsite.com/miffyiscute4fursuits');
 INSERT INTO artisans_urls VALUES(9299,381,'URL_PRICES','https://miffyiscute.wixsite.com/miffyiscute4fursuits/prices');
 INSERT INTO artisans_urls VALUES(9300,381,'URL_DEVIANTART','https://www.deviantart.com/miffyspastelpetshop');
-INSERT INTO artisans_urls VALUES(9301,381,'URL_TWITTER','https://twitter.com/PetsPastel');
 INSERT INTO artisans_urls VALUES(9302,381,'URL_FACEBOOK','https://www.facebook.com/Miffyiscute4-102811681387184/');
 INSERT INTO artisans_urls VALUES(9303,381,'URL_INSTAGRAM','https://www.instagram.com/miffyiscute4/');
 INSERT INTO artisans_urls VALUES(9304,381,'URL_YOUTUBE','https://www.youtube.com/channel/UCjpBtJkScDY8Qr2-1HePm-A');
@@ -2668,4 +2667,8 @@ INSERT INTO artisans_urls VALUES(10240,75,'URL_FACEBOOK','https://www.facebook.c
 INSERT INTO artisans_urls VALUES(10241,75,'URL_WEBSITE','http://wolfbird.ca/');
 INSERT INTO artisans_urls VALUES(10242,75,'URL_TWITTER','https://twitter.com/Wolfbird_NLCC');
 INSERT INTO artisans_urls VALUES(10243,75,'URL_QUEUE','https://trello.com/b/ShZuZ8cW/nlcc-work-queue');
+INSERT INTO artisans_urls VALUES(10244,381,'URL_COMMISSIONS','https://miffyiscute.wixsite.com/miffyiscute4fursuits');
+INSERT INTO artisans_urls VALUES(10245,381,'URL_TWITTER','https://twitter.com/Miffyiscute4');
+INSERT INTO artisans_urls VALUES(10246,381,'URL_ETSY','https://www.etsy.com/shop/Miffyiscute4Fursuits');
+INSERT INTO artisans_urls VALUES(10247,381,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/miffyiscute4-fursuits');
 COMMIT;
