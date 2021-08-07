@@ -2663,4 +2663,9 @@ INSERT INTO artisans_urls VALUES(10235,433,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(10236,433,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/55603-df8f3cfee58b52e42419fe425de81b91.jpg');
 INSERT INTO artisans_urls VALUES(10237,433,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/55601-7e422c9f6f63e010cb88c9397e70ed28.jpg');
 INSERT INTO artisans_urls VALUES(10238,474,'URL_TWITTER','https://twitter.com/8_8itArtistries');
+INSERT INTO artisans_urls VALUES(10239,60,'URL_COMMISSIONS','https://www.kodimade.com/request-quote');
+INSERT INTO artisans_urls VALUES(10240,75,'URL_FACEBOOK','https://www.facebook.com/NorthernLightsCostumes/');
+INSERT INTO artisans_urls VALUES(10241,75,'URL_WEBSITE','http://wolfbird.ca/');
+INSERT INTO artisans_urls VALUES(10242,75,'URL_TWITTER','https://twitter.com/Wolfbird_NLCC');
+INSERT INTO artisans_urls VALUES(10243,75,'URL_QUEUE','https://trello.com/b/ShZuZ8cW/nlcc-work-queue');
 COMMIT;

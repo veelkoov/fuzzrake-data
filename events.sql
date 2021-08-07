@@ -73,4 +73,9 @@ INSERT INTO events VALUES(69,'2021-08-01 21:50:39','CS_UPDATED','Mei Fursuits',0
 INSERT INTO events VALUES(70,'2021-08-01 21:50:39','CS_UPDATED','2 Stupid Furs',0,0,0,'','https://2stupidfurs.weebly.com/prices---quote-forms---tos.html','','','Commissions',0);
 INSERT INTO events VALUES(71,'2021-08-01 21:50:39','CS_UPDATED','Arm and a Leg Fursuits',0,0,0,'','https://www.facebook.com/Arm-and-a-leg-fursuit-432777497525053/','','Commissions','',1);
 INSERT INTO events VALUES(74,'2021-08-02 18:04:36','CS_UPDATED','EvilMakers',0,0,0,'','https://twitter.com/Evi1Makers','','','Commissions',0);
+INSERT INTO events VALUES(75,'2021-08-02 21:26:00','DATA_UPDATED','',1,0,0,'9906f236517c49b73f264f5e249d636a2a68d93e','','','','',0);
+INSERT INTO events VALUES(76,'2021-08-04 18:04:39','CS_UPDATED','CFStudios',0,0,0,'','https://twitter.com/C_F_Studios','','Commissions','',0);
+INSERT INTO events VALUES(77,'2021-08-05 06:04:25','CS_UPDATED','EvilMakers',0,0,0,'','https://twitter.com/Evi1Makers','','Commissions','',0);
+INSERT INTO events VALUES(78,'2021-08-05 18:04:54','CS_UPDATED','Fursewna Studios',0,0,0,'','http://fursewnastudios.weebly.com/','','Commissions','',0);
+INSERT INTO events VALUES(79,'2021-08-06 06:04:27','CS_UPDATED','saltyseasadness',0,0,0,'','https://saltyseasadness.carrd.co/','','','Commissions',0);
 COMMIT;
