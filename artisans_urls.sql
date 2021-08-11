@@ -2290,7 +2290,6 @@ INSERT INTO artisans_urls VALUES(9862,441,'URL_FACEBOOK','https://www.facebook.c
 INSERT INTO artisans_urls VALUES(9863,441,'URL_INSTAGRAM','https://www.instagram.com/alecrimcarmim/');
 INSERT INTO artisans_urls VALUES(9864,441,'URL_LINKLIST','https://linktr.ee/alecrimcarmim');
 INSERT INTO artisans_urls VALUES(9865,441,'URL_QUEUE','https://trello.com/b/yx3Cyh0o/2021-queue');
-INSERT INTO artisans_urls VALUES(9866,441,'URL_COMMISSIONS','https://www.instagram.com/alecrimcarmim/');
 INSERT INTO artisans_urls VALUES(9867,442,'URL_TWITTER','https://twitter.com/MakeAFur');
 INSERT INTO artisans_urls VALUES(9868,442,'URL_INSTAGRAM','https://www.instagram.com/makeafur/');
 INSERT INTO artisans_urls VALUES(9869,443,'URL_WEBSITE','http://snugglesfursuits.com/');
@@ -2671,4 +2670,17 @@ INSERT INTO artisans_urls VALUES(10244,381,'URL_COMMISSIONS','https://miffyiscut
 INSERT INTO artisans_urls VALUES(10245,381,'URL_TWITTER','https://twitter.com/Miffyiscute4');
 INSERT INTO artisans_urls VALUES(10246,381,'URL_ETSY','https://www.etsy.com/shop/Miffyiscute4Fursuits');
 INSERT INTO artisans_urls VALUES(10247,381,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/miffyiscute4-fursuits');
+INSERT INTO artisans_urls VALUES(10248,475,'URL_WEBSITE','https://little-fangs.com/');
+INSERT INTO artisans_urls VALUES(10249,475,'URL_PRICES','https://little-fangs.com/pricing/');
+INSERT INTO artisans_urls VALUES(10250,475,'URL_COMMISSIONS','https://little-fangs.com/get-a-quote/');
+INSERT INTO artisans_urls VALUES(10251,475,'URL_FAQ','https://little-fangs.com/faq/');
+INSERT INTO artisans_urls VALUES(10252,475,'URL_TWITTER','https://twitter.com/littlefangsfur');
+INSERT INTO artisans_urls VALUES(10253,475,'URL_FACEBOOK','https://www.facebook.com/littlefangsfur/');
+INSERT INTO artisans_urls VALUES(10254,475,'URL_INSTAGRAM','https://www.instagram.com/littlefangsstudio/');
+INSERT INTO artisans_urls VALUES(10255,475,'URL_YOUTUBE','https://www.youtube.com/channel/UC2a3zsCiIBTwiX_DUvbLsVg');
+INSERT INTO artisans_urls VALUES(10256,475,'URL_ETSY','https://www.etsy.com/ca/shop/LittleFangs');
+INSERT INTO artisans_urls VALUES(10257,475,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/search/other-items/?username=silentravyn&user_id=106792');
+INSERT INTO artisans_urls VALUES(10258,475,'URL_QUEUE','https://trello.com/b/ieIZqFRD/silent-ravyns-art-queue');
+INSERT INTO artisans_urls VALUES(10259,475,'URL_SCRITCH','https://scritch.es/makers/little-fangs-fursuits');
+INSERT INTO artisans_urls VALUES(10260,441,'URL_COMMISSIONS','https://www.alecrimcarmim.com/');
 COMMIT;
