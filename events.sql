@@ -79,4 +79,6 @@ INSERT INTO events VALUES(77,'2021-08-05 06:04:25','CS_UPDATED','EvilMakers',0,0
 INSERT INTO events VALUES(78,'2021-08-05 18:04:54','CS_UPDATED','Fursewna Studios',0,0,0,'','http://fursewnastudios.weebly.com/','','Commissions','',0);
 INSERT INTO events VALUES(79,'2021-08-06 06:04:27','CS_UPDATED','saltyseasadness',0,0,0,'','https://saltyseasadness.carrd.co/','','','Commissions',0);
 INSERT INTO events VALUES(80,'2021-08-07 16:59:21','CS_UPDATED','Miffyiscute4 Fursuits',0,0,0,'','https://miffyiscute.wixsite.com/miffyiscute4fursuits','','','Commissions',0);
+INSERT INTO events VALUES(81,'2021-08-07 17:02:00','DATA_UPDATED','',0,1,0,'095b222f334e1962a8546361c81819971b5a9747','','','','',0);
+INSERT INTO events VALUES(82,'2021-08-08 18:04:21','CS_UPDATED','The Menagerie Costumes',0,0,0,'','https://twitter.com/tmcfursuits','','Quotes','',0);
 COMMIT;
