@@ -2683,4 +2683,9 @@ INSERT INTO artisans_urls VALUES(10257,475,'URL_THE_DEALERS_DEN','https://www.th
 INSERT INTO artisans_urls VALUES(10258,475,'URL_QUEUE','https://trello.com/b/ieIZqFRD/silent-ravyns-art-queue');
 INSERT INTO artisans_urls VALUES(10259,475,'URL_SCRITCH','https://scritch.es/makers/little-fangs-fursuits');
 INSERT INTO artisans_urls VALUES(10260,441,'URL_COMMISSIONS','https://www.alecrimcarmim.com/');
+INSERT INTO artisans_urls VALUES(10261,476,'URL_COMMISSIONS','https://www.instagram.com/vulcan_wood/');
+INSERT INTO artisans_urls VALUES(10262,476,'URL_TWITTER','https://twitter.com/WoodVulcan');
+INSERT INTO artisans_urls VALUES(10263,476,'URL_FACEBOOK','https://www.facebook.com/lua.zayl.7/');
+INSERT INTO artisans_urls VALUES(10264,476,'URL_INSTAGRAM','https://www.instagram.com/vulcan_wood/');
+INSERT INTO artisans_urls VALUES(10265,476,'URL_QUEUE','https://trello.com/b/d5BQTM1O/commision-queue');
 COMMIT;
