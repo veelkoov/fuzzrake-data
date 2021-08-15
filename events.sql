@@ -82,4 +82,5 @@ INSERT INTO events VALUES(80,'2021-08-07 16:59:21','CS_UPDATED','Miffyiscute4 Fu
 INSERT INTO events VALUES(81,'2021-08-07 17:02:00','DATA_UPDATED','',0,1,0,'095b222f334e1962a8546361c81819971b5a9747','','','','',0);
 INSERT INTO events VALUES(82,'2021-08-08 18:04:21','CS_UPDATED','The Menagerie Costumes',0,0,0,'','https://twitter.com/tmcfursuits','','Quotes','',0);
 INSERT INTO events VALUES(83,'2021-08-11 16:57:40','CS_UPDATED','Alecrim Carmim',0,0,0,'','https://www.alecrimcarmim.com/','','',replace('Commissions\nArtistic liberty','\n',char(10)),0);
+INSERT INTO events VALUES(84,'2021-08-11 17:00:00','DATA_UPDATED','',1,1,0,'85be80eb4a11f02d81fce12d6b37074b85cd9255','','','','',0);
 COMMIT;
