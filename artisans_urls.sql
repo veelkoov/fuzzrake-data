@@ -2688,4 +2688,12 @@ INSERT INTO artisans_urls VALUES(10262,476,'URL_TWITTER','https://twitter.com/Wo
 INSERT INTO artisans_urls VALUES(10263,476,'URL_FACEBOOK','https://www.facebook.com/lua.zayl.7/');
 INSERT INTO artisans_urls VALUES(10264,476,'URL_INSTAGRAM','https://www.instagram.com/vulcan_wood/');
 INSERT INTO artisans_urls VALUES(10265,476,'URL_QUEUE','https://trello.com/b/d5BQTM1O/commision-queue');
+INSERT INTO artisans_urls VALUES(10266,477,'URL_FURSUITREVIEW','https://fursuitreview.com/m/spiritpanda/');
+INSERT INTO artisans_urls VALUES(10267,477,'URL_WEBSITE','https://spiritpandacostumes.com/');
+INSERT INTO artisans_urls VALUES(10268,477,'URL_PRICES','https://spiritpandacostumes.com/price-guide/');
+INSERT INTO artisans_urls VALUES(10269,477,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/spiritpanda/');
+INSERT INTO artisans_urls VALUES(10270,477,'URL_TWITTER','https://twitter.com/spiritpandasuit');
+INSERT INTO artisans_urls VALUES(10271,477,'URL_FACEBOOK','https://www.facebook.com/spiritpandacostumes/');
+INSERT INTO artisans_urls VALUES(10272,477,'URL_INSTAGRAM','https://www.instagram.com/spiritpanda/');
+INSERT INTO artisans_urls VALUES(10273,477,'URL_QUEUE','https://trello.com/b/owH6Yn9b/spiritpanda-costumes-fursuits');
 COMMIT;
