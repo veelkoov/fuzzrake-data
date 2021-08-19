@@ -84,4 +84,7 @@ INSERT INTO events VALUES(82,'2021-08-08 18:04:21','CS_UPDATED','The Menagerie C
 INSERT INTO events VALUES(83,'2021-08-11 16:57:40','CS_UPDATED','Alecrim Carmim',0,0,0,'','https://www.alecrimcarmim.com/','','',replace('Commissions\nArtistic liberty','\n',char(10)),0);
 INSERT INTO events VALUES(84,'2021-08-11 17:00:00','DATA_UPDATED','',1,1,0,'85be80eb4a11f02d81fce12d6b37074b85cd9255','','','','',0);
 INSERT INTO events VALUES(85,'2021-08-15 17:59:00','DATA_UPDATED','',1,0,0,'7fb1d563335999205495a4d5de4a5b2c63eea719','','','','',0);
+INSERT INTO events VALUES(86,'2021-08-15 21:07:00','DATA_UPDATED','',0,1,0,'a9710205f059eb6e9ecec2a15a92ae57c1ebe56d','','','','',0);
+INSERT INTO events VALUES(87,'2021-08-16 18:04:36','CS_UPDATED','R.W.C.',0,0,0,'','https://roxyswonderfulcreations8.webnode.cz/price-list/','','Commissions','',0);
+INSERT INTO events VALUES(88,'2021-08-19 06:04:26','CS_UPDATED','Windy Suits',0,0,0,'','https://www.furaffinity.net/user/windyfursuits/','','','Quotes',0);
 COMMIT;
