@@ -87,4 +87,6 @@ INSERT INTO events VALUES(85,'2021-08-15 17:59:00','DATA_UPDATED','',1,0,0,'7fb1
 INSERT INTO events VALUES(86,'2021-08-15 21:07:00','DATA_UPDATED','',0,1,0,'a9710205f059eb6e9ecec2a15a92ae57c1ebe56d','','','','',0);
 INSERT INTO events VALUES(87,'2021-08-16 18:04:36','CS_UPDATED','R.W.C.',0,0,0,'','https://roxyswonderfulcreations8.webnode.cz/price-list/','','Commissions','',0);
 INSERT INTO events VALUES(88,'2021-08-19 06:04:26','CS_UPDATED','Windy Suits',0,0,0,'','https://www.furaffinity.net/user/windyfursuits/','','','Quotes',0);
+INSERT INTO events VALUES(89,'2021-08-19 17:20:00','DATA_UPDATED','',1,0,0,'a6de2790af749d5ea8b4a8799e5acc75e203c290','','','','',0);
+INSERT INTO events VALUES(90,'2021-08-25 06:04:30','CS_UPDATED','2 Stupid Furs',0,0,0,'','https://2stupidfurs.weebly.com/prices---quote-forms---tos.html','','Commissions','',0);
 COMMIT;
