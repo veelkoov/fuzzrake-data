@@ -2707,4 +2707,8 @@ INSERT INTO artisans_urls VALUES(10313,478,'URL_QUEUE','https://trello.com/b/o99
 INSERT INTO artisans_urls VALUES(10314,122,'URL_TWITTER','https://twitter.com/FoxfireFantasy');
 INSERT INTO artisans_urls VALUES(10315,279,'URL_FURTRACK','https://www.furtrack.com/user/Melcaara');
 INSERT INTO artisans_urls VALUES(10316,458,'URL_FURTRACK','https://www.furtrack.com/user/StyngerSkies');
+INSERT INTO artisans_urls VALUES(10317,479,'URL_PRICES','https://www.furaffinity.net/user/mingusmuffin/');
+INSERT INTO artisans_urls VALUES(10318,479,'URL_COMMISSIONS','https://www.furaffinity.net/user/mingusmuffin/');
+INSERT INTO artisans_urls VALUES(10319,479,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/mingusmuffin/');
+INSERT INTO artisans_urls VALUES(10320,479,'URL_OTHER','You can find my pricing guidelines and contact info from my FurAffinity. Looking forward to hearing from you!');
 COMMIT;

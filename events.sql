@@ -94,4 +94,5 @@ INSERT INTO events VALUES(104,'2021-08-29 16:42:00','DATA_UPDATED','',1,1,1,'763
 INSERT INTO events VALUES(105,'2021-08-29 18:04:36','CS_UPDATED','Rossykitti Kreations',0,0,0,'','https://rossykittikreations.weebly.com/','','Commissions','',1);
 INSERT INTO events VALUES(106,'2021-08-31 06:04:24','CS_UPDATED','2 Stupid Furs',0,0,0,'','https://2stupidfurs.weebly.com/prices---quote-forms---tos.html','','','Commissions',0);
 INSERT INTO events VALUES(107,'2021-08-31 06:04:24','CS_UPDATED','Plaid Paws by Maus',0,0,0,'','https://sites.google.com/view/plaid-paws-by-maus/home','','','Quotes',0);
+INSERT INTO events VALUES(108,'2021-08-31 19:00:31','CS_UPDATED','Mingus Muffin',0,0,0,'','https://www.furaffinity.net/user/mingusmuffin/','','','Commissions',0);
 COMMIT;
