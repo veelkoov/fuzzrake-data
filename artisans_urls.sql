@@ -2430,7 +2430,6 @@ INSERT INTO artisans_urls VALUES(10015,458,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(10016,458,'URL_ETSY','https://www.etsy.com/shop/StyngerSkies');
 INSERT INTO artisans_urls VALUES(10017,458,'URL_QUEUE','https://trello.com/b/wClChmLz/current-work-cycle');
 INSERT INTO artisans_urls VALUES(10018,458,'URL_SCRITCH','https://scritch.es/styngerskies');
-INSERT INTO artisans_urls VALUES(10019,458,'URL_FURTRACK','https://www.furtrack.com/user/StyngerSkies/uploads');
 INSERT INTO artisans_urls VALUES(10020,458,'URL_COMMISSIONS','https://twitter.com/StyngerC');
 INSERT INTO artisans_urls VALUES(10021,459,'URL_WEBSITE','https://oneggiri.uwu.ai/#');
 INSERT INTO artisans_urls VALUES(10022,459,'URL_PRICES','https://oneggiri.uwu.ai/#fursuits');
@@ -2459,7 +2458,6 @@ INSERT INTO artisans_urls VALUES(10044,279,'URL_FURSUITREVIEW','https://fursuitr
 INSERT INTO artisans_urls VALUES(10045,279,'URL_LINKLIST','https://beacons.ai/melcaara');
 INSERT INTO artisans_urls VALUES(10046,279,'URL_FURRY_AMINO','https://aminoapps.com/c/furry-amino/page/user/melcaara/YjKZ_WQMuWfwQDvW76NDXXVvZn0YpXMPlcR');
 INSERT INTO artisans_urls VALUES(10047,279,'URL_OTHER','https://www.patreon.com/Melcaara');
-INSERT INTO artisans_urls VALUES(10048,279,'URL_FURTRACK','https://www.furtrack.com/user/Melcaara/');
 INSERT INTO artisans_urls VALUES(10049,279,'URL_COMMISSIONS','https://www.instagram.com/Kemoyagi/');
 INSERT INTO artisans_urls VALUES(10050,462,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/naritacoree/');
 INSERT INTO artisans_urls VALUES(10051,462,'URL_DEVIANTART','https://www.deviantart.com/naritacoree');
@@ -2707,4 +2705,6 @@ INSERT INTO artisans_urls VALUES(10311,478,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(10312,478,'URL_LINKLIST','https://wildfoxworks.carrd.co/');
 INSERT INTO artisans_urls VALUES(10313,478,'URL_QUEUE','https://trello.com/b/o99oA5yR/rubys-fursuit-stuff');
 INSERT INTO artisans_urls VALUES(10314,122,'URL_TWITTER','https://twitter.com/FoxfireFantasy');
+INSERT INTO artisans_urls VALUES(10315,279,'URL_FURTRACK','https://www.furtrack.com/user/Melcaara');
+INSERT INTO artisans_urls VALUES(10316,458,'URL_FURTRACK','https://www.furtrack.com/user/StyngerSkies');
 COMMIT;
