@@ -90,4 +90,8 @@ INSERT INTO events VALUES(88,'2021-08-19 06:04:26','CS_UPDATED','Windy Suits',0,
 INSERT INTO events VALUES(89,'2021-08-19 17:20:00','DATA_UPDATED','',1,0,0,'a6de2790af749d5ea8b4a8799e5acc75e203c290','','','','',0);
 INSERT INTO events VALUES(90,'2021-08-25 06:04:30','CS_UPDATED','2 Stupid Furs',0,0,0,'','https://2stupidfurs.weebly.com/prices---quote-forms---tos.html','','Commissions','',0);
 INSERT INTO events VALUES(91,'2021-08-27 18:35:00','DATA_UPDATED','',0,1,0,'1a3b4a746e561e1c6138b74de4739628ac6f2ab5','','','','',0);
+INSERT INTO events VALUES(104,'2021-08-29 16:42:00','DATA_UPDATED','',1,1,1,'7638e0fe0b9592011eca992d28946077b72a8258','','','','',0);
+INSERT INTO events VALUES(105,'2021-08-29 18:04:36','CS_UPDATED','Rossykitti Kreations',0,0,0,'','https://rossykittikreations.weebly.com/','','Commissions','',1);
+INSERT INTO events VALUES(106,'2021-08-31 06:04:24','CS_UPDATED','2 Stupid Furs',0,0,0,'','https://2stupidfurs.weebly.com/prices---quote-forms---tos.html','','','Commissions',0);
+INSERT INTO events VALUES(107,'2021-08-31 06:04:24','CS_UPDATED','Plaid Paws by Maus',0,0,0,'','https://sites.google.com/view/plaid-paws-by-maus/home','','','Quotes',0);
 COMMIT;
