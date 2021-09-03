@@ -1192,7 +1192,6 @@ INSERT INTO artisans_urls VALUES(1267,278,'URL_INSTAGRAM','https://www.instagram
 INSERT INTO artisans_urls VALUES(1268,278,'URL_YOUTUBE','https://www.youtube.com/channel/UCY-7zJXaUv9xsgtAGXLXR8g');
 INSERT INTO artisans_urls VALUES(1269,278,'URL_QUEUE','http://aminoapps.com/p/80z4u4');
 INSERT INTO artisans_urls VALUES(1273,279,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/Melcaara/');
-INSERT INTO artisans_urls VALUES(1276,279,'URL_INSTAGRAM','https://www.instagram.com/melcaara/');
 INSERT INTO artisans_urls VALUES(1277,279,'URL_QUEUE','https://trello.com/b/SbItuDLg/melcaaras-fursuits');
 INSERT INTO artisans_urls VALUES(1279,280,'URL_WEBSITE','https://www.goldenpawstudio.ca/#/');
 INSERT INTO artisans_urls VALUES(1280,280,'URL_PRICES','https://www.goldenpawstudio.ca/fursuit-quotes.html#/');
@@ -2711,4 +2710,7 @@ INSERT INTO artisans_urls VALUES(10317,479,'URL_PRICES','https://www.furaffinity
 INSERT INTO artisans_urls VALUES(10318,479,'URL_COMMISSIONS','https://www.furaffinity.net/user/mingusmuffin/');
 INSERT INTO artisans_urls VALUES(10319,479,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/mingusmuffin/');
 INSERT INTO artisans_urls VALUES(10320,479,'URL_OTHER','You can find my pricing guidelines and contact info from my FurAffinity. Looking forward to hearing from you!');
+INSERT INTO artisans_urls VALUES(10321,279,'URL_DEVIANTART','https://www.deviantart.com/kemoyagi');
+INSERT INTO artisans_urls VALUES(10322,279,'URL_INSTAGRAM','https://www.instagram.com/kemoyagi/');
+INSERT INTO artisans_urls VALUES(10323,279,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/kemoyagi');
 COMMIT;
