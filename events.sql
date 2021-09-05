@@ -97,4 +97,5 @@ INSERT INTO events VALUES(107,'2021-08-31 06:04:24','CS_UPDATED','Plaid Paws by 
 INSERT INTO events VALUES(108,'2021-08-31 19:00:31','CS_UPDATED','Mingus Muffin',0,0,0,'','https://www.furaffinity.net/user/mingusmuffin/','','','Commissions',0);
 INSERT INTO events VALUES(109,'2021-08-31 19:00:00','DATA_UPDATED','',1,0,0,'8afe6dac8c80f68f0464d10c55cd1c743f4890e0','','','','',0);
 INSERT INTO events VALUES(110,'2021-09-03 06:04:25','CS_UPDATED','TheKareliaFursuits',0,0,0,'','https://www.furaffinity.net/user/thekareliafursuits/','','','Commissions',0);
+INSERT INTO events VALUES(111,'2021-09-03 22:39:00','DATA_UPDATED','',0,1,0,'a7fd77342710d1f9114780a37585bb52186b0b37','','','','',0);
 COMMIT;
