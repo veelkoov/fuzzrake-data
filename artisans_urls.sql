@@ -2713,4 +2713,17 @@ INSERT INTO artisans_urls VALUES(10320,479,'URL_OTHER','You can find my pricing 
 INSERT INTO artisans_urls VALUES(10321,279,'URL_DEVIANTART','https://www.deviantart.com/kemoyagi');
 INSERT INTO artisans_urls VALUES(10322,279,'URL_INSTAGRAM','https://www.instagram.com/kemoyagi/');
 INSERT INTO artisans_urls VALUES(10323,279,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/kemoyagi');
+INSERT INTO artisans_urls VALUES(10324,480,'URL_WEBSITE','https://www.mantacraft.com/');
+INSERT INTO artisans_urls VALUES(10325,480,'URL_PRICES','https://www.mantacraft.com/pricing.html');
+INSERT INTO artisans_urls VALUES(10326,481,'URL_WEBSITE','http://www.treebarkcreations.com/');
+INSERT INTO artisans_urls VALUES(10327,481,'URL_PRICES','https://therabbitssoul.wixsite.com/treebarkcreations/prices');
+INSERT INTO artisans_urls VALUES(10328,481,'URL_COMMISSIONS','https://therabbitssoul.wixsite.com/treebarkcreations');
+INSERT INTO artisans_urls VALUES(10329,481,'URL_FAQ','https://therabbitssoul.wixsite.com/treebarkcreations/f-a-q');
+INSERT INTO artisans_urls VALUES(10330,481,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/therabbitssoul/');
+INSERT INTO artisans_urls VALUES(10331,481,'URL_TWITTER','https://twitter.com/TBarkCreations');
+INSERT INTO artisans_urls VALUES(10332,481,'URL_INSTAGRAM','https://www.instagram.com/treebark_creations/');
+INSERT INTO artisans_urls VALUES(10333,481,'URL_YOUTUBE','https://www.youtube.com/channel/UCaadXrjaBN4tmL2QdL0R3VQ');
+INSERT INTO artisans_urls VALUES(10334,481,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/treebark-creations');
+INSERT INTO artisans_urls VALUES(10335,481,'URL_QUEUE','https://trello.com/b/MChtzo3Y/treebark-creations');
+INSERT INTO artisans_urls VALUES(10336,481,'URL_FURTRACK','https://www.furtrack.com/index/maker:treebark_creations');
 COMMIT;
