@@ -1107,12 +1107,8 @@ INSERT INTO artisans_urls VALUES(1176,261,'URL_PRICES','https://flowercityfursui
 INSERT INTO artisans_urls VALUES(1177,261,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/flowercityfursuits/');
 INSERT INTO artisans_urls VALUES(1178,261,'URL_TWITTER','https://twitter.com/FlowercitySuits');
 INSERT INTO artisans_urls VALUES(1179,261,'URL_COMMISSIONS','https://twitter.com/FlowercitySuits');
-INSERT INTO artisans_urls VALUES(1180,262,'URL_PRICES','https://www.instagram.com/_bahamut19/');
-INSERT INTO artisans_urls VALUES(1181,262,'URL_TWITTER','https://twitter.com/_Bahamut19');
 INSERT INTO artisans_urls VALUES(1182,262,'URL_FACEBOOK','https://www.facebook.com/Bahamut19-1513798548737417/');
-INSERT INTO artisans_urls VALUES(1183,262,'URL_INSTAGRAM','https://www.instagram.com/_bahamut19/');
 INSERT INTO artisans_urls VALUES(1184,262,'URL_OTHER','https://www.flickr.com/photos/159403255@N08/');
-INSERT INTO artisans_urls VALUES(1185,262,'URL_COMMISSIONS','https://www.instagram.com/_bahamut19/');
 INSERT INTO artisans_urls VALUES(1186,263,'URL_WEBSITE','http://tokaisuiting.com/');
 INSERT INTO artisans_urls VALUES(1187,263,'URL_PRICES','http://tokaisuiting.com/');
 INSERT INTO artisans_urls VALUES(1188,263,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/tokai/');
@@ -2726,4 +2722,15 @@ INSERT INTO artisans_urls VALUES(10333,481,'URL_YOUTUBE','https://www.youtube.co
 INSERT INTO artisans_urls VALUES(10334,481,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/treebark-creations');
 INSERT INTO artisans_urls VALUES(10335,481,'URL_QUEUE','https://trello.com/b/MChtzo3Y/treebark-creations');
 INSERT INTO artisans_urls VALUES(10336,481,'URL_FURTRACK','https://www.furtrack.com/index/maker:treebark_creations');
+INSERT INTO artisans_urls VALUES(10338,482,'URL_WEBSITE','https://dogwool.webstarts.com/');
+INSERT INTO artisans_urls VALUES(10339,482,'URL_PRICES','https://dogwool.webstarts.com/custom_orders');
+INSERT INTO artisans_urls VALUES(10340,482,'URL_COMMISSIONS','https://dogwool.webstarts.com/custom_orders');
+INSERT INTO artisans_urls VALUES(10341,482,'URL_DEVIANTART','https://www.deviantart.com/dogwool');
+INSERT INTO artisans_urls VALUES(10342,482,'URL_TUMBLR','https://dogwool.tumblr.com/');
+INSERT INTO artisans_urls VALUES(10343,483,'URL_WEBSITE','https://eisfuchsin.square.site/');
+INSERT INTO artisans_urls VALUES(10344,483,'URL_PRICES','https://eisfuchsin.square.site/commission-pricing');
+INSERT INTO artisans_urls VALUES(10345,483,'URL_COMMISSIONS','https://eisfuchsin.square.site/commission-pricing');
+INSERT INTO artisans_urls VALUES(10346,483,'URL_TWITTER','https://twitter.com/EisFuchsin');
+INSERT INTO artisans_urls VALUES(10347,483,'URL_INSTAGRAM','https://www.instagram.com/EisFuchsin/');
+INSERT INTO artisans_urls VALUES(10348,474,'URL_COMMISSIONS','https://twitter.com/8_8itArtistries');
 COMMIT;
