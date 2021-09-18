@@ -104,4 +104,14 @@ INSERT INTO events VALUES(114,'2021-09-07 18:04:33','CS_UPDATED','TheKareliaFurs
 INSERT INTO events VALUES(115,'2021-09-08 06:04:27','CS_UPDATED','2 Stupid Furs',0,0,0,'','https://2stupidfurs.weebly.com/prices---quote-forms---tos.html','','Commissions','',0);
 INSERT INTO events VALUES(116,'2021-09-09 18:04:28','CS_UPDATED','Miffyiscute4 Fursuits',0,0,0,'','https://miffyiscute.wixsite.com/miffyiscute4fursuits','','Commissions','',1);
 INSERT INTO events VALUES(117,'2021-09-10 06:04:25','CS_UPDATED','Kilcodo Costumes',0,0,0,'','http://www.kilcodocostumes.com/','','','Quotes',0);
+INSERT INTO events VALUES(118,'2021-09-12 16:13:00','DATA_UPDATED','',2,2,0,'bd5d0cc5028ecd8800e620ffba98ee7d6f7c3425','','','','',0);
+INSERT INTO events VALUES(119,'2021-09-12 18:04:35','CS_UPDATED','DogWool',0,0,0,'','https://dogwool.webstarts.com/custom_orders','','','Commissions',0);
+INSERT INTO events VALUES(120,'2021-09-14 06:04:46','CS_UPDATED','grayREALM Studio',0,0,0,'','https://www.grayrealmstudio.com/commission-status','',replace('Parts\nRefurbishments\nQuotes','\n',char(10)),'',1);
+INSERT INTO events VALUES(121,'2021-09-14 18:04:42','CS_UPDATED','grayREALM Studio',0,0,0,'','https://www.grayrealmstudio.com/commission-status','','',replace('Parts\nRefurbishments\nQuotes','\n',char(10)),0);
+INSERT INTO events VALUES(122,'2021-09-14 18:04:42','CS_UPDATED','Slate Sloth Suits',0,0,0,'','https://slateslothsuits.weebly.com/','','','Commissions',0);
+INSERT INTO events VALUES(123,'2021-09-15 06:04:40','CS_UPDATED','CupcakeCritters',0,0,0,'','https://twitter.com/CupcakeCritters','','Commissions','',0);
+INSERT INTO events VALUES(124,'2021-09-15 06:04:40','CS_UPDATED','DogWool',0,0,0,'','https://dogwool.webstarts.com/custom_orders','','Commissions','',1);
+INSERT INTO events VALUES(125,'2021-09-16 06:04:43','CS_UPDATED','Desert Fizz',0,0,0,'','https://twitter.com/DesertFizz','','Commissions','',0);
+INSERT INTO events VALUES(126,'2021-09-18 06:04:43','CS_UPDATED','ByCats4Cats',0,0,0,'','http://bycats4cats.com/quote/','','','Commissions',0);
+INSERT INTO events VALUES(127,'2021-09-18 06:04:43','CS_UPDATED','Windy Suits',0,0,0,'','https://www.furaffinity.net/user/windyfursuits/','','','Commissions',0);
 COMMIT;
