@@ -1860,7 +1860,6 @@ INSERT INTO artisans_urls VALUES(9418,23,'URL_PRICES','https://craftyvulpine.com
 INSERT INTO artisans_urls VALUES(9419,23,'URL_QUEUE','https://trello.com/b/AdEK6hdL/fursuit-queue');
 INSERT INTO artisans_urls VALUES(9420,185,'URL_FURSUITREVIEW','https://fursuitreview.com/m/lady-night-light/');
 INSERT INTO artisans_urls VALUES(9421,185,'URL_SCRITCH','https://scritch.es/ladynightlight');
-INSERT INTO artisans_urls VALUES(9423,185,'URL_COMMISSIONS','https://www.instagram.com/ladynightlight/');
 INSERT INTO artisans_urls VALUES(9425,388,'URL_MINIATURES','https://storage.scritch.es/scritch/c43daf0c3f16ffd63e8769916b75ce66be53e57b/thumbnail_86ca57e8-e2f2-4760-9767-587610b43610.jpeg');
 INSERT INTO artisans_urls VALUES(9426,337,'URL_WEBSITE','http://www.tuliuscostumes.com/');
 INSERT INTO artisans_urls VALUES(9427,337,'URL_PRICES','http://www.tuliuscostumes.com/order.php');
@@ -2735,9 +2734,10 @@ INSERT INTO artisans_urls VALUES(10356,185,'URL_LINKLIST','https://linktr.ee/lad
 INSERT INTO artisans_urls VALUES(10357,185,'URL_ETSY','https://www.etsy.com/ie/shop/LadyNightLightsLair');
 INSERT INTO artisans_urls VALUES(10358,185,'URL_PHOTOS','https://scritch.es/pictures/fb41c907-bca3-4cec-ad51-0958a169970c');
 INSERT INTO artisans_urls VALUES(10359,185,'URL_PHOTOS','https://scritch.es/pictures/7049a9eb-c287-460c-b973-d191b6fd6551');
-INSERT INTO artisans_urls VALUES(10360,185,'URL_MINIATURES','https://storage.scritch.es/scritch/e16889eee61ae971ed6ecb5be363e574587d6921/thumbnail_ede1b44a-e2bb-4c11-95cb-348933f051b9.jpeg');
-INSERT INTO artisans_urls VALUES(10361,185,'URL_MINIATURES','https://storage.scritch.es/scritch/d6d2aa9dd2e84402d0699ee43f9d63251b4c2dd1/thumbnail_b68d1583-fdf5-4553-b8d4-240a85b71ce5.jpeg');
-INSERT INTO artisans_urls VALUES(10362,185,'URL_MINIATURES','https://storage.scritch.es/scritch/eb11568c490ca84beeca18744139107dc9f7c204/thumbnail_738b4095-4c79-4760-a313-d16a940e696c.jpeg');
-INSERT INTO artisans_urls VALUES(10363,185,'URL_MINIATURES','https://storage.scritch.es/scritch/2099e8861395cc2cd137560e4ff4279055eecb7f/thumbnail_7159358e-e7ed-45bb-8770-007830317a8f.jpeg');
-INSERT INTO artisans_urls VALUES(10364,185,'URL_MINIATURES','https://storage.scritch.es/scritch/51fdfe9d4872b0ca5ccad6b41ad5eccd80bbdaea/thumbnail_dc718173-022b-4f63-bed7-9c9f0764bca8.jpeg');
+INSERT INTO artisans_urls VALUES(10365,185,'URL_COMMISSIONS','https://www.furaffinity.net/user/ladynightlight/');
+INSERT INTO artisans_urls VALUES(10366,185,'URL_MINIATURES','https://storage.scritch.es/scritch/e16889eee61ae971ed6ecb5be363e574587d6921/thumbnail_ede1b44a-e2bb-4c11-95cb-348933f051b9.jpeg');
+INSERT INTO artisans_urls VALUES(10367,185,'URL_MINIATURES','https://storage.scritch.es/scritch/d6d2aa9dd2e84402d0699ee43f9d63251b4c2dd1/thumbnail_b68d1583-fdf5-4553-b8d4-240a85b71ce5.jpeg');
+INSERT INTO artisans_urls VALUES(10368,185,'URL_MINIATURES','https://storage.scritch.es/scritch/eb11568c490ca84beeca18744139107dc9f7c204/thumbnail_738b4095-4c79-4760-a313-d16a940e696c.jpeg');
+INSERT INTO artisans_urls VALUES(10369,185,'URL_MINIATURES','https://storage.scritch.es/scritch/2099e8861395cc2cd137560e4ff4279055eecb7f/thumbnail_7159358e-e7ed-45bb-8770-007830317a8f.jpeg');
+INSERT INTO artisans_urls VALUES(10370,185,'URL_MINIATURES','https://storage.scritch.es/scritch/51fdfe9d4872b0ca5ccad6b41ad5eccd80bbdaea/thumbnail_dc718173-022b-4f63-bed7-9c9f0764bca8.jpeg');
 COMMIT;
