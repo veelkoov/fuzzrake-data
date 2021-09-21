@@ -117,4 +117,7 @@ INSERT INTO events VALUES(127,'2021-09-18 06:04:43','CS_UPDATED','Windy Suits',0
 INSERT INTO events VALUES(128,'2021-09-18 19:26:00','DATA_UPDATED','',1,2,0,'413076ea0b1d9a2ae2eb41ae517bc3b97ddd79d1','','','','',0);
 INSERT INTO events VALUES(129,'2021-09-19 06:04:33','CS_UPDATED','Kilcodo Costumes',0,0,0,'','http://www.kilcodocostumes.com/','','Quotes','',0);
 INSERT INTO events VALUES(130,'2021-09-19 14:14:29','CS_UPDATED','Creations by LadyNightLight',0,0,0,'','https://www.furaffinity.net/user/ladynightlight/','','',replace('Commissions\nTrades','\n',char(10)),0);
+INSERT INTO events VALUES(131,'2021-09-19 18:42:00','DATA_UPDATED','',0,1,0,'f6fe7f94433320308ebf30ca90df62e9072aad82','','','','',0);
+INSERT INTO events VALUES(132,'2021-09-20 06:04:35','CS_UPDATED','Nyxia Creations',0,0,0,'','https://astranyxia.wixsite.com/nyxiacreations','','Commissions',replace('Quotes\nParts','\n',char(10)),0);
+INSERT INTO events VALUES(133,'2021-09-21 06:04:34','CS_UPDATED','grayREALM Studio',0,0,0,'','https://www.grayrealmstudio.com/commission-status','','Quotes','',1);
 COMMIT;
