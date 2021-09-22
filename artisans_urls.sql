@@ -2746,4 +2746,15 @@ INSERT INTO artisans_urls VALUES(10379,185,'URL_MINIATURES','https://storage.scr
 INSERT INTO artisans_urls VALUES(10380,185,'URL_MINIATURES','https://storage.scritch.es/scritch/eb11568c490ca84beeca18744139107dc9f7c204/thumbnail_738b4095-4c79-4760-a313-d16a940e696c.jpeg');
 INSERT INTO artisans_urls VALUES(10381,185,'URL_MINIATURES','https://storage.scritch.es/scritch/2099e8861395cc2cd137560e4ff4279055eecb7f/thumbnail_7159358e-e7ed-45bb-8770-007830317a8f.jpeg');
 INSERT INTO artisans_urls VALUES(10382,185,'URL_MINIATURES','https://storage.scritch.es/scritch/51fdfe9d4872b0ca5ccad6b41ad5eccd80bbdaea/thumbnail_dc718173-022b-4f63-bed7-9c9f0764bca8.jpeg');
+INSERT INTO artisans_urls VALUES(10383,485,'URL_WEBSITE','https://www.pocketwolffursuits.com/');
+INSERT INTO artisans_urls VALUES(10384,485,'URL_PRICES','https://www.pocketwolffursuits.com/prices');
+INSERT INTO artisans_urls VALUES(10385,485,'URL_COMMISSIONS','https://www.pocketwolffursuits.com/commissions');
+INSERT INTO artisans_urls VALUES(10386,485,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/pocketwolfcollections/');
+INSERT INTO artisans_urls VALUES(10387,485,'URL_DEVIANTART','https://www.deviantart.com/pocketwolffursuits');
+INSERT INTO artisans_urls VALUES(10388,485,'URL_TWITTER','https://twitter.com/PocketWolfSuits');
+INSERT INTO artisans_urls VALUES(10389,485,'URL_FACEBOOK','https://www.facebook.com/pocketwolf/');
+INSERT INTO artisans_urls VALUES(10390,485,'URL_INSTAGRAM','https://www.instagram.com/pocketwolffursuits/');
+INSERT INTO artisans_urls VALUES(10391,485,'URL_YOUTUBE','https://www.youtube.com/channel/UCdtYgaMKktCR8OQ_A_wmWwA');
+INSERT INTO artisans_urls VALUES(10392,485,'URL_ETSY','https://www.etsy.com/shop/PocketWolfShop');
+INSERT INTO artisans_urls VALUES(10393,485,'URL_QUEUE','https://trello.com/b/bXWSkpDa/pocket-wolf-queue');
 COMMIT;
