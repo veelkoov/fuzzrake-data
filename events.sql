@@ -120,4 +120,7 @@ INSERT INTO events VALUES(130,'2021-09-19 14:14:29','CS_UPDATED','Creations by L
 INSERT INTO events VALUES(131,'2021-09-19 18:42:00','DATA_UPDATED','',0,1,0,'f6fe7f94433320308ebf30ca90df62e9072aad82','','','','',0);
 INSERT INTO events VALUES(132,'2021-09-20 06:04:35','CS_UPDATED','Nyxia Creations',0,0,0,'','https://astranyxia.wixsite.com/nyxiacreations','','Commissions',replace('Quotes\nParts','\n',char(10)),0);
 INSERT INTO events VALUES(133,'2021-09-21 06:04:34','CS_UPDATED','grayREALM Studio',0,0,0,'','https://www.grayrealmstudio.com/commission-status','','Quotes','',1);
+INSERT INTO events VALUES(134,'2021-09-22 17:13:00','DATA_UPDATED','',1,1,0,'49e2931b20571a743f5054635689b571ade1d91a','','','','',0);
+INSERT INTO events VALUES(135,'2021-09-24 06:04:46','CS_UPDATED','Nyxia Creations',0,0,0,'','https://astranyxia.wixsite.com/nyxiacreations','',replace('Quotes\nParts','\n',char(10)),'',1);
+INSERT INTO events VALUES(136,'2021-09-24 18:04:42','CS_UPDATED','Nyxia Creations',0,0,0,'','https://astranyxia.wixsite.com/nyxiacreations','','',replace('Quotes\nParts','\n',char(10)),0);
 COMMIT;

@@ -2741,11 +2741,6 @@ INSERT INTO artisans_urls VALUES(10374,323,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(10375,323,'URL_FURRY_AMINO','https://aminoapps.com/c/furry-amino/page/user/kabber-but-spooky/lXlD_v5VtRfD6xGwjV0PvwvMwgXD8wRP2rmfq');
 INSERT INTO artisans_urls VALUES(10376,323,'URL_ETSY','https://www.etsy.com/shop/KabberCreations');
 INSERT INTO artisans_urls VALUES(10377,323,'URL_QUEUE','https://trello.com/b/DEkPmGra/kabber-creations');
-INSERT INTO artisans_urls VALUES(10378,185,'URL_MINIATURES','https://storage.scritch.es/scritch/e16889eee61ae971ed6ecb5be363e574587d6921/thumbnail_ede1b44a-e2bb-4c11-95cb-348933f051b9.jpeg');
-INSERT INTO artisans_urls VALUES(10379,185,'URL_MINIATURES','https://storage.scritch.es/scritch/d6d2aa9dd2e84402d0699ee43f9d63251b4c2dd1/thumbnail_b68d1583-fdf5-4553-b8d4-240a85b71ce5.jpeg');
-INSERT INTO artisans_urls VALUES(10380,185,'URL_MINIATURES','https://storage.scritch.es/scritch/eb11568c490ca84beeca18744139107dc9f7c204/thumbnail_738b4095-4c79-4760-a313-d16a940e696c.jpeg');
-INSERT INTO artisans_urls VALUES(10381,185,'URL_MINIATURES','https://storage.scritch.es/scritch/2099e8861395cc2cd137560e4ff4279055eecb7f/thumbnail_7159358e-e7ed-45bb-8770-007830317a8f.jpeg');
-INSERT INTO artisans_urls VALUES(10382,185,'URL_MINIATURES','https://storage.scritch.es/scritch/51fdfe9d4872b0ca5ccad6b41ad5eccd80bbdaea/thumbnail_dc718173-022b-4f63-bed7-9c9f0764bca8.jpeg');
 INSERT INTO artisans_urls VALUES(10383,485,'URL_WEBSITE','https://www.pocketwolffursuits.com/');
 INSERT INTO artisans_urls VALUES(10384,485,'URL_PRICES','https://www.pocketwolffursuits.com/prices');
 INSERT INTO artisans_urls VALUES(10385,485,'URL_COMMISSIONS','https://www.pocketwolffursuits.com/commissions');
@@ -2757,4 +2752,9 @@ INSERT INTO artisans_urls VALUES(10390,485,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(10391,485,'URL_YOUTUBE','https://www.youtube.com/channel/UCdtYgaMKktCR8OQ_A_wmWwA');
 INSERT INTO artisans_urls VALUES(10392,485,'URL_ETSY','https://www.etsy.com/shop/PocketWolfShop');
 INSERT INTO artisans_urls VALUES(10393,485,'URL_QUEUE','https://trello.com/b/bXWSkpDa/pocket-wolf-queue');
+INSERT INTO artisans_urls VALUES(10394,185,'URL_MINIATURES','https://storage.scritch.es/scritch/e16889eee61ae971ed6ecb5be363e574587d6921/thumbnail_ede1b44a-e2bb-4c11-95cb-348933f051b9.jpeg');
+INSERT INTO artisans_urls VALUES(10395,185,'URL_MINIATURES','https://storage.scritch.es/scritch/d6d2aa9dd2e84402d0699ee43f9d63251b4c2dd1/thumbnail_b68d1583-fdf5-4553-b8d4-240a85b71ce5.jpeg');
+INSERT INTO artisans_urls VALUES(10396,185,'URL_MINIATURES','https://storage.scritch.es/scritch/eb11568c490ca84beeca18744139107dc9f7c204/thumbnail_738b4095-4c79-4760-a313-d16a940e696c.jpeg');
+INSERT INTO artisans_urls VALUES(10397,185,'URL_MINIATURES','https://storage.scritch.es/scritch/2099e8861395cc2cd137560e4ff4279055eecb7f/thumbnail_7159358e-e7ed-45bb-8770-007830317a8f.jpeg');
+INSERT INTO artisans_urls VALUES(10398,185,'URL_MINIATURES','https://storage.scritch.es/scritch/51fdfe9d4872b0ca5ccad6b41ad5eccd80bbdaea/thumbnail_dc718173-022b-4f63-bed7-9c9f0764bca8.jpeg');
 COMMIT;
