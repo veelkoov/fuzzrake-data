@@ -1720,13 +1720,8 @@ INSERT INTO artisans_urls VALUES(9263,377,'URL_TWITTER','https://twitter.com/Val
 INSERT INTO artisans_urls VALUES(9264,378,'URL_WEBSITE','https://kaiverpuppy.wixsite.com/alphaandomegastudios');
 INSERT INTO artisans_urls VALUES(9265,378,'URL_PRICES','https://kaiverpuppy.wixsite.com/alphaandomegastudios/base-prices');
 INSERT INTO artisans_urls VALUES(9266,378,'URL_FAQ','https://kaiverpuppy.wixsite.com/alphaandomegastudios/faq');
-INSERT INTO artisans_urls VALUES(9267,378,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/kaiverpuppy/');
-INSERT INTO artisans_urls VALUES(9268,378,'URL_TWITTER','https://twitter.com/alphaomegaworks');
-INSERT INTO artisans_urls VALUES(9269,378,'URL_FACEBOOK','https://www.facebook.com/alphaandomegastudios/');
-INSERT INTO artisans_urls VALUES(9270,378,'URL_INSTAGRAM','https://www.instagram.com/alphaandomegastudios/');
 INSERT INTO artisans_urls VALUES(9271,378,'URL_YOUTUBE','https://www.youtube.com/channel/UC6MGGWe7ZFp7NSBYVuNL6nQ');
 INSERT INTO artisans_urls VALUES(9272,378,'URL_QUEUE','https://trello.com/b/RrlSmS1A/suit-commissions');
-INSERT INTO artisans_urls VALUES(9273,378,'URL_COMMISSIONS','https://kaiverpuppy.wixsite.com/alphaandomegastudios');
 INSERT INTO artisans_urls VALUES(9274,188,'URL_PRICES','https://www.weaselsoneasels.com/request-a-quote/');
 INSERT INTO artisans_urls VALUES(9275,188,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/96037/');
 INSERT INTO artisans_urls VALUES(9276,188,'URL_QUEUE','https://www.facebook.com/weaselsoneasels/videos/1979763415449710/');
@@ -2713,7 +2708,6 @@ INSERT INTO artisans_urls VALUES(10333,481,'URL_YOUTUBE','https://www.youtube.co
 INSERT INTO artisans_urls VALUES(10334,481,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/treebark-creations');
 INSERT INTO artisans_urls VALUES(10335,481,'URL_QUEUE','https://trello.com/b/MChtzo3Y/treebark-creations');
 INSERT INTO artisans_urls VALUES(10336,481,'URL_FURTRACK','https://www.furtrack.com/index/maker:treebark_creations');
-INSERT INTO artisans_urls VALUES(10338,482,'URL_WEBSITE','https://dogwool.webstarts.com/');
 INSERT INTO artisans_urls VALUES(10341,482,'URL_DEVIANTART','https://www.deviantart.com/dogwool');
 INSERT INTO artisans_urls VALUES(10342,482,'URL_TUMBLR','https://dogwool.tumblr.com/');
 INSERT INTO artisans_urls VALUES(10343,483,'URL_WEBSITE','https://eisfuchsin.square.site/');
@@ -2757,4 +2751,12 @@ INSERT INTO artisans_urls VALUES(10395,185,'URL_MINIATURES','https://storage.scr
 INSERT INTO artisans_urls VALUES(10396,185,'URL_MINIATURES','https://storage.scritch.es/scritch/eb11568c490ca84beeca18744139107dc9f7c204/thumbnail_738b4095-4c79-4760-a313-d16a940e696c.jpeg');
 INSERT INTO artisans_urls VALUES(10397,185,'URL_MINIATURES','https://storage.scritch.es/scritch/2099e8861395cc2cd137560e4ff4279055eecb7f/thumbnail_7159358e-e7ed-45bb-8770-007830317a8f.jpeg');
 INSERT INTO artisans_urls VALUES(10398,185,'URL_MINIATURES','https://storage.scritch.es/scritch/51fdfe9d4872b0ca5ccad6b41ad5eccd80bbdaea/thumbnail_dc718173-022b-4f63-bed7-9c9f0764bca8.jpeg');
+INSERT INTO artisans_urls VALUES(10399,482,'URL_WEBSITE','https://dogwool.square.site/');
+INSERT INTO artisans_urls VALUES(10400,486,'URL_WEBSITE','https://swagliad.wixsite.com/antlerworks');
+INSERT INTO artisans_urls VALUES(10401,486,'URL_PRICES','https://swagliad.wixsite.com/antlerworks/pricing');
+INSERT INTO artisans_urls VALUES(10402,486,'URL_COMMISSIONS','https://www.facebook.com/swagliad');
+INSERT INTO artisans_urls VALUES(10403,486,'URL_COMMISSIONS','https://twitter.com/Antler_Works?s=09');
+INSERT INTO artisans_urls VALUES(10404,486,'URL_TWITTER','https://twitter.com/Antler_Works');
+INSERT INTO artisans_urls VALUES(10405,486,'URL_FACEBOOK','https://www.facebook.com/swagliad/');
+INSERT INTO artisans_urls VALUES(10406,486,'URL_QUEUE','https://trello.com/b/0QEAiNtu/antlerworks-fursuit-commissions');
 COMMIT;
