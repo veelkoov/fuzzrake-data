@@ -123,4 +123,7 @@ INSERT INTO events VALUES(133,'2021-09-21 06:04:34','CS_UPDATED','grayREALM Stud
 INSERT INTO events VALUES(134,'2021-09-22 17:13:00','DATA_UPDATED','',1,1,0,'49e2931b20571a743f5054635689b571ade1d91a','','','','',0);
 INSERT INTO events VALUES(135,'2021-09-24 06:04:46','CS_UPDATED','Nyxia Creations',0,0,0,'','https://astranyxia.wixsite.com/nyxiacreations','',replace('Quotes\nParts','\n',char(10)),'',1);
 INSERT INTO events VALUES(136,'2021-09-24 18:04:42','CS_UPDATED','Nyxia Creations',0,0,0,'','https://astranyxia.wixsite.com/nyxiacreations','','',replace('Quotes\nParts','\n',char(10)),0);
+INSERT INTO events VALUES(137,'2021-09-25 19:37:00','DATA_UPDATED','',1,1,1,'25030ef1fbbfd8e266821d7935b3e2b5808c2528','','','','',0);
+INSERT INTO events VALUES(139,'2021-09-26 06:05:00','CS_UPDATED','Alpha & Omega Studios',0,0,0,'','','','Commissions','',0);
+INSERT INTO events VALUES(140,'2021-09-26 18:04:37','CS_UPDATED','ByCats4Cats',0,0,0,'','http://bycats4cats.com/quote/','','Commissions','',0);
 COMMIT;
