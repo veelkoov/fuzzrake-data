@@ -126,4 +126,13 @@ INSERT INTO events VALUES(136,'2021-09-24 18:04:42','CS_UPDATED','Nyxia Creation
 INSERT INTO events VALUES(137,'2021-09-25 19:37:00','DATA_UPDATED','',1,1,1,'25030ef1fbbfd8e266821d7935b3e2b5808c2528','','','','',0);
 INSERT INTO events VALUES(139,'2021-09-26 06:05:00','CS_UPDATED','Alpha & Omega Studios',0,0,0,'','','','Commissions','',0);
 INSERT INTO events VALUES(140,'2021-09-26 18:04:37','CS_UPDATED','ByCats4Cats',0,0,0,'','http://bycats4cats.com/quote/','','Commissions','',0);
+INSERT INTO events VALUES(141,'2021-09-28 06:04:34','CS_UPDATED','Kayla''s Kritterz',0,0,0,'','https://twitter.com/KaylasKritterz','','',replace('Commissions\nQuotes','\n',char(10)),1);
+INSERT INTO events VALUES(142,'2021-09-28 18:04:43','CS_UPDATED','That One Pink Dog Studios',0,0,0,'','http://thatonepinkdog.studio/fursuit-prices','',replace('Quotes\nCommissions','\n',char(10)),'',0);
+INSERT INTO events VALUES(143,'2021-09-29 06:04:41','CS_UPDATED','maxyncheese',0,0,0,'','https://maxyncheese.wixsite.com/home','','Quotes','',1);
+INSERT INTO events VALUES(144,'2021-09-29 18:04:48','CS_UPDATED','maxyncheese',0,0,0,'','https://maxyncheese.wixsite.com/home','','','Quotes',0);
+INSERT INTO events VALUES(145,'2021-09-30 06:04:44','CS_UPDATED','8-8itArtistries',0,0,0,'','https://twitter.com/8_8itArtistries','','','Commissions',0);
+INSERT INTO events VALUES(146,'2021-10-01 06:04:35','CS_UPDATED','WearCat Creations',0,0,0,'','https://wearcatcreations.com/','','','Commissions',0);
+INSERT INTO events VALUES(147,'2021-10-01 18:04:58','CS_UPDATED','2 Stupid Furs',0,0,0,'','https://2stupidfurs.weebly.com/prices---quote-forms---tos.html','',replace('Artistic liberty\nPre-mades','\n',char(10)),'',0);
+INSERT INTO events VALUES(148,'2021-10-02 06:04:26','CS_UPDATED','Starcane Arts',0,0,0,'','https://www.starcanearts.com/pricing','','','Commissions',1);
+INSERT INTO events VALUES(149,'2021-10-02 18:04:33','CS_UPDATED','SereStudios',0,0,0,'','https://www.serestudios.com/','','','Commissions',0);
 COMMIT;
