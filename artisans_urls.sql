@@ -1023,7 +1023,6 @@ INSERT INTO artisans_urls VALUES(1085,245,'URL_FACEBOOK','https://www.facebook.c
 INSERT INTO artisans_urls VALUES(1086,245,'URL_INSTAGRAM','https://www.instagram.com/studiosspud/');
 INSERT INTO artisans_urls VALUES(1087,245,'URL_QUEUE','https://trello.com/b/Is9lPfWC/spud-studios-work-queue');
 INSERT INTO artisans_urls VALUES(1088,245,'URL_COMMISSIONS','https://spudstudios.net/commissions/');
-INSERT INTO artisans_urls VALUES(1089,246,'URL_WEBSITE','http://www.kittyfluff.de/');
 INSERT INTO artisans_urls VALUES(1090,246,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/kittyfluff/');
 INSERT INTO artisans_urls VALUES(1091,246,'URL_FACEBOOK','https://www.facebook.com/kittyfluffcostumes/');
 INSERT INTO artisans_urls VALUES(1092,246,'URL_COMMISSIONS','https://www.furaffinity.net/user/kittyfluff/');
