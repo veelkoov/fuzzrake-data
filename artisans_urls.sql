@@ -2001,10 +2001,6 @@ INSERT INTO artisans_urls VALUES(9576,409,'URL_COMMISSIONS','https://trello.com/
 INSERT INTO artisans_urls VALUES(9580,161,'URL_WEBSITE','https://www.craftyhuskyworkshop.co.uk/');
 INSERT INTO artisans_urls VALUES(9581,410,'URL_TWITTER','https://twitter.com/KitsuAnuma');
 INSERT INTO artisans_urls VALUES(9582,410,'URL_FURTRACK','https://www.furtrack.com/user/Kitsuanuma');
-INSERT INTO artisans_urls VALUES(9583,411,'URL_WEBSITE','https://www.knightlyfurs.com/home');
-INSERT INTO artisans_urls VALUES(9584,411,'URL_PRICES','https://www.knightlyfurs.com/estimate-prices');
-INSERT INTO artisans_urls VALUES(9585,411,'URL_TWITTER','https://twitter.com/Starryknightttt');
-INSERT INTO artisans_urls VALUES(9586,411,'URL_COMMISSIONS','https://www.knightlyfurs.com/home');
 INSERT INTO artisans_urls VALUES(9587,237,'URL_PRICES','https://www.beautyofthebass.com/commissions');
 INSERT INTO artisans_urls VALUES(9588,237,'URL_FAQ','https://www.beautyofthebass.com/faq');
 INSERT INTO artisans_urls VALUES(9589,237,'URL_INSTAGRAM','https://www.instagram.com/beautyofthebass/');
@@ -2775,4 +2771,10 @@ INSERT INTO artisans_urls VALUES(10421,488,'URL_DEVIANTART','https://www.deviant
 INSERT INTO artisans_urls VALUES(10422,488,'URL_FURRY_AMINO','https://aminoapps.com/c/furry-amino/page/user/felidaefiendfursuits/N4Vm_0J8u0f43D8xDPXQ1ojpoEgoWML73l4');
 INSERT INTO artisans_urls VALUES(10423,488,'URL_PHOTOS','https://scritch.es/pictures/ce9c6ce2-e99b-4f7e-ab96-5fec55b50896');
 INSERT INTO artisans_urls VALUES(10424,488,'URL_MINIATURES','https://storage.scritch.es/scritch/474245fb1a7323478125fbd5c650818cc2094c6a/thumbnail_10ee81cf-bdd3-4bcb-aed7-16cc4c13e328.jpeg');
+INSERT INTO artisans_urls VALUES(10425,411,'URL_COMMISSIONS','https://twitter.com/HornedpupStudio');
+INSERT INTO artisans_urls VALUES(10426,411,'URL_TWITTER','https://twitter.com/HornedpupStudio');
+INSERT INTO artisans_urls VALUES(10427,489,'URL_TWITTER','https://twitter.com/MousetoothArt');
+INSERT INTO artisans_urls VALUES(10428,489,'URL_ETSY','https://www.etsy.com/shop/MousetoothCreations');
+INSERT INTO artisans_urls VALUES(10429,489,'URL_QUEUE','https://trello.com/b/8jYCMRPA/fursuits');
+INSERT INTO artisans_urls VALUES(10430,489,'URL_OTHER','Twitch: https://www.twitch.tv/mousetoothcreations');
 COMMIT;
