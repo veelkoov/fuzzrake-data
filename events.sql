@@ -135,4 +135,7 @@ INSERT INTO events VALUES(146,'2021-10-01 06:04:35','CS_UPDATED','WearCat Creati
 INSERT INTO events VALUES(147,'2021-10-01 18:04:58','CS_UPDATED','2 Stupid Furs',0,0,0,'','https://2stupidfurs.weebly.com/prices---quote-forms---tos.html','',replace('Artistic liberty\nPre-mades','\n',char(10)),'',0);
 INSERT INTO events VALUES(148,'2021-10-02 06:04:26','CS_UPDATED','Starcane Arts',0,0,0,'','https://www.starcanearts.com/pricing','','','Commissions',1);
 INSERT INTO events VALUES(149,'2021-10-02 18:04:33','CS_UPDATED','SereStudios',0,0,0,'','https://www.serestudios.com/','','','Commissions',0);
+INSERT INTO events VALUES(150,'2021-10-03 19:22:00','DATA_UPDATED','',2,1,0,'fbe52c68cd65049c3cb71b2a1e8ab4cbc84a63ae','','','','',0);
+INSERT INTO events VALUES(151,'2021-10-04 06:04:34','CS_UPDATED','Mixed Candy Costumes',0,0,0,'','https://www.mixedcandycostumes.com/','','','Commissions',0);
+INSERT INTO events VALUES(152,'2021-10-04 18:04:55','CS_UPDATED','Kayla''s Kritterz',0,0,0,'','https://twitter.com/KaylasKritterz','',replace('Commissions\nQuotes','\n',char(10)),'',1);
 COMMIT;
