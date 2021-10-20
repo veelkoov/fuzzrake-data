@@ -138,4 +138,18 @@ INSERT INTO events VALUES(149,'2021-10-02 18:04:33','CS_UPDATED','SereStudios',0
 INSERT INTO events VALUES(150,'2021-10-03 19:22:00','DATA_UPDATED','',2,1,0,'fbe52c68cd65049c3cb71b2a1e8ab4cbc84a63ae','','','','',0);
 INSERT INTO events VALUES(151,'2021-10-04 06:04:34','CS_UPDATED','Mixed Candy Costumes',0,0,0,'','https://www.mixedcandycostumes.com/','','','Commissions',0);
 INSERT INTO events VALUES(152,'2021-10-04 18:04:55','CS_UPDATED','Kayla''s Kritterz',0,0,0,'','https://twitter.com/KaylasKritterz','',replace('Commissions\nQuotes','\n',char(10)),'',1);
+INSERT INTO events VALUES(153,'2021-10-04 18:55:00','DATA_UPDATED','',1,1,0,'d419c24105028510c90a06d34f9694912065cc00','','','','',0);
+INSERT INTO events VALUES(154,'2021-10-04 18:56:00','DATA_UPDATED','',0,0,1,'e44d991437aae569b2d069cc51aacf54b1302de2','','','','',0);
+INSERT INTO events VALUES(155,'2021-10-10 06:04:42','CS_UPDATED','Mixed Candy Costumes',0,0,0,'','https://www.mixedcandycostumes.com/','','Commissions','',1);
+INSERT INTO events VALUES(156,'2021-10-12 18:04:42','CS_UPDATED','SereStudios',0,0,0,'','https://www.serestudios.com/','','Commissions','',0);
+INSERT INTO events VALUES(157,'2021-10-13 06:04:47','CS_UPDATED','HeckGeck',0,0,0,'','https://madisonholbrook97.wixsite.com/heckgeck/current-projects','','Commissions','',1);
+INSERT INTO events VALUES(158,'2021-10-13 18:04:44','CS_UPDATED','HeckGeck',0,0,0,'','https://madisonholbrook97.wixsite.com/heckgeck/current-projects','','','Commissions',0);
+INSERT INTO events VALUES(159,'2021-10-14 06:04:44','CS_UPDATED','Plaid Paws by Maus',0,0,0,'','https://sites.google.com/view/plaid-paws-by-maus/home','','Quotes','',1);
+INSERT INTO events VALUES(160,'2021-10-15 18:05:05','CS_UPDATED','2 Stupid Furs',0,0,0,'','https://2stupidfurs.weebly.com/prices---quote-forms---tos.html','','',replace('Commissions\nArtistic liberty\nPre-mades\nParts','\n',char(10)),0);
+INSERT INTO events VALUES(161,'2021-10-15 18:05:05','CS_UPDATED','Chaoticreations',0,0,0,'','https://www.chaoticreationsfursuits.co.uk/fursuit-commissions','','','Commissions',0);
+INSERT INTO events VALUES(162,'2021-10-15 18:05:05','CS_UPDATED','WearCat Creations',0,0,0,'','https://wearcatcreations.com/','','Commissions','',1);
+INSERT INTO events VALUES(163,'2021-10-18 18:05:06','CS_UPDATED','Starcane Arts',0,0,0,'','https://www.starcanearts.com/pricing','','Commissions','',1);
+INSERT INTO events VALUES(164,'2021-10-19 06:04:45','CS_UPDATED','Starcane Arts',0,0,0,'','https://www.starcanearts.com/pricing','','','Commissions',1);
+INSERT INTO events VALUES(165,'2021-10-20 18:05:11','CS_UPDATED','Winters Howling',0,0,0,'','https://www.wintershowling.com/','','Commissions','',1);
+INSERT INTO events VALUES(166,'2021-10-20 18:05:11','CS_UPDATED','Chaoticreations',0,0,0,'','https://www.chaoticreationsfursuits.co.uk/fursuit-commissions','','Commissions','',1);
 COMMIT;
