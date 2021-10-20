@@ -25,4 +25,8 @@ INSERT INTO artisans_values VALUES(931,411,'IS_MINOR','False');
 INSERT INTO artisans_values VALUES(932,411,'WORKS_WITH_MINORS','False');
 INSERT INTO artisans_values VALUES(933,489,'IS_MINOR','False');
 INSERT INTO artisans_values VALUES(934,489,'WORKS_WITH_MINORS','False');
+INSERT INTO artisans_values VALUES(935,276,'IS_MINOR','False');
+INSERT INTO artisans_values VALUES(936,276,'WORKS_WITH_MINORS','False');
+INSERT INTO artisans_values VALUES(937,444,'IS_MINOR','False');
+INSERT INTO artisans_values VALUES(938,444,'WORKS_WITH_MINORS','False');
 COMMIT;

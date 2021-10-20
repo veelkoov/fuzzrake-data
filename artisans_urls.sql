@@ -2280,7 +2280,6 @@ INSERT INTO artisans_urls VALUES(9882,444,'URL_THE_DEALERS_DEN','https://www.the
 INSERT INTO artisans_urls VALUES(9883,444,'URL_QUEUE','https://trello.com/b/q0uQpZC2/plaid-paws-by-maus');
 INSERT INTO artisans_urls VALUES(9884,444,'URL_SCRITCH','https://scritch.es/makers/musfuzzie-creations-studios');
 INSERT INTO artisans_urls VALUES(9885,444,'URL_OTHER','https://www.twitch.tv/musfuzzie');
-INSERT INTO artisans_urls VALUES(9886,444,'URL_COMMISSIONS','https://sites.google.com/view/plaid-paws-by-maus/home');
 INSERT INTO artisans_urls VALUES(9887,445,'URL_TWITTER','https://twitter.com/dockyardfursuit');
 INSERT INTO artisans_urls VALUES(9888,446,'URL_FURSUITREVIEW','https://fursuitreview.com/m/kemonokapi/');
 INSERT INTO artisans_urls VALUES(9889,446,'URL_WEBSITE','https://www.kemonokapi.com/');
@@ -2776,4 +2775,5 @@ INSERT INTO artisans_urls VALUES(10427,489,'URL_TWITTER','https://twitter.com/Mo
 INSERT INTO artisans_urls VALUES(10428,489,'URL_ETSY','https://www.etsy.com/shop/MousetoothCreations');
 INSERT INTO artisans_urls VALUES(10429,489,'URL_QUEUE','https://trello.com/b/8jYCMRPA/fursuits');
 INSERT INTO artisans_urls VALUES(10430,489,'URL_OTHER','Twitch: https://www.twitch.tv/mousetoothcreations');
+INSERT INTO artisans_urls VALUES(10431,444,'URL_COMMISSIONS','https://sites.google.com/view/plaid-paws-by-maus/how-to-order/commission-inquiries');
 COMMIT;
