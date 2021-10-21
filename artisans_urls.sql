@@ -1196,12 +1196,9 @@ INSERT INTO artisans_urls VALUES(1283,280,'URL_OTHER','https://t.me/GoldenpawStu
 INSERT INTO artisans_urls VALUES(1284,280,'URL_COMMISSIONS','https://twitter.com/GoldenpawStudio');
 INSERT INTO artisans_urls VALUES(1285,281,'URL_FURSUITREVIEW','https://fursuitreview.com/m/northshore-mascots/');
 INSERT INTO artisans_urls VALUES(1286,281,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/Wildpup11/');
-INSERT INTO artisans_urls VALUES(1287,282,'URL_WEBSITE','http://www.chaoticreationsfursuits.co.uk/');
-INSERT INTO artisans_urls VALUES(1288,282,'URL_PRICES','https://www.chaoticreationsfursuits.co.uk/fursuit-commissions');
 INSERT INTO artisans_urls VALUES(1289,282,'URL_TWITTER','https://twitter.com/chaoticreation');
 INSERT INTO artisans_urls VALUES(1290,282,'URL_INSTAGRAM','https://www.instagram.com/chaoticreationsfursuits/');
 INSERT INTO artisans_urls VALUES(1291,282,'URL_QUEUE','https://trello.com/b/QtLHpJxv/chaoticreations-fursuit-queue');
-INSERT INTO artisans_urls VALUES(1292,282,'URL_COMMISSIONS','https://www.chaoticreationsfursuits.co.uk/fursuit-commissions');
 INSERT INTO artisans_urls VALUES(1293,283,'URL_WEBSITE','https://chrysuits.weebly.com/');
 INSERT INTO artisans_urls VALUES(1294,283,'URL_PRICES','https://chrysuits.weebly.com/pricing.html');
 INSERT INTO artisans_urls VALUES(1295,283,'URL_FAQ','https://chrysuits.weebly.com/faq.html');
@@ -1825,7 +1822,6 @@ INSERT INTO artisans_urls VALUES(9387,391,'URL_YOUTUBE','https://www.youtube.com
 INSERT INTO artisans_urls VALUES(9388,391,'URL_QUEUE','https://trello.com/b/nPTgIcz7/theas-work-queue');
 INSERT INTO artisans_urls VALUES(9392,391,'URL_COMMISSIONS','https://twitter.com/transfurence');
 INSERT INTO artisans_urls VALUES(9393,51,'URL_FAQ','https://www.fursuiting.com/commission');
-INSERT INTO artisans_urls VALUES(9394,282,'URL_FAQ','https://www.chaoticreationsfursuits.co.uk/faq');
 INSERT INTO artisans_urls VALUES(9395,392,'URL_WEBSITE','https://firelizardstudios2.wixsite.com/kaijukreations/portfilio');
 INSERT INTO artisans_urls VALUES(9396,392,'URL_PRICES','https://firelizardstudios2.wixsite.com/kaijukreations/prices');
 INSERT INTO artisans_urls VALUES(9397,392,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/firelizstudios/');
@@ -2776,4 +2772,10 @@ INSERT INTO artisans_urls VALUES(10428,489,'URL_ETSY','https://www.etsy.com/shop
 INSERT INTO artisans_urls VALUES(10429,489,'URL_QUEUE','https://trello.com/b/8jYCMRPA/fursuits');
 INSERT INTO artisans_urls VALUES(10430,489,'URL_OTHER','Twitch: https://www.twitch.tv/mousetoothcreations');
 INSERT INTO artisans_urls VALUES(10431,444,'URL_COMMISSIONS','https://sites.google.com/view/plaid-paws-by-maus/how-to-order/commission-inquiries');
+INSERT INTO artisans_urls VALUES(10432,282,'URL_WEBSITE','https://www.chaoticreations.co.uk/');
+INSERT INTO artisans_urls VALUES(10433,282,'URL_PRICES','https://www.chaoticreations.co.uk/commissions');
+INSERT INTO artisans_urls VALUES(10434,282,'URL_COMMISSIONS','https://www.chaoticreations.co.uk/commissions');
+INSERT INTO artisans_urls VALUES(10435,282,'URL_FAQ','https://www.chaoticreations.co.uk/faq');
+INSERT INTO artisans_urls VALUES(10436,282,'URL_LINKLIST','https://linktr.ee/chaoticreations');
+INSERT INTO artisans_urls VALUES(10437,282,'URL_ETSY','https://www.etsy.com/shop/ChaoticreationsArt');
 COMMIT;
