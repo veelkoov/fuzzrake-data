@@ -152,4 +152,7 @@ INSERT INTO events VALUES(163,'2021-10-18 18:05:06','CS_UPDATED','Starcane Arts'
 INSERT INTO events VALUES(164,'2021-10-19 06:04:45','CS_UPDATED','Starcane Arts',0,0,0,'','https://www.starcanearts.com/pricing','','','Commissions',1);
 INSERT INTO events VALUES(165,'2021-10-20 18:05:11','CS_UPDATED','Winters Howling',0,0,0,'','https://www.wintershowling.com/','','Commissions','',1);
 INSERT INTO events VALUES(166,'2021-10-20 18:05:11','CS_UPDATED','Chaoticreations',0,0,0,'','https://www.chaoticreationsfursuits.co.uk/fursuit-commissions','','Commissions','',1);
+INSERT INTO events VALUES(167,'2021-10-20 20:38:00','DATA_UPDATED','',0,2,0,'2a54b96c165850c3ffc89fc24776e173872392a5','','','','',0);
+INSERT INTO events VALUES(168,'2021-10-21 06:05:03','CS_UPDATED','Winters Howling',0,0,0,'','https://www.wintershowling.com/','','','Commissions',0);
+INSERT INTO events VALUES(169,'2021-10-21 06:05:03','CS_UPDATED','Starcane Arts',0,0,0,'','https://www.starcanearts.com/pricing','','Commissions','',0);
 COMMIT;
