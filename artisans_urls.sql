@@ -2778,4 +2778,8 @@ INSERT INTO artisans_urls VALUES(10434,282,'URL_COMMISSIONS','https://www.chaoti
 INSERT INTO artisans_urls VALUES(10435,282,'URL_FAQ','https://www.chaoticreations.co.uk/faq');
 INSERT INTO artisans_urls VALUES(10436,282,'URL_LINKLIST','https://linktr.ee/chaoticreations');
 INSERT INTO artisans_urls VALUES(10437,282,'URL_ETSY','https://www.etsy.com/shop/ChaoticreationsArt');
+INSERT INTO artisans_urls VALUES(10438,239,'URL_FURSUITREVIEW','https://fursuitreview.com/m/furoar/');
+INSERT INTO artisans_urls VALUES(10439,239,'URL_TWITTER','https://twitter.com/FuroarSuits');
+INSERT INTO artisans_urls VALUES(10440,239,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/furoar-suits');
+INSERT INTO artisans_urls VALUES(10441,239,'URL_SCRITCH','https://scritch.es/makers/furoar');
 COMMIT;
