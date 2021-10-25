@@ -155,4 +155,10 @@ INSERT INTO events VALUES(166,'2021-10-20 18:05:11','CS_UPDATED','Chaoticreation
 INSERT INTO events VALUES(167,'2021-10-20 20:38:00','DATA_UPDATED','',0,2,0,'2a54b96c165850c3ffc89fc24776e173872392a5','','','','',0);
 INSERT INTO events VALUES(168,'2021-10-21 06:05:03','CS_UPDATED','Winters Howling',0,0,0,'','https://www.wintershowling.com/','','','Commissions',0);
 INSERT INTO events VALUES(169,'2021-10-21 06:05:03','CS_UPDATED','Starcane Arts',0,0,0,'','https://www.starcanearts.com/pricing','','Commissions','',0);
+INSERT INTO events VALUES(170,'2021-10-21 19:03:00','DATA_UPDATED','',0,1,0,'aaa13b3be9ce3997ce37b60581ff8509afa957c0','','','','',0);
+INSERT INTO events VALUES(171,'2021-10-22 06:04:58','CS_UPDATED','CupcakeCritters',0,0,0,'','https://twitter.com/CupcakeCritters','','','Commissions',0);
+INSERT INTO events VALUES(172,'2021-10-22 18:05:08','CS_UPDATED','DarkRainbowDragon',0,0,0,'','https://darkrainbowdragon.weebly.com/commission-status.html','','','Commissions',0);
+INSERT INTO events VALUES(173,'2021-10-24 18:05:01','CS_UPDATED','Chaoticreations',0,0,0,'','https://www.chaoticreations.co.uk/commissions','','','Quotes',1);
+INSERT INTO events VALUES(174,'2021-10-25 18:05:01','CS_UPDATED','Made By Mercury',0,0,0,'','http://www.madebymercury.co.uk/','','',replace('Commissions\nQuotes','\n',char(10)),0);
+INSERT INTO events VALUES(175,'2021-10-25 18:05:02','CS_UPDATED','Howlmetal Horrors',0,0,0,'','https://twitter.com/howlmetalhorror','','','Commissions',1);
 COMMIT;
