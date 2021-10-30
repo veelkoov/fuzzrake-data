@@ -161,4 +161,11 @@ INSERT INTO events VALUES(172,'2021-10-22 18:05:08','CS_UPDATED','DarkRainbowDra
 INSERT INTO events VALUES(173,'2021-10-24 18:05:01','CS_UPDATED','Chaoticreations',0,0,0,'','https://www.chaoticreations.co.uk/commissions','','','Quotes',1);
 INSERT INTO events VALUES(174,'2021-10-25 18:05:01','CS_UPDATED','Made By Mercury',0,0,0,'','http://www.madebymercury.co.uk/','','',replace('Commissions\nQuotes','\n',char(10)),0);
 INSERT INTO events VALUES(175,'2021-10-25 18:05:02','CS_UPDATED','Howlmetal Horrors',0,0,0,'','https://twitter.com/howlmetalhorror','','','Commissions',1);
+INSERT INTO events VALUES(176,'2021-10-25 18:20:00','DATA_UPDATED','',0,1,0,'a046a90df90914ac4146d412b69fb350a6088ca6','','','','',0);
+INSERT INTO events VALUES(177,'2021-10-26 06:05:01','CS_UPDATED','Tulius Costumes',0,0,0,'','https://twitter.com/Tuliusis','','Commissions','',0);
+INSERT INTO events VALUES(178,'2021-10-26 18:05:02','CS_UPDATED','Kayla''s Kritterz',0,0,0,'','https://twitter.com/KaylasKritterz','','',replace('Commissions\nQuotes','\n',char(10)),1);
+INSERT INTO events VALUES(179,'2021-10-29 18:04:58','CS_UPDATED','Made By Mercury',0,0,0,'','http://www.madebymercury.co.uk/','',replace('Commissions\nQuotes','\n',char(10)),'',1);
+INSERT INTO events VALUES(180,'2021-10-30 06:04:57','CS_UPDATED','AstroAntlers',0,0,0,'','https://twitter.com/AstroAntlers','','Commissions','',0);
+INSERT INTO events VALUES(181,'2021-10-30 06:04:57','CS_UPDATED','Whitewing Creations',0,0,0,'','https://www.whitewingcreations.de/','','','Commissions',0);
+INSERT INTO events VALUES(182,'2021-10-30 18:05:01','CS_UPDATED','Aetherwears',0,0,0,'','https://www.etsy.com/shop/aetherwears','','Orders','',1);
 COMMIT;
