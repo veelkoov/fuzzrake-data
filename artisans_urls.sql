@@ -68,9 +68,7 @@ INSERT INTO artisans_urls VALUES(67,13,'URL_YOUTUBE','https://www.youtube.com/ch
 INSERT INTO artisans_urls VALUES(68,13,'URL_QUEUE','http://wmw66-costumes.com/queue');
 INSERT INTO artisans_urls VALUES(69,13,'URL_COMMISSIONS','http://wmw66-costumes.com/content/pricing');
 INSERT INTO artisans_urls VALUES(70,14,'URL_FURSUITREVIEW','https://fursuitreview.com/m/battitude-studios/');
-INSERT INTO artisans_urls VALUES(71,14,'URL_WEBSITE','https://battitudestudios.wixsite.com/battitudestudios');
 INSERT INTO artisans_urls VALUES(72,14,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/battitudestudios/');
-INSERT INTO artisans_urls VALUES(74,14,'URL_COMMISSIONS','https://www.furaffinity.net/user/battitudestudios/');
 INSERT INTO artisans_urls VALUES(75,15,'URL_FURSUITREVIEW','https://fursuitreview.com/m/roofur/');
 INSERT INTO artisans_urls VALUES(76,15,'URL_WEBSITE','http://roofur.com/');
 INSERT INTO artisans_urls VALUES(77,15,'URL_TWITTER','https://twitter.com/roofur');
@@ -1788,7 +1786,6 @@ INSERT INTO artisans_urls VALUES(9349,230,'URL_QUEUE','https://www.furrytailor.c
 INSERT INTO artisans_urls VALUES(9350,230,'URL_SCRITCH','https://scritch.es/makers/furry-tailor');
 INSERT INTO artisans_urls VALUES(9353,387,'URL_MINIATURES','https://storage.scritch.es/scritch/6d73d4e3c20bc454c2b9bd1f8565f1e9fe72c88d/thumbnail_8993a19e-cf6f-4527-9126-19b3c7172310.jpeg#0050');
 INSERT INTO artisans_urls VALUES(9355,291,'URL_WEBSITE','https://www.schneepardicreations.com/en/');
-INSERT INTO artisans_urls VALUES(9356,14,'URL_INSTAGRAM','https://www.instagram.com/battitude_studios/');
 INSERT INTO artisans_urls VALUES(9357,388,'URL_WEBSITE','https://www.whitewingcreations.de/');
 INSERT INTO artisans_urls VALUES(9358,388,'URL_PRICES','https://www.whitewingcreations.de/products-and-prices/');
 INSERT INTO artisans_urls VALUES(9359,388,'URL_QUEUE','https://trello.com/b/X0UVrjbL/');
@@ -2782,4 +2779,10 @@ INSERT INTO artisans_urls VALUES(10438,239,'URL_FURSUITREVIEW','https://fursuitr
 INSERT INTO artisans_urls VALUES(10439,239,'URL_TWITTER','https://twitter.com/FuroarSuits');
 INSERT INTO artisans_urls VALUES(10440,239,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/furoar-suits');
 INSERT INTO artisans_urls VALUES(10441,239,'URL_SCRITCH','https://scritch.es/makers/furoar');
+INSERT INTO artisans_urls VALUES(10442,14,'URL_WEBSITE','https://www.battitudestudio.com/');
+INSERT INTO artisans_urls VALUES(10443,14,'URL_PRICES','https://www.battitudestudio.com/pricing');
+INSERT INTO artisans_urls VALUES(10444,14,'URL_FAQ','https://www.battitudestudio.com/faq');
+INSERT INTO artisans_urls VALUES(10445,14,'URL_TWITTER','https://twitter.com/battitudestudio');
+INSERT INTO artisans_urls VALUES(10446,14,'URL_INSTAGRAM','https://www.instagram.com/battitudestudio/');
+INSERT INTO artisans_urls VALUES(10447,14,'URL_QUEUE','https://trello.com/b/nk1k2xvy/battitude-studio-fursuit-queue');
 COMMIT;
