@@ -2785,4 +2785,15 @@ INSERT INTO artisans_urls VALUES(10444,14,'URL_FAQ','https://www.battitudestudio
 INSERT INTO artisans_urls VALUES(10445,14,'URL_TWITTER','https://twitter.com/battitudestudio');
 INSERT INTO artisans_urls VALUES(10446,14,'URL_INSTAGRAM','https://www.instagram.com/battitudestudio/');
 INSERT INTO artisans_urls VALUES(10447,14,'URL_QUEUE','https://trello.com/b/nk1k2xvy/battitude-studio-fursuit-queue');
+INSERT INTO artisans_urls VALUES(10448,458,'URL_TUMBLR','https://styngerskies.tumblr.com/');
+INSERT INTO artisans_urls VALUES(10449,222,'URL_TWITTER','https://twitter.com/TungstenCarb');
+INSERT INTO artisans_urls VALUES(10450,222,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/tc-stuff');
+INSERT INTO artisans_urls VALUES(10451,428,'URL_SCRITCH','https://scritch.es/makers/angel-tigress');
+INSERT INTO artisans_urls VALUES(10452,490,'URL_PRICES','https://trello.com/b/o47jLZR9/goatygoods-commission-info');
+INSERT INTO artisans_urls VALUES(10453,490,'URL_COMMISSIONS','https://trello.com/b/o47jLZR9/goatygoods-commission-info');
+INSERT INTO artisans_urls VALUES(10454,490,'URL_TWITTER','https://twitter.com/goatygoods');
+INSERT INTO artisans_urls VALUES(10455,490,'URL_INSTAGRAM','https://www.instagram.com/goatygoods/');
+INSERT INTO artisans_urls VALUES(10456,490,'URL_LINKLIST','https://linktr.ee/goatygoods');
+INSERT INTO artisans_urls VALUES(10457,490,'URL_QUEUE','https://trello.com/b/o47jLZR9/goatygoods-commission-info');
+INSERT INTO artisans_urls VALUES(10458,490,'URL_OTHER','I offer art on = https://www.instagram.com/funonabunx/');
 COMMIT;
