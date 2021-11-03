@@ -168,4 +168,10 @@ INSERT INTO events VALUES(179,'2021-10-29 18:04:58','CS_UPDATED','Made By Mercur
 INSERT INTO events VALUES(180,'2021-10-30 06:04:57','CS_UPDATED','AstroAntlers',0,0,0,'','https://twitter.com/AstroAntlers','','Commissions','',0);
 INSERT INTO events VALUES(181,'2021-10-30 06:04:57','CS_UPDATED','Whitewing Creations',0,0,0,'','https://www.whitewingcreations.de/','','','Commissions',0);
 INSERT INTO events VALUES(182,'2021-10-30 18:05:01','CS_UPDATED','Aetherwears',0,0,0,'','https://www.etsy.com/shop/aetherwears','','Orders','',1);
+INSERT INTO events VALUES(183,'2021-10-30 18:32:00','DATA_UPDATED','',0,0,1,'11043d77924ca56eb5bd28043a9cb0b708d0847f','','','','',0);
+INSERT INTO events VALUES(184,'2021-11-01 18:04:57','CS_UPDATED','ClockworkCarousel',0,0,0,'','https://www.furaffinity.net/user/clockworkcarousel/','','Commissions','',0);
+INSERT INTO events VALUES(185,'2021-11-01 18:04:57','CS_UPDATED','Selkie Suits',0,0,0,'','https://selkiesuits.co.uk/quotes.php','','','Commissions',0);
+INSERT INTO events VALUES(186,'2021-11-01 18:04:57','CS_UPDATED','Whitewing Creations',0,0,0,'','https://www.whitewingcreations.de/','','Commissions','',1);
+INSERT INTO events VALUES(187,'2021-11-01 18:04:57','CS_UPDATED','Howlmetal Horrors',0,0,0,'','https://twitter.com/howlmetalhorror','','Commissions','',0);
+INSERT INTO events VALUES(188,'2021-11-01 18:04:57','CS_UPDATED','Stynger Skies',0,0,0,'','https://twitter.com/StyngerC','','','Commissions',0);
 COMMIT;
