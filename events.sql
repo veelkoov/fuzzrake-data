@@ -174,4 +174,8 @@ INSERT INTO events VALUES(185,'2021-11-01 18:04:57','CS_UPDATED','Selkie Suits',
 INSERT INTO events VALUES(186,'2021-11-01 18:04:57','CS_UPDATED','Whitewing Creations',0,0,0,'','https://www.whitewingcreations.de/','','Commissions','',1);
 INSERT INTO events VALUES(187,'2021-11-01 18:04:57','CS_UPDATED','Howlmetal Horrors',0,0,0,'','https://twitter.com/howlmetalhorror','','Commissions','',0);
 INSERT INTO events VALUES(188,'2021-11-01 18:04:57','CS_UPDATED','Stynger Skies',0,0,0,'','https://twitter.com/StyngerC','','','Commissions',0);
+INSERT INTO events VALUES(189,'2021-11-03 18:08:00','DATA_UPDATED','',1,3,0,'2aa30167031435804cd219c5ee4073685f70702d','','','','',0);
+INSERT INTO events VALUES(190,'2021-11-04 06:05:02','CS_UPDATED','GoatyGoods',0,0,0,'','https://trello.com/b/o47jLZR9/goatygoods-commission-info','','','Commissions',0);
+INSERT INTO events VALUES(191,'2021-11-05 18:05:11','CS_UPDATED','Selkie Suits',0,0,0,'','https://selkiesuits.co.uk/quotes.php','','Commissions','',0);
+INSERT INTO events VALUES(192,'2021-11-05 18:05:11','CS_UPDATED','That One Pink Dog Studios',0,0,0,'','http://thatonepinkdog.studio/fursuit-prices','','',replace('Quotes\nCommissions\nParts','\n',char(10)),0);
 COMMIT;
