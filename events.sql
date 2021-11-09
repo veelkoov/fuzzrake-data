@@ -178,4 +178,12 @@ INSERT INTO events VALUES(189,'2021-11-03 18:08:00','DATA_UPDATED','',1,3,0,'2aa
 INSERT INTO events VALUES(190,'2021-11-04 06:05:02','CS_UPDATED','GoatyGoods',0,0,0,'','https://trello.com/b/o47jLZR9/goatygoods-commission-info','','','Commissions',0);
 INSERT INTO events VALUES(191,'2021-11-05 18:05:11','CS_UPDATED','Selkie Suits',0,0,0,'','https://selkiesuits.co.uk/quotes.php','','Commissions','',0);
 INSERT INTO events VALUES(192,'2021-11-05 18:05:11','CS_UPDATED','That One Pink Dog Studios',0,0,0,'','http://thatonepinkdog.studio/fursuit-prices','','',replace('Quotes\nCommissions\nParts','\n',char(10)),0);
+INSERT INTO events VALUES(193,'2021-11-07 20:27:00','DATA_UPDATED','',2,1,0,'023df7047beefeda41c95c7d51841c92eaa29e36','','','','',0);
+INSERT INTO events VALUES(194,'2021-11-08 06:05:04','CS_UPDATED','AbyssalKrafting',0,0,0,'','https://twitter.com/abyssalkei','','Commissions','',1);
+INSERT INTO events VALUES(195,'2021-11-08 18:05:09','CS_UPDATED','Flowercity Fursuits',0,0,0,'','https://twitter.com/FlowercitySuits','','Commissions','',1);
+INSERT INTO events VALUES(196,'2021-11-08 18:05:09','CS_UPDATED','Stynger Skies',0,0,0,'','https://twitter.com/StyngerC','','Commissions','',1);
+INSERT INTO events VALUES(197,'2021-11-09 06:05:14','CS_UPDATED','Alpha Dogs',0,0,0,'','https://twitter.com/AlphaDogsStudio','','','Commissions',0);
+INSERT INTO events VALUES(198,'2021-11-09 06:05:14','CS_UPDATED','Flowercity Fursuits',0,0,0,'','https://twitter.com/FlowercitySuits','','','Commissions',0);
+INSERT INTO events VALUES(199,'2021-11-09 06:05:14','CS_UPDATED','Stynger Skies',0,0,0,'','https://twitter.com/StyngerC','','','Commissions',0);
+INSERT INTO events VALUES(200,'2021-11-09 18:04:59','CS_UPDATED','That One Pink Dog Studios',0,0,0,'','http://thatonepinkdog.studio/fursuit-prices','',replace('Quotes\nCommissions\nParts','\n',char(10)),'',0);
 COMMIT;
