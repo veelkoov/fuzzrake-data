@@ -186,4 +186,6 @@ INSERT INTO events VALUES(197,'2021-11-09 06:05:14','CS_UPDATED','Alpha Dogs',0,
 INSERT INTO events VALUES(198,'2021-11-09 06:05:14','CS_UPDATED','Flowercity Fursuits',0,0,0,'','https://twitter.com/FlowercitySuits','','','Commissions',0);
 INSERT INTO events VALUES(199,'2021-11-09 06:05:14','CS_UPDATED','Stynger Skies',0,0,0,'','https://twitter.com/StyngerC','','','Commissions',0);
 INSERT INTO events VALUES(200,'2021-11-09 18:04:59','CS_UPDATED','That One Pink Dog Studios',0,0,0,'','http://thatonepinkdog.studio/fursuit-prices','',replace('Quotes\nCommissions\nParts','\n',char(10)),'',0);
+INSERT INTO events VALUES(201,'2021-11-10 18:05:16','CS_UPDATED','Furry Tailor',0,0,0,'','https://www.furrytailor.co.uk/slots','','Quotes','',1);
+INSERT INTO events VALUES(202,'2021-11-10 18:05:16','CS_UPDATED','EvilMakers',0,0,0,'','https://twitter.com/Evi1Makers','','','Commissions',0);
 COMMIT;
