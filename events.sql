@@ -188,4 +188,10 @@ INSERT INTO events VALUES(199,'2021-11-09 06:05:14','CS_UPDATED','Stynger Skies'
 INSERT INTO events VALUES(200,'2021-11-09 18:04:59','CS_UPDATED','That One Pink Dog Studios',0,0,0,'','http://thatonepinkdog.studio/fursuit-prices','',replace('Quotes\nCommissions\nParts','\n',char(10)),'',0);
 INSERT INTO events VALUES(201,'2021-11-10 18:05:16','CS_UPDATED','Furry Tailor',0,0,0,'','https://www.furrytailor.co.uk/slots','','Quotes','',1);
 INSERT INTO events VALUES(202,'2021-11-10 18:05:16','CS_UPDATED','EvilMakers',0,0,0,'','https://twitter.com/Evi1Makers','','','Commissions',0);
+INSERT INTO events VALUES(203,'2021-11-10 20:08:00','DATA_UPDATED','',0,2,1,'c3ac031b5ee5249917453dcc755014eb65088871','','','','',0);
+INSERT INTO events VALUES(204,'2021-11-11 06:04:56','CS_UPDATED','Furry Tailor',0,0,0,'','https://www.furrytailor.co.uk/slots','','','Quotes',0);
+INSERT INTO events VALUES(205,'2021-11-11 18:05:10','CS_UPDATED','Winters Howling',0,0,0,'','https://www.wintershowling.com/','','Commissions','',1);
+INSERT INTO events VALUES(206,'2021-11-13 06:04:54','CS_UPDATED','Kayla''s Kritterz',0,0,0,'','https://twitter.com/KaylasKritterz','',replace('Commissions\nQuotes','\n',char(10)),'',1);
+INSERT INTO events VALUES(207,'2021-11-13 06:04:55','CS_UPDATED','Kloofsuits',0,0,0,'','https://www.kloofsuits.co.uk/home','','','Commissions',0);
+INSERT INTO events VALUES(208,'2021-11-13 18:05:10','CS_UPDATED','Gatorwave',0,0,0,'','https://www.gatorwavesuits.com/','','','Commissions',0);
 COMMIT;
