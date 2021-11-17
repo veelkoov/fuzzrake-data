@@ -194,4 +194,8 @@ INSERT INTO events VALUES(205,'2021-11-11 18:05:10','CS_UPDATED','Winters Howlin
 INSERT INTO events VALUES(206,'2021-11-13 06:04:54','CS_UPDATED','Kayla''s Kritterz',0,0,0,'','https://twitter.com/KaylasKritterz','',replace('Commissions\nQuotes','\n',char(10)),'',1);
 INSERT INTO events VALUES(207,'2021-11-13 06:04:55','CS_UPDATED','Kloofsuits',0,0,0,'','https://www.kloofsuits.co.uk/home','','','Commissions',0);
 INSERT INTO events VALUES(208,'2021-11-13 18:05:10','CS_UPDATED','Gatorwave',0,0,0,'','https://www.gatorwavesuits.com/','','','Commissions',0);
+INSERT INTO events VALUES(209,'2021-11-13 18:33:00','DATA_UPDATED','',0,2,2,'ae8b5b3990113e7a048e6644a5f5061dee3cfaa5','','','','',0);
+INSERT INTO events VALUES(210,'2021-11-15 06:04:59','CS_UPDATED','Schorsuits',0,0,0,'','https://schorsuits.wixsite.com/schorsuits','','Commissions','',1);
+INSERT INTO events VALUES(211,'2021-11-15 18:05:20','CS_UPDATED','Schorsuits',0,0,0,'','https://schorsuits.wixsite.com/schorsuits','','','Commissions',1);
+INSERT INTO events VALUES(212,'2021-11-16 06:05:11','CS_UPDATED','Foxes In Boxes Fursuits',0,0,0,'','https://foxesinboxes.wixsite.com/foxesinboxes','','','Commissions',0);
 COMMIT;
