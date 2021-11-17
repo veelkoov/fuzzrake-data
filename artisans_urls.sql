@@ -2839,4 +2839,5 @@ INSERT INTO artisans_urls VALUES(10538,493,'URL_MINIATURES','https://storage.scr
 INSERT INTO artisans_urls VALUES(10539,493,'URL_MINIATURES','https://storage.scritch.es/scritch/ed8327577a2d16be800d55238abf898cf7913f27/thumbnail_eab1078c-20bf-4500-a964-e6c971125c09.png');
 INSERT INTO artisans_urls VALUES(10540,493,'URL_MINIATURES','https://storage.scritch.es/scritch/945e17330e51b4172651990bd447aa8f1275ffe9/thumbnail_e1db9f3d-5bf9-4923-bb6d-1a696e8a4570.png#10050');
 INSERT INTO artisans_urls VALUES(10541,493,'URL_MINIATURES','https://storage.scritch.es/scritch/2b2ee73d94b0c33f21a00f37e2f304df54dad541/thumbnail_5e14e01d-1856-4e59-9fe7-8cdb057286e1.png');
+INSERT INTO artisans_urls VALUES(10542,469,'URL_FURSUITREVIEW','https://fursuitreview.com/m/artzora-studios/');
 COMMIT;
