@@ -60,4 +60,6 @@ INSERT INTO artisans_values VALUES(966,350,'IS_MINOR','False');
 INSERT INTO artisans_values VALUES(967,350,'WORKS_WITH_MINORS','True');
 INSERT INTO artisans_values VALUES(968,493,'IS_MINOR','False');
 INSERT INTO artisans_values VALUES(969,493,'WORKS_WITH_MINORS','True');
+INSERT INTO artisans_values VALUES(970,494,'IS_MINOR','False');
+INSERT INTO artisans_values VALUES(971,494,'WORKS_WITH_MINORS','False');
 COMMIT;
