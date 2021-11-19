@@ -199,4 +199,7 @@ INSERT INTO events VALUES(210,'2021-11-15 06:04:59','CS_UPDATED','Schorsuits',0,
 INSERT INTO events VALUES(211,'2021-11-15 18:05:20','CS_UPDATED','Schorsuits',0,0,0,'','https://schorsuits.wixsite.com/schorsuits','','','Commissions',1);
 INSERT INTO events VALUES(212,'2021-11-16 06:05:11','CS_UPDATED','Foxes In Boxes Fursuits',0,0,0,'','https://foxesinboxes.wixsite.com/foxesinboxes','','','Commissions',0);
 INSERT INTO events VALUES(213,'2021-11-17 21:06:00','DATA_UPDATED','',1,1,0,'f3e50cb41e2035496d8159cf4730e4d64bb578d0','','','','',0);
+INSERT INTO events VALUES(214,'2021-11-18 06:05:00','CS_UPDATED','YchFursuits',0,0,0,'','https://www.ychfursuits.com/home','','','Commissions',0);
+INSERT INTO events VALUES(215,'2021-11-18 18:05:15','CS_UPDATED','EvilMakers',0,0,0,'','https://twitter.com/Evi1Makers','','Commissions','',0);
+INSERT INTO events VALUES(216,'2021-11-19 18:05:04','CS_UPDATED','DogWool',0,0,0,'','https://dogwool.square.site/fursuits','','','Commissions',0);
 COMMIT;
