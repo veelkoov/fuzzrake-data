@@ -227,4 +227,12 @@ INSERT INTO events VALUES(238,'2021-11-30 06:05:06','CS_UPDATED','Alecrim Carmim
 INSERT INTO events VALUES(239,'2021-11-30 06:05:06','CS_UPDATED','Foxes In Boxes Fursuits',0,0,0,'','https://foxesinboxes.wixsite.com/foxesinboxes','','','Commissions',0);
 INSERT INTO events VALUES(240,'2021-12-01 18:05:15','CS_UPDATED','The Grotto Creations',0,0,0,'','https://twitter.com/GrottoCreations','','','Commissions',0);
 INSERT INTO events VALUES(241,'2021-12-02 06:05:00','CS_UPDATED','DogWool',0,0,0,'','https://dogwool.square.site/fursuits','','Commissions','',1);
+INSERT INTO events VALUES(242,'2021-12-02 18:24:00','DATA_UPDATED','',0,2,0,'f0c45b2ba41748bf75150d30f8f3ce73162e26bc','','','','',0);
+INSERT INTO events VALUES(243,'2021-12-03 06:05:27','CS_UPDATED','LivingBeasts',0,0,0,'','https://livingbeasts.net/','','','Quotes',1);
+INSERT INTO events VALUES(244,'2021-12-04 06:05:12','CS_UPDATED','Furry Tailor',0,0,0,'','https://www.furrytailor.co.uk/slots','','Quotes','',1);
+INSERT INTO events VALUES(245,'2021-12-04 18:05:07','CS_UPDATED','Furry Tailor',0,0,0,'','https://www.furrytailor.co.uk/slots','','','Quotes',0);
+INSERT INTO events VALUES(246,'2021-12-04 18:05:07','CS_UPDATED','Koshka Fursuits',0,0,0,'','https://twitter.com/koshkafursuits','','Commissions','',0);
+INSERT INTO events VALUES(247,'2021-12-07 06:05:22','CS_UPDATED','Gatorwave',0,0,0,'','https://www.gatorwavesuits.com/','','Commissions','',0);
+INSERT INTO events VALUES(248,'2021-12-08 06:05:15','CS_UPDATED','Fursnickety Costumes',0,0,0,'','http://www.fursnickety.com/','','Pre-mades','',1);
+INSERT INTO events VALUES(249,'2021-12-08 18:05:15','CS_UPDATED','Fursnickety Costumes',0,0,0,'','http://www.fursnickety.com/','','','Pre-mades',0);
 COMMIT;
