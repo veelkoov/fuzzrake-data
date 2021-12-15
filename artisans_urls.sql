@@ -1139,16 +1139,11 @@ INSERT INTO artisans_urls VALUES(1223,269,'URL_INSTAGRAM','https://www.instagram
 INSERT INTO artisans_urls VALUES(1224,269,'URL_YOUTUBE','https://www.youtube.com/channel/UCmSz4Z7uxyqj1ZC0ZWrfi7g');
 INSERT INTO artisans_urls VALUES(1225,269,'URL_QUEUE','https://trello.com/b/JhaYDul2/carniv-creations-queue');
 INSERT INTO artisans_urls VALUES(1227,269,'URL_COMMISSIONS','http://carnivcreations.weebly.com/');
-INSERT INTO artisans_urls VALUES(1228,270,'URL_WEBSITE','http://www.fursnickety.com/');
-INSERT INTO artisans_urls VALUES(1229,270,'URL_PRICES','http://www.fursnickety.com/');
 INSERT INTO artisans_urls VALUES(1230,270,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/dawnybear666/');
 INSERT INTO artisans_urls VALUES(1231,270,'URL_DEVIANTART','https://www.deviantart.com/dawnybear666');
-INSERT INTO artisans_urls VALUES(1232,270,'URL_TWITTER','https://twitter.com/Spaceflower626');
 INSERT INTO artisans_urls VALUES(1233,270,'URL_FACEBOOK','https://www.facebook.com/Fursnickety/');
-INSERT INTO artisans_urls VALUES(1234,270,'URL_INSTAGRAM','https://www.instagram.com/celestialrose626/');
 INSERT INTO artisans_urls VALUES(1235,270,'URL_YOUTUBE','https://www.youtube.com/channel/UCg9Sz2mNIq9iqfWzBjq82LQ');
 INSERT INTO artisans_urls VALUES(1236,270,'URL_QUEUE','https://trello.com/b/igjhY5zs/fursuit-commisisons');
-INSERT INTO artisans_urls VALUES(1237,270,'URL_COMMISSIONS','http://www.fursnickety.com/');
 INSERT INTO artisans_urls VALUES(1238,271,'URL_WEBSITE','http://furoclockcreations.wixsite.com/furoclockcreations');
 INSERT INTO artisans_urls VALUES(1239,271,'URL_PRICES','http://furoclockcreations.wixsite.com/furoclockcreations/prices');
 INSERT INTO artisans_urls VALUES(1240,271,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/fur-oclock-creations/');
@@ -1579,9 +1574,6 @@ INSERT INTO artisans_urls VALUES(9140,362,'URL_FURSUITREVIEW','https://fursuitre
 INSERT INTO artisans_urls VALUES(9141,362,'URL_WEBSITE','http://www.luckygumfursuits.com/');
 INSERT INTO artisans_urls VALUES(9142,362,'URL_TWITTER','https://twitter.com/LuckyGumFursuit');
 INSERT INTO artisans_urls VALUES(9143,362,'URL_COMMISSIONS','http://www.luckygumfursuits.com/');
-INSERT INTO artisans_urls VALUES(9144,363,'URL_WEBSITE','https://www.bunnyfootato.com/');
-INSERT INTO artisans_urls VALUES(9145,363,'URL_TWITTER','https://twitter.com/bunnyfootato');
-INSERT INTO artisans_urls VALUES(9146,363,'URL_COMMISSIONS','https://www.bunnyfootato.com/');
 INSERT INTO artisans_urls VALUES(9147,364,'URL_WEBSITE','http://tangerine-yeen-fursuits.mozello.com/');
 INSERT INTO artisans_urls VALUES(9148,364,'URL_PRICES','http://tangerine-yeen-fursuits.mozello.com/products/');
 INSERT INTO artisans_urls VALUES(9149,364,'URL_TWITTER','https://twitter.com/TangerineYeen');
@@ -2862,4 +2854,8 @@ INSERT INTO artisans_urls VALUES(10565,374,'URL_PHOTOS','https://scritch.es/pict
 INSERT INTO artisans_urls VALUES(10566,374,'URL_PHOTOS','https://scritch.es/pictures/08c83234-a3e2-49bc-85c5-876ae2c62fc9');
 INSERT INTO artisans_urls VALUES(10567,374,'URL_MINIATURES','https://storage.scritch.es/scritch/228840deb5bcf4331936a1c2de8f5b3b8e08148d/thumbnail_d00933cb-d0f4-402d-b52c-9d4bdf584a6f.png');
 INSERT INTO artisans_urls VALUES(10568,374,'URL_MINIATURES','https://storage.scritch.es/scritch/fe48ebf039e1f62f2f063aa6e7758f92c583c1c8/thumbnail_99176574-63b8-484d-a0b2-27c5b006a0c7.jpeg');
+INSERT INTO artisans_urls VALUES(10569,363,'URL_WEBSITE','https://www.saltybunnycostumes.com/');
+INSERT INTO artisans_urls VALUES(10570,363,'URL_PRICES','https://www.saltybunnycostumes.com/prices');
+INSERT INTO artisans_urls VALUES(10571,363,'URL_TWITTER','https://twitter.com/SaltyBunnyCos');
+INSERT INTO artisans_urls VALUES(10572,363,'URL_COMMISSIONS','https://twitter.com/SaltyBunnyCos');
 COMMIT;
