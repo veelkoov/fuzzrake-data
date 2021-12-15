@@ -235,4 +235,10 @@ INSERT INTO events VALUES(246,'2021-12-04 18:05:07','CS_UPDATED','Koshka Fursuit
 INSERT INTO events VALUES(247,'2021-12-07 06:05:22','CS_UPDATED','Gatorwave',0,0,0,'','https://www.gatorwavesuits.com/','','Commissions','',0);
 INSERT INTO events VALUES(248,'2021-12-08 06:05:15','CS_UPDATED','Fursnickety Costumes',0,0,0,'','http://www.fursnickety.com/','','Pre-mades','',1);
 INSERT INTO events VALUES(249,'2021-12-08 18:05:15','CS_UPDATED','Fursnickety Costumes',0,0,0,'','http://www.fursnickety.com/','','','Pre-mades',0);
+INSERT INTO events VALUES(250,'2021-12-08 21:53:00','DATA_UPDATED','',0,1,0,'e4c7631ce99ae03dc971dab05540d02528f5657d','','','','',0);
+INSERT INTO events VALUES(251,'2021-12-10 18:05:04','CS_UPDATED','That One Pink Dog Studios',0,0,0,'','http://thatonepinkdog.studio/fursuit-prices','','',replace('Quotes\nCommissions\nParts','\n',char(10)),0);
+INSERT INTO events VALUES(252,'2021-12-11 06:05:07','CS_UPDATED','Norman''s Needleworks',0,0,0,'','https://nnormann.wixsite.com/normansneedleworks/quotes','','','Quotes',0);
+INSERT INTO events VALUES(253,'2021-12-13 06:05:03','CS_UPDATED','Alpha Dogs',0,0,0,'','https://twitter.com/AlphaDogsStudio','','Commissions','',1);
+INSERT INTO events VALUES(254,'2021-12-13 06:05:03','CS_UPDATED','Fursnickety Costumes',0,0,0,'','http://www.fursnickety.com/','','Pre-mades','',1);
+INSERT INTO events VALUES(255,'2021-12-14 06:05:06','CS_UPDATED','Foxes In Boxes Fursuits',0,0,0,'','https://foxesinboxes.wixsite.com/foxesinboxes','','Commissions','',0);
 COMMIT;
