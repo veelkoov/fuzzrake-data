@@ -75,8 +75,6 @@ INSERT INTO artisans_urls VALUES(77,15,'URL_TWITTER','https://twitter.com/roofur
 INSERT INTO artisans_urls VALUES(78,15,'URL_COMMISSIONS','http://www.roofur.com/commission/?status');
 INSERT INTO artisans_urls VALUES(79,16,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/mut-mut-furcostumes/');
 INSERT INTO artisans_urls VALUES(80,16,'URL_FACEBOOK','https://www.facebook.com/mutmutfur/');
-INSERT INTO artisans_urls VALUES(81,17,'URL_WEBSITE','https://www.direcreatures.com/');
-INSERT INTO artisans_urls VALUES(82,17,'URL_PRICES','https://www.direcreatures.com/pricelist');
 INSERT INTO artisans_urls VALUES(83,17,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/direcreatures/');
 INSERT INTO artisans_urls VALUES(84,17,'URL_DEVIANTART','https://www.deviantart.com/direcreatures');
 INSERT INTO artisans_urls VALUES(85,17,'URL_TWITTER','https://twitter.com/DireCreatures');
@@ -2014,7 +2012,6 @@ INSERT INTO artisans_urls VALUES(9639,418,'URL_INSTAGRAM','https://www.instagram
 INSERT INTO artisans_urls VALUES(9640,418,'URL_LINKLIST','https://linktr.ee/whizmi');
 INSERT INTO artisans_urls VALUES(9641,418,'URL_SCRITCH','https://scritch.es/makers/whizmi-creations');
 INSERT INTO artisans_urls VALUES(9643,418,'URL_COMMISSIONS','https://www.instagram.com/whizmi.creations/');
-INSERT INTO artisans_urls VALUES(9645,17,'URL_FAQ','https://www.direcreatures.com/faq');
 INSERT INTO artisans_urls VALUES(9646,17,'URL_ETSY','https://www.etsy.com/shop/DireCreatures');
 INSERT INTO artisans_urls VALUES(9647,17,'URL_QUEUE','https://trello.com/b/NNXubV3x/direcreatures-project-list');
 INSERT INTO artisans_urls VALUES(9648,17,'URL_SCRITCH','https://scritch.es/makers/dire-creatures');
@@ -2858,4 +2855,7 @@ INSERT INTO artisans_urls VALUES(10569,363,'URL_WEBSITE','https://www.saltybunny
 INSERT INTO artisans_urls VALUES(10570,363,'URL_PRICES','https://www.saltybunnycostumes.com/prices');
 INSERT INTO artisans_urls VALUES(10571,363,'URL_TWITTER','https://twitter.com/SaltyBunnyCos');
 INSERT INTO artisans_urls VALUES(10572,363,'URL_COMMISSIONS','https://twitter.com/SaltyBunnyCos');
+INSERT INTO artisans_urls VALUES(10573,17,'URL_WEBSITE','http://www.direcreatures.com/');
+INSERT INTO artisans_urls VALUES(10578,17,'URL_PRICES','https://direcreatures.weebly.com/pricelist.html');
+INSERT INTO artisans_urls VALUES(10579,17,'URL_FAQ','https://direcreatures.weebly.com/tos--pricelist.html');
 COMMIT;
