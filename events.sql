@@ -241,4 +241,6 @@ INSERT INTO events VALUES(252,'2021-12-11 06:05:07','CS_UPDATED','Norman''s Need
 INSERT INTO events VALUES(253,'2021-12-13 06:05:03','CS_UPDATED','Alpha Dogs',0,0,0,'','https://twitter.com/AlphaDogsStudio','','Commissions','',1);
 INSERT INTO events VALUES(254,'2021-12-13 06:05:03','CS_UPDATED','Fursnickety Costumes',0,0,0,'','http://www.fursnickety.com/','','Pre-mades','',1);
 INSERT INTO events VALUES(255,'2021-12-14 06:05:06','CS_UPDATED','Foxes In Boxes Fursuits',0,0,0,'','https://foxesinboxes.wixsite.com/foxesinboxes','','Commissions','',0);
+INSERT INTO events VALUES(256,'2021-12-15 21:21:00','DATA_UPDATED','',0,0,2,'a40711ed73ecbe22eb0f8250820641b5729b684c','','','','',0);
+INSERT INTO events VALUES(257,'2021-12-16 22:50:00','DATA_UPDATED','',0,0,1,'e95ab44c96ef13f9b10fb0b0f913717fa08b17e9','','','','',0);
 COMMIT;
