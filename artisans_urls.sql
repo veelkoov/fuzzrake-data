@@ -2899,4 +2899,7 @@ INSERT INTO artisans_urls VALUES(10618,498,'URL_YOUTUBE','https://www.youtube.co
 INSERT INTO artisans_urls VALUES(10619,498,'URL_LINKLIST','https://linktr.ee/klovesbunnies');
 INSERT INTO artisans_urls VALUES(10620,498,'URL_OTHER_SHOP','https://www.storenvy.com/stores/1179774-klovesbunnies-art-shop');
 INSERT INTO artisans_urls VALUES(10621,498,'URL_QUEUE','https://trello.com/b/mwFOwaBL/commissions');
+INSERT INTO artisans_urls VALUES(10622,492,'URL_PRICES','https://docs.google.com/document/d/e/2PACX-1vSn_onMGBF_6d19CgzVDadeIM_cFcixvV9kd8DsGYMxf3ahPCXbyGGNpIzCpV9VnHdtAJ_vEpNiZi_2/pub');
+INSERT INTO artisans_urls VALUES(10623,492,'URL_COMMISSIONS','https://trello.com/c/nSqkDunZ/44-commissions-closed-%E2%9D%8C');
+INSERT INTO artisans_urls VALUES(10624,492,'URL_OTHER','https://ko-fi.com/diinokit');
 COMMIT;
