@@ -2858,6 +2858,7 @@ INSERT INTO artisans_urls VALUES(10572,363,'URL_COMMISSIONS','https://twitter.co
 INSERT INTO artisans_urls VALUES(10573,17,'URL_WEBSITE','http://www.direcreatures.com/');
 INSERT INTO artisans_urls VALUES(10578,17,'URL_PRICES','https://direcreatures.weebly.com/pricelist.html');
 INSERT INTO artisans_urls VALUES(10579,17,'URL_FAQ','https://direcreatures.weebly.com/tos--pricelist.html');
+INSERT INTO artisans_urls VALUES(10580,462,'URL_FURSUITREVIEW','https://fursuitreview.com/m/naritacoree/');
 INSERT INTO artisans_urls VALUES(10581,495,'URL_WEBSITE','https://birdsblood.carrd.co/');
 INSERT INTO artisans_urls VALUES(10582,495,'URL_PRICES','https://birdsblood.carrd.co/');
 INSERT INTO artisans_urls VALUES(10583,495,'URL_COMMISSIONS','https://www.instagram.com/birdsbloodart/');

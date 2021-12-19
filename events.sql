@@ -243,6 +243,12 @@ INSERT INTO events VALUES(254,'2021-12-13 06:05:03','CS_UPDATED','Fursnickety Co
 INSERT INTO events VALUES(255,'2021-12-14 06:05:06','CS_UPDATED','Foxes In Boxes Fursuits',0,0,0,'','https://foxesinboxes.wixsite.com/foxesinboxes','','Commissions','',0);
 INSERT INTO events VALUES(256,'2021-12-15 21:21:00','DATA_UPDATED','',0,0,2,'a40711ed73ecbe22eb0f8250820641b5729b684c','','','','',0);
 INSERT INTO events VALUES(257,'2021-12-16 22:50:00','DATA_UPDATED','',0,0,1,'e95ab44c96ef13f9b10fb0b0f913717fa08b17e9','','','','',0);
+INSERT INTO events VALUES(258,'2021-12-18 06:05:03','CS_UPDATED','RandDfursuits',0,0,0,'','https://www.furaffinity.net/user/randdfursuits/','','Commissions','',0);
+INSERT INTO events VALUES(259,'2021-12-18 06:05:03','CS_UPDATED','HeckGeck',0,0,0,'','https://madisonholbrook97.wixsite.com/heckgeck/current-projects','','Commissions','',1);
+INSERT INTO events VALUES(260,'2021-12-18 20:14:00','GENERIC','',0,0,0,'','','I''ve been notified that the inclusion/update form is not working. The issue has been resolved; now I''ll be processing the requests, which were being saved, but the software panicked every time it tried to notify me about the submission.','','',0);
 INSERT INTO events VALUES(261,'2021-12-18 21:36:25','CS_UPDATED','Birdsblood',0,0,0,'','https://www.instagram.com/birdsbloodart/','','','Commissions',0);
 INSERT INTO events VALUES(262,'2021-12-18 21:36:25','CS_UPDATED','Klovesbunnies',0,0,0,'','https://klovesbunniesart.weebly.com/fursuit-commission-info.html','','','Quotes',0);
+INSERT INTO events VALUES(263,'2021-12-18 21:38:00','DATA_UPDATED','',4,0,0,'1f611d8564b64b19e3070677fb2ab0c96218813d','','','','',0);
+INSERT INTO events VALUES(264,'2021-12-18 21:48:00','DATA_UPDATED','',0,1,0,'f966f37443b4136594aa12fbd200e256eebdc4ce','','','','',0);
+INSERT INTO events VALUES(265,'2021-12-19 06:05:09','CS_UPDATED','Birdsblood',0,0,0,'','https://www.instagram.com/birdsbloodart/','','Commissions','',1);
 COMMIT;
