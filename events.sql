@@ -251,4 +251,5 @@ INSERT INTO events VALUES(262,'2021-12-18 21:36:25','CS_UPDATED','Klovesbunnies'
 INSERT INTO events VALUES(263,'2021-12-18 21:38:00','DATA_UPDATED','',4,0,0,'1f611d8564b64b19e3070677fb2ab0c96218813d','','','','',0);
 INSERT INTO events VALUES(264,'2021-12-18 21:48:00','DATA_UPDATED','',0,1,0,'f966f37443b4136594aa12fbd200e256eebdc4ce','','','','',0);
 INSERT INTO events VALUES(265,'2021-12-19 06:05:09','CS_UPDATED','Birdsblood',0,0,0,'','https://www.instagram.com/birdsbloodart/','','Commissions','',1);
+INSERT INTO events VALUES(266,'2021-12-19 19:18:00','DATA_UPDATED','',0,2,0,'68ef6fdf16514bed6ec2c5cb2a0b9fabae5f7f45','','','','',0);
 COMMIT;

@@ -2880,7 +2880,6 @@ INSERT INTO artisans_urls VALUES(10601,497,'URL_FUR_AFFINITY','https://www.furaf
 INSERT INTO artisans_urls VALUES(10602,497,'URL_TWITTER','https://twitter.com/kaidaskingdom');
 INSERT INTO artisans_urls VALUES(10603,497,'URL_FACEBOOK','https://www.facebook.com/kaidaskingdom/');
 INSERT INTO artisans_urls VALUES(10604,497,'URL_INSTAGRAM','https://www.instagram.com/kaidaskingdom/');
-INSERT INTO artisans_urls VALUES(10605,497,'URL_YOUTUBE','https://youtube.com/c/KaidasKingdom');
 INSERT INTO artisans_urls VALUES(10606,497,'URL_LINKLIST','https://linktr.ee/KaidasKingdom');
 INSERT INTO artisans_urls VALUES(10607,497,'URL_QUEUE','https://trello.com/b/UJxOXYCA/kaidas-kingdom-fursuit-queue');
 INSERT INTO artisans_urls VALUES(10608,497,'URL_SCRITCH','https://scritch.es/makers/kaidas-kingdom');
@@ -2901,4 +2900,5 @@ INSERT INTO artisans_urls VALUES(10622,492,'URL_PRICES','https://docs.google.com
 INSERT INTO artisans_urls VALUES(10625,492,'URL_WEBSITE','https://diinokit.carrd.co/');
 INSERT INTO artisans_urls VALUES(10626,492,'URL_COMMISSIONS','https://diinokit.carrd.co/');
 INSERT INTO artisans_urls VALUES(10627,492,'URL_QUEUE','https://trello.com/b/gJujFPZD/diinokits-arts-and-crafts');
+INSERT INTO artisans_urls VALUES(10628,497,'URL_YOUTUBE','https://www.youtube.com/c/KaidasKingdom');
 COMMIT;
