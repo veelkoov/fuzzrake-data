@@ -2901,4 +2901,7 @@ INSERT INTO artisans_urls VALUES(10625,492,'URL_WEBSITE','https://diinokit.carrd
 INSERT INTO artisans_urls VALUES(10626,492,'URL_COMMISSIONS','https://diinokit.carrd.co/');
 INSERT INTO artisans_urls VALUES(10627,492,'URL_QUEUE','https://trello.com/b/gJujFPZD/diinokits-arts-and-crafts');
 INSERT INTO artisans_urls VALUES(10628,497,'URL_YOUTUBE','https://www.youtube.com/c/KaidasKingdom');
+INSERT INTO artisans_urls VALUES(10629,47,'URL_FURSUITREVIEW','https://fursuitreview.com/m/fur-it-up/');
+INSERT INTO artisans_urls VALUES(10630,72,'URL_FURSUITREVIEW','https://fursuitreview.com/m/mixed-candy-costumes/');
+INSERT INTO artisans_urls VALUES(10631,491,'URL_FURSUITREVIEW','https://fursuitreview.com/m/fox-floof-studios/');
 COMMIT;
