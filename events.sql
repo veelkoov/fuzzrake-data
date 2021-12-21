@@ -252,4 +252,7 @@ INSERT INTO events VALUES(263,'2021-12-18 21:38:00','DATA_UPDATED','',4,0,0,'1f6
 INSERT INTO events VALUES(264,'2021-12-18 21:48:00','DATA_UPDATED','',0,1,0,'f966f37443b4136594aa12fbd200e256eebdc4ce','','','','',0);
 INSERT INTO events VALUES(265,'2021-12-19 06:05:09','CS_UPDATED','Birdsblood',0,0,0,'','https://www.instagram.com/birdsbloodart/','','Commissions','',1);
 INSERT INTO events VALUES(266,'2021-12-19 19:18:00','DATA_UPDATED','',0,2,0,'68ef6fdf16514bed6ec2c5cb2a0b9fabae5f7f45','','','','',0);
+INSERT INTO events VALUES(267,'2021-12-21 06:05:10','CS_UPDATED','8-8itArtistries',0,0,0,'','https://twitter.com/8_8itArtistries','','','Commissions',0);
+INSERT INTO events VALUES(268,'2021-12-21 18:05:22','CS_UPDATED','GoldMouse Studios',0,0,0,'','https://twitter.com/GoldMouseStudio','','Commissions','',0);
+INSERT INTO events VALUES(269,'2021-12-21 18:05:22','CS_UPDATED','Blue Wolf Studio Fursuit',0,0,0,'','https://twitter.com/BWSFursuit','','','Commissions',0);
 COMMIT;
