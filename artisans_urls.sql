@@ -2905,4 +2905,18 @@ INSERT INTO artisans_urls VALUES(10629,47,'URL_FURSUITREVIEW','https://fursuitre
 INSERT INTO artisans_urls VALUES(10630,72,'URL_FURSUITREVIEW','https://fursuitreview.com/m/mixed-candy-costumes/');
 INSERT INTO artisans_urls VALUES(10631,491,'URL_FURSUITREVIEW','https://fursuitreview.com/m/fox-floof-studios/');
 INSERT INTO artisans_urls VALUES(10632,498,'URL_FURSUITREVIEW','https://fursuitreview.com/m/klovesbunnies/');
+INSERT INTO artisans_urls VALUES(10633,499,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/wowdragonstudio/');
+INSERT INTO artisans_urls VALUES(10634,499,'URL_INSTAGRAM','https://www.instagram.com/wowdragonstudio/');
+INSERT INTO artisans_urls VALUES(10635,500,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/m0ntydragon/');
+INSERT INTO artisans_urls VALUES(10636,500,'URL_TWITTER','https://twitter.com/Montydragon2');
+INSERT INTO artisans_urls VALUES(10637,500,'URL_INSTAGRAM','https://www.instagram.com/m0ntydragon/');
+INSERT INTO artisans_urls VALUES(10638,500,'URL_YOUTUBE','https://www.youtube.com/channel/UC19J0kZGt0JcDqGQ-29jE5A');
+INSERT INTO artisans_urls VALUES(10639,500,'URL_ETSY','https://www.etsy.com/shop/MontydragonFursuits');
+INSERT INTO artisans_urls VALUES(10640,500,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/display-feedback/montydragon/?page=1');
+INSERT INTO artisans_urls VALUES(10641,500,'URL_QUEUE','https://trello.com/b/VAbg0Up2/montydragon-fursuits');
+INSERT INTO artisans_urls VALUES(10642,501,'URL_TWITTER','https://twitter.com/OshamyFurry');
+INSERT INTO artisans_urls VALUES(10643,501,'URL_INSTAGRAM','https://www.instagram.com/thesoftestfursuits_creations/');
+INSERT INTO artisans_urls VALUES(10644,501,'URL_YOUTUBE','https://www.youtube.com/oshamythefurry');
+INSERT INTO artisans_urls VALUES(10645,501,'URL_LINKLIST','https://linktr.ee/Oshamy');
+INSERT INTO artisans_urls VALUES(10646,501,'URL_OTHER','https://t.me/OshamyArt');
 COMMIT;
