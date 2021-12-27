@@ -255,4 +255,6 @@ INSERT INTO events VALUES(266,'2021-12-19 19:18:00','DATA_UPDATED','',0,2,0,'68e
 INSERT INTO events VALUES(267,'2021-12-21 06:05:10','CS_UPDATED','8-8itArtistries',0,0,0,'','https://twitter.com/8_8itArtistries','','','Commissions',0);
 INSERT INTO events VALUES(268,'2021-12-21 18:05:22','CS_UPDATED','GoldMouse Studios',0,0,0,'','https://twitter.com/GoldMouseStudio','','Commissions','',0);
 INSERT INTO events VALUES(269,'2021-12-21 18:05:22','CS_UPDATED','Blue Wolf Studio Fursuit',0,0,0,'','https://twitter.com/BWSFursuit','','','Commissions',0);
+INSERT INTO events VALUES(270,'2021-12-23 18:05:13','CS_UPDATED','The Grotto Creations',0,0,0,'','https://twitter.com/GrottoCreations','','Commissions','',0);
+INSERT INTO events VALUES(271,'2021-12-26 18:05:20','CS_UPDATED','Kayla''s Kritterz',0,0,0,'','https://twitter.com/KaylasKritterz','','',replace('Commissions\nQuotes','\n',char(10)),1);
 COMMIT;

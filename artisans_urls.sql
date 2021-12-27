@@ -2904,4 +2904,5 @@ INSERT INTO artisans_urls VALUES(10628,497,'URL_YOUTUBE','https://www.youtube.co
 INSERT INTO artisans_urls VALUES(10629,47,'URL_FURSUITREVIEW','https://fursuitreview.com/m/fur-it-up/');
 INSERT INTO artisans_urls VALUES(10630,72,'URL_FURSUITREVIEW','https://fursuitreview.com/m/mixed-candy-costumes/');
 INSERT INTO artisans_urls VALUES(10631,491,'URL_FURSUITREVIEW','https://fursuitreview.com/m/fox-floof-studios/');
+INSERT INTO artisans_urls VALUES(10632,498,'URL_FURSUITREVIEW','https://fursuitreview.com/m/klovesbunnies/');
 COMMIT;
