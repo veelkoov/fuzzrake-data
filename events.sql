@@ -257,4 +257,11 @@ INSERT INTO events VALUES(268,'2021-12-21 18:05:22','CS_UPDATED','GoldMouse Stud
 INSERT INTO events VALUES(269,'2021-12-21 18:05:22','CS_UPDATED','Blue Wolf Studio Fursuit',0,0,0,'','https://twitter.com/BWSFursuit','','','Commissions',0);
 INSERT INTO events VALUES(270,'2021-12-23 18:05:13','CS_UPDATED','The Grotto Creations',0,0,0,'','https://twitter.com/GrottoCreations','','Commissions','',0);
 INSERT INTO events VALUES(271,'2021-12-26 18:05:20','CS_UPDATED','Kayla''s Kritterz',0,0,0,'','https://twitter.com/KaylasKritterz','','',replace('Commissions\nQuotes','\n',char(10)),1);
+INSERT INTO events VALUES(272,'2021-12-30 06:05:11','CS_UPDATED','Norman''s Needleworks',0,0,0,'','https://nnormann.wixsite.com/normansneedleworks/quotes','','Quotes','',0);
+INSERT INTO events VALUES(273,'2021-12-30 06:05:12','CS_UPDATED','Blue Wolf Studio Fursuit',0,0,0,'','https://twitter.com/BWSFursuit','','Commissions','',0);
+INSERT INTO events VALUES(274,'2021-12-30 18:05:21','CS_UPDATED','Chaoticreations',0,0,0,'','https://www.chaoticreations.co.uk/commissions','','Quotes','',1);
+INSERT INTO events VALUES(275,'2022-01-01 06:05:19','CS_UPDATED','That One Pink Dog Studios',0,0,0,'','http://thatonepinkdog.studio/fursuit-prices','',replace('Quotes\nCommissions\nParts','\n',char(10)),'',0);
+INSERT INTO events VALUES(276,'2022-01-01 18:05:11','CS_UPDATED','Desert Fizz',0,0,0,'','https://twitter.com/DesertFizz','','','Commissions',0);
+INSERT INTO events VALUES(277,'2022-01-03 06:05:17','CS_UPDATED','Onix Angel Creations',0,0,0,'','https://www.onixangelcreations.com/','','','Commissions',0);
+INSERT INTO events VALUES(278,'2022-01-04 06:05:09','CS_UPDATED','Slate Sloth Suits',0,0,0,'','https://slateslothsuits.weebly.com/','','Commissions','',0);
 COMMIT;

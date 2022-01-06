@@ -2919,4 +2919,5 @@ INSERT INTO artisans_urls VALUES(10643,501,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(10644,501,'URL_YOUTUBE','https://www.youtube.com/oshamythefurry');
 INSERT INTO artisans_urls VALUES(10645,501,'URL_LINKLIST','https://linktr.ee/Oshamy');
 INSERT INTO artisans_urls VALUES(10646,501,'URL_OTHER','https://t.me/OshamyArt');
+INSERT INTO artisans_urls VALUES(10647,427,'URL_FURSUITREVIEW','https://fursuitreview.com/m/howlmetal-horrors/');
 COMMIT;
