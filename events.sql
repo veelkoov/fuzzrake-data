@@ -264,4 +264,6 @@ INSERT INTO events VALUES(275,'2022-01-01 06:05:19','CS_UPDATED','That One Pink 
 INSERT INTO events VALUES(276,'2022-01-01 18:05:11','CS_UPDATED','Desert Fizz',0,0,0,'','https://twitter.com/DesertFizz','','','Commissions',0);
 INSERT INTO events VALUES(277,'2022-01-03 06:05:17','CS_UPDATED','Onix Angel Creations',0,0,0,'','https://www.onixangelcreations.com/','','','Commissions',0);
 INSERT INTO events VALUES(278,'2022-01-04 06:05:09','CS_UPDATED','Slate Sloth Suits',0,0,0,'','https://slateslothsuits.weebly.com/','','Commissions','',0);
+INSERT INTO events VALUES(279,'2022-01-06 19:33:41','CS_UPDATED','Vaporwag Studios',0,0,0,'','https://twitter.com/vaporwagstudios','','','Commissions',0);
+INSERT INTO events VALUES(280,'2022-01-06 19:33:41','CS_UPDATED','OcMeCreations',0,0,0,'','https://ocmecreations.eu/status-for-getfursu-it.html','','','Commissions',0);
 COMMIT;
