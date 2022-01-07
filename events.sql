@@ -266,4 +266,5 @@ INSERT INTO events VALUES(277,'2022-01-03 06:05:17','CS_UPDATED','Onix Angel Cre
 INSERT INTO events VALUES(278,'2022-01-04 06:05:09','CS_UPDATED','Slate Sloth Suits',0,0,0,'','https://slateslothsuits.weebly.com/','','Commissions','',0);
 INSERT INTO events VALUES(279,'2022-01-06 19:33:41','CS_UPDATED','Vaporwag Studios',0,0,0,'','https://twitter.com/vaporwagstudios','','','Commissions',0);
 INSERT INTO events VALUES(280,'2022-01-06 19:33:41','CS_UPDATED','OcMeCreations',0,0,0,'','https://ocmecreations.eu/status-for-getfursu-it.html','','','Commissions',0);
+INSERT INTO events VALUES(281,'2022-01-06 19:34:00','DATA_UPDATED','',4,2,0,'64ff659c63d27584f0565d01c002d70aac305078','','','','',0);
 COMMIT;
