@@ -269,4 +269,9 @@ INSERT INTO events VALUES(280,'2022-01-06 19:33:41','CS_UPDATED','OcMeCreations'
 INSERT INTO events VALUES(281,'2022-01-06 19:34:00','DATA_UPDATED','',4,2,0,'64ff659c63d27584f0565d01c002d70aac305078','','','','',0);
 INSERT INTO events VALUES(282,'2022-01-07 18:05:24','CS_UPDATED','CFStudios',0,0,0,'','https://twitter.com/C_F_Studios','','','Commissions',0);
 INSERT INTO events VALUES(283,'2022-01-09 06:05:18','CS_UPDATED','CFStudios',0,0,0,'','https://twitter.com/C_F_Studios','','Commissions','',0);
+INSERT INTO events VALUES(284,'2022-01-09 16:57:00','DATA_UPDATED','',0,1,0,'7fad6cc76d86a5b4fe6d0dd3821c0c757746d067','','','','',0);
+INSERT INTO events VALUES(285,'2022-01-10 06:05:14','CS_UPDATED','RandDfursuits',0,0,0,'','https://www.furaffinity.net/user/randdfursuits/','','','Commissions',0);
+INSERT INTO events VALUES(286,'2022-01-10 06:05:14','CS_UPDATED','Desert Fizz',0,0,0,'','https://twitter.com/DesertFizz','','Commissions','',0);
+INSERT INTO events VALUES(287,'2022-01-11 06:05:15','CS_UPDATED','Stynger Skies',0,0,0,'','https://twitter.com/StyngerC','','Commissions','',0);
+INSERT INTO events VALUES(288,'2022-01-11 18:05:34','CS_UPDATED','Schorsuits',0,0,0,'','https://schorsuits.wixsite.com/schorsuits','','Commissions','',1);
 COMMIT;
