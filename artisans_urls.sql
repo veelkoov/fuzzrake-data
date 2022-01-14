@@ -193,13 +193,10 @@ INSERT INTO artisans_urls VALUES(201,49,'URL_FUR_AFFINITY','https://www.furaffin
 INSERT INTO artisans_urls VALUES(202,49,'URL_TWITTER','https://twitter.com/RandDfursuits');
 INSERT INTO artisans_urls VALUES(204,49,'URL_YOUTUBE','https://www.youtube.com/channel/UCalQK3m6nppSDeiEo9RI1Sg');
 INSERT INTO artisans_urls VALUES(205,49,'URL_COMMISSIONS','https://www.furaffinity.net/user/randdfursuits/');
-INSERT INTO artisans_urls VALUES(206,50,'URL_FURSUITREVIEW','https://fursuitreview.com/m/fursuit-enterprise/');
-INSERT INTO artisans_urls VALUES(207,50,'URL_WEBSITE','http://www.fursuitenterprise.com/');
 INSERT INTO artisans_urls VALUES(208,50,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/Fursuit-Enterprise/');
 INSERT INTO artisans_urls VALUES(209,50,'URL_DEVIANTART','https://www.deviantart.com/yamishizen');
 INSERT INTO artisans_urls VALUES(210,50,'URL_TWITTER','https://twitter.com/Yamishizen');
 INSERT INTO artisans_urls VALUES(211,50,'URL_FACEBOOK','https://www.facebook.com/yamishizen/');
-INSERT INTO artisans_urls VALUES(212,50,'URL_COMMISSIONS','http://www.fursuitenterprise.com/commission-forms.html');
 INSERT INTO artisans_urls VALUES(213,51,'URL_WEBSITE','https://www.fursuiting.com/');
 INSERT INTO artisans_urls VALUES(214,51,'URL_TWITTER','https://twitter.com/FursuitsByLacy');
 INSERT INTO artisans_urls VALUES(215,51,'URL_COMMISSIONS','https://www.fursuiting.com/');
@@ -2956,4 +2953,6 @@ INSERT INTO artisans_urls VALUES(10691,279,'URL_PHOTOS','https://www.furtrack.co
 INSERT INTO artisans_urls VALUES(10692,279,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/57192-46e1bdb63a2538c25c0369f72eb77118.jpg');
 INSERT INTO artisans_urls VALUES(10693,279,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/60671-626462d7649a76cf4683faddfc1126cb.jpg');
 INSERT INTO artisans_urls VALUES(10694,279,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/62149-c2586c9ee83c65c5e85e853e30d786c5.jpg');
+INSERT INTO artisans_urls VALUES(10695,50,'URL_FURSUITREVIEW','https://fursuitreview.com/m/bad-dog-custom-creations/');
+INSERT INTO artisans_urls VALUES(10696,50,'URL_WEBSITE','http://www.baddogcustomcreations.com/');
 COMMIT;

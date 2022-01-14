@@ -274,4 +274,5 @@ INSERT INTO events VALUES(285,'2022-01-10 06:05:14','CS_UPDATED','RandDfursuits'
 INSERT INTO events VALUES(286,'2022-01-10 06:05:14','CS_UPDATED','Desert Fizz',0,0,0,'','https://twitter.com/DesertFizz','','Commissions','',0);
 INSERT INTO events VALUES(287,'2022-01-11 06:05:15','CS_UPDATED','Stynger Skies',0,0,0,'','https://twitter.com/StyngerC','','Commissions','',0);
 INSERT INTO events VALUES(288,'2022-01-11 18:05:34','CS_UPDATED','Schorsuits',0,0,0,'','https://schorsuits.wixsite.com/schorsuits','','Commissions','',1);
+INSERT INTO events VALUES(289,'2022-01-12 06:05:29','CS_UPDATED','Schorsuits',0,0,0,'','https://schorsuits.wixsite.com/schorsuits','','','Commissions',1);
 COMMIT;
