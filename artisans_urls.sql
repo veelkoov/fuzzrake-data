@@ -2955,4 +2955,11 @@ INSERT INTO artisans_urls VALUES(10693,279,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(10694,279,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/62149-c2586c9ee83c65c5e85e853e30d786c5.jpg');
 INSERT INTO artisans_urls VALUES(10695,50,'URL_FURSUITREVIEW','https://fursuitreview.com/m/bad-dog-custom-creations/');
 INSERT INTO artisans_urls VALUES(10696,50,'URL_WEBSITE','http://www.baddogcustomcreations.com/');
+INSERT INTO artisans_urls VALUES(10697,229,'URL_PRICES','https://www.onixangelcreations.com/fursuits.html');
+INSERT INTO artisans_urls VALUES(10698,229,'URL_DEVIANTART','https://www.deviantart.com/taytaym2');
+INSERT INTO artisans_urls VALUES(10699,229,'URL_LINKLIST','https://onixangel.carrd.co/');
+INSERT INTO artisans_urls VALUES(10700,229,'URL_ETSY','https://www.etsy.com/ca/shop/OnixAngelCreations');
+INSERT INTO artisans_urls VALUES(10701,229,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/onix-angel-creations');
+INSERT INTO artisans_urls VALUES(10702,229,'URL_QUEUE','https://trello.com/b/QR2cfNwp/onix-angels-commission-queue');
+INSERT INTO artisans_urls VALUES(10703,229,'URL_OTHER','https://www.patreon.com/onixangelcreations');
 COMMIT;
