@@ -277,4 +277,7 @@ INSERT INTO events VALUES(288,'2022-01-11 18:05:34','CS_UPDATED','Schorsuits',0,
 INSERT INTO events VALUES(289,'2022-01-12 06:05:29','CS_UPDATED','Schorsuits',0,0,0,'','https://schorsuits.wixsite.com/schorsuits','','','Commissions',1);
 INSERT INTO events VALUES(290,'2022-01-15 18:05:27','CS_UPDATED','Wildspot Works',0,0,0,'','https://wildspotworks.com/','','','Commissions',0);
 INSERT INTO events VALUES(291,'2022-01-15 18:05:27','CS_UPDATED','Nyxia Creations',0,0,0,'','https://astranyxia.wixsite.com/nyxiacreations','',replace('Quotes\nParts','\n',char(10)),'',1);
+INSERT INTO events VALUES(292,'2022-01-16 00:23:00','DATA_UPDATED','',0,1,0,'82b7c2efb00099d1a709e02a26ea0ce84f1f4c38','','','','',0);
+INSERT INTO events VALUES(293,'2022-01-16 06:05:24','CS_UPDATED','Nyxia Creations',0,0,0,'','https://astranyxia.wixsite.com/nyxiacreations','','',replace('Quotes\nParts','\n',char(10)),0);
+INSERT INTO events VALUES(294,'2022-01-16 18:05:16','CS_UPDATED','Vaporwag Studios',0,0,0,'','https://twitter.com/vaporwagstudios','','Commissions','',0);
 COMMIT;
