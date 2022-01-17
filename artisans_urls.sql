@@ -233,13 +233,6 @@ INSERT INTO artisans_urls VALUES(247,60,'URL_TWITTER','https://twitter.com/theam
 INSERT INTO artisans_urls VALUES(248,61,'URL_WEBSITE','http://www.kaiborgstudios.com/');
 INSERT INTO artisans_urls VALUES(249,61,'URL_TWITTER','https://twitter.com/KaiborgStudios');
 INSERT INTO artisans_urls VALUES(250,62,'URL_FURSUITREVIEW','https://fursuitreview.com/m/laela-mcpitty-suits/');
-INSERT INTO artisans_urls VALUES(252,63,'URL_WEBSITE','https://www.wanderlustsuits.com/');
-INSERT INTO artisans_urls VALUES(253,63,'URL_PRICES','https://www.wanderlustsuits.com/prices');
-INSERT INTO artisans_urls VALUES(254,63,'URL_FAQ','https://www.wanderlustsuits.com/frequently-asked-questions');
-INSERT INTO artisans_urls VALUES(255,63,'URL_TWITTER','https://twitter.com/wanderlustsuits');
-INSERT INTO artisans_urls VALUES(256,63,'URL_INSTAGRAM','https://www.instagram.com/wanderlustsuits/');
-INSERT INTO artisans_urls VALUES(257,63,'URL_QUEUE','https://trello.com/b/DTa26rwU/wanderlust-queue');
-INSERT INTO artisans_urls VALUES(258,63,'URL_COMMISSIONS','https://www.wanderlustsuits.com/');
 INSERT INTO artisans_urls VALUES(261,66,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/lunovulpes/');
 INSERT INTO artisans_urls VALUES(262,66,'URL_COMMISSIONS','https://www.furaffinity.net/user/lunovulpes/');
 INSERT INTO artisans_urls VALUES(263,67,'URL_FURSUITREVIEW','https://fursuitreview.com/m/macaroni-market/');
