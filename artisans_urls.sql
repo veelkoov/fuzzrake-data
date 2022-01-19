@@ -2369,7 +2369,6 @@ INSERT INTO artisans_urls VALUES(10043,461,'URL_COMMISSIONS','https://wearcatcre
 INSERT INTO artisans_urls VALUES(10044,279,'URL_FURSUITREVIEW','https://fursuitreview.com/m/melcaara/');
 INSERT INTO artisans_urls VALUES(10045,279,'URL_LINKLIST','https://beacons.ai/melcaara');
 INSERT INTO artisans_urls VALUES(10046,279,'URL_FURRY_AMINO','https://aminoapps.com/c/furry-amino/page/user/melcaara/YjKZ_WQMuWfwQDvW76NDXXVvZn0YpXMPlcR');
-INSERT INTO artisans_urls VALUES(10047,279,'URL_OTHER','https://www.patreon.com/Melcaara');
 INSERT INTO artisans_urls VALUES(10050,462,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/naritacoree/');
 INSERT INTO artisans_urls VALUES(10051,462,'URL_DEVIANTART','https://www.deviantart.com/naritacoree');
 INSERT INTO artisans_urls VALUES(10052,462,'URL_TWITTER','https://twitter.com/naritacoree');
@@ -2974,4 +2973,11 @@ INSERT INTO artisans_urls VALUES(10737,18,'URL_TWITTER','https://twitter.com/Clo
 INSERT INTO artisans_urls VALUES(10738,18,'URL_FACEBOOK','https://www.facebook.com/ClockworkCreations/');
 INSERT INTO artisans_urls VALUES(10739,198,'URL_OTHER_SHOP','https://ko-fi.com/darkrainbowdragon');
 INSERT INTO artisans_urls VALUES(10740,198,'URL_OTHER','https://buzzly.art/~DarkRainbowDragon');
+INSERT INTO artisans_urls VALUES(10741,485,'URL_FAQ','https://www.pocketwolffursuits.com/tos');
+INSERT INTO artisans_urls VALUES(10742,485,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/search/other-items/?username=pocketwolf&user_id=106988');
+INSERT INTO artisans_urls VALUES(10743,435,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/kittykaijuworks/');
+INSERT INTO artisans_urls VALUES(10744,499,'URL_PRICES','https://trello.com/c/WlYtfEP4/11-prices');
+INSERT INTO artisans_urls VALUES(10745,499,'URL_FAQ','https://trello.com/c/HoXM1qkU/12-faq');
+INSERT INTO artisans_urls VALUES(10746,499,'URL_QUEUE','https://trello.com/b/uOVEidzv');
+INSERT INTO artisans_urls VALUES(10747,506,'URL_INSTAGRAM','https://www.instagram.com/memorylanefursuits/');
 COMMIT;
