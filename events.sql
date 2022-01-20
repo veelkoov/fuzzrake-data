@@ -284,4 +284,5 @@ INSERT INTO events VALUES(295,'2022-01-17 21:12:00','DATA_UPDATED','',0,7,0,'a3c
 INSERT INTO events VALUES(296,'2022-01-18 06:05:20','CS_UPDATED','Pink And Blue Addicts Fursuits',0,0,0,'','','','Quotes','',0);
 INSERT INTO events VALUES(297,'2022-01-18 20:21:00','DATA_UPDATED','',0,6,0,'1314a65a7f93156217b058ad18505cc72e8b8a46','','','','',0);
 INSERT INTO events VALUES(298,'2022-01-19 18:05:24','CS_UPDATED','Vaporwag Studios',0,0,0,'','https://twitter.com/vaporwagstudios','','','Commissions',0);
+INSERT INTO events VALUES(299,'2022-01-19 22:01:00','DATA_UPDATED','',1,8,0,'910b10fd5b674c15f76d22dbfc806f7f00736a7c','','','','',0);
 COMMIT;
