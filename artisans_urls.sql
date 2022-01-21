@@ -468,7 +468,6 @@ INSERT INTO artisans_urls VALUES(506,138,'URL_FUR_AFFINITY','https://www.furaffi
 INSERT INTO artisans_urls VALUES(507,138,'URL_DEVIANTART','https://www.deviantart.com/fursuitparade');
 INSERT INTO artisans_urls VALUES(508,138,'URL_TWITTER','https://twitter.com/FursuitParade');
 INSERT INTO artisans_urls VALUES(509,138,'URL_INSTAGRAM','https://www.instagram.com/fursuitparade/');
-INSERT INTO artisans_urls VALUES(510,138,'URL_COMMISSIONS','http://www.furaffinity.net/user/theroyalbanana/#profile');
 INSERT INTO artisans_urls VALUES(511,139,'URL_FURSUITREVIEW','https://fursuitreview.com/m/cantoftogs/');
 INSERT INTO artisans_urls VALUES(512,139,'URL_WEBSITE','https://www.cantoftogs.com/');
 INSERT INTO artisans_urls VALUES(513,139,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/cantoftogs/');
@@ -2983,4 +2982,8 @@ INSERT INTO artisans_urls VALUES(10759,265,'URL_LINKLIST','https://linktr.ee/Kit
 INSERT INTO artisans_urls VALUES(10760,265,'URL_ETSY','https://www.etsy.com/shop/KittenCafeStudios');
 INSERT INTO artisans_urls VALUES(10761,265,'URL_QUEUE','https://trello.com/b/pNYusKxH/kitten-cafe-queue');
 INSERT INTO artisans_urls VALUES(10762,265,'URL_OTHER','https://www.patreon.com/m/Kittencafestudios');
+INSERT INTO artisans_urls VALUES(10763,467,'URL_COMMISSIONS','https://www.instagram.com/silverlynxstudios/');
+INSERT INTO artisans_urls VALUES(10764,138,'URL_COMMISSIONS','http://www.furaffinity.net/user/fursuitparade/#profile');
+INSERT INTO artisans_urls VALUES(10765,138,'URL_LINKLIST','https://allmylinks.com/fursuitparade');
+INSERT INTO artisans_urls VALUES(10766,138,'URL_QUEUE','https://t.co/MWp9Z2jdlq');
 COMMIT;
