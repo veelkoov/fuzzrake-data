@@ -2986,4 +2986,9 @@ INSERT INTO artisans_urls VALUES(10763,467,'URL_COMMISSIONS','https://www.instag
 INSERT INTO artisans_urls VALUES(10764,138,'URL_COMMISSIONS','http://www.furaffinity.net/user/fursuitparade/#profile');
 INSERT INTO artisans_urls VALUES(10765,138,'URL_LINKLIST','https://allmylinks.com/fursuitparade');
 INSERT INTO artisans_urls VALUES(10766,138,'URL_QUEUE','https://t.co/MWp9Z2jdlq');
+INSERT INTO artisans_urls VALUES(10767,143,'URL_OTHER','https://vk.com/furr.club');
+INSERT INTO artisans_urls VALUES(10768,212,'URL_FURSUITREVIEW','https://fursuitreview.com/m/fursewna-studios/');
+INSERT INTO artisans_urls VALUES(10769,212,'URL_PRICES','http://fursewnastudios.weebly.com/custom-fursuits.html');
+INSERT INTO artisans_urls VALUES(10770,212,'URL_LINKLIST','https://linktr.ee/fursewnastudios');
+INSERT INTO artisans_urls VALUES(10771,212,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/fursewna-studios');
 COMMIT;
