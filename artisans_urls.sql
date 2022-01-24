@@ -2991,4 +2991,5 @@ INSERT INTO artisans_urls VALUES(10768,212,'URL_FURSUITREVIEW','https://fursuitr
 INSERT INTO artisans_urls VALUES(10769,212,'URL_PRICES','http://fursewnastudios.weebly.com/custom-fursuits.html');
 INSERT INTO artisans_urls VALUES(10770,212,'URL_LINKLIST','https://linktr.ee/fursewnastudios');
 INSERT INTO artisans_urls VALUES(10771,212,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/fursewna-studios');
+INSERT INTO artisans_urls VALUES(10772,153,'URL_FURSUITREVIEW','https://fursuitreview.com/m/sere-studios/');
 COMMIT;

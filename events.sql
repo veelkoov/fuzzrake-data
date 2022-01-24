@@ -288,4 +288,9 @@ INSERT INTO events VALUES(299,'2022-01-19 22:01:00','DATA_UPDATED','',1,8,0,'910
 INSERT INTO events VALUES(300,'2022-01-20 20:16:00','DATA_UPDATED','',0,4,1,'7e7233c4bedc8905ee400c3ec34f8aafe48c30af','','','','',0);
 INSERT INTO events VALUES(301,'2022-01-21 06:05:30','CS_UPDATED','GoatyGoods',0,0,0,'','https://twitter.com/goatygoods','','Commissions','',0);
 INSERT INTO events VALUES(302,'2022-01-21 18:05:21','CS_UPDATED','Mixed Candy Costumes',0,0,0,'','https://www.mixedcandycostumes.com/','','','Commissions',0);
+INSERT INTO events VALUES(303,'2022-01-21 18:52:00','DATA_UPDATED','',0,3,0,'c9e3a765585b75d509524d05e9fb2d906a4fc952','','','','',0);
+INSERT INTO events VALUES(304,'2022-01-22 06:05:24','CS_UPDATED','Fursuit Parade',0,0,0,'','http://www.furaffinity.net/user/fursuitparade/#profile','','','Commissions',0);
+INSERT INTO events VALUES(305,'2022-01-22 20:30:00','DATA_UPDATED','',0,2,0,'771277c372825d2248d5554716a256bd725d7b04','','','','',0);
+INSERT INTO events VALUES(306,'2022-01-23 06:05:28','CS_UPDATED','Vaporwag Studios',0,0,0,'','https://twitter.com/vaporwagstudios','','Commissions','',0);
+INSERT INTO events VALUES(307,'2022-01-24 06:05:20','CS_UPDATED','Mixed Candy Costumes',0,0,0,'','https://www.mixedcandycostumes.com/','','Commissions','',1);
 COMMIT;
