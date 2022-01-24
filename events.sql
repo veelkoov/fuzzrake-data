@@ -293,4 +293,5 @@ INSERT INTO events VALUES(304,'2022-01-22 06:05:24','CS_UPDATED','Fursuit Parade
 INSERT INTO events VALUES(305,'2022-01-22 20:30:00','DATA_UPDATED','',0,2,0,'771277c372825d2248d5554716a256bd725d7b04','','','','',0);
 INSERT INTO events VALUES(306,'2022-01-23 06:05:28','CS_UPDATED','Vaporwag Studios',0,0,0,'','https://twitter.com/vaporwagstudios','','Commissions','',0);
 INSERT INTO events VALUES(307,'2022-01-24 06:05:20','CS_UPDATED','Mixed Candy Costumes',0,0,0,'','https://www.mixedcandycostumes.com/','','Commissions','',1);
+INSERT INTO events VALUES(308,'2022-01-24 21:49:00','DATA_UPDATED','',0,7,0,'cf7a5d985b8ad7868e65eb7bf206321262fcfe0d','','','','',0);
 COMMIT;

@@ -3008,4 +3008,5 @@ INSERT INTO artisans_urls VALUES(10792,235,'URL_OTHER_SHOP','https://www.etsy.co
 INSERT INTO artisans_urls VALUES(10793,235,'URL_QUEUE','https://trello.com/b/K8bbmb9z/thunderhowl-queue');
 INSERT INTO artisans_urls VALUES(10794,235,'URL_FURTRACK','https://www.furtrack.com/index/maker:thunderhowl_studios');
 INSERT INTO artisans_urls VALUES(10795,235,'URL_OTHER','https://www.patreon.com/ThunderhowlStudios');
+INSERT INTO artisans_urls VALUES(10796,289,'URL_PRICES','https://creature-couture.weebly.com/price-guide.html');
 COMMIT;
