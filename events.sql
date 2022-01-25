@@ -294,4 +294,6 @@ INSERT INTO events VALUES(305,'2022-01-22 20:30:00','DATA_UPDATED','',0,2,0,'771
 INSERT INTO events VALUES(306,'2022-01-23 06:05:28','CS_UPDATED','Vaporwag Studios',0,0,0,'','https://twitter.com/vaporwagstudios','','Commissions','',0);
 INSERT INTO events VALUES(307,'2022-01-24 06:05:20','CS_UPDATED','Mixed Candy Costumes',0,0,0,'','https://www.mixedcandycostumes.com/','','Commissions','',1);
 INSERT INTO events VALUES(308,'2022-01-24 21:49:00','DATA_UPDATED','',0,7,0,'cf7a5d985b8ad7868e65eb7bf206321262fcfe0d','','','','',0);
+INSERT INTO events VALUES(309,'2022-01-24 21:54:00','DATA_UPDATED','',0,1,0,'e9faadc56d98dac9a9e8dc2c610eb9a397e0e221','','','','',0);
+INSERT INTO events VALUES(310,'2022-01-25 06:05:32','CS_UPDATED','Komickrazi studios',0,0,0,'','https://twitter.com/Komickrazi','','','Commissions',0);
 COMMIT;
