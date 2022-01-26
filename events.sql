@@ -296,4 +296,7 @@ INSERT INTO events VALUES(307,'2022-01-24 06:05:20','CS_UPDATED','Mixed Candy Co
 INSERT INTO events VALUES(308,'2022-01-24 21:49:00','DATA_UPDATED','',0,7,0,'cf7a5d985b8ad7868e65eb7bf206321262fcfe0d','','','','',0);
 INSERT INTO events VALUES(309,'2022-01-24 21:54:00','DATA_UPDATED','',0,1,0,'e9faadc56d98dac9a9e8dc2c610eb9a397e0e221','','','','',0);
 INSERT INTO events VALUES(310,'2022-01-25 06:05:32','CS_UPDATED','Komickrazi studios',0,0,0,'','https://twitter.com/Komickrazi','','','Commissions',0);
+INSERT INTO events VALUES(311,'2022-01-25 21:38:00','DATA_UPDATED','',0,5,0,'4f2b36bfba5abfc317038d739b45eb42894fe5aa','','','','',0);
+INSERT INTO events VALUES(312,'2022-01-26 06:05:38','CS_UPDATED','Kani n'' Hyacin Productions',0,0,0,'','https://knhproductions.square.site/','','Commissions','',1);
+INSERT INTO events VALUES(313,'2022-01-26 06:05:38','CS_UPDATED','CuteSmolBeanPT',0,0,0,'','https://twitter.com/CuteSmolBeanPT1','','','Commissions',0);
 COMMIT;
