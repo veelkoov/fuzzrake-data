@@ -299,4 +299,6 @@ INSERT INTO events VALUES(310,'2022-01-25 06:05:32','CS_UPDATED','Komickrazi stu
 INSERT INTO events VALUES(311,'2022-01-25 21:38:00','DATA_UPDATED','',0,5,0,'4f2b36bfba5abfc317038d739b45eb42894fe5aa','','','','',0);
 INSERT INTO events VALUES(312,'2022-01-26 06:05:38','CS_UPDATED','Kani n'' Hyacin Productions',0,0,0,'','https://knhproductions.square.site/','','Commissions','',1);
 INSERT INTO events VALUES(313,'2022-01-26 06:05:38','CS_UPDATED','CuteSmolBeanPT',0,0,0,'','https://twitter.com/CuteSmolBeanPT1','','','Commissions',0);
+INSERT INTO events VALUES(314,'2022-01-26 21:37:00','DATA_UPDATED','',1,2,0,'cd159b414418a93873c912aca64561d79731d5b3','','','','',0);
+INSERT INTO events VALUES(315,'2022-01-27 06:05:59','CS_UPDATED','Neon-Paw Creations',0,0,0,'','https://www.furaffinity.net/user/kayobe/','','','Quotes',1);
 COMMIT;
