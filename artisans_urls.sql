@@ -3079,4 +3079,5 @@ INSERT INTO artisans_urls VALUES(10885,513,'URL_COMMISSIONS','https://twitter.co
 INSERT INTO artisans_urls VALUES(10886,513,'URL_TWITTER','https://twitter.com/versakastudios');
 INSERT INTO artisans_urls VALUES(10887,107,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/thegrottocreations/');
 INSERT INTO artisans_urls VALUES(10888,107,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/the-grotto-creations-store');
+INSERT INTO artisans_urls VALUES(10889,442,'URL_FURSUITREVIEW','https://fursuitreview.com/m/make-a-fur/');
 COMMIT;

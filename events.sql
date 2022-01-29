@@ -304,4 +304,5 @@ INSERT INTO events VALUES(315,'2022-01-27 06:05:59','CS_UPDATED','Neon-Paw Creat
 INSERT INTO events VALUES(316,'2022-01-27 20:01:00','DATA_UPDATED','',5,2,0,'3fe1f926afc8aaae8546aec57554b8abe323f887','','','','',0);
 INSERT INTO events VALUES(317,'2022-01-28 18:06:11','CS_UPDATED','That One Pink Dog Studios',0,0,0,'','http://thatonepinkdog.studio/fursuit-prices','','',replace('Quotes\nCommissions\nParts','\n',char(10)),0);
 INSERT INTO events VALUES(318,'2022-01-28 18:06:11','CS_UPDATED','Kloofsuits',0,0,0,'','https://www.kloofsuits.co.uk/home','','Commissions','',0);
+INSERT INTO events VALUES(319,'2022-01-29 00:27:00','DATA_UPDATED','',1,5,0,'84fabc2763cd705699d2b02bca67af74224f36a2','','','','',0);
 COMMIT;
