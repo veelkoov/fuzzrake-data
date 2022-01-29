@@ -3114,7 +3114,7 @@ INSERT INTO artisans_urls VALUES(10927,517,'URL_ETSY','https://www.etsy.com/ca/s
 INSERT INTO artisans_urls VALUES(10928,517,'URL_QUEUE','https://trello.com/b/OLMWLyml/sewingstuffs-fursuits');
 INSERT INTO artisans_urls VALUES(10929,514,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/68611-c2328492980779e1ebc14e38988d4bf2.jpg');
 INSERT INTO artisans_urls VALUES(10930,514,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/68615-741d812eb91902d1b298e6d458ae23e8.jpg');
-INSERT INTO artisans_urls VALUES(10931,514,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/68614-e9376dbaa597ebe15ed5307679757440.jpg');
+INSERT INTO artisans_urls VALUES(10931,514,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/68614-e9376dbaa597ebe15ed5307679757440.jpg#5020');
 INSERT INTO artisans_urls VALUES(10932,514,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/68613-596f4cee2209be8cfd36df03950cd447.jpg');
 INSERT INTO artisans_urls VALUES(10933,98,'URL_WEBSITE','https://willow-creative.nl/');
 INSERT INTO artisans_urls VALUES(10934,98,'URL_FAQ','https://willow-creative.nl/about/faq/');
