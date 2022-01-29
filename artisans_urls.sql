@@ -1387,7 +1387,6 @@ INSERT INTO artisans_urls VALUES(1571,339,'URL_TWITTER','https://twitter.com/tha
 INSERT INTO artisans_urls VALUES(1572,339,'URL_FACEBOOK','https://www.facebook.com/thatonepinkdogstudios/');
 INSERT INTO artisans_urls VALUES(1573,339,'URL_INSTAGRAM','https://www.instagram.com/thatonepinkdogstudios/');
 INSERT INTO artisans_urls VALUES(1574,339,'URL_QUEUE','https://trello.com/b/tJK8PdWl/fursuit-queue-to-do-list');
-INSERT INTO artisans_urls VALUES(1575,339,'URL_OTHER',replace('http://thatonepinkdog.studio/suits-for-sale\nhttp://thatonepinkdog.studio/suit-gallery\nhttp://patreon.com/cassmutt','\n',char(10)));
 INSERT INTO artisans_urls VALUES(1576,339,'URL_COMMISSIONS','http://thatonepinkdog.studio/fursuit-prices');
 INSERT INTO artisans_urls VALUES(1577,340,'URL_WEBSITE','https://www.sandcatcustoms.com/');
 INSERT INTO artisans_urls VALUES(1578,340,'URL_PRICES','https://www.sandcatcustoms.com/pricing/');
@@ -3068,4 +3067,16 @@ INSERT INTO artisans_urls VALUES(10873,512,'URL_LINKLIST','https://aussiekitten.
 INSERT INTO artisans_urls VALUES(10874,512,'URL_ETSY','https://www.etsy.com/shop/AussieStudiosExtras');
 INSERT INTO artisans_urls VALUES(10875,512,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/aussiestudios');
 INSERT INTO artisans_urls VALUES(10876,512,'URL_QUEUE','https://trello.com/b/a8nfRWfE/aussiestudios-queue');
+INSERT INTO artisans_urls VALUES(10877,339,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/topdogstudios/');
+INSERT INTO artisans_urls VALUES(10878,339,'URL_DEVIANTART','https://www.deviantart.com/topdogstudios');
+INSERT INTO artisans_urls VALUES(10879,339,'URL_ETSY','https://www.etsy.com/shop/thatonepinkdog');
+INSERT INTO artisans_urls VALUES(10880,339,'URL_OTHER',replace('http://thatonepinkdog.studio/suits-for-sale\nhttp://thatonepinkdog.studio/suit-gallery\nhttp://patreon.com/pinkdogpinclub','\n',char(10)));
+INSERT INTO artisans_urls VALUES(10881,412,'URL_PRICES','https://docs.google.com/document/d/174Yr-mHE3MKIuIGPSjS04ejP5TDCQEJ59jB5E_IXzSs/edit');
+INSERT INTO artisans_urls VALUES(10882,412,'URL_COMMISSIONS','https://www.instagram.com/zipgrowl/');
+INSERT INTO artisans_urls VALUES(10883,412,'URL_DEVIANTART','https://www.deviantart.com/zipgrowl');
+INSERT INTO artisans_urls VALUES(10884,412,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/zipgrowl-studios');
+INSERT INTO artisans_urls VALUES(10885,513,'URL_COMMISSIONS','https://twitter.com/versakastudios');
+INSERT INTO artisans_urls VALUES(10886,513,'URL_TWITTER','https://twitter.com/versakastudios');
+INSERT INTO artisans_urls VALUES(10887,107,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/thegrottocreations/');
+INSERT INTO artisans_urls VALUES(10888,107,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/the-grotto-creations-store');
 COMMIT;
