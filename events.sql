@@ -301,4 +301,7 @@ INSERT INTO events VALUES(312,'2022-01-26 06:05:38','CS_UPDATED','Kani n'' Hyaci
 INSERT INTO events VALUES(313,'2022-01-26 06:05:38','CS_UPDATED','CuteSmolBeanPT',0,0,0,'','https://twitter.com/CuteSmolBeanPT1','','','Commissions',0);
 INSERT INTO events VALUES(314,'2022-01-26 21:37:00','DATA_UPDATED','',1,2,0,'cd159b414418a93873c912aca64561d79731d5b3','','','','',0);
 INSERT INTO events VALUES(315,'2022-01-27 06:05:59','CS_UPDATED','Neon-Paw Creations',0,0,0,'','https://www.furaffinity.net/user/kayobe/','','','Quotes',1);
+INSERT INTO events VALUES(316,'2022-01-27 20:01:00','DATA_UPDATED','',5,2,0,'3fe1f926afc8aaae8546aec57554b8abe323f887','','','','',0);
+INSERT INTO events VALUES(317,'2022-01-28 18:06:11','CS_UPDATED','That One Pink Dog Studios',0,0,0,'','http://thatonepinkdog.studio/fursuit-prices','','',replace('Quotes\nCommissions\nParts','\n',char(10)),0);
+INSERT INTO events VALUES(318,'2022-01-28 18:06:11','CS_UPDATED','Kloofsuits',0,0,0,'','https://www.kloofsuits.co.uk/home','','Commissions','',0);
 COMMIT;
