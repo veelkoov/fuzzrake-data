@@ -3123,4 +3123,13 @@ INSERT INTO artisans_urls VALUES(10936,98,'URL_FACEBOOK','https://www.facebook.c
 INSERT INTO artisans_urls VALUES(10937,98,'URL_INSTAGRAM','https://www.instagram.com/willowcreativenl/');
 INSERT INTO artisans_urls VALUES(10938,98,'URL_ETSY','https://www.etsy.com/shop/WillowCreativeNL');
 INSERT INTO artisans_urls VALUES(10939,98,'URL_OTHER_SHOP','https://willow-creative.nl/store/');
+INSERT INTO artisans_urls VALUES(10940,518,'URL_FURSUITREVIEW','https://fursuitreview.com/m/pnworks/');
+INSERT INTO artisans_urls VALUES(10941,518,'URL_WEBSITE','http://pinandneedle.works/');
+INSERT INTO artisans_urls VALUES(10942,518,'URL_PRICES','https://tinyurl.com/PNWorksPrices');
+INSERT INTO artisans_urls VALUES(10943,518,'URL_COMMISSIONS','https://twitter.com/PNWorks');
+INSERT INTO artisans_urls VALUES(10944,518,'URL_TWITTER','https://twitter.com/PNWorks');
+INSERT INTO artisans_urls VALUES(10945,518,'URL_LINKLIST','https://linktr.ee/PNWorks');
+INSERT INTO artisans_urls VALUES(10946,518,'URL_QUEUE','https://trello.com/b/wjoqoxHG/pin-needle-works');
+INSERT INTO artisans_urls VALUES(10947,518,'URL_FURTRACK','https://www.furtrack.com/index/maker:pin_and_needle_works');
+INSERT INTO artisans_urls VALUES(10948,321,'URL_LINKLIST','https://linktr.ee/aspexofsalt');
 COMMIT;
