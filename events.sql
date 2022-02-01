@@ -308,4 +308,9 @@ INSERT INTO events VALUES(319,'2022-01-29 00:27:00','DATA_UPDATED','',1,5,0,'84f
 INSERT INTO events VALUES(320,'2022-01-29 06:05:58','CS_UPDATED','Versaka Studios',0,0,0,'','https://twitter.com/versakastudios','','','Commissions',0);
 INSERT INTO events VALUES(321,'2022-01-29 18:55:12','CS_UPDATED','SewingStuffs Fursuits',0,0,0,'','https://www.furaffinity.net/user/sewingstuffs/','','','Commissions',0);
 INSERT INTO events VALUES(322,'2022-01-29 19:17:00','DATA_UPDATED','',4,2,1,'726e689aa2496b3bc26d333ec4663b5069b77be4','','','','',0);
+INSERT INTO events VALUES(323,'2022-01-30 00:13:00','DATA_UPDATED','',1,1,0,'5c93eb0786208f4ed1b39f06ae077b3e71fb3b8a','','','','',0);
+INSERT INTO events VALUES(324,'2022-01-31 18:06:18','CS_UPDATED','Tulius Costumes',0,0,0,'','https://twitter.com/Tuliusis','','','Commissions',0);
+INSERT INTO events VALUES(325,'2022-01-31 18:06:18','CS_UPDATED','Charred Fursuits',0,0,0,'','https://twitter.com/CharredFursuits','','Quotes','',1);
+INSERT INTO events VALUES(326,'2022-02-01 06:06:12','CS_UPDATED','YchFursuits',0,0,0,'','https://www.ychfursuits.com/home','','Commissions','',0);
+INSERT INTO events VALUES(327,'2022-02-01 18:06:16','CS_UPDATED','Charred Fursuits',0,0,0,'','https://twitter.com/CharredFursuits','','','Commissions',0);
 COMMIT;
