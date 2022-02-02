@@ -3165,4 +3165,11 @@ INSERT INTO artisans_urls VALUES(10983,519,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(10984,519,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/68626-a731f85aed58f2c98c7d0e199cb80992.jpg');
 INSERT INTO artisans_urls VALUES(10985,519,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/68630-9b13a634bab01f8e4329200a9d6216d9.jpg');
 INSERT INTO artisans_urls VALUES(10986,519,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/68631-a9896d30d68f79497736ec92c41a6fa6.jpg');
+INSERT INTO artisans_urls VALUES(10987,81,'URL_WEBSITE','https://www.skyprocostumes.com/');
+INSERT INTO artisans_urls VALUES(10988,81,'URL_TWITTER','https://twitter.com/Skyprocostumes');
+INSERT INTO artisans_urls VALUES(10989,81,'URL_COMMISSIONS','https://www.skyprocostumes.com/commissions');
+INSERT INTO artisans_urls VALUES(10990,102,'URL_WEBSITE','https://craftypillar.com/');
+INSERT INTO artisans_urls VALUES(10991,102,'URL_COMMISSIONS','https://craftypillar.com/current-craftypillar-kids/');
+INSERT INTO artisans_urls VALUES(10992,67,'URL_TWITTER','https://twitter.com/mackoolzie');
+INSERT INTO artisans_urls VALUES(10993,53,'URL_COMMISSIONS','https://www.thefuzzfactory.com/ordering');
 COMMIT;
