@@ -1988,7 +1988,6 @@ INSERT INTO artisans_urls VALUES(9684,368,'URL_LINKLIST','https://linktr.ee/salt
 INSERT INTO artisans_urls VALUES(9685,368,'URL_FURRY_AMINO','http://aminoapps.com/p/4c9jv3');
 INSERT INTO artisans_urls VALUES(9688,421,'URL_TWITTER','https://twitter.com/Minimoise3');
 INSERT INTO artisans_urls VALUES(9689,421,'URL_INSTAGRAM','https://www.instagram.com/mini_moise3/');
-INSERT INTO artisans_urls VALUES(9690,421,'URL_FURRY_AMINO','http://aminoapps.com/p/6axyx0');
 INSERT INTO artisans_urls VALUES(9691,421,'URL_QUEUE','https://trello.com/b/Hf2HcuRA/free-time-fursuits');
 INSERT INTO artisans_urls VALUES(9692,421,'URL_COMMISSIONS','https://twitter.com/Minimoise3');
 INSERT INTO artisans_urls VALUES(9693,422,'URL_WEBSITE','https://wolfendoecreations.weebly.com/');
