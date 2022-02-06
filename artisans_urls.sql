@@ -2726,15 +2726,7 @@ INSERT INTO artisans_urls VALUES(10504,493,'URL_LINKLIST','https://linktr.ee/ych
 INSERT INTO artisans_urls VALUES(10505,493,'URL_ETSY','https://www.etsy.com/shop/YCHfursuits');
 INSERT INTO artisans_urls VALUES(10506,493,'URL_QUEUE','https://trello.com/b/3cbH5q3t/ychfursuits');
 INSERT INTO artisans_urls VALUES(10507,493,'URL_SCRITCH','https://scritch.es/ychfursuits');
-INSERT INTO artisans_urls VALUES(10530,493,'URL_PHOTOS','https://scritch.es/pictures/a6d7b0f8-9397-441b-b058-9871f465bf93');
-INSERT INTO artisans_urls VALUES(10533,493,'URL_MINIATURES','https://storage.scritch.es/scritch/8c4e64bef6545aae69ac6932c142cf6b92c57439/thumbnail_96a2110f-894a-4cb4-9c9e-8dbe70ac5a7c.png');
-INSERT INTO artisans_urls VALUES(10534,493,'URL_PHOTOS','https://scritch.es/pictures/3faa2e56-42ce-4374-97e9-b1a0601474f4');
-INSERT INTO artisans_urls VALUES(10535,493,'URL_PHOTOS','https://scritch.es/pictures/f8546126-41a0-4829-8a97-ea15ac1b51fa');
-INSERT INTO artisans_urls VALUES(10536,493,'URL_PHOTOS','https://scritch.es/pictures/88ba5e41-b7ec-456d-897f-b1758102cfa0');
 INSERT INTO artisans_urls VALUES(10537,493,'URL_PHOTOS','https://scritch.es/pictures/6454aa56-245c-4430-8250-541e4405586b');
-INSERT INTO artisans_urls VALUES(10538,493,'URL_MINIATURES','https://storage.scritch.es/scritch/a54e0bd691dcd3757eaa32f0b036a913d86e3d9b/thumbnail_5a2acb25-9c8c-4de1-b5d5-9500da92c518.png');
-INSERT INTO artisans_urls VALUES(10539,493,'URL_MINIATURES','https://storage.scritch.es/scritch/ed8327577a2d16be800d55238abf898cf7913f27/thumbnail_eab1078c-20bf-4500-a964-e6c971125c09.png');
-INSERT INTO artisans_urls VALUES(10540,493,'URL_MINIATURES','https://storage.scritch.es/scritch/945e17330e51b4172651990bd447aa8f1275ffe9/thumbnail_e1db9f3d-5bf9-4923-bb6d-1a696e8a4570.png#10050');
 INSERT INTO artisans_urls VALUES(10541,493,'URL_MINIATURES','https://storage.scritch.es/scritch/2b2ee73d94b0c33f21a00f37e2f304df54dad541/thumbnail_5e14e01d-1856-4e59-9fe7-8cdb057286e1.png');
 INSERT INTO artisans_urls VALUES(10543,494,'URL_FURSUITREVIEW','https://fursuitreview.com/m/starslikeroses/');
 INSERT INTO artisans_urls VALUES(10544,494,'URL_WEBSITE','https://starslikeroses.carrd.co/');
@@ -3173,4 +3165,12 @@ INSERT INTO artisans_urls VALUES(10991,102,'URL_COMMISSIONS','https://craftypill
 INSERT INTO artisans_urls VALUES(10992,67,'URL_TWITTER','https://twitter.com/mackoolzie');
 INSERT INTO artisans_urls VALUES(10993,53,'URL_COMMISSIONS','https://www.thefuzzfactory.com/ordering');
 INSERT INTO artisans_urls VALUES(10994,510,'URL_FAQ','https://shellsews.com/terms-of-service');
+INSERT INTO artisans_urls VALUES(10995,493,'URL_PHOTOS','https://scritch.es/pictures/a6d7b0f8-9397-441b-b058-9871f465bf93');
+INSERT INTO artisans_urls VALUES(10996,493,'URL_PHOTOS','https://scritch.es/pictures/3faa2e56-42ce-4374-97e9-b1a0601474f4');
+INSERT INTO artisans_urls VALUES(10997,493,'URL_PHOTOS','https://scritch.es/pictures/f8546126-41a0-4829-8a97-ea15ac1b51fa');
+INSERT INTO artisans_urls VALUES(10998,493,'URL_PHOTOS','https://scritch.es/pictures/88ba5e41-b7ec-456d-897f-b1758102cfa0');
+INSERT INTO artisans_urls VALUES(10999,493,'URL_MINIATURES','https://storage.scritch.es/scritch/8c4e64bef6545aae69ac6932c142cf6b92c57439/thumbnail_96a2110f-894a-4cb4-9c9e-8dbe70ac5a7c.png');
+INSERT INTO artisans_urls VALUES(11000,493,'URL_MINIATURES','https://storage.scritch.es/scritch/a54e0bd691dcd3757eaa32f0b036a913d86e3d9b/thumbnail_5a2acb25-9c8c-4de1-b5d5-9500da92c518.png');
+INSERT INTO artisans_urls VALUES(11001,493,'URL_MINIATURES','https://storage.scritch.es/scritch/ed8327577a2d16be800d55238abf898cf7913f27/thumbnail_eab1078c-20bf-4500-a964-e6c971125c09.png');
+INSERT INTO artisans_urls VALUES(11002,493,'URL_MINIATURES','https://storage.scritch.es/scritch/945e17330e51b4172651990bd447aa8f1275ffe9/thumbnail_e1db9f3d-5bf9-4923-bb6d-1a696e8a4570.png#10050');
 COMMIT;
