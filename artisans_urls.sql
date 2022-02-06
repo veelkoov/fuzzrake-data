@@ -3172,4 +3172,5 @@ INSERT INTO artisans_urls VALUES(10990,102,'URL_WEBSITE','https://craftypillar.c
 INSERT INTO artisans_urls VALUES(10991,102,'URL_COMMISSIONS','https://craftypillar.com/current-craftypillar-kids/');
 INSERT INTO artisans_urls VALUES(10992,67,'URL_TWITTER','https://twitter.com/mackoolzie');
 INSERT INTO artisans_urls VALUES(10993,53,'URL_COMMISSIONS','https://www.thefuzzfactory.com/ordering');
+INSERT INTO artisans_urls VALUES(10994,510,'URL_FAQ','https://shellsews.com/terms-of-service');
 COMMIT;
