@@ -712,9 +712,6 @@ INSERT INTO artisans_urls VALUES(782,188,'URL_FACEBOOK','https://www.facebook.co
 INSERT INTO artisans_urls VALUES(783,188,'URL_INSTAGRAM','https://www.instagram.com/weaselsoneasels/');
 INSERT INTO artisans_urls VALUES(784,188,'URL_YOUTUBE','https://www.youtube.com/channel/UCyGMhdTv4WBU1cQNGNAWuPw');
 INSERT INTO artisans_urls VALUES(785,188,'URL_COMMISSIONS','https://www.facebook.com/weaselsoneasels/');
-INSERT INTO artisans_urls VALUES(786,189,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/betaraptor/');
-INSERT INTO artisans_urls VALUES(787,189,'URL_TWITTER','https://twitter.com/Beta_raptor');
-INSERT INTO artisans_urls VALUES(788,189,'URL_INSTAGRAM','https://www.instagram.com/beta_raptor/');
 INSERT INTO artisans_urls VALUES(789,190,'URL_WEBSITE','https://vk.com/dolls_kingdom_ag');
 INSERT INTO artisans_urls VALUES(790,190,'URL_DEVIANTART','https://www.deviantart.com/hikarinaka');
 INSERT INTO artisans_urls VALUES(791,190,'URL_TWITTER','https://twitter.com/Hikarinaka');
