@@ -2321,7 +2321,6 @@ INSERT INTO artisans_urls VALUES(10040,461,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(10041,461,'URL_ETSY','https://www.etsy.com/shop/wearcatcreations');
 INSERT INTO artisans_urls VALUES(10042,461,'URL_QUEUE','https://trello.com/b/amA4HFxb/wearcatcreations-queue');
 INSERT INTO artisans_urls VALUES(10043,461,'URL_COMMISSIONS','https://wearcatcreations.com/');
-INSERT INTO artisans_urls VALUES(10044,279,'URL_FURSUITREVIEW','https://fursuitreview.com/m/melcaara/');
 INSERT INTO artisans_urls VALUES(10045,279,'URL_LINKLIST','https://beacons.ai/melcaara');
 INSERT INTO artisans_urls VALUES(10046,279,'URL_FURRY_AMINO','https://aminoapps.com/c/furry-amino/page/user/melcaara/YjKZ_WQMuWfwQDvW76NDXXVvZn0YpXMPlcR');
 INSERT INTO artisans_urls VALUES(10050,462,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/naritacoree/');
@@ -3169,4 +3168,5 @@ INSERT INTO artisans_urls VALUES(10999,493,'URL_MINIATURES','https://storage.scr
 INSERT INTO artisans_urls VALUES(11000,493,'URL_MINIATURES','https://storage.scritch.es/scritch/a54e0bd691dcd3757eaa32f0b036a913d86e3d9b/thumbnail_5a2acb25-9c8c-4de1-b5d5-9500da92c518.png');
 INSERT INTO artisans_urls VALUES(11001,493,'URL_MINIATURES','https://storage.scritch.es/scritch/ed8327577a2d16be800d55238abf898cf7913f27/thumbnail_eab1078c-20bf-4500-a964-e6c971125c09.png');
 INSERT INTO artisans_urls VALUES(11002,493,'URL_MINIATURES','https://storage.scritch.es/scritch/945e17330e51b4172651990bd447aa8f1275ffe9/thumbnail_e1db9f3d-5bf9-4923-bb6d-1a696e8a4570.png#10050');
+INSERT INTO artisans_urls VALUES(11003,279,'URL_FURSUITREVIEW','https://fursuitreview.com/m/kemoyagi/');
 COMMIT;
