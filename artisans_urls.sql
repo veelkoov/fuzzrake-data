@@ -3169,4 +3169,17 @@ INSERT INTO artisans_urls VALUES(11000,493,'URL_MINIATURES','https://storage.scr
 INSERT INTO artisans_urls VALUES(11001,493,'URL_MINIATURES','https://storage.scritch.es/scritch/ed8327577a2d16be800d55238abf898cf7913f27/thumbnail_eab1078c-20bf-4500-a964-e6c971125c09.png');
 INSERT INTO artisans_urls VALUES(11002,493,'URL_MINIATURES','https://storage.scritch.es/scritch/945e17330e51b4172651990bd447aa8f1275ffe9/thumbnail_e1db9f3d-5bf9-4923-bb6d-1a696e8a4570.png#10050');
 INSERT INTO artisans_urls VALUES(11003,279,'URL_FURSUITREVIEW','https://fursuitreview.com/m/kemoyagi/');
+INSERT INTO artisans_urls VALUES(11004,521,'URL_WEBSITE','https://hyenahabits.carrd.co/');
+INSERT INTO artisans_urls VALUES(11005,521,'URL_PRICES','https://hyenahabits.carrd.co/#pricing');
+INSERT INTO artisans_urls VALUES(11006,521,'URL_COMMISSIONS','https://hyenahabits.carrd.co/#');
+INSERT INTO artisans_urls VALUES(11007,521,'URL_TWITTER','https://twitter.com/hyenahabits');
+INSERT INTO artisans_urls VALUES(11008,521,'URL_FACEBOOK','https://www.facebook.com/profile.php?id=100066774917928');
+INSERT INTO artisans_urls VALUES(11009,521,'URL_INSTAGRAM','https://www.instagram.com/hyenahabits/');
+INSERT INTO artisans_urls VALUES(11010,521,'URL_QUEUE','https://trello.com/b/QavWtgxW/hyenahabits-workshop');
+INSERT INTO artisans_urls VALUES(11011,521,'URL_FURTRACK','https://www.furtrack.com/user/HyenaHabits');
+INSERT INTO artisans_urls VALUES(11012,521,'URL_PHOTOS','https://www.furtrack.com/p/68715');
+INSERT INTO artisans_urls VALUES(11013,521,'URL_PHOTOS','https://www.furtrack.com/p/68716');
+INSERT INTO artisans_urls VALUES(11014,521,'URL_PHOTOS','https://www.furtrack.com/p/68718');
+INSERT INTO artisans_urls VALUES(11015,521,'URL_PHOTOS','https://www.furtrack.com/p/68726');
+INSERT INTO artisans_urls VALUES(11016,521,'URL_PHOTOS','https://www.furtrack.com/p/68731');
 COMMIT;
