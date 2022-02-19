@@ -326,4 +326,10 @@ INSERT INTO events VALUES(337,'2022-02-13 19:14:00','DATA_UPDATED','',1,0,0,'7fa
 INSERT INTO events VALUES(338,'2022-02-14 18:06:27','CS_UPDATED','Bear Macabre Studios',0,0,0,'','https://bearmacabre.carrd.co/','','',replace('Commissions\nQuotes','\n',char(10)),0);
 INSERT INTO events VALUES(339,'2022-02-14 18:06:27','CS_UPDATED','Unleashed Studios',0,0,0,'','https://twitter.com/UnleashedSTU','','','Commissions',0);
 INSERT INTO events VALUES(340,'2022-02-14 18:06:27','CS_UPDATED','Plaid Paws by Maus',0,0,0,'','https://plaidpawsbymaus.com/commission','','','Commissions',0);
+INSERT INTO events VALUES(341,'2022-02-15 18:06:09','CS_UPDATED','AussieStudios',0,0,0,'','https://twitter.com/aussiestudios','','','Commissions',0);
+INSERT INTO events VALUES(342,'2022-02-16 18:06:27','CS_UPDATED','Charred Fursuits',0,0,0,'','https://twitter.com/CharredFursuits','','Commissions','',0);
+INSERT INTO events VALUES(343,'2022-02-17 18:06:32','CS_UPDATED','grayREALM Studio',0,0,0,'','https://www.grayrealmstudio.com/commission-status','',replace('Parts\nRefurbishments','\n',char(10)),'',1);
+INSERT INTO events VALUES(344,'2022-02-18 06:06:11','CS_UPDATED','grayREALM Studio',0,0,0,'','https://www.grayrealmstudio.com/commission-status','','',replace('Parts\nRefurbishments','\n',char(10)),1);
+INSERT INTO events VALUES(345,'2022-02-18 06:06:11','CS_UPDATED','Angel Tigress Fursuit Studio',0,0,0,'','https://www.angeltigress.com/price/','','Commissions','',1);
+INSERT INTO events VALUES(346,'2022-02-18 18:06:17','CS_UPDATED','Koshka Fursuits',0,0,0,'','https://twitter.com/koshkafursuits','','','Commissions',0);
 COMMIT;
