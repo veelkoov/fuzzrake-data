@@ -332,4 +332,7 @@ INSERT INTO events VALUES(343,'2022-02-17 18:06:32','CS_UPDATED','grayREALM Stud
 INSERT INTO events VALUES(344,'2022-02-18 06:06:11','CS_UPDATED','grayREALM Studio',0,0,0,'','https://www.grayrealmstudio.com/commission-status','','',replace('Parts\nRefurbishments','\n',char(10)),1);
 INSERT INTO events VALUES(345,'2022-02-18 06:06:11','CS_UPDATED','Angel Tigress Fursuit Studio',0,0,0,'','https://www.angeltigress.com/price/','','Commissions','',1);
 INSERT INTO events VALUES(346,'2022-02-18 18:06:17','CS_UPDATED','Koshka Fursuits',0,0,0,'','https://twitter.com/koshkafursuits','','','Commissions',0);
+INSERT INTO events VALUES(347,'2022-02-19 18:06:12','CS_UPDATED','2 Stupid Furs',0,0,0,'','https://2stupidfurs.weebly.com/prices---quote-forms---tos.html','',replace('Artistic liberty\nPre-mades\nParts','\n',char(10)),'',0);
+INSERT INTO events VALUES(348,'2022-02-19 18:48:00','DATA_UPDATED','',2,0,0,'2d5683478a4f908ac8a47ff8dbf3fcce955c10f2','','','','',0);
+INSERT INTO events VALUES(349,'2022-02-20 06:06:13','CS_UPDATED','Unleashed Studios',0,0,0,'','https://twitter.com/UnleashedSTU','','Commissions','',0);
 COMMIT;
