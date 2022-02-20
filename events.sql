@@ -335,4 +335,5 @@ INSERT INTO events VALUES(346,'2022-02-18 18:06:17','CS_UPDATED','Koshka Fursuit
 INSERT INTO events VALUES(347,'2022-02-19 18:06:12','CS_UPDATED','2 Stupid Furs',0,0,0,'','https://2stupidfurs.weebly.com/prices---quote-forms---tos.html','',replace('Artistic liberty\nPre-mades\nParts','\n',char(10)),'',0);
 INSERT INTO events VALUES(348,'2022-02-19 18:48:00','DATA_UPDATED','',2,0,0,'2d5683478a4f908ac8a47ff8dbf3fcce955c10f2','','','','',0);
 INSERT INTO events VALUES(349,'2022-02-20 06:06:13','CS_UPDATED','Unleashed Studios',0,0,0,'','https://twitter.com/UnleashedSTU','','Commissions','',0);
+INSERT INTO events VALUES(350,'2022-02-20 15:56:08','CS_UPDATED','Miggs Creations',0,0,0,'','https://miggscreations.carrd.co/#comms','','','Commissions',0);
 COMMIT;
