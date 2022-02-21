@@ -336,4 +336,8 @@ INSERT INTO events VALUES(347,'2022-02-19 18:06:12','CS_UPDATED','2 Stupid Furs'
 INSERT INTO events VALUES(348,'2022-02-19 18:48:00','DATA_UPDATED','',2,0,0,'2d5683478a4f908ac8a47ff8dbf3fcce955c10f2','','','','',0);
 INSERT INTO events VALUES(349,'2022-02-20 06:06:13','CS_UPDATED','Unleashed Studios',0,0,0,'','https://twitter.com/UnleashedSTU','','Commissions','',0);
 INSERT INTO events VALUES(350,'2022-02-20 15:56:08','CS_UPDATED','Miggs Creations',0,0,0,'','https://miggscreations.carrd.co/#comms','','','Commissions',0);
+INSERT INTO events VALUES(351,'2022-02-20 15:57:00','DATA_UPDATED','',1,0,0,'d7ae1837426a3cb7bf23f620e24a34a10b77f373','','','','',0);
+INSERT INTO events VALUES(352,'2022-02-20 18:06:22','CS_UPDATED','Plaid Paws by Maus',0,0,0,'','https://plaidpawsbymaus.com/commission','','Commissions','',1);
+INSERT INTO events VALUES(353,'2022-02-21 06:06:27','CS_UPDATED','Kayla''s Kritterz',0,0,0,'','https://twitter.com/KaylasKritterz','',replace('Commissions\nQuotes','\n',char(10)),'',1);
+INSERT INTO events VALUES(354,'2022-02-21 06:06:27','CS_UPDATED','Plaid Paws by Maus',0,0,0,'','https://plaidpawsbymaus.com/commission','','','Commissions',0);
 COMMIT;
