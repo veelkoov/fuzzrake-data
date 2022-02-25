@@ -340,4 +340,8 @@ INSERT INTO events VALUES(351,'2022-02-20 15:57:00','DATA_UPDATED','',1,0,0,'d7a
 INSERT INTO events VALUES(352,'2022-02-20 18:06:22','CS_UPDATED','Plaid Paws by Maus',0,0,0,'','https://plaidpawsbymaus.com/commission','','Commissions','',1);
 INSERT INTO events VALUES(353,'2022-02-21 06:06:27','CS_UPDATED','Kayla''s Kritterz',0,0,0,'','https://twitter.com/KaylasKritterz','',replace('Commissions\nQuotes','\n',char(10)),'',1);
 INSERT INTO events VALUES(354,'2022-02-21 06:06:27','CS_UPDATED','Plaid Paws by Maus',0,0,0,'','https://plaidpawsbymaus.com/commission','','','Commissions',0);
+INSERT INTO events VALUES(355,'2022-02-22 06:06:22','CS_UPDATED','Kayla''s Kritterz',0,0,0,'','https://twitter.com/KaylasKritterz','','',replace('Commissions\nQuotes','\n',char(10)),1);
+INSERT INTO events VALUES(356,'2022-02-22 18:06:18','CS_UPDATED','AussieStudios',0,0,0,'','https://twitter.com/aussiestudios','','Commissions','',0);
+INSERT INTO events VALUES(357,'2022-02-23 18:06:10','CS_UPDATED','Cant of Togs',0,0,0,'','https://www.cantoftogs.com/','','Quotes','',0);
+INSERT INTO events VALUES(358,'2022-02-25 18:06:11','CS_UPDATED','Koshka Fursuits',0,0,0,'','https://twitter.com/koshkafursuits','','Commissions','',0);
 COMMIT;
