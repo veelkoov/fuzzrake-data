@@ -3218,4 +3218,5 @@ INSERT INTO artisans_urls VALUES(11057,524,'URL_MINIATURES','https://storage.scr
 INSERT INTO artisans_urls VALUES(11058,524,'URL_MINIATURES','https://storage.scritch.es/scritch/d3ec247b188342ed62f6157b8e322ad0cb9e19b0/thumbnail_7e1c1cc7-9bb0-440c-b5f1-36d1106c2c4b.jpeg');
 INSERT INTO artisans_urls VALUES(11059,524,'URL_MINIATURES','https://storage.scritch.es/scritch/21c98925c3b93edd7573b330deb8bfd585f105cf/thumbnail_2d49cdd1-9a2f-4336-ae72-f7e0038bb367.jpeg');
 INSERT INTO artisans_urls VALUES(11060,524,'URL_MINIATURES','https://storage.scritch.es/scritch/6c4495863bdc63f64259ecc4435522be0dcb458d/thumbnail_41da8ae5-81e8-4c87-9e31-891fe1dfd5b1.jpeg#r90d50');
+INSERT INTO artisans_urls VALUES(11061,454,'URL_LINKLIST','https://linktr.ee/Roxyswonderfulcreations');
 COMMIT;
