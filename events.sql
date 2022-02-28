@@ -344,4 +344,10 @@ INSERT INTO events VALUES(355,'2022-02-22 06:06:22','CS_UPDATED','Kayla''s Kritt
 INSERT INTO events VALUES(356,'2022-02-22 18:06:18','CS_UPDATED','AussieStudios',0,0,0,'','https://twitter.com/aussiestudios','','Commissions','',0);
 INSERT INTO events VALUES(357,'2022-02-23 18:06:10','CS_UPDATED','Cant of Togs',0,0,0,'','https://www.cantoftogs.com/','','Quotes','',0);
 INSERT INTO events VALUES(358,'2022-02-25 18:06:11','CS_UPDATED','Koshka Fursuits',0,0,0,'','https://twitter.com/koshkafursuits','','Commissions','',0);
+INSERT INTO events VALUES(359,'2022-02-26 16:26:00','DATA_UPDATED','',0,1,0,'6951e7d0b08f112e6f2d66559c3b35fd556a88e8','','','','',0);
+INSERT INTO events VALUES(360,'2022-02-26 18:06:05','CS_UPDATED','Plaid Paws by Maus',0,0,0,'','https://plaidpawsbymaus.com/commission','','Commissions','',1);
+INSERT INTO events VALUES(361,'2022-02-27 06:06:18','CS_UPDATED','Plaid Paws by Maus',0,0,0,'','https://plaidpawsbymaus.com/commission','','','Commissions',0);
+INSERT INTO events VALUES(362,'2022-02-27 18:06:19','CS_UPDATED','ByCats4Cats',0,0,0,'','http://bycats4cats.com/quote/','','','Commissions',0);
+INSERT INTO events VALUES(363,'2022-02-28 06:06:10','CS_UPDATED','ByCats4Cats',0,0,0,'','http://bycats4cats.com/quote/','','Commissions','',0);
+INSERT INTO events VALUES(364,'2022-02-28 18:06:29','CS_UPDATED','ByCats4Cats',0,0,0,'','http://bycats4cats.com/quote/','','','Commissions',0);
 COMMIT;
