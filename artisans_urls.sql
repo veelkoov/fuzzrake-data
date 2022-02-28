@@ -3219,4 +3219,11 @@ INSERT INTO artisans_urls VALUES(11058,524,'URL_MINIATURES','https://storage.scr
 INSERT INTO artisans_urls VALUES(11059,524,'URL_MINIATURES','https://storage.scritch.es/scritch/21c98925c3b93edd7573b330deb8bfd585f105cf/thumbnail_2d49cdd1-9a2f-4336-ae72-f7e0038bb367.jpeg');
 INSERT INTO artisans_urls VALUES(11060,524,'URL_MINIATURES','https://storage.scritch.es/scritch/6c4495863bdc63f64259ecc4435522be0dcb458d/thumbnail_41da8ae5-81e8-4c87-9e31-891fe1dfd5b1.jpeg#r90d50');
 INSERT INTO artisans_urls VALUES(11061,454,'URL_LINKLIST','https://linktr.ee/Roxyswonderfulcreations');
+INSERT INTO artisans_urls VALUES(11062,405,'URL_COMMISSIONS','https://www.shiryudesign.de/');
+INSERT INTO artisans_urls VALUES(11063,405,'URL_LINKLIST','http://linktr.ee/Shiryudesign');
+INSERT INTO artisans_urls VALUES(11064,405,'URL_ETSY','https://www.etsy.com/shop/Shiryudesign?listing_id=1033936793');
+INSERT INTO artisans_urls VALUES(11065,405,'URL_PHOTOS','https://scritch.es/pictures/0379a3f5-91c2-48c2-8f78-598522410911');
+INSERT INTO artisans_urls VALUES(11066,405,'URL_PHOTOS','https://scritch.es/pictures/e88149a8-334a-4372-851a-48451ae77b74');
+INSERT INTO artisans_urls VALUES(11067,405,'URL_MINIATURES','https://storage.scritch.es/scritch/26b3b0a630758f1792f8226d736c08318efa0ae0/thumbnail_5219f03d-a6f5-43eb-8efe-c3651afa30aa.jpeg');
+INSERT INTO artisans_urls VALUES(11068,405,'URL_MINIATURES','https://storage.scritch.es/scritch/e4eaaaa251f9dbdb19f66e05588c9fa1989bca17/thumbnail_7cfb23eb-cbda-4fcc-9698-876c8ec25b5b.png');
 COMMIT;
