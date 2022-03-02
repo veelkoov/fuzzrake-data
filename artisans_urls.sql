@@ -3226,4 +3226,10 @@ INSERT INTO artisans_urls VALUES(11065,405,'URL_PHOTOS','https://scritch.es/pict
 INSERT INTO artisans_urls VALUES(11066,405,'URL_PHOTOS','https://scritch.es/pictures/e88149a8-334a-4372-851a-48451ae77b74');
 INSERT INTO artisans_urls VALUES(11067,405,'URL_MINIATURES','https://storage.scritch.es/scritch/26b3b0a630758f1792f8226d736c08318efa0ae0/thumbnail_5219f03d-a6f5-43eb-8efe-c3651afa30aa.jpeg');
 INSERT INTO artisans_urls VALUES(11068,405,'URL_MINIATURES','https://storage.scritch.es/scritch/e4eaaaa251f9dbdb19f66e05588c9fa1989bca17/thumbnail_7cfb23eb-cbda-4fcc-9698-876c8ec25b5b.png');
+INSERT INTO artisans_urls VALUES(11069,525,'URL_COMMISSIONS','https://twitter.com/blueeyedferret');
+INSERT INTO artisans_urls VALUES(11070,525,'URL_TWITTER','https://twitter.com/blueeyedferret');
+INSERT INTO artisans_urls VALUES(11071,525,'URL_INSTAGRAM','https://www.instagram.com/blueeyedferret/');
+INSERT INTO artisans_urls VALUES(11072,525,'URL_LINKLIST','https://linktr.ee/blueeyedferret');
+INSERT INTO artisans_urls VALUES(11073,525,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/blueeyedferret');
+INSERT INTO artisans_urls VALUES(11074,525,'URL_FURTRACK','https://www.furtrack.com/user/blueeyedferret');
 COMMIT;
