@@ -350,4 +350,10 @@ INSERT INTO events VALUES(361,'2022-02-27 06:06:18','CS_UPDATED','Plaid Paws by 
 INSERT INTO events VALUES(362,'2022-02-27 18:06:19','CS_UPDATED','ByCats4Cats',0,0,0,'','http://bycats4cats.com/quote/','','','Commissions',0);
 INSERT INTO events VALUES(363,'2022-02-28 06:06:10','CS_UPDATED','ByCats4Cats',0,0,0,'','http://bycats4cats.com/quote/','','Commissions','',0);
 INSERT INTO events VALUES(364,'2022-02-28 18:06:29','CS_UPDATED','ByCats4Cats',0,0,0,'','http://bycats4cats.com/quote/','','','Commissions',0);
+INSERT INTO events VALUES(365,'2022-03-01 18:06:29','CS_UPDATED','2 Stupid Furs',0,0,0,'','https://2stupidfurs.weebly.com/prices---quote-forms---tos.html','','',replace('Commissions\nArtistic liberty\nPre-mades','\n',char(10)),0);
+INSERT INTO events VALUES(366,'2022-03-01 18:06:29','CS_UPDATED','Furry Tailor',0,0,0,'','https://www.furrytailor.co.uk/slots','','Quotes','',1);
+INSERT INTO events VALUES(367,'2022-03-02 06:06:19','CS_UPDATED','2 Stupid Furs',0,0,0,'','https://2stupidfurs.weebly.com/prices---quote-forms---tos.html','','','Parts',0);
+INSERT INTO events VALUES(368,'2022-03-02 06:06:19','CS_UPDATED','Furry Tailor',0,0,0,'','https://www.furrytailor.co.uk/slots','','','Quotes',0);
+INSERT INTO events VALUES(369,'2022-03-02 18:07:02','CS_UPDATED','Hunni Bear Art',0,0,0,'','https://www.hunnibear.art/','','Commissions','',1);
+INSERT INTO events VALUES(370,'2022-03-02 18:07:02','CS_UPDATED','Alecrim Carmim',0,0,0,'','https://www.alecrimcarmim.com/','',replace('Commissions\nArtistic liberty','\n',char(10)),'',1);
 COMMIT;
