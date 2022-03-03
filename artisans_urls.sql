@@ -3232,4 +3232,10 @@ INSERT INTO artisans_urls VALUES(11072,525,'URL_LINKLIST','https://linktr.ee/blu
 INSERT INTO artisans_urls VALUES(11073,525,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/blueeyedferret');
 INSERT INTO artisans_urls VALUES(11074,525,'URL_FURTRACK','https://www.furtrack.com/user/blueeyedferret');
 INSERT INTO artisans_urls VALUES(11076,405,'URL_MINIATURES','https://storage.scritch.es/scritch/26b3b0a630758f1792f8226d736c08318efa0ae0/thumbnail_5219f03d-a6f5-43eb-8efe-c3651afa30aa.jpeg#d30');
+INSERT INTO artisans_urls VALUES(11077,526,'URL_FURSUITREVIEW','https://fursuitreview.com/m/conifers-creations/');
+INSERT INTO artisans_urls VALUES(11078,526,'URL_WEBSITE','https://www.facebook.com/ConiferParalol/');
+INSERT INTO artisans_urls VALUES(11079,526,'URL_COMMISSIONS','https://www.facebook.com/ConiferParalol/');
+INSERT INTO artisans_urls VALUES(11080,526,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/coniferscreations/');
+INSERT INTO artisans_urls VALUES(11081,526,'URL_TWITTER','https://twitter.com/CCDinoFursuits');
+INSERT INTO artisans_urls VALUES(11082,526,'URL_FACEBOOK','https://www.facebook.com/ConiferParalol/');
 COMMIT;
