@@ -356,4 +356,7 @@ INSERT INTO events VALUES(367,'2022-03-02 06:06:19','CS_UPDATED','2 Stupid Furs'
 INSERT INTO events VALUES(368,'2022-03-02 06:06:19','CS_UPDATED','Furry Tailor',0,0,0,'','https://www.furrytailor.co.uk/slots','','','Quotes',0);
 INSERT INTO events VALUES(369,'2022-03-02 18:07:02','CS_UPDATED','Hunni Bear Art',0,0,0,'','https://www.hunnibear.art/','','Commissions','',1);
 INSERT INTO events VALUES(370,'2022-03-02 18:07:02','CS_UPDATED','Alecrim Carmim',0,0,0,'','https://www.alecrimcarmim.com/','',replace('Commissions\nArtistic liberty','\n',char(10)),'',1);
+INSERT INTO events VALUES(371,'2022-03-02 21:37:00','DATA_UPDATED','',1,0,0,'26b6ed5f7b0b84582ab50470c6b560a7d28cb512','','','','',0);
+INSERT INTO events VALUES(372,'2022-03-03 06:06:19','CS_UPDATED','Hunni Bear Art',0,0,0,'','https://www.hunnibear.art/','','','Commissions',0);
+INSERT INTO events VALUES(373,'2022-03-03 06:06:19','CS_UPDATED','Alecrim Carmim',0,0,0,'','https://www.alecrimcarmim.com/','','',replace('Commissions\nArtistic liberty','\n',char(10)),0);
 COMMIT;
