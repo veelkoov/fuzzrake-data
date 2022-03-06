@@ -359,4 +359,7 @@ INSERT INTO events VALUES(370,'2022-03-02 18:07:02','CS_UPDATED','Alecrim Carmim
 INSERT INTO events VALUES(371,'2022-03-02 21:37:00','DATA_UPDATED','',1,0,0,'26b6ed5f7b0b84582ab50470c6b560a7d28cb512','','','','',0);
 INSERT INTO events VALUES(372,'2022-03-03 06:06:19','CS_UPDATED','Hunni Bear Art',0,0,0,'','https://www.hunnibear.art/','','','Commissions',0);
 INSERT INTO events VALUES(373,'2022-03-03 06:06:19','CS_UPDATED','Alecrim Carmim',0,0,0,'','https://www.alecrimcarmim.com/','','',replace('Commissions\nArtistic liberty','\n',char(10)),0);
+INSERT INTO events VALUES(374,'2022-03-03 21:32:00','DATA_UPDATED','',1,0,0,'d420e2222b111be5c37d00c2b3901bd7dcf6e93e','','','','',0);
+INSERT INTO events VALUES(375,'2022-03-05 06:06:30','CS_UPDATED','Plaid Paws by Maus',0,0,0,'','https://plaidpawsbymaus.com/commission','','Commissions','',0);
+INSERT INTO events VALUES(376,'2022-03-06 06:06:16','CS_UPDATED','OcMeCreations',0,0,0,'','https://ocmecreations.eu/status-for-getfursu-it.html','','Commissions','',1);
 COMMIT;
