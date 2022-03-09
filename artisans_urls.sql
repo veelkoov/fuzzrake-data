@@ -3249,4 +3249,17 @@ INSERT INTO artisans_urls VALUES(11093,527,'URL_YOUTUBE','https://www.youtube.co
 INSERT INTO artisans_urls VALUES(11094,527,'URL_LINKLIST','https://linktr.ee/maouwastaken');
 INSERT INTO artisans_urls VALUES(11095,527,'URL_QUEUE','https://trello.com/b/lpGBaqqy/meowware-coms');
 INSERT INTO artisans_urls VALUES(11096,527,'URL_FURTRACK','https://www.furtrack.com/user/Maouwastaken');
+INSERT INTO artisans_urls VALUES(11097,528,'URL_COMMISSIONS','https://twitter.com/SucculentSuits');
+INSERT INTO artisans_urls VALUES(11098,528,'URL_TWITTER','https://twitter.com/SucculentSuits');
+INSERT INTO artisans_urls VALUES(11099,528,'URL_QUEUE','https://trello.com/b/qMGKf8JV/succulentsuits-%F0%9F%8C%B5-queue');
+INSERT INTO artisans_urls VALUES(11100,441,'URL_SCRITCH','https://scritch.es/alecrimcarmim');
+INSERT INTO artisans_urls VALUES(11101,441,'URL_FURTRACK','https://www.furtrack.com/user/AlecrimCarmim');
+INSERT INTO artisans_urls VALUES(11102,441,'URL_PHOTOS','https://scritch.es/pictures/4e0e931f-d1ff-4a9a-a540-443e51b86e75');
+INSERT INTO artisans_urls VALUES(11103,441,'URL_PHOTOS','https://scritch.es/pictures/1856cc68-419c-4543-80e2-7ea97ead919b');
+INSERT INTO artisans_urls VALUES(11104,441,'URL_PHOTOS','https://scritch.es/pictures/22217b02-14fa-4e7f-94ab-f138862cdbff');
+INSERT INTO artisans_urls VALUES(11105,441,'URL_PHOTOS','https://scritch.es/pictures/4eb74a25-d458-4a5d-9c58-d7e3fb127c22');
+INSERT INTO artisans_urls VALUES(11106,441,'URL_MINIATURES','https://storage.scritch.es/scritch/5892b6dfaf2cae3eb36bc18783d43ea53a77a73b/thumbnail_44843b90-d15e-4611-9228-d3e74bc8b80a.jpeg');
+INSERT INTO artisans_urls VALUES(11107,441,'URL_MINIATURES','https://storage.scritch.es/scritch/c7f6fed5d7064cfcb2e0ef0936aca4393fb37867/thumbnail_9db0c620-3183-43c7-8bc7-90cf600d1d89.jpeg');
+INSERT INTO artisans_urls VALUES(11108,441,'URL_MINIATURES','https://storage.scritch.es/scritch/35f694d2d51c6e0a291a6c921b73761dff30ae8b/thumbnail_f3b760d1-8ffd-4737-81c7-a205cd179e19.jpeg');
+INSERT INTO artisans_urls VALUES(11109,441,'URL_MINIATURES','https://storage.scritch.es/scritch/b2b4be48820130de209ad40c06e5d2f5debd710a/thumbnail_d07067ee-1d6b-4d2e-bedf-0c493e29aa38.jpeg');
 COMMIT;
