@@ -362,4 +362,7 @@ INSERT INTO events VALUES(373,'2022-03-03 06:06:19','CS_UPDATED','Alecrim Carmim
 INSERT INTO events VALUES(374,'2022-03-03 21:32:00','DATA_UPDATED','',1,0,0,'d420e2222b111be5c37d00c2b3901bd7dcf6e93e','','','','',0);
 INSERT INTO events VALUES(375,'2022-03-05 06:06:30','CS_UPDATED','Plaid Paws by Maus',0,0,0,'','https://plaidpawsbymaus.com/commission','','Commissions','',0);
 INSERT INTO events VALUES(376,'2022-03-06 06:06:16','CS_UPDATED','OcMeCreations',0,0,0,'','https://ocmecreations.eu/status-for-getfursu-it.html','','Commissions','',1);
+INSERT INTO events VALUES(377,'2022-03-06 18:06:27','CS_UPDATED','grayREALM Studio',0,0,0,'','https://www.grayrealmstudio.com/commission-status','','',replace('Commissions\nQuotes','\n',char(10)),1);
+INSERT INTO events VALUES(378,'2022-03-07 06:06:17','CS_UPDATED','Kayla''s Kritterz',0,0,0,'','https://twitter.com/KaylasKritterz','',replace('Commissions\nQuotes','\n',char(10)),'',1);
+INSERT INTO events VALUES(379,'2022-03-08 18:06:21','CS_UPDATED','Tulius Costumes',0,0,0,'','https://twitter.com/Tuliusis','','Commissions','',0);
 COMMIT;
