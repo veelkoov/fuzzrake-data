@@ -2847,9 +2847,6 @@ INSERT INTO artisans_urls VALUES(10673,504,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(10674,504,'URL_LINKLIST','https://linktr.ee/TL.Creations');
 INSERT INTO artisans_urls VALUES(10675,504,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/search/other-items/?username=tl_creations&user_id=135434');
 INSERT INTO artisans_urls VALUES(10676,504,'URL_QUEUE','https://trello.com/b/kgk6ny5v/fursuit-commissions');
-INSERT INTO artisans_urls VALUES(10677,505,'URL_WEBSITE','https://ocmecreations.eu/');
-INSERT INTO artisans_urls VALUES(10678,505,'URL_PRICES','https://ocmecreations.eu/preise-fursuits.html');
-INSERT INTO artisans_urls VALUES(10679,505,'URL_COMMISSIONS','https://ocmecreations.eu/status-for-getfursu-it.html');
 INSERT INTO artisans_urls VALUES(10680,505,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/ocmecreations/');
 INSERT INTO artisans_urls VALUES(10681,505,'URL_TWITTER','https://twitter.com/OcMeCreations');
 INSERT INTO artisans_urls VALUES(10682,505,'URL_FACEBOOK','https://www.facebook.com/ocmecreations/');
@@ -3238,4 +3235,18 @@ INSERT INTO artisans_urls VALUES(11079,526,'URL_COMMISSIONS','https://www.facebo
 INSERT INTO artisans_urls VALUES(11080,526,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/coniferscreations/');
 INSERT INTO artisans_urls VALUES(11081,526,'URL_TWITTER','https://twitter.com/CCDinoFursuits');
 INSERT INTO artisans_urls VALUES(11082,526,'URL_FACEBOOK','https://www.facebook.com/ConiferParalol/');
+INSERT INTO artisans_urls VALUES(11083,505,'URL_WEBSITE','https://ocmecreations.eu/en');
+INSERT INTO artisans_urls VALUES(11084,505,'URL_PRICES','https://ocmecreations.eu/en/price-fursuit.php');
+INSERT INTO artisans_urls VALUES(11085,505,'URL_COMMISSIONS','https://ocmecreations.eu/en/status-for-getfursu-it.php');
+INSERT INTO artisans_urls VALUES(11086,527,'URL_WEBSITE','https://meowware.weebly.com/');
+INSERT INTO artisans_urls VALUES(11087,527,'URL_PRICES','https://meowware.weebly.com/prices.html');
+INSERT INTO artisans_urls VALUES(11088,527,'URL_COMMISSIONS','https://meowware.weebly.com/');
+INSERT INTO artisans_urls VALUES(11089,527,'URL_FAQ','https://meowware.weebly.com/faq.html');
+INSERT INTO artisans_urls VALUES(11090,527,'URL_TWITTER','https://twitter.com/meowwares');
+INSERT INTO artisans_urls VALUES(11091,527,'URL_FACEBOOK','https://www.facebook.com/meowwares/');
+INSERT INTO artisans_urls VALUES(11092,527,'URL_INSTAGRAM','https://www.instagram.com/meowwares/');
+INSERT INTO artisans_urls VALUES(11093,527,'URL_YOUTUBE','https://www.youtube.com/channel/UC4mGk1F5ENPBq3SMYcft7eA');
+INSERT INTO artisans_urls VALUES(11094,527,'URL_LINKLIST','https://linktr.ee/maouwastaken');
+INSERT INTO artisans_urls VALUES(11095,527,'URL_QUEUE','https://trello.com/b/lpGBaqqy/meowware-coms');
+INSERT INTO artisans_urls VALUES(11096,527,'URL_FURTRACK','https://www.furtrack.com/user/Maouwastaken');
 COMMIT;
