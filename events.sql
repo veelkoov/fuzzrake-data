@@ -365,4 +365,6 @@ INSERT INTO events VALUES(376,'2022-03-06 06:06:16','CS_UPDATED','OcMeCreations'
 INSERT INTO events VALUES(377,'2022-03-06 18:06:27','CS_UPDATED','grayREALM Studio',0,0,0,'','https://www.grayrealmstudio.com/commission-status','','',replace('Commissions\nQuotes','\n',char(10)),1);
 INSERT INTO events VALUES(378,'2022-03-07 06:06:17','CS_UPDATED','Kayla''s Kritterz',0,0,0,'','https://twitter.com/KaylasKritterz','',replace('Commissions\nQuotes','\n',char(10)),'',1);
 INSERT INTO events VALUES(379,'2022-03-08 18:06:21','CS_UPDATED','Tulius Costumes',0,0,0,'','https://twitter.com/Tuliusis','','Commissions','',0);
+INSERT INTO events VALUES(380,'2022-03-09 09:37:00','DATA_UPDATED','',1,2,0,'836bc171e93055470db9314519b110fcb87a32fd','','','','',0);
+INSERT INTO events VALUES(381,'2022-03-09 09:39:51','CS_UPDATED','OcMeCreations',0,0,0,'','https://ocmecreations.eu/en/status-for-getfursu-it.php','','','Commissions',0);
 COMMIT;
