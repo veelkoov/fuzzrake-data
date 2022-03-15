@@ -3262,4 +3262,5 @@ INSERT INTO artisans_urls VALUES(11106,441,'URL_MINIATURES','https://storage.scr
 INSERT INTO artisans_urls VALUES(11107,441,'URL_MINIATURES','https://storage.scritch.es/scritch/c7f6fed5d7064cfcb2e0ef0936aca4393fb37867/thumbnail_9db0c620-3183-43c7-8bc7-90cf600d1d89.jpeg');
 INSERT INTO artisans_urls VALUES(11108,441,'URL_MINIATURES','https://storage.scritch.es/scritch/35f694d2d51c6e0a291a6c921b73761dff30ae8b/thumbnail_f3b760d1-8ffd-4737-81c7-a205cd179e19.jpeg');
 INSERT INTO artisans_urls VALUES(11109,441,'URL_MINIATURES','https://storage.scritch.es/scritch/b2b4be48820130de209ad40c06e5d2f5debd710a/thumbnail_d07067ee-1d6b-4d2e-bedf-0c493e29aa38.jpeg');
+INSERT INTO artisans_urls VALUES(11110,17,'URL_COMMISSIONS','https://direcreatures.weebly.com/');
 COMMIT;

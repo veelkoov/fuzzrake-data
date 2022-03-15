@@ -367,4 +367,16 @@ INSERT INTO events VALUES(378,'2022-03-07 06:06:17','CS_UPDATED','Kayla''s Kritt
 INSERT INTO events VALUES(379,'2022-03-08 18:06:21','CS_UPDATED','Tulius Costumes',0,0,0,'','https://twitter.com/Tuliusis','','Commissions','',0);
 INSERT INTO events VALUES(380,'2022-03-09 09:37:00','DATA_UPDATED','',1,2,0,'836bc171e93055470db9314519b110fcb87a32fd','','','','',0);
 INSERT INTO events VALUES(381,'2022-03-09 09:39:51','CS_UPDATED','OcMeCreations',0,0,0,'','https://ocmecreations.eu/en/status-for-getfursu-it.php','','','Commissions',0);
+INSERT INTO events VALUES(382,'2022-03-09 23:58:00','DATA_UPDATED','',1,1,0,'52f4ee6c6112611b28c49f23c972594bd88335fd','','','','',0);
+INSERT INTO events VALUES(383,'2022-03-10 06:06:18','CS_UPDATED','Kemoyagi',0,0,0,'','https://www.kemoyagi.com/','','','Quotes',1);
+INSERT INTO events VALUES(384,'2022-03-10 18:06:24','CS_UPDATED','Hunni Bear Art',0,0,0,'','https://www.hunnibear.art/','','Commissions','',1);
+INSERT INTO events VALUES(385,'2022-03-10 18:06:24','CS_UPDATED','YchFursuits',0,0,0,'','https://www.ychfursuits.com/home','','','Commissions',0);
+INSERT INTO events VALUES(386,'2022-03-11 06:06:50','CS_UPDATED','Hunni Bear Art',0,0,0,'','https://www.hunnibear.art/','','','Commissions',0);
+INSERT INTO events VALUES(387,'2022-03-11 06:06:50','CS_UPDATED','Schorsuits',0,0,0,'','https://schorsuits.wixsite.com/schorsuits','','Commissions','',1);
+INSERT INTO events VALUES(388,'2022-03-11 18:06:29','CS_UPDATED','Dragon''s Grin Studios',0,0,0,'','https://dragonsgrinstudios.weebly.com/','','','Commissions',0);
+INSERT INTO events VALUES(389,'2022-03-11 18:06:29','CS_UPDATED','Schorsuits',0,0,0,'','https://schorsuits.wixsite.com/schorsuits','','','Commissions',1);
+INSERT INTO events VALUES(390,'2022-03-12 06:06:29','CS_UPDATED','WearCat Creations',0,0,0,'','https://wearcatcreations.com/','','','Commissions',0);
+INSERT INTO events VALUES(391,'2022-03-14 06:06:22','CS_UPDATED','grayREALM Studio',0,0,0,'','https://www.grayrealmstudio.com/commission-status','',replace('Parts\nRefurbishments','\n',char(10)),'',1);
+INSERT INTO events VALUES(392,'2022-03-14 18:06:32','CS_UPDATED','YchFursuits',0,0,0,'','https://www.ychfursuits.com/home','','Commissions','',1);
+INSERT INTO events VALUES(393,'2022-03-14 23:14:33','CS_UPDATED','DireCreatures',0,0,0,'','https://direcreatures.weebly.com/','','','Commissions',1);
 COMMIT;
