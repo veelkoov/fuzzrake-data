@@ -3263,4 +3263,16 @@ INSERT INTO artisans_urls VALUES(11107,441,'URL_MINIATURES','https://storage.scr
 INSERT INTO artisans_urls VALUES(11108,441,'URL_MINIATURES','https://storage.scritch.es/scritch/35f694d2d51c6e0a291a6c921b73761dff30ae8b/thumbnail_f3b760d1-8ffd-4737-81c7-a205cd179e19.jpeg');
 INSERT INTO artisans_urls VALUES(11109,441,'URL_MINIATURES','https://storage.scritch.es/scritch/b2b4be48820130de209ad40c06e5d2f5debd710a/thumbnail_d07067ee-1d6b-4d2e-bedf-0c493e29aa38.jpeg');
 INSERT INTO artisans_urls VALUES(11110,17,'URL_COMMISSIONS','https://direcreatures.weebly.com/');
+INSERT INTO artisans_urls VALUES(11111,529,'URL_COMMISSIONS','https://www.instagram.com/furring_dead/');
+INSERT INTO artisans_urls VALUES(11112,529,'URL_TWITTER','https://twitter.com/KingDallasDead');
+INSERT INTO artisans_urls VALUES(11113,529,'URL_INSTAGRAM','https://www.instagram.com/furring_dead/');
+INSERT INTO artisans_urls VALUES(11114,529,'URL_YOUTUBE','https://www.youtube.com/channel/UC5FD0Y-A4YszLxc242kY-Tg');
+INSERT INTO artisans_urls VALUES(11115,529,'URL_LINKLIST','https://www.flowcode.com/page/kingdallasisdead');
+INSERT INTO artisans_urls VALUES(11116,529,'URL_QUEUE','https://trello.com/b/TxhA2lW5/fursuits');
+INSERT INTO artisans_urls VALUES(11117,530,'URL_WEBSITE','https://orbitthecat.onuniverse.com/');
+INSERT INTO artisans_urls VALUES(11118,530,'URL_PRICES','https://orbitthecat.onuniverse.com/tos');
+INSERT INTO artisans_urls VALUES(11119,530,'URL_COMMISSIONS','https://orbitthecat.onuniverse.com/');
+INSERT INTO artisans_urls VALUES(11120,530,'URL_INSTAGRAM','https://www.instagram.com/catwolffurry/');
+INSERT INTO artisans_urls VALUES(11121,530,'URL_YOUTUBE','https://www.youtube.com/channel/UCbpgm5BNngjU0vDz21kvavg');
+INSERT INTO artisans_urls VALUES(11122,530,'URL_ETSY','https://www.etsy.com/shop/dragonheartcraftco');
 COMMIT;
