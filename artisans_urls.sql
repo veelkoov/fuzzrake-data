@@ -3275,4 +3275,6 @@ INSERT INTO artisans_urls VALUES(11119,530,'URL_COMMISSIONS','https://orbittheca
 INSERT INTO artisans_urls VALUES(11120,530,'URL_INSTAGRAM','https://www.instagram.com/catwolffurry/');
 INSERT INTO artisans_urls VALUES(11121,530,'URL_YOUTUBE','https://www.youtube.com/channel/UCbpgm5BNngjU0vDz21kvavg');
 INSERT INTO artisans_urls VALUES(11122,530,'URL_ETSY','https://www.etsy.com/shop/dragonheartcraftco');
+INSERT INTO artisans_urls VALUES(11123,340,'URL_COMMISSIONS','https://www.sandcatcustoms.com/quote/');
+INSERT INTO artisans_urls VALUES(11124,340,'URL_FURTRACK','https://www.furtrack.com/index/maker:sandcat_customs');
 COMMIT;
