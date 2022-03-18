@@ -3277,4 +3277,10 @@ INSERT INTO artisans_urls VALUES(11121,530,'URL_YOUTUBE','https://www.youtube.co
 INSERT INTO artisans_urls VALUES(11122,530,'URL_ETSY','https://www.etsy.com/shop/dragonheartcraftco');
 INSERT INTO artisans_urls VALUES(11123,340,'URL_COMMISSIONS','https://www.sandcatcustoms.com/quote/');
 INSERT INTO artisans_urls VALUES(11124,340,'URL_FURTRACK','https://www.furtrack.com/index/maker:sandcat_customs');
+INSERT INTO artisans_urls VALUES(11125,531,'URL_WEBSITE','https://hallowmoonsuits.weebly.com/');
+INSERT INTO artisans_urls VALUES(11126,531,'URL_PRICES','https://hallowmoonsuits.weebly.com/pricing.html');
+INSERT INTO artisans_urls VALUES(11127,531,'URL_COMMISSIONS','https://twitter.com/hallowmoonsuits');
+INSERT INTO artisans_urls VALUES(11128,531,'URL_TWITTER','https://twitter.com/hallowmoonsuits');
+INSERT INTO artisans_urls VALUES(11129,531,'URL_INSTAGRAM','https://www.instagram.com/hallowmoonsuits/');
+INSERT INTO artisans_urls VALUES(11130,531,'URL_QUEUE','https://hallowmoonsuits.weebly.com/how-to-commission.html');
 COMMIT;
