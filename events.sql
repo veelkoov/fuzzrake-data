@@ -379,4 +379,5 @@ INSERT INTO events VALUES(390,'2022-03-12 06:06:29','CS_UPDATED','WearCat Creati
 INSERT INTO events VALUES(391,'2022-03-14 06:06:22','CS_UPDATED','grayREALM Studio',0,0,0,'','https://www.grayrealmstudio.com/commission-status','',replace('Parts\nRefurbishments','\n',char(10)),'',1);
 INSERT INTO events VALUES(392,'2022-03-14 18:06:32','CS_UPDATED','YchFursuits',0,0,0,'','https://www.ychfursuits.com/home','','Commissions','',1);
 INSERT INTO events VALUES(393,'2022-03-14 23:14:33','CS_UPDATED','DireCreatures',0,0,0,'','https://direcreatures.weebly.com/','','','Commissions',1);
+INSERT INTO events VALUES(394,'2022-03-16 20:26:00','DATA_UPDATED','',0,1,0,'6f091833e761d9c4691dd14f7ab76e28d2dcab29','','','','',0);
 COMMIT;
