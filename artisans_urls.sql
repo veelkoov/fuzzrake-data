@@ -3283,4 +3283,10 @@ INSERT INTO artisans_urls VALUES(11127,531,'URL_COMMISSIONS','https://twitter.co
 INSERT INTO artisans_urls VALUES(11128,531,'URL_TWITTER','https://twitter.com/hallowmoonsuits');
 INSERT INTO artisans_urls VALUES(11129,531,'URL_INSTAGRAM','https://www.instagram.com/hallowmoonsuits/');
 INSERT INTO artisans_urls VALUES(11130,531,'URL_QUEUE','https://hallowmoonsuits.weebly.com/how-to-commission.html');
+INSERT INTO artisans_urls VALUES(11131,340,'URL_PHOTOS','https://www.furtrack.com/p/70262');
+INSERT INTO artisans_urls VALUES(11132,340,'URL_MINIATURES','https://storage.scritch.es/scritch/928da03c9d56406b12ce2c3ad2248c35e2613103/thumbnail_f04b3ae7-d97f-4c88-9f91-a2fec4bbc7f9.jpeg');
+INSERT INTO artisans_urls VALUES(11133,340,'URL_MINIATURES','https://storage.scritch.es/scritch/6c60e017d1fbe9c3da993314228b52f751f790a4/thumbnail_8481f85f-c295-4d59-995c-04df6aed3f53.jpeg');
+INSERT INTO artisans_urls VALUES(11134,340,'URL_MINIATURES','https://storage.scritch.es/scritch/f926a4d37d1eb01704c25a36e7dc281229a2388d/thumbnail_b9df646a-ee7b-4270-8d62-3d4a2e78bf21.jpeg');
+INSERT INTO artisans_urls VALUES(11135,340,'URL_MINIATURES','https://storage.scritch.es/scritch/5aec9fb57ce37985b5be9ed43bdbaccf84cff163/thumbnail_9824cb8f-59bb-40b1-a489-e2c859412aab.jpeg');
+INSERT INTO artisans_urls VALUES(11136,340,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/70262-ae7fbfc2bb912161a23583e66444f7a4.jpg');
 COMMIT;
