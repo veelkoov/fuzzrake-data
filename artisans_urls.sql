@@ -2429,10 +2429,6 @@ INSERT INTO artisans_urls VALUES(10160,340,'URL_PHOTOS','https://scritch.es/pict
 INSERT INTO artisans_urls VALUES(10161,340,'URL_PHOTOS','https://scritch.es/pictures/e4700fc3-727c-457d-bbfc-61364848cdc0');
 INSERT INTO artisans_urls VALUES(10162,340,'URL_PHOTOS','https://scritch.es/pictures/40dc8c08-4a3e-40e3-8c81-a827f5bff495');
 INSERT INTO artisans_urls VALUES(10163,340,'URL_PHOTOS','https://scritch.es/pictures/1445223a-fa31-403a-b653-7c1d924c6748');
-INSERT INTO artisans_urls VALUES(10164,340,'URL_MINIATURES','https://storage.scritch.es/scritch/928da03c9d56406b12ce2c3ad2248c35e2613103/thumbnail_f04b3ae7-d97f-4c88-9f91-a2fec4bbc7f9.jpeg');
-INSERT INTO artisans_urls VALUES(10165,340,'URL_MINIATURES','https://storage.scritch.es/scritch/6c60e017d1fbe9c3da993314228b52f751f790a4/thumbnail_8481f85f-c295-4d59-995c-04df6aed3f53.jpeg');
-INSERT INTO artisans_urls VALUES(10166,340,'URL_MINIATURES','https://storage.scritch.es/scritch/f926a4d37d1eb01704c25a36e7dc281229a2388d/thumbnail_b9df646a-ee7b-4270-8d62-3d4a2e78bf21.jpeg');
-INSERT INTO artisans_urls VALUES(10167,340,'URL_MINIATURES','https://storage.scritch.es/scritch/5aec9fb57ce37985b5be9ed43bdbaccf84cff163/thumbnail_9824cb8f-59bb-40b1-a489-e2c859412aab.jpeg');
 INSERT INTO artisans_urls VALUES(10168,368,'URL_PHOTOS','https://scritch.es/pictures/4b6d2b92-2d95-47f9-ab62-a15aa340462d');
 INSERT INTO artisans_urls VALUES(10169,368,'URL_PHOTOS','https://scritch.es/pictures/196342be-f160-47a4-8d93-3e049cb706b5');
 INSERT INTO artisans_urls VALUES(10170,368,'URL_MINIATURES','https://storage.scritch.es/scritch/17fb358c5c0c1a9bbe70614c3a1899bd210105c7/thumbnail_9d2ca435-5fde-4884-baa7-9ccbc98c6be3.jpeg');
