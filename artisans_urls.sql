@@ -2815,8 +2815,6 @@ INSERT INTO artisans_urls VALUES(10645,501,'URL_LINKLIST','https://linktr.ee/Osh
 INSERT INTO artisans_urls VALUES(10646,501,'URL_OTHER','https://t.me/OshamyArt');
 INSERT INTO artisans_urls VALUES(10647,427,'URL_FURSUITREVIEW','https://fursuitreview.com/m/howlmetal-horrors/');
 INSERT INTO artisans_urls VALUES(10648,492,'URL_WEBSITE','https://diinokit.weebly.com/');
-INSERT INTO artisans_urls VALUES(10649,492,'URL_COMMISSIONS','https://diinokit.weebly.com/commission-info.html');
-INSERT INTO artisans_urls VALUES(10650,492,'URL_TWITTER','https://twitter.com/diinokitart');
 INSERT INTO artisans_urls VALUES(10651,502,'URL_WEBSITE','https://www.phuzzytongue.com/');
 INSERT INTO artisans_urls VALUES(10652,502,'URL_COMMISSIONS','https://twitter.com/PhuzzyTongue');
 INSERT INTO artisans_urls VALUES(10653,502,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/fuzzytongue/');
@@ -3286,4 +3284,18 @@ INSERT INTO artisans_urls VALUES(11134,340,'URL_MINIATURES','https://storage.scr
 INSERT INTO artisans_urls VALUES(11135,340,'URL_MINIATURES','https://storage.scritch.es/scritch/5aec9fb57ce37985b5be9ed43bdbaccf84cff163/thumbnail_9824cb8f-59bb-40b1-a489-e2c859412aab.jpeg');
 INSERT INTO artisans_urls VALUES(11136,340,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/70262-ae7fbfc2bb912161a23583e66444f7a4.jpg');
 INSERT INTO artisans_urls VALUES(11137,388,'URL_ETSY','https://www.etsy.com/shop/WhitewingCreationsDE');
+INSERT INTO artisans_urls VALUES(11138,532,'URL_COMMISSIONS','https://trello.com/b/aVyqbbbR');
+INSERT INTO artisans_urls VALUES(11139,532,'URL_TWITTER','https://twitter.com/hbsuits');
+INSERT INTO artisans_urls VALUES(11140,532,'URL_FACEBOOK','https://www.facebook.com/HuckleberrySuits/');
+INSERT INTO artisans_urls VALUES(11141,532,'URL_INSTAGRAM','https://www.instagram.com/huckleberrysuits/');
+INSERT INTO artisans_urls VALUES(11142,532,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/huckleberry-studios1');
+INSERT INTO artisans_urls VALUES(11143,532,'URL_QUEUE','https://trello.com/b/aVyqbbbR');
+INSERT INTO artisans_urls VALUES(11144,532,'URL_FURTRACK','https://www.furtrack.com/index/maker:huckleberry_suits');
+INSERT INTO artisans_urls VALUES(11145,532,'URL_PHOTOS','https://www.furtrack.com/p/72539');
+INSERT INTO artisans_urls VALUES(11146,532,'URL_PHOTOS','https://www.furtrack.com/p/72540');
+INSERT INTO artisans_urls VALUES(11147,533,'URL_LINKLIST','https://linktr.ee/Birdtooth');
+INSERT INTO artisans_urls VALUES(11148,492,'URL_COMMISSIONS','https://diinokit.weebly.com/fursuits.html');
+INSERT INTO artisans_urls VALUES(11149,492,'URL_TWITTER','https://twitter.com/diinokit');
+INSERT INTO artisans_urls VALUES(11150,532,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/72539-8214bcb7248b1729bd5696068c665bfd.jpg');
+INSERT INTO artisans_urls VALUES(11151,532,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/72540-217f800c72c1748c6e494624138e8819.jpg');
 COMMIT;
