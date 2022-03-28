@@ -1795,7 +1795,6 @@ INSERT INTO artisans_urls VALUES(9461,271,'URL_FURRY_AMINO','https://aminoapps.c
 INSERT INTO artisans_urls VALUES(9462,278,'URL_FURRY_AMINO','https://aminoapps.com/p/xiwyam/');
 INSERT INTO artisans_urls VALUES(9463,287,'URL_FURRY_AMINO','https://aminoapps.com/c/furry-amino/page/user/jackie/mo1q_g7JcnfNNdxjlbbrlvK6r5V7XkYRqvb');
 INSERT INTO artisans_urls VALUES(9464,302,'URL_LINKLIST','https://linktr.ee/alligatorsalways');
-INSERT INTO artisans_urls VALUES(9465,332,'URL_ETSY','https://www.etsy.com/ca/shop/TwilightKnights');
 INSERT INTO artisans_urls VALUES(9466,341,'URL_FURRY_AMINO','https://aminoapps.com/c/furry-amino/page/user/nyyote/o3Mm_LwlHJfwDZXEQDoq2eNb7gR2rL7QNx');
 INSERT INTO artisans_urls VALUES(9469,356,'URL_FURRY_AMINO','https://aminoapps.com/c/furry-amino/page/user/yeenbug-studio/bNd0_JrEcGfB3mk47L5Rdq7KvDDgr34Drqz');
 INSERT INTO artisans_urls VALUES(9470,132,'URL_LINKLIST','https://linktr.ee/Rhee_Urboros');
@@ -1919,7 +1918,6 @@ INSERT INTO artisans_urls VALUES(9608,415,'URL_COMMISSIONS','https://aikostudios
 INSERT INTO artisans_urls VALUES(9610,92,'URL_SCRITCH','https://scritch.es/makers/ya-boy-luke-fursuits');
 INSERT INTO artisans_urls VALUES(9611,92,'URL_LINKLIST','https://linktr.ee/yab0yluke');
 INSERT INTO artisans_urls VALUES(9612,92,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/other-items/cosmohusky/105940');
-INSERT INTO artisans_urls VALUES(9613,92,'URL_ETSY','https://www.etsy.com/ca/shop/YBLSuits');
 INSERT INTO artisans_urls VALUES(9614,92,'URL_OTHER_SHOP','https://www.yblsuits.com/shop');
 INSERT INTO artisans_urls VALUES(9615,416,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/secondskinmaker/');
 INSERT INTO artisans_urls VALUES(9616,416,'URL_DEVIANTART','https://www.deviantart.com/darknesshedgehog112');
@@ -2052,7 +2050,6 @@ INSERT INTO artisans_urls VALUES(9755,428,'URL_QUEUE','https://www.angeltigress.
 INSERT INTO artisans_urls VALUES(9756,428,'URL_COMMISSIONS','https://www.angeltigress.com/price/');
 INSERT INTO artisans_urls VALUES(9758,429,'URL_WEBSITE','https://darkclifffurs.wixsite.com/darkcliff-furs');
 INSERT INTO artisans_urls VALUES(9759,429,'URL_INSTAGRAM','https://www.instagram.com/thebamboocookie/');
-INSERT INTO artisans_urls VALUES(9760,429,'URL_ETSY','https://www.etsy.com/de/shop/DarkcliffFurs');
 INSERT INTO artisans_urls VALUES(9761,429,'URL_COMMISSIONS','https://darkclifffurs.wixsite.com/darkcliff-furs');
 INSERT INTO artisans_urls VALUES(9762,356,'URL_FURSUITREVIEW','https://fursuitreview.com/m/yeenbug-studio/');
 INSERT INTO artisans_urls VALUES(9763,356,'URL_TWITTER','https://twitter.com/yeenbug');
@@ -2355,7 +2352,6 @@ INSERT INTO artisans_urls VALUES(10078,466,'URL_TWITTER','https://twitter.com/Fi
 INSERT INTO artisans_urls VALUES(10079,466,'URL_INSTAGRAM','https://www.instagram.com/fizzy_fur_creations/');
 INSERT INTO artisans_urls VALUES(10080,466,'URL_LINKLIST','https://msha.ke/fizzyfurcreations');
 INSERT INTO artisans_urls VALUES(10081,466,'URL_FURRY_AMINO','http://aminoapps.com/p/6prxq');
-INSERT INTO artisans_urls VALUES(10082,466,'URL_ETSY','https://www.etsy.com/ca/shop/FizzyFurCreations?ref=seller-platform-mcnav');
 INSERT INTO artisans_urls VALUES(10083,467,'URL_PRICES','https://www.instagram.com/silverlynxstudios/');
 INSERT INTO artisans_urls VALUES(10084,467,'URL_INSTAGRAM','https://www.instagram.com/silverlynxstudios/');
 INSERT INTO artisans_urls VALUES(10085,468,'URL_FURSUITREVIEW','https://fursuitreview.com/m/homebrewed-suits/');
@@ -2501,7 +2497,6 @@ INSERT INTO artisans_urls VALUES(10252,475,'URL_TWITTER','https://twitter.com/li
 INSERT INTO artisans_urls VALUES(10253,475,'URL_FACEBOOK','https://www.facebook.com/littlefangsfur/');
 INSERT INTO artisans_urls VALUES(10254,475,'URL_INSTAGRAM','https://www.instagram.com/littlefangsstudio/');
 INSERT INTO artisans_urls VALUES(10255,475,'URL_YOUTUBE','https://www.youtube.com/channel/UC2a3zsCiIBTwiX_DUvbLsVg');
-INSERT INTO artisans_urls VALUES(10256,475,'URL_ETSY','https://www.etsy.com/ca/shop/LittleFangs');
 INSERT INTO artisans_urls VALUES(10257,475,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/search/other-items/?username=silentravyn&user_id=106792');
 INSERT INTO artisans_urls VALUES(10258,475,'URL_QUEUE','https://trello.com/b/ieIZqFRD/silent-ravyns-art-queue');
 INSERT INTO artisans_urls VALUES(10259,475,'URL_SCRITCH','https://scritch.es/makers/little-fangs-fursuits');
@@ -2586,10 +2581,8 @@ INSERT INTO artisans_urls VALUES(10350,482,'URL_COMMISSIONS','https://dogwool.sq
 INSERT INTO artisans_urls VALUES(10351,482,'URL_INSTAGRAM','https://www.instagram.com/dogwoolowner/');
 INSERT INTO artisans_urls VALUES(10352,484,'URL_TWITTER','https://twitter.com/gocamecnun');
 INSERT INTO artisans_urls VALUES(10353,484,'URL_INSTAGRAM','https://www.instagram.com/liquidtoothcreations/');
-INSERT INTO artisans_urls VALUES(10354,484,'URL_ETSY','https://www.etsy.com/de/shop/LiquidToothCreations');
 INSERT INTO artisans_urls VALUES(10355,484,'URL_OTHER',replace('https://t.me/LiquidToothCreations\nhttps://t.me/Gocamecnun','\n',char(10)));
 INSERT INTO artisans_urls VALUES(10356,185,'URL_LINKLIST','https://linktr.ee/ladynightlight');
-INSERT INTO artisans_urls VALUES(10357,185,'URL_ETSY','https://www.etsy.com/ie/shop/LadyNightLightsLair');
 INSERT INTO artisans_urls VALUES(10358,185,'URL_PHOTOS','https://scritch.es/pictures/fb41c907-bca3-4cec-ad51-0958a169970c');
 INSERT INTO artisans_urls VALUES(10359,185,'URL_PHOTOS','https://scritch.es/pictures/7049a9eb-c287-460c-b973-d191b6fd6551');
 INSERT INTO artisans_urls VALUES(10365,185,'URL_COMMISSIONS','https://www.furaffinity.net/user/ladynightlight/');
@@ -2822,7 +2815,6 @@ INSERT INTO artisans_urls VALUES(10654,502,'URL_TWITTER','https://twitter.com/Ph
 INSERT INTO artisans_urls VALUES(10655,502,'URL_YOUTUBE','https://www.youtube.com/channel/UCDsvKS6c0PkRPP5AxHzSo6g');
 INSERT INTO artisans_urls VALUES(10656,502,'URL_ETSY','https://www.etsy.com/shop/PhuzzyTongue');
 INSERT INTO artisans_urls VALUES(10657,288,'URL_LINKLIST','https://linktr.ee/eelowyn');
-INSERT INTO artisans_urls VALUES(10658,288,'URL_ETSY','https://www.etsy.com/ca/shop/DragonsDenFursuits');
 INSERT INTO artisans_urls VALUES(10659,288,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/dragons-den-fursuits');
 INSERT INTO artisans_urls VALUES(10660,503,'URL_WEBSITE','https://www.vaporwagstudios.com/');
 INSERT INTO artisans_urls VALUES(10661,503,'URL_PRICES','https://www.vaporwagstudios.com/pricing-guide');
@@ -2861,7 +2853,6 @@ INSERT INTO artisans_urls VALUES(10696,50,'URL_WEBSITE','http://www.baddogcustom
 INSERT INTO artisans_urls VALUES(10697,229,'URL_PRICES','https://www.onixangelcreations.com/fursuits.html');
 INSERT INTO artisans_urls VALUES(10698,229,'URL_DEVIANTART','https://www.deviantart.com/taytaym2');
 INSERT INTO artisans_urls VALUES(10699,229,'URL_LINKLIST','https://onixangel.carrd.co/');
-INSERT INTO artisans_urls VALUES(10700,229,'URL_ETSY','https://www.etsy.com/ca/shop/OnixAngelCreations');
 INSERT INTO artisans_urls VALUES(10701,229,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/onix-angel-creations');
 INSERT INTO artisans_urls VALUES(10702,229,'URL_QUEUE','https://trello.com/b/QR2cfNwp/onix-angels-commission-queue');
 INSERT INTO artisans_urls VALUES(10703,229,'URL_OTHER','https://www.patreon.com/onixangelcreations');
@@ -3088,7 +3079,6 @@ INSERT INTO artisans_urls VALUES(10923,517,'URL_TWITTER','https://twitter.com/Se
 INSERT INTO artisans_urls VALUES(10924,517,'URL_FACEBOOK','https://www.facebook.com/sewingstuffsfursuits/');
 INSERT INTO artisans_urls VALUES(10925,517,'URL_INSTAGRAM','https://www.instagram.com/sewingstuffsfursuits/');
 INSERT INTO artisans_urls VALUES(10926,517,'URL_LINKLIST','https://linktr.ee/Sewingstuffs');
-INSERT INTO artisans_urls VALUES(10927,517,'URL_ETSY','https://www.etsy.com/ca/shop/SewingStuffs');
 INSERT INTO artisans_urls VALUES(10928,517,'URL_QUEUE','https://trello.com/b/OLMWLyml/sewingstuffs-fursuits');
 INSERT INTO artisans_urls VALUES(10929,514,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/68611-c2328492980779e1ebc14e38988d4bf2.jpg');
 INSERT INTO artisans_urls VALUES(10930,514,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/68615-741d812eb91902d1b298e6d458ae23e8.jpg');
@@ -3097,7 +3087,6 @@ INSERT INTO artisans_urls VALUES(10932,514,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(10933,98,'URL_WEBSITE','https://willow-creative.nl/');
 INSERT INTO artisans_urls VALUES(10934,98,'URL_FAQ','https://willow-creative.nl/about/faq/');
 INSERT INTO artisans_urls VALUES(10935,98,'URL_TWITTER','https://twitter.com/WillowCreative_');
-INSERT INTO artisans_urls VALUES(10936,98,'URL_FACEBOOK','https://www.facebook.com/WillowCreativeNL');
 INSERT INTO artisans_urls VALUES(10937,98,'URL_INSTAGRAM','https://www.instagram.com/willowcreativenl/');
 INSERT INTO artisans_urls VALUES(10938,98,'URL_ETSY','https://www.etsy.com/shop/WillowCreativeNL');
 INSERT INTO artisans_urls VALUES(10939,98,'URL_OTHER_SHOP','https://willow-creative.nl/store/');
@@ -3298,4 +3287,15 @@ INSERT INTO artisans_urls VALUES(11148,492,'URL_COMMISSIONS','https://diinokit.w
 INSERT INTO artisans_urls VALUES(11149,492,'URL_TWITTER','https://twitter.com/diinokit');
 INSERT INTO artisans_urls VALUES(11150,532,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/72539-8214bcb7248b1729bd5696068c665bfd.jpg');
 INSERT INTO artisans_urls VALUES(11151,532,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/72540-217f800c72c1748c6e494624138e8819.jpg');
+INSERT INTO artisans_urls VALUES(11152,429,'URL_ETSY','https://www.etsy.com/shop/DarkcliffFurs');
+INSERT INTO artisans_urls VALUES(11153,185,'URL_ETSY','https://www.etsy.com/shop/LadyNightLightsLair');
+INSERT INTO artisans_urls VALUES(11154,288,'URL_ETSY','https://www.etsy.com/shop/DragonsDenFursuits');
+INSERT INTO artisans_urls VALUES(11155,466,'URL_ETSY','https://www.etsy.com/shop/FizzyFurCreations');
+INSERT INTO artisans_urls VALUES(11156,484,'URL_ETSY','https://www.etsy.com/shop/LiquidToothCreations');
+INSERT INTO artisans_urls VALUES(11157,475,'URL_ETSY','https://www.etsy.com/shop/LittleFangs');
+INSERT INTO artisans_urls VALUES(11158,229,'URL_ETSY','https://www.etsy.com/shop/OnixAngelCreations');
+INSERT INTO artisans_urls VALUES(11159,517,'URL_ETSY','https://www.etsy.com/shop/SewingStuffs');
+INSERT INTO artisans_urls VALUES(11160,332,'URL_ETSY','https://www.etsy.com/shop/TwilightKnights');
+INSERT INTO artisans_urls VALUES(11161,98,'URL_FACEBOOK','https://www.facebook.com/WillowCreativeNL/');
+INSERT INTO artisans_urls VALUES(11162,92,'URL_ETSY','https://www.etsy.com/shop/YBLSuits');
 COMMIT;
