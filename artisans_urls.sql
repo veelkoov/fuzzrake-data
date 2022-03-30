@@ -123,8 +123,6 @@ INSERT INTO artisans_urls VALUES(130,27,'URL_TWITTER','https://twitter.com/Strei
 INSERT INTO artisans_urls VALUES(131,27,'URL_INSTAGRAM','https://www.instagram.com/streifensuits/');
 INSERT INTO artisans_urls VALUES(132,27,'URL_COMMISSIONS','https://twitter.com/StreifenSuits');
 INSERT INTO artisans_urls VALUES(133,28,'URL_FURSUITREVIEW','https://fursuitreview.com/m/blue-fox-fursuits/');
-INSERT INTO artisans_urls VALUES(134,28,'URL_WEBSITE','https://www.bf-fursuits.com/');
-INSERT INTO artisans_urls VALUES(135,28,'URL_TWITTER','https://twitter.com/BlueFoxFursuits');
 INSERT INTO artisans_urls VALUES(136,29,'URL_WEBSITE','https://selkiesuits.co.uk/');
 INSERT INTO artisans_urls VALUES(137,29,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/fixitfursuits/');
 INSERT INTO artisans_urls VALUES(138,29,'URL_TWITTER','https://twitter.com/selkiesuits');
@@ -1519,8 +1517,6 @@ INSERT INTO artisans_urls VALUES(9143,362,'URL_COMMISSIONS','http://www.luckygum
 INSERT INTO artisans_urls VALUES(9147,364,'URL_WEBSITE','http://tangerine-yeen-fursuits.mozello.com/');
 INSERT INTO artisans_urls VALUES(9148,364,'URL_PRICES','http://tangerine-yeen-fursuits.mozello.com/products/');
 INSERT INTO artisans_urls VALUES(9149,364,'URL_TWITTER','https://twitter.com/TangerineYeen');
-INSERT INTO artisans_urls VALUES(9150,364,'URL_INSTAGRAM','https://www.instagram.com/tangerineyeen/');
-INSERT INTO artisans_urls VALUES(9151,364,'URL_COMMISSIONS','http://tangerine-yeen-fursuits.mozello.com/');
 INSERT INTO artisans_urls VALUES(9156,365,'URL_TWITTER','https://twitter.com/8Bit_Works');
 INSERT INTO artisans_urls VALUES(9157,365,'URL_INSTAGRAM','https://www.instagram.com/8bit_works/');
 INSERT INTO artisans_urls VALUES(9158,365,'URL_YOUTUBE','https://www.youtube.com/channel/UC6mOWtyqtkWfrwkw0Ilz0wA');
@@ -3316,4 +3312,14 @@ INSERT INTO artisans_urls VALUES(11177,309,'URL_PHOTOS','https://www.furtrack.co
 INSERT INTO artisans_urls VALUES(11180,309,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/65048-ce79d34b8e4a58d2376bf0357ba09c94.jpg');
 INSERT INTO artisans_urls VALUES(11181,309,'URL_MINIATURES','https://storage.scritch.es/scritch/c325d65c41ddc5580aabccb231fd6e34df49a747/thumbnail_4c21711a-93b4-4de5-b7a2-c1f6e95f0c49.jpeg#r90');
 INSERT INTO artisans_urls VALUES(11182,309,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/30079-bcd94c740cfd35ba3bca5736d7d88cbe.jpg#d30');
+INSERT INTO artisans_urls VALUES(11183,28,'URL_WEBSITE','https://www.camodile.co.uk/');
+INSERT INTO artisans_urls VALUES(11184,28,'URL_TWITTER','https://twitter.com/CamodileCroc');
+INSERT INTO artisans_urls VALUES(11185,535,'URL_WEBSITE','https://www.kikichaoscreations.com/');
+INSERT INTO artisans_urls VALUES(11186,535,'URL_PRICES','https://www.kikichaoscreations.com/prices');
+INSERT INTO artisans_urls VALUES(11187,535,'URL_COMMISSIONS','https://www.kikichaoscreations.com/');
+INSERT INTO artisans_urls VALUES(11188,535,'URL_TWITTER','https://twitter.com/KikiChaosC');
+INSERT INTO artisans_urls VALUES(11189,535,'URL_INSTAGRAM','https://www.instagram.com/kiki_chaos_creations/');
+INSERT INTO artisans_urls VALUES(11190,535,'URL_YOUTUBE','https://www.youtube.com/channel/UCprS8VlyFlhi278sND-IIgg');
+INSERT INTO artisans_urls VALUES(11191,535,'URL_FURRY_AMINO','http://aminoapps.com/p/o84iuo');
+INSERT INTO artisans_urls VALUES(11192,535,'URL_QUEUE','https://trello.com/b/68tSmFqj/kiki-chaos-creations-queue');
 COMMIT;
