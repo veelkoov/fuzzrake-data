@@ -1320,11 +1320,7 @@ INSERT INTO artisans_urls VALUES(1498,322,'URL_YOUTUBE','https://www.youtube.com
 INSERT INTO artisans_urls VALUES(1499,322,'URL_COMMISSIONS','https://www.furaffinity.net/user/twitchinwhiskers/');
 INSERT INTO artisans_urls VALUES(1500,323,'URL_TWITTER','https://twitter.com/KabberCreations');
 INSERT INTO artisans_urls VALUES(1505,324,'URL_INSTAGRAM','https://www.instagram.com/drakainacostumes/');
-INSERT INTO artisans_urls VALUES(1506,325,'URL_WEBSITE','https://kittlums.weebly.com/');
-INSERT INTO artisans_urls VALUES(1507,325,'URL_PRICES','https://kittlums.weebly.com/prices.html');
-INSERT INTO artisans_urls VALUES(1508,325,'URL_FAQ','https://kittlums.weebly.com/process-and-tos.html');
 INSERT INTO artisans_urls VALUES(1509,325,'URL_TWITTER','https://twitter.com/kittlums');
-INSERT INTO artisans_urls VALUES(1510,325,'URL_FACEBOOK','https://www.facebook.com/kittlums/');
 INSERT INTO artisans_urls VALUES(1511,326,'URL_WEBSITE','https://looneyraccooney.com/');
 INSERT INTO artisans_urls VALUES(1512,326,'URL_PRICES','https://looneyraccooney.com/fursuitpricing');
 INSERT INTO artisans_urls VALUES(1513,326,'URL_FAQ','https://looneyraccooney.com/FursuitTermsOfService');
