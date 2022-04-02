@@ -386,4 +386,6 @@ INSERT INTO events VALUES(397,'2022-03-25 18:06:26','CS_UPDATED','TheKareliaFurs
 INSERT INTO events VALUES(398,'2022-03-27 17:22:00','DATA_UPDATED','',2,1,0,'59d1769617c6eb26c548401c1a5e5fcde61cece2','','','','',0);
 INSERT INTO events VALUES(399,'2022-03-28 06:06:29','CS_UPDATED','ByCats4Cats',0,0,0,'','http://bycats4cats.com/quote/','','Commissions','',0);
 INSERT INTO events VALUES(400,'2022-03-29 00:06:27','CS_UPDATED','TheKareliaFursuits',0,0,0,'','https://www.furaffinity.net/user/thekareliafursuits/','','Commissions','',0);
+INSERT INTO events VALUES(401,'2022-03-30 16:59:00','DATA_UPDATED','',1,2,0,'a12237337e5e44063de638b91d33d40d169c0af0','','','','',0);
+INSERT INTO events VALUES(403,'2022-03-30 17:29:00','DATA_UPDATED','',1,0,2,'12dcc40cce250cbcf745829a24abbb2c2f6e244f','','','','',0);
 COMMIT;
