@@ -2162,7 +2162,6 @@ INSERT INTO artisans_urls VALUES(9882,444,'URL_THE_DEALERS_DEN','https://www.the
 INSERT INTO artisans_urls VALUES(9883,444,'URL_QUEUE','https://trello.com/b/q0uQpZC2/plaid-paws-by-maus');
 INSERT INTO artisans_urls VALUES(9884,444,'URL_SCRITCH','https://scritch.es/makers/musfuzzie-creations-studios');
 INSERT INTO artisans_urls VALUES(9885,444,'URL_OTHER','https://www.twitch.tv/musfuzzie');
-INSERT INTO artisans_urls VALUES(9887,445,'URL_TWITTER','https://twitter.com/dockyardfursuit');
 INSERT INTO artisans_urls VALUES(9888,446,'URL_FURSUITREVIEW','https://fursuitreview.com/m/kemonokapi/');
 INSERT INTO artisans_urls VALUES(9889,446,'URL_WEBSITE','https://www.kemonokapi.com/');
 INSERT INTO artisans_urls VALUES(9890,446,'URL_PRICES','https://www.kemonokapi.com/custom-commissions.html');
@@ -3322,4 +3321,15 @@ INSERT INTO artisans_urls VALUES(11189,535,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(11190,535,'URL_YOUTUBE','https://www.youtube.com/channel/UCprS8VlyFlhi278sND-IIgg');
 INSERT INTO artisans_urls VALUES(11191,535,'URL_FURRY_AMINO','http://aminoapps.com/p/o84iuo');
 INSERT INTO artisans_urls VALUES(11192,535,'URL_QUEUE','https://trello.com/b/68tSmFqj/kiki-chaos-creations-queue');
+INSERT INTO artisans_urls VALUES(11193,536,'URL_PRICES','https://trello.com/b/COT01RJW/saber-studios-fursuit-commission-queue');
+INSERT INTO artisans_urls VALUES(11194,536,'URL_TWITTER','https://twitter.com/_Saberstudios_');
+INSERT INTO artisans_urls VALUES(11195,536,'URL_FACEBOOK','https://www.facebook.com/wolfssaberstudios/');
+INSERT INTO artisans_urls VALUES(11196,536,'URL_INSTAGRAM','https://www.instagram.com/saberstudios/');
+INSERT INTO artisans_urls VALUES(11197,536,'URL_LINKLIST','https://linktr.ee/Saberstudios');
+INSERT INTO artisans_urls VALUES(11198,536,'URL_QUEUE','https://trello.com/b/COT01RJW/saber-studios-fursuit-commission-queue');
+INSERT INTO artisans_urls VALUES(11199,445,'URL_COMMISSIONS','https://twitter.com/iboddities');
+INSERT INTO artisans_urls VALUES(11200,445,'URL_TWITTER','https://twitter.com/iboddities');
+INSERT INTO artisans_urls VALUES(11201,537,'URL_PRICES','https://www.instagram.com/stories/highlights/17862750115687771/');
+INSERT INTO artisans_urls VALUES(11202,537,'URL_COMMISSIONS','https://www.instagram.com/lunawolf517/');
+INSERT INTO artisans_urls VALUES(11203,537,'URL_INSTAGRAM','https://www.instagram.com/lunawolf517/');
 COMMIT;
