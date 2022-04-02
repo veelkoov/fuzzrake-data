@@ -804,7 +804,6 @@ INSERT INTO artisans_urls VALUES(896,209,'URL_WEBSITE','https://dragonsgrinstudi
 INSERT INTO artisans_urls VALUES(897,209,'URL_FAQ','https://dragonsgrinstudios.weebly.com/faq.html');
 INSERT INTO artisans_urls VALUES(898,209,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/xenodragon11/');
 INSERT INTO artisans_urls VALUES(899,209,'URL_DEVIANTART','https://www.deviantart.com/xenodragon11crafts');
-INSERT INTO artisans_urls VALUES(900,209,'URL_TWITTER','https://twitter.com/Xenodragon11');
 INSERT INTO artisans_urls VALUES(901,209,'URL_FACEBOOK','https://www.facebook.com/DragonsGrinStudios/');
 INSERT INTO artisans_urls VALUES(902,209,'URL_INSTAGRAM','https://www.instagram.com/dragonsgrinstudios/');
 INSERT INTO artisans_urls VALUES(903,209,'URL_YOUTUBE','https://www.youtube.com/channel/UC6S5CGTdIxie20osjWAROlQ');
@@ -3329,4 +3328,6 @@ INSERT INTO artisans_urls VALUES(11201,537,'URL_PRICES','https://www.instagram.c
 INSERT INTO artisans_urls VALUES(11202,537,'URL_COMMISSIONS','https://www.instagram.com/lunawolf517/');
 INSERT INTO artisans_urls VALUES(11203,537,'URL_INSTAGRAM','https://www.instagram.com/lunawolf517/');
 INSERT INTO artisans_urls VALUES(11204,436,'URL_FURSUITREVIEW','https://fursuitreview.com/m/starcane-arts/');
+INSERT INTO artisans_urls VALUES(11205,209,'URL_PRICES','https://dragonsgrinstudios.weebly.com/fursuit-prices.html');
+INSERT INTO artisans_urls VALUES(11206,209,'URL_TWITTER','https://twitter.com/DragonsGStudios');
 COMMIT;
