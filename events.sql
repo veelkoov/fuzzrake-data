@@ -388,4 +388,9 @@ INSERT INTO events VALUES(399,'2022-03-28 06:06:29','CS_UPDATED','ByCats4Cats',0
 INSERT INTO events VALUES(400,'2022-03-29 00:06:27','CS_UPDATED','TheKareliaFursuits',0,0,0,'','https://www.furaffinity.net/user/thekareliafursuits/','','Commissions','',0);
 INSERT INTO events VALUES(401,'2022-03-30 16:59:00','DATA_UPDATED','',1,2,0,'a12237337e5e44063de638b91d33d40d169c0af0','','','','',0);
 INSERT INTO events VALUES(403,'2022-03-30 17:29:00','DATA_UPDATED','',1,0,2,'12dcc40cce250cbcf745829a24abbb2c2f6e244f','','','','',0);
+INSERT INTO events VALUES(404,'2022-04-02 10:24:02','CS_UPDATED','Go Fur It Studios',0,0,0,'','https://twitter.com/GoFurItstudios','','','Commissions',0);
+INSERT INTO events VALUES(405,'2022-04-02 10:24:02','CS_UPDATED','2 Stupid Furs',0,0,0,'','https://2stupidfurs.weebly.com/prices---quote-forms---tos.html','','Parts','',0);
+INSERT INTO events VALUES(406,'2022-04-02 10:24:02','CS_UPDATED','Vaporwag Studios',0,0,0,'','https://twitter.com/vaporwagstudios','','','Commissions',0);
+INSERT INTO events VALUES(407,'2022-04-02 10:25:00','DATA_UPDATED','',2,1,0,'e68da2795cd8e5f43ae5d3901e0bfcc9552003ed','','','','',0);
+INSERT INTO events VALUES(408,'2022-04-02 10:37:00','DATA_UPDATED','',0,0,1,'7997cdca388be8239a01963a4bd4ef371992fb20','','','','',0);
 COMMIT;

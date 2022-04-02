@@ -3328,4 +3328,5 @@ INSERT INTO artisans_urls VALUES(11200,445,'URL_TWITTER','https://twitter.com/ib
 INSERT INTO artisans_urls VALUES(11201,537,'URL_PRICES','https://www.instagram.com/stories/highlights/17862750115687771/');
 INSERT INTO artisans_urls VALUES(11202,537,'URL_COMMISSIONS','https://www.instagram.com/lunawolf517/');
 INSERT INTO artisans_urls VALUES(11203,537,'URL_INSTAGRAM','https://www.instagram.com/lunawolf517/');
+INSERT INTO artisans_urls VALUES(11204,436,'URL_FURSUITREVIEW','https://fursuitreview.com/m/starcane-arts/');
 COMMIT;
