@@ -423,4 +423,5 @@ INSERT INTO events VALUES(435,'2022-04-11 00:06:31','CS_UPDATED','Fur The Win St
 INSERT INTO events VALUES(436,'2022-04-11 00:06:31','CS_UPDATED','One Fur All Studios',0,0,0,'','https://www.furaffinity.net/user/onefurall/','','','Commissions',0);
 INSERT INTO events VALUES(437,'2022-04-11 00:06:31','CS_UPDATED','Dragon''s Grin Studios',0,0,0,'','https://dragonsgrinstudios.weebly.com/','','Commissions','',0);
 INSERT INTO events VALUES(438,'2022-04-11 12:06:35','CS_UPDATED','Kiki Chaos Creations',0,0,0,'','https://www.kikichaoscreations.com/','','Commissions','',0);
+INSERT INTO events VALUES(439,'2022-04-11 20:11:21','CS_UPDATED','Darkmustang Creations',0,0,0,'','https://trello.com/b/GSbPtXCV/darkmustangcreations','','','Commissions',1);
 COMMIT;

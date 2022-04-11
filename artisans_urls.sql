@@ -363,8 +363,6 @@ INSERT INTO artisans_urls VALUES(399,113,'URL_FURSUITREVIEW','https://fursuitrev
 INSERT INTO artisans_urls VALUES(400,113,'URL_WEBSITE','https://www.goldenmaw.com/');
 INSERT INTO artisans_urls VALUES(401,113,'URL_PRICES','https://www.goldenmaw.com/prices');
 INSERT INTO artisans_urls VALUES(402,113,'URL_TWITTER','https://twitter.com/TheGoldenMaw');
-INSERT INTO artisans_urls VALUES(403,113,'URL_FACEBOOK','https://www.facebook.com/TheGoldenMaw/');
-INSERT INTO artisans_urls VALUES(404,113,'URL_INSTAGRAM','https://www.instagram.com/thegoldenmaw/');
 INSERT INTO artisans_urls VALUES(405,113,'URL_COMMISSIONS','https://www.goldenmaw.com/how-to-commission');
 INSERT INTO artisans_urls VALUES(407,116,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/ourmasshysteria/');
 INSERT INTO artisans_urls VALUES(408,117,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/nevask/');
@@ -3330,4 +3328,17 @@ INSERT INTO artisans_urls VALUES(11203,537,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(11204,436,'URL_FURSUITREVIEW','https://fursuitreview.com/m/starcane-arts/');
 INSERT INTO artisans_urls VALUES(11205,209,'URL_PRICES','https://dragonsgrinstudios.weebly.com/fursuit-prices.html');
 INSERT INTO artisans_urls VALUES(11206,209,'URL_TWITTER','https://twitter.com/DragonsGStudios');
+INSERT INTO artisans_urls VALUES(11207,113,'URL_QUEUE','https://trello.com/b/O0XrnHbZ/golden-maws-work-queue');
+INSERT INTO artisans_urls VALUES(11208,538,'URL_WEBSITE','https://trello.com/b/GSbPtXCV/darkmustangcreations');
+INSERT INTO artisans_urls VALUES(11209,538,'URL_PRICES','https://trello.com/b/GSbPtXCV/darkmustangcreations');
+INSERT INTO artisans_urls VALUES(11210,538,'URL_COMMISSIONS','https://trello.com/b/GSbPtXCV/darkmustangcreations');
+INSERT INTO artisans_urls VALUES(11211,538,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/darkmustang1/');
+INSERT INTO artisans_urls VALUES(11212,538,'URL_LINKLIST','http://Linktr.ee/Darkmustang1');
+INSERT INTO artisans_urls VALUES(11213,538,'URL_ETSY','https://www.etsy.com/shop/DarkmustangCreations');
+INSERT INTO artisans_urls VALUES(11214,538,'URL_QUEUE','https://trello.com/b/GSbPtXCV/darkmustangcreations');
+INSERT INTO artisans_urls VALUES(11215,539,'URL_COMMISSIONS','https://www.furaffinity.net/user/fedorafursuits/');
+INSERT INTO artisans_urls VALUES(11216,539,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/fedorafursuits/');
+INSERT INTO artisans_urls VALUES(11217,539,'URL_TWITTER','https://twitter.com/FedorasFursuits');
+INSERT INTO artisans_urls VALUES(11218,539,'URL_INSTAGRAM','https://www.instagram.com/fedorasfursuits/');
+INSERT INTO artisans_urls VALUES(11219,539,'URL_OTHER','Telegram: https://t.me/FedorasFursuits');
 COMMIT;
