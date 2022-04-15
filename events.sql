@@ -424,4 +424,16 @@ INSERT INTO events VALUES(436,'2022-04-11 00:06:31','CS_UPDATED','One Fur All St
 INSERT INTO events VALUES(437,'2022-04-11 00:06:31','CS_UPDATED','Dragon''s Grin Studios',0,0,0,'','https://dragonsgrinstudios.weebly.com/','','Commissions','',0);
 INSERT INTO events VALUES(438,'2022-04-11 12:06:35','CS_UPDATED','Kiki Chaos Creations',0,0,0,'','https://www.kikichaoscreations.com/','','Commissions','',0);
 INSERT INTO events VALUES(439,'2022-04-11 20:11:21','CS_UPDATED','Darkmustang Creations',0,0,0,'','https://trello.com/b/GSbPtXCV/darkmustangcreations','','','Commissions',1);
+INSERT INTO events VALUES(440,'2022-04-11 20:19:00','DATA_UPDATED','',2,2,0,'dcc00ef78fcc10b9e6d6b241727314b22e5a7879','','','','',0);
+INSERT INTO events VALUES(441,'2022-04-12 17:18:00','DATA_UPDATED','',0,1,0,'4d7ebd354aa171f14a48862ebbc4ba44caf9ff25','','','','',0);
+INSERT INTO events VALUES(442,'2022-04-14 00:06:44','CS_UPDATED','RandDfursuits',0,0,0,'','https://www.furaffinity.net/user/randdfursuits/','','Commissions','',0);
+INSERT INTO events VALUES(443,'2022-04-14 12:07:25','CS_UPDATED','CCS Mascots',0,0,0,'','http://ccsmascots.com/commission-pricing-2/','','Quotes','',1);
+INSERT INTO events VALUES(444,'2022-04-14 12:07:25','CS_UPDATED','grayREALM Studio',0,0,0,'','https://www.grayrealmstudio.com/commission-status','',replace('Quotes\nParts\nRefurbishments','\n',char(10)),'',1);
+INSERT INTO events VALUES(445,'2022-04-14 12:07:25','CS_UPDATED','Furry Tailor',0,0,0,'','https://www.furrytailor.co.uk/slots','','Quotes','',1);
+INSERT INTO events VALUES(446,'2022-04-14 12:07:25','CS_UPDATED','Alecrim Carmim',0,0,0,'','https://www.alecrimcarmim.com/','',replace('Commissions\nArtistic liberty','\n',char(10)),'',1);
+INSERT INTO events VALUES(447,'2022-04-15 00:06:32','CS_UPDATED','Mixed Candy Costumes',0,0,0,'','https://www.mixedcandycostumes.com/','','','Commissions',0);
+INSERT INTO events VALUES(448,'2022-04-15 00:06:32','CS_UPDATED','CCS Mascots',0,0,0,'','http://ccsmascots.com/commission-pricing-2/','','','Quotes',0);
+INSERT INTO events VALUES(449,'2022-04-15 00:06:32','CS_UPDATED','grayREALM Studio',0,0,0,'','https://www.grayrealmstudio.com/commission-status','','',replace('Parts\nRefurbishments\nQuotes','\n',char(10)),0);
+INSERT INTO events VALUES(450,'2022-04-15 00:06:32','CS_UPDATED','Furry Tailor',0,0,0,'','https://www.furrytailor.co.uk/slots','','','Quotes',0);
+INSERT INTO events VALUES(451,'2022-04-15 00:06:32','CS_UPDATED','Alecrim Carmim',0,0,0,'','https://www.alecrimcarmim.com/','','',replace('Commissions\nArtistic liberty','\n',char(10)),0);
 COMMIT;
