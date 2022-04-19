@@ -3338,4 +3338,12 @@ INSERT INTO artisans_urls VALUES(11216,539,'URL_FUR_AFFINITY','https://www.furaf
 INSERT INTO artisans_urls VALUES(11217,539,'URL_TWITTER','https://twitter.com/FedorasFursuits');
 INSERT INTO artisans_urls VALUES(11218,539,'URL_INSTAGRAM','https://www.instagram.com/fedorasfursuits/');
 INSERT INTO artisans_urls VALUES(11219,539,'URL_OTHER','Telegram: https://t.me/FedorasFursuits');
+INSERT INTO artisans_urls VALUES(11220,540,'URL_WEBSITE','https://cetaceanimagination.wixsite.com/home');
+INSERT INTO artisans_urls VALUES(11221,540,'URL_PRICES','https://cetaceanimagination.wixsite.com/home/prices');
+INSERT INTO artisans_urls VALUES(11222,540,'URL_TWITTER','https://twitter.com/CetaceanSuits');
+INSERT INTO artisans_urls VALUES(11223,540,'URL_LINKLIST','https://linkr.bio/32l9r');
+INSERT INTO artisans_urls VALUES(11224,540,'URL_QUEUE','https://trello.com/b/VkS1bxOl/cetacean-imagination');
+INSERT INTO artisans_urls VALUES(11225,541,'URL_INSTAGRAM','https://www.instagram.com/saberfang/');
+INSERT INTO artisans_urls VALUES(11226,541,'URL_LINKLIST','https://linktr.ee/LichiSaber');
+INSERT INTO artisans_urls VALUES(11227,541,'URL_QUEUE','https://trello.com/b/ipdmhK3v/saberfang-costumes');
 COMMIT;
