@@ -436,4 +436,7 @@ INSERT INTO events VALUES(448,'2022-04-15 00:06:32','CS_UPDATED','CCS Mascots',0
 INSERT INTO events VALUES(449,'2022-04-15 00:06:32','CS_UPDATED','grayREALM Studio',0,0,0,'','https://www.grayrealmstudio.com/commission-status','','',replace('Parts\nRefurbishments\nQuotes','\n',char(10)),0);
 INSERT INTO events VALUES(450,'2022-04-15 00:06:32','CS_UPDATED','Furry Tailor',0,0,0,'','https://www.furrytailor.co.uk/slots','','','Quotes',0);
 INSERT INTO events VALUES(451,'2022-04-15 00:06:32','CS_UPDATED','Alecrim Carmim',0,0,0,'','https://www.alecrimcarmim.com/','','',replace('Commissions\nArtistic liberty','\n',char(10)),0);
+INSERT INTO events VALUES(452,'2022-04-18 00:06:36','CS_UPDATED','maxyncheese',0,0,0,'','https://maxyncheese.wixsite.com/home','','Quotes','',1);
+INSERT INTO events VALUES(453,'2022-04-18 12:06:36','CS_UPDATED','maxyncheese',0,0,0,'','https://maxyncheese.wixsite.com/home','','','Quotes',0);
+INSERT INTO events VALUES(454,'2022-04-19 00:06:33','CS_UPDATED','ByCats4Cats',0,0,0,'','http://bycats4cats.com/quote/','','','Commissions',0);
 COMMIT;

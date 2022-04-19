@@ -175,9 +175,6 @@ INSERT INTO artisans_urls VALUES(184,44,'URL_WEBSITE','https://www.deliciousdisg
 INSERT INTO artisans_urls VALUES(185,44,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/DeliciousDisguises/');
 INSERT INTO artisans_urls VALUES(186,44,'URL_COMMISSIONS','https://www.furaffinity.net/user/DeliciousDisguises/');
 INSERT INTO artisans_urls VALUES(187,45,'URL_FURSUITREVIEW','https://fursuitreview.com/m/farisbatwan/');
-INSERT INTO artisans_urls VALUES(188,45,'URL_FACEBOOK','https://www.facebook.com/fuzzybatsuits/');
-INSERT INTO artisans_urls VALUES(189,45,'URL_INSTAGRAM','https://www.instagram.com/fbsuits/');
-INSERT INTO artisans_urls VALUES(190,45,'URL_COMMISSIONS','https://www.furaffinity.net/user/farisbatwan/');
 INSERT INTO artisans_urls VALUES(191,46,'URL_FURSUITREVIEW','https://fursuitreview.com/m/furfancy-costumes/');
 INSERT INTO artisans_urls VALUES(193,46,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/furfancycostumes/');
 INSERT INTO artisans_urls VALUES(195,46,'URL_COMMISSIONS','https://www.furaffinity.net/user/furfancycostumes/');
