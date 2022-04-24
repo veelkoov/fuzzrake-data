@@ -439,4 +439,11 @@ INSERT INTO events VALUES(451,'2022-04-15 00:06:32','CS_UPDATED','Alecrim Carmim
 INSERT INTO events VALUES(452,'2022-04-18 00:06:36','CS_UPDATED','maxyncheese',0,0,0,'','https://maxyncheese.wixsite.com/home','','Quotes','',1);
 INSERT INTO events VALUES(453,'2022-04-18 12:06:36','CS_UPDATED','maxyncheese',0,0,0,'','https://maxyncheese.wixsite.com/home','','','Quotes',0);
 INSERT INTO events VALUES(454,'2022-04-19 00:06:33','CS_UPDATED','ByCats4Cats',0,0,0,'','http://bycats4cats.com/quote/','','','Commissions',0);
+INSERT INTO events VALUES(455,'2022-04-19 16:46:00','DATA_UPDATED','',2,1,0,'dd3c9c7f356aace44bc7700fb504421c4e7a63fb','','','','',0);
+INSERT INTO events VALUES(456,'2022-04-20 12:06:37','CS_UPDATED','8-8itArtistries',0,0,0,'','https://twitter.com/8_8itArtistries','','Commissions','',1);
+INSERT INTO events VALUES(457,'2022-04-21 12:06:35','CS_UPDATED','AussieStudios',0,0,0,'','https://twitter.com/aussiestudios','','','Commissions',0);
+INSERT INTO events VALUES(458,'2022-04-22 00:06:29','CS_UPDATED','ArtZora Studios',0,0,0,'','https://artzorastudios.weebly.com/fursuit-commissions.html','','Commissions','',1);
+INSERT INTO events VALUES(459,'2022-04-23 12:06:22','CS_UPDATED','AussieStudios',0,0,0,'','https://twitter.com/aussiestudios','','Commissions','',1);
+INSERT INTO events VALUES(460,'2022-04-24 00:06:32','CS_UPDATED','T.O.P. Dog Studios',0,0,0,'','http://thatonepinkdog.studio/fursuit-prices','',replace('Quotes\nCommissions\nParts','\n',char(10)),'',0);
+INSERT INTO events VALUES(461,'2022-04-24 12:06:30','CS_UPDATED','blueeyedferret',0,0,0,'','https://twitter.com/blueeyedferret','','','Commissions',0);
 COMMIT;
