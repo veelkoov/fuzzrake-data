@@ -461,4 +461,5 @@ INSERT INTO events VALUES(473,'2022-04-30 00:06:41','CS_UPDATED','Mixed Candy Co
 INSERT INTO events VALUES(474,'2022-05-02 00:06:36','CS_UPDATED','Unleashed Studios',0,0,0,'','https://twitter.com/UnleashedSTU','','','Commissions',0);
 INSERT INTO events VALUES(475,'2022-05-02 12:06:32','CS_UPDATED','The Grotto Creations',0,0,0,'','https://twitter.com/GrottoCreations','','Commissions','',0);
 INSERT INTO events VALUES(476,'2022-05-03 00:06:37','CS_UPDATED','Obsidian Suits',0,0,0,'','https://twitter.com/obsidiansuits','','Commissions','',1);
+INSERT INTO events VALUES(477,'2022-05-03 14:49:00','DATA_UPDATED','',0,2,0,'49e60a7460e5d625e95d78daec53599b01e16fb5','','','','',0);
 COMMIT;

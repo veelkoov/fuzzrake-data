@@ -3343,9 +3343,9 @@ INSERT INTO artisans_urls VALUES(11248,388,'URL_PHOTOS','https://scritch.es/pict
 INSERT INTO artisans_urls VALUES(11249,388,'URL_PHOTOS','https://scritch.es/pictures/5d29f6fc-e799-4d54-9e0b-7c3ccf84cebe');
 INSERT INTO artisans_urls VALUES(11250,388,'URL_PHOTOS','https://scritch.es/pictures/63b0aaa8-477e-4cf3-9bf4-648793431488');
 INSERT INTO artisans_urls VALUES(11251,388,'URL_PHOTOS','https://scritch.es/pictures/787020da-fd23-4006-9136-efd3b13c7382');
-INSERT INTO artisans_urls VALUES(11252,388,'URL_MINIATURES','https://storage.scritch.es/scritch/cb96aa43bff601452b7ed5bac7b0e0b3c07a9a80/thumbnail_ffb1c99d-7488-4140-a2b8-d5e8211e2d7c.jpeg');
-INSERT INTO artisans_urls VALUES(11253,388,'URL_MINIATURES','https://storage.scritch.es/scritch/8362200dd236f9fefa3120af22cd839224f2908d/thumbnail_b046ea8a-e92b-4cbd-9564-25b9091c0e8f.jpeg');
-INSERT INTO artisans_urls VALUES(11254,388,'URL_MINIATURES','https://storage.scritch.es/scritch/d1faaa7653043ad2dc2f956ba820b3510ed01ad7/thumbnail_5cd24cfd-328e-445c-b494-0f2cda040f77.jpeg');
-INSERT INTO artisans_urls VALUES(11255,388,'URL_MINIATURES','https://storage.scritch.es/scritch/adbea836fe4362919b36ff75b6ec1a0e7628b7a4/thumbnail_f722a244-39ed-4c7f-8a97-a8bb14f5328b.jpeg');
-INSERT INTO artisans_urls VALUES(11256,388,'URL_MINIATURES','https://storage.scritch.es/scritch/89b205bf27e674f91587fcdf4fbd9e3f1058a86f/thumbnail_2bca7847-2c05-47da-a92a-d52fd7e7141b.jpeg');
+INSERT INTO artisans_urls VALUES(11257,388,'URL_MINIATURES','https://storage.scritch.es/scritch/cb96aa43bff601452b7ed5bac7b0e0b3c07a9a80/thumbnail_ffb1c99d-7488-4140-a2b8-d5e8211e2d7c.jpeg#d20');
+INSERT INTO artisans_urls VALUES(11258,388,'URL_MINIATURES','https://storage.scritch.es/scritch/8362200dd236f9fefa3120af22cd839224f2908d/thumbnail_b046ea8a-e92b-4cbd-9564-25b9091c0e8f.jpeg#r90d30');
+INSERT INTO artisans_urls VALUES(11259,388,'URL_MINIATURES','https://storage.scritch.es/scritch/d1faaa7653043ad2dc2f956ba820b3510ed01ad7/thumbnail_5cd24cfd-328e-445c-b494-0f2cda040f77.jpeg#r90d30');
+INSERT INTO artisans_urls VALUES(11260,388,'URL_MINIATURES','https://storage.scritch.es/scritch/adbea836fe4362919b36ff75b6ec1a0e7628b7a4/thumbnail_f722a244-39ed-4c7f-8a97-a8bb14f5328b.jpeg#r90d30');
+INSERT INTO artisans_urls VALUES(11261,388,'URL_MINIATURES','https://storage.scritch.es/scritch/89b205bf27e674f91587fcdf4fbd9e3f1058a86f/thumbnail_2bca7847-2c05-47da-a92a-d52fd7e7141b.jpeg#r90d30');
 COMMIT;
