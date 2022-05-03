@@ -3336,4 +3336,6 @@ INSERT INTO artisans_urls VALUES(11235,249,'URL_FAQ','https://jillcostumes.com/#
 INSERT INTO artisans_urls VALUES(11236,308,'URL_PRICES','https://www.furaffinity.net/journal/6459380');
 INSERT INTO artisans_urls VALUES(11237,308,'URL_FAQ','https://www.furaffinity.net/journal/6245411/');
 INSERT INTO artisans_urls VALUES(11238,308,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/nevfurmore/');
+INSERT INTO artisans_urls VALUES(11239,203,'URL_FURSUITREVIEW','https://fursuitreview.com/m/2-stupid-furs/');
+INSERT INTO artisans_urls VALUES(11240,398,'URL_FURSUITREVIEW','https://fursuitreview.com/m/glitzy-fox-studios/');
 COMMIT;
