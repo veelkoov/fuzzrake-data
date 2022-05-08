@@ -3348,4 +3348,11 @@ INSERT INTO artisans_urls VALUES(11258,388,'URL_MINIATURES','https://storage.scr
 INSERT INTO artisans_urls VALUES(11259,388,'URL_MINIATURES','https://storage.scritch.es/scritch/d1faaa7653043ad2dc2f956ba820b3510ed01ad7/thumbnail_5cd24cfd-328e-445c-b494-0f2cda040f77.jpeg#r90d30');
 INSERT INTO artisans_urls VALUES(11260,388,'URL_MINIATURES','https://storage.scritch.es/scritch/adbea836fe4362919b36ff75b6ec1a0e7628b7a4/thumbnail_f722a244-39ed-4c7f-8a97-a8bb14f5328b.jpeg#r90d30');
 INSERT INTO artisans_urls VALUES(11261,388,'URL_MINIATURES','https://storage.scritch.es/scritch/89b205bf27e674f91587fcdf4fbd9e3f1058a86f/thumbnail_2bca7847-2c05-47da-a92a-d52fd7e7141b.jpeg#r90d30');
+INSERT INTO artisans_urls VALUES(11262,542,'URL_WEBSITE','https://mayingfantasycreations.com/');
+INSERT INTO artisans_urls VALUES(11263,542,'URL_PRICES','https://mayingfantasycreations.com/prices-and-styles/');
+INSERT INTO artisans_urls VALUES(11264,542,'URL_COMMISSIONS','https://mayingfantasycreations.com/quotes/');
+INSERT INTO artisans_urls VALUES(11265,542,'URL_FAQ','https://mayingfantasycreations.com/faq/');
+INSERT INTO artisans_urls VALUES(11266,542,'URL_FACEBOOK','https://www.facebook.com/mayingfantasycreations/');
+INSERT INTO artisans_urls VALUES(11267,542,'URL_INSTAGRAM','https://www.instagram.com/mayingfantasycreations/');
+INSERT INTO artisans_urls VALUES(11268,542,'URL_QUEUE','https://trello.com/b/ut8XdpYG/maying-fantasy-creations');
 COMMIT;
