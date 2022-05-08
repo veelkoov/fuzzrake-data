@@ -462,4 +462,8 @@ INSERT INTO events VALUES(474,'2022-05-02 00:06:36','CS_UPDATED','Unleashed Stud
 INSERT INTO events VALUES(475,'2022-05-02 12:06:32','CS_UPDATED','The Grotto Creations',0,0,0,'','https://twitter.com/GrottoCreations','','Commissions','',0);
 INSERT INTO events VALUES(476,'2022-05-03 00:06:37','CS_UPDATED','Obsidian Suits',0,0,0,'','https://twitter.com/obsidiansuits','','Commissions','',1);
 INSERT INTO events VALUES(477,'2022-05-03 14:49:00','DATA_UPDATED','',0,2,0,'49e60a7460e5d625e95d78daec53599b01e16fb5','','','','',0);
+INSERT INTO events VALUES(478,'2022-05-05 00:06:44','CS_UPDATED','CCS Mascots',0,0,0,'','http://ccsmascots.com/commission-pricing-2/','','Quotes','',1);
+INSERT INTO events VALUES(479,'2022-05-05 00:06:44','CS_UPDATED','blueeyedferret',0,0,0,'','https://twitter.com/blueeyedferret','','Commissions','',1);
+INSERT INTO events VALUES(480,'2022-05-05 12:06:34','CS_UPDATED','CCS Mascots',0,0,0,'','http://ccsmascots.com/commission-pricing-2/','','','Quotes',0);
+INSERT INTO events VALUES(481,'2022-05-06 00:06:31','CS_UPDATED','Shiryudesign',0,0,0,'','https://www.shiryudesign.de/','','','Commissions',0);
 COMMIT;
