@@ -466,4 +466,17 @@ INSERT INTO events VALUES(478,'2022-05-05 00:06:44','CS_UPDATED','CCS Mascots',0
 INSERT INTO events VALUES(479,'2022-05-05 00:06:44','CS_UPDATED','blueeyedferret',0,0,0,'','https://twitter.com/blueeyedferret','','Commissions','',1);
 INSERT INTO events VALUES(480,'2022-05-05 12:06:34','CS_UPDATED','CCS Mascots',0,0,0,'','http://ccsmascots.com/commission-pricing-2/','','','Quotes',0);
 INSERT INTO events VALUES(481,'2022-05-06 00:06:31','CS_UPDATED','Shiryudesign',0,0,0,'','https://www.shiryudesign.de/','','','Commissions',0);
+INSERT INTO events VALUES(482,'2022-05-08 06:56:00','DATA_UPDATED','',1,0,0,'040cc4be4deceefa294060a3172c6639802f5ca0','','','','',0);
+INSERT INTO events VALUES(483,'2022-05-10 00:06:48','CS_UPDATED','Skylight Suits',0,0,0,'','http://skylightsuits.com/','','Quotes','',1);
+INSERT INTO events VALUES(484,'2022-05-10 12:06:37','CS_UPDATED','Skylight Suits',0,0,0,'','http://skylightsuits.com/','','','Quotes',0);
+INSERT INTO events VALUES(485,'2022-05-11 00:06:28','CS_UPDATED','Unleashed Studios',0,0,0,'','https://twitter.com/UnleashedSTU','','Commissions','',0);
+INSERT INTO events VALUES(486,'2022-05-11 12:06:40','CS_UPDATED','Chaoticreations',0,0,0,'','https://www.chaoticreations.co.uk/commissions','','','Quotes',0);
+INSERT INTO events VALUES(487,'2022-05-11 12:06:40','CS_UPDATED','Ruff Stuff Costumes',0,0,0,'','https://ruffstuffcostumes.webs.com/','','Commissions','',1);
+INSERT INTO events VALUES(488,'2022-05-12 00:06:30','CS_UPDATED','Creations by LadyNightLight',0,0,0,'','https://www.furaffinity.net/user/ladynightlight/','','Trades','',1);
+INSERT INTO events VALUES(489,'2022-05-12 00:06:30','CS_UPDATED','Ruff Stuff Costumes',0,0,0,'','https://ruffstuffcostumes.webs.com/','','','Commissions',0);
+INSERT INTO events VALUES(490,'2022-05-13 00:06:45','CS_UPDATED','RandDfursuits',0,0,0,'','https://www.furaffinity.net/user/randdfursuits/','','','Commissions',0);
+INSERT INTO events VALUES(491,'2022-05-13 00:06:45','CS_UPDATED','Skylight Suits',0,0,0,'','http://skylightsuits.com/','','Quotes','',1);
+INSERT INTO events VALUES(492,'2022-05-13 12:06:32','CS_UPDATED','Skylight Suits',0,0,0,'','http://skylightsuits.com/','','','Quotes',0);
+INSERT INTO events VALUES(493,'2022-05-13 12:06:32','CS_UPDATED','WearCat Creations',0,0,0,'','https://wearcatcreations.com/','','Commissions','',1);
+INSERT INTO events VALUES(494,'2022-05-15 12:06:32','CS_UPDATED','Kemoyagi',0,0,0,'','https://www.kemoyagi.com/','','','Commissions',1);
 COMMIT;
