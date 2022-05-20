@@ -479,4 +479,11 @@ INSERT INTO events VALUES(491,'2022-05-13 00:06:45','CS_UPDATED','Skylight Suits
 INSERT INTO events VALUES(492,'2022-05-13 12:06:32','CS_UPDATED','Skylight Suits',0,0,0,'','http://skylightsuits.com/','','','Quotes',0);
 INSERT INTO events VALUES(493,'2022-05-13 12:06:32','CS_UPDATED','WearCat Creations',0,0,0,'','https://wearcatcreations.com/','','Commissions','',1);
 INSERT INTO events VALUES(494,'2022-05-15 12:06:32','CS_UPDATED','Kemoyagi',0,0,0,'','https://www.kemoyagi.com/','','','Commissions',1);
+INSERT INTO events VALUES(495,'2022-05-17 00:06:50','CS_UPDATED','Skylight Suits',0,0,0,'','http://skylightsuits.com/','','Quotes','',1);
+INSERT INTO events VALUES(496,'2022-05-17 12:06:59','CS_UPDATED','Skylight Suits',0,0,0,'','http://skylightsuits.com/','','','Quotes',0);
+INSERT INTO events VALUES(497,'2022-05-17 12:06:59','CS_UPDATED','Nyxia Creations',0,0,0,'','https://astranyxia.wixsite.com/nyxiacreations','',replace('Quotes\nParts','\n',char(10)),'',1);
+INSERT INTO events VALUES(498,'2022-05-18 00:06:43','CS_UPDATED','Nyxia Creations',0,0,0,'','https://astranyxia.wixsite.com/nyxiacreations','','',replace('Quotes\nParts','\n',char(10)),0);
+INSERT INTO events VALUES(499,'2022-05-18 12:06:28','CS_UPDATED','Kemoyagi',0,0,0,'','https://www.kemoyagi.com/','','Commissions','',0);
+INSERT INTO events VALUES(500,'2022-05-19 00:06:38','CS_UPDATED','Mixed Monsters',0,0,0,'','https://twitter.com/MixedMonsters','','','Commissions',0);
+INSERT INTO events VALUES(501,'2022-05-19 12:06:33','CS_UPDATED','Chaoticreations',0,0,0,'','https://www.chaoticreations.co.uk/commissions','','Quotes','',0);
 COMMIT;
