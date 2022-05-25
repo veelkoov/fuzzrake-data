@@ -486,4 +486,11 @@ INSERT INTO events VALUES(498,'2022-05-18 00:06:43','CS_UPDATED','Nyxia Creation
 INSERT INTO events VALUES(499,'2022-05-18 12:06:28','CS_UPDATED','Kemoyagi',0,0,0,'','https://www.kemoyagi.com/','','Commissions','',0);
 INSERT INTO events VALUES(500,'2022-05-19 00:06:38','CS_UPDATED','Mixed Monsters',0,0,0,'','https://twitter.com/MixedMonsters','','','Commissions',0);
 INSERT INTO events VALUES(501,'2022-05-19 12:06:33','CS_UPDATED','Chaoticreations',0,0,0,'','https://www.chaoticreations.co.uk/commissions','','Quotes','',0);
+INSERT INTO events VALUES(502,'2022-05-20 19:32:00','DATA_UPDATED','',2,1,0,'7972c14760da5157c5afd96ea68476f9575fbcb1','','','','',0);
+INSERT INTO events VALUES(503,'2022-05-21 12:06:33','CS_UPDATED','grayREALM Studio',0,0,0,'','https://www.grayrealmstudio.com/commission-status','',replace('Parts\nRefurbishments','\n',char(10)),'',0);
+INSERT INTO events VALUES(504,'2022-05-21 18:25:00','DATA_UPDATED','',2,0,0,'edaef916315ed43f5a696418077cff60d1d14787','','','','',0);
+INSERT INTO events VALUES(505,'2022-05-22 00:06:34','CS_UPDATED','Godbee Gardens',0,0,0,'','https://trello.com/b/gOkrlK8x/godbeegardens','','','Commissions',0);
+INSERT INTO events VALUES(506,'2022-05-22 12:06:32','CS_UPDATED','Chaoticreations',0,0,0,'','https://www.chaoticreations.co.uk/commissions','','','Commissions',0);
+INSERT INTO events VALUES(507,'2022-05-23 00:06:41','CS_UPDATED','Miggs Creations',0,0,0,'','https://miggscreations.carrd.co/#comms','','Commissions','',0);
+INSERT INTO events VALUES(508,'2022-05-25 00:06:45','CS_UPDATED','KingBayArt',0,0,0,'','https://kingbayler.wixsite.com/28ghostiez','','','Commissions',0);
 COMMIT;
