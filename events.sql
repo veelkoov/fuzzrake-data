@@ -493,4 +493,12 @@ INSERT INTO events VALUES(505,'2022-05-22 00:06:34','CS_UPDATED','Godbee Gardens
 INSERT INTO events VALUES(506,'2022-05-22 12:06:32','CS_UPDATED','Chaoticreations',0,0,0,'','https://www.chaoticreations.co.uk/commissions','','','Commissions',0);
 INSERT INTO events VALUES(507,'2022-05-23 00:06:41','CS_UPDATED','Miggs Creations',0,0,0,'','https://miggscreations.carrd.co/#comms','','Commissions','',0);
 INSERT INTO events VALUES(508,'2022-05-25 00:06:45','CS_UPDATED','KingBayArt',0,0,0,'','https://kingbayler.wixsite.com/28ghostiez','','','Commissions',0);
+INSERT INTO events VALUES(509,'2022-05-25 20:59:50','CS_UPDATED','Kiki''s Creations',0,0,0,'','https://twitter.com/kikis_creation','','',replace('Quotes\nCommissions','\n',char(10)),0);
+INSERT INTO events VALUES(510,'2022-05-25 21:01:00','DATA_UPDATED','',1,2,0,'6c4abc6cf1914a7711dc9b9f0cdf9fe042819457','','','','',0);
+INSERT INTO events VALUES(511,'2022-05-26 00:07:02','CS_UPDATED','Skylight Suits',0,0,0,'','http://skylightsuits.com/','','Quotes','',1);
+INSERT INTO events VALUES(512,'2022-05-26 12:06:45','CS_UPDATED','Skylight Suits',0,0,0,'','http://skylightsuits.com/','','','Quotes',0);
+INSERT INTO events VALUES(513,'2022-05-27 00:06:40','CS_UPDATED','Skylight Suits',0,0,0,'','http://skylightsuits.com/','','Quotes','',1);
+INSERT INTO events VALUES(514,'2022-05-27 00:06:40','CS_UPDATED','Kiki''s Creations',0,0,0,'','https://twitter.com/kikis_creation','','Commissions','',0);
+INSERT INTO events VALUES(515,'2022-05-27 12:06:39','CS_UPDATED','Skylight Suits',0,0,0,'','http://skylightsuits.com/','','','Quotes',0);
+INSERT INTO events VALUES(516,'2022-05-28 00:06:43','CS_UPDATED','T.O.P. Dog Studios',0,0,0,'','http://thatonepinkdog.studio/fursuit-prices','','',replace('Quotes\nCommissions\nParts','\n',char(10)),0);
 COMMIT;
