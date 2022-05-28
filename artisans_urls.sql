@@ -1715,9 +1715,6 @@ INSERT INTO artisans_urls VALUES(9409,394,'URL_PRICES','https://ravenscreaturecr
 INSERT INTO artisans_urls VALUES(9410,394,'URL_COMMISSIONS','https://ravenscreaturecreations.godaddysites.com/');
 INSERT INTO artisans_urls VALUES(9411,395,'URL_WEBSITE','https://kingbayler.wixsite.com/28ghostiez');
 INSERT INTO artisans_urls VALUES(9412,395,'URL_PRICES','https://kingbayler.wixsite.com/28ghostiez/prices');
-INSERT INTO artisans_urls VALUES(9413,395,'URL_TWITTER','https://twitter.com/kingbayler');
-INSERT INTO artisans_urls VALUES(9414,395,'URL_INSTAGRAM','https://www.instagram.com/king_bay_art/');
-INSERT INTO artisans_urls VALUES(9415,395,'URL_QUEUE','https://trello.com/b/8G8Rd7ga/kingbayart');
 INSERT INTO artisans_urls VALUES(9416,396,'URL_WEBSITE','https://www.facebook.com/suitsfurthesoul/');
 INSERT INTO artisans_urls VALUES(9417,396,'URL_PRICES','https://www.facebook.com/pg/suitsfurthesoul/services/');
 INSERT INTO artisans_urls VALUES(9418,23,'URL_PRICES','https://craftyvulpine.com/pricing');
@@ -3406,4 +3403,6 @@ INSERT INTO artisans_urls VALUES(11321,547,'URL_LINKLIST','https://linktr.ee/laz
 INSERT INTO artisans_urls VALUES(11322,547,'URL_QUEUE','https://trello.com/b/mo8ELnL6/kikis-creations');
 INSERT INTO artisans_urls VALUES(11323,547,'URL_SCRITCH','https://scritch.es/kikiscreations');
 INSERT INTO artisans_urls VALUES(11324,547,'URL_FURTRACK','https://www.furtrack.com/user/kikiscreations');
+INSERT INTO artisans_urls VALUES(11325,395,'URL_TWITTER','https://twitter.com/28ghostiez');
+INSERT INTO artisans_urls VALUES(11326,395,'URL_INSTAGRAM','https://www.instagram.com/28ghostiez/');
 COMMIT;
