@@ -3406,4 +3406,5 @@ INSERT INTO artisans_urls VALUES(11324,547,'URL_FURTRACK','https://www.furtrack.
 INSERT INTO artisans_urls VALUES(11325,395,'URL_TWITTER','https://twitter.com/28ghostiez');
 INSERT INTO artisans_urls VALUES(11326,395,'URL_INSTAGRAM','https://www.instagram.com/28ghostiez/');
 INSERT INTO artisans_urls VALUES(11327,540,'URL_OTHER_SHOP','https://cetaceanimagination.wixsite.com/home/shop-1');
+INSERT INTO artisans_urls VALUES(11328,512,'URL_FURSUITREVIEW','https://fursuitreview.com/m/aussiestudios/');
 COMMIT;

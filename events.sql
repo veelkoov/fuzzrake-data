@@ -501,4 +501,7 @@ INSERT INTO events VALUES(513,'2022-05-27 00:06:40','CS_UPDATED','Skylight Suits
 INSERT INTO events VALUES(514,'2022-05-27 00:06:40','CS_UPDATED','Kiki''s Creations',0,0,0,'','https://twitter.com/kikis_creation','','Commissions','',0);
 INSERT INTO events VALUES(515,'2022-05-27 12:06:39','CS_UPDATED','Skylight Suits',0,0,0,'','http://skylightsuits.com/','','','Quotes',0);
 INSERT INTO events VALUES(516,'2022-05-28 00:06:43','CS_UPDATED','T.O.P. Dog Studios',0,0,0,'','http://thatonepinkdog.studio/fursuit-prices','','',replace('Quotes\nCommissions\nParts','\n',char(10)),0);
+INSERT INTO events VALUES(517,'2022-05-28 15:42:00','DATA_UPDATED','',0,1,0,'c0e3ada6b957d4031e38b7d552532ed113df7835','','','','',0);
+INSERT INTO events VALUES(518,'2022-05-28 20:21:00','DATA_UPDATED','',0,1,0,'67ede4b7061986589ec3a8203001f7883f6cd552','','','','',0);
+INSERT INTO events VALUES(519,'2022-06-01 12:06:41','CS_UPDATED','Kitten Cafe Studios',0,0,0,'','http://www.kittencafestudios.com/','','','Commissions',0);
 COMMIT;
