@@ -2756,7 +2756,6 @@ INSERT INTO artisans_urls VALUES(10642,501,'URL_TWITTER','https://twitter.com/Os
 INSERT INTO artisans_urls VALUES(10643,501,'URL_INSTAGRAM','https://www.instagram.com/thesoftestfursuits_creations/');
 INSERT INTO artisans_urls VALUES(10644,501,'URL_YOUTUBE','https://www.youtube.com/oshamythefurry');
 INSERT INTO artisans_urls VALUES(10645,501,'URL_LINKLIST','https://linktr.ee/Oshamy');
-INSERT INTO artisans_urls VALUES(10646,501,'URL_OTHER','https://t.me/OshamyArt');
 INSERT INTO artisans_urls VALUES(10647,427,'URL_FURSUITREVIEW','https://fursuitreview.com/m/howlmetal-horrors/');
 INSERT INTO artisans_urls VALUES(10648,492,'URL_WEBSITE','https://diinokit.weebly.com/');
 INSERT INTO artisans_urls VALUES(10651,502,'URL_WEBSITE','https://www.phuzzytongue.com/');
@@ -3429,4 +3428,5 @@ INSERT INTO artisans_urls VALUES(11357,549,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(11358,17,'URL_PRICES','https://www.direcreatures.com/pricelist.html');
 INSERT INTO artisans_urls VALUES(11359,17,'URL_COMMISSIONS','https://www.direcreatures.com/');
 INSERT INTO artisans_urls VALUES(11360,17,'URL_FAQ','https://www.direcreatures.com/tos.html');
+INSERT INTO artisans_urls VALUES(11361,501,'URL_QUEUE','https://t.me/OshamyArt');
 COMMIT;
