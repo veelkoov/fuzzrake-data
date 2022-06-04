@@ -2696,8 +2696,6 @@ INSERT INTO artisans_urls VALUES(10568,374,'URL_MINIATURES','https://storage.scr
 INSERT INTO artisans_urls VALUES(10571,363,'URL_TWITTER','https://twitter.com/SaltyBunnyCos');
 INSERT INTO artisans_urls VALUES(10572,363,'URL_COMMISSIONS','https://twitter.com/SaltyBunnyCos');
 INSERT INTO artisans_urls VALUES(10573,17,'URL_WEBSITE','http://www.direcreatures.com/');
-INSERT INTO artisans_urls VALUES(10578,17,'URL_PRICES','https://direcreatures.weebly.com/pricelist.html');
-INSERT INTO artisans_urls VALUES(10579,17,'URL_FAQ','https://direcreatures.weebly.com/tos--pricelist.html');
 INSERT INTO artisans_urls VALUES(10580,462,'URL_FURSUITREVIEW','https://fursuitreview.com/m/naritacoree/');
 INSERT INTO artisans_urls VALUES(10581,495,'URL_WEBSITE','https://birdsblood.carrd.co/');
 INSERT INTO artisans_urls VALUES(10582,495,'URL_PRICES','https://birdsblood.carrd.co/');
@@ -3191,7 +3189,6 @@ INSERT INTO artisans_urls VALUES(11101,441,'URL_FURTRACK','https://www.furtrack.
 INSERT INTO artisans_urls VALUES(11102,441,'URL_PHOTOS','https://scritch.es/pictures/4e0e931f-d1ff-4a9a-a540-443e51b86e75');
 INSERT INTO artisans_urls VALUES(11103,441,'URL_PHOTOS','https://scritch.es/pictures/1856cc68-419c-4543-80e2-7ea97ead919b');
 INSERT INTO artisans_urls VALUES(11104,441,'URL_PHOTOS','https://scritch.es/pictures/22217b02-14fa-4e7f-94ab-f138862cdbff');
-INSERT INTO artisans_urls VALUES(11110,17,'URL_COMMISSIONS','https://direcreatures.weebly.com/');
 INSERT INTO artisans_urls VALUES(11111,529,'URL_COMMISSIONS','https://www.instagram.com/furring_dead/');
 INSERT INTO artisans_urls VALUES(11112,529,'URL_TWITTER','https://twitter.com/KingDallasDead');
 INSERT INTO artisans_urls VALUES(11113,529,'URL_INSTAGRAM','https://www.instagram.com/furring_dead/');
@@ -3429,4 +3426,7 @@ INSERT INTO artisans_urls VALUES(11354,546,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(11355,546,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/86655-baddcef5ae2d75abe148ad1749850ba8.jpg');
 INSERT INTO artisans_urls VALUES(11356,549,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/71934-7a9b814ab0012c7aa3cc7981f967f303.jpg');
 INSERT INTO artisans_urls VALUES(11357,549,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/72214-0cc80a8a28eca9ad0af966919c02ee4a.jpg');
+INSERT INTO artisans_urls VALUES(11358,17,'URL_PRICES','https://www.direcreatures.com/pricelist.html');
+INSERT INTO artisans_urls VALUES(11359,17,'URL_COMMISSIONS','https://www.direcreatures.com/');
+INSERT INTO artisans_urls VALUES(11360,17,'URL_FAQ','https://www.direcreatures.com/tos.html');
 COMMIT;
