@@ -504,4 +504,13 @@ INSERT INTO events VALUES(516,'2022-05-28 00:06:43','CS_UPDATED','T.O.P. Dog Stu
 INSERT INTO events VALUES(517,'2022-05-28 15:42:00','DATA_UPDATED','',0,1,0,'c0e3ada6b957d4031e38b7d552532ed113df7835','','','','',0);
 INSERT INTO events VALUES(518,'2022-05-28 20:21:00','DATA_UPDATED','',0,1,0,'67ede4b7061986589ec3a8203001f7883f6cd552','','','','',0);
 INSERT INTO events VALUES(519,'2022-06-01 12:06:41','CS_UPDATED','Kitten Cafe Studios',0,0,0,'','http://www.kittencafestudios.com/','','','Commissions',0);
+INSERT INTO events VALUES(520,'2022-06-03 21:48:00','DATA_UPDATED','',2,1,0,'7b64f29257984dd604dc5bfb722fb16bf10a82fb','','','','',0);
+INSERT INTO events VALUES(521,'2022-06-04 09:23:00','DATA_UPDATED','',0,1,0,'7108547ab76969e21e80222fadb33dacee04a951','','','','',0);
+INSERT INTO events VALUES(522,'2022-06-04 17:22:00','DATA_UPDATED','',0,1,0,'86a9db2edb544440d660591f85c5c5192bdbef40','','','','',0);
+INSERT INTO events VALUES(523,'2022-06-05 00:06:51','CS_UPDATED','Chaoticreations',0,0,0,'','https://www.chaoticreations.co.uk/commissions','','Commissions','',0);
+INSERT INTO events VALUES(524,'2022-06-07 00:07:01','CS_UPDATED','Mixed Monsters',0,0,0,'','https://twitter.com/MixedMonsters','','Commissions','',0);
+INSERT INTO events VALUES(525,'2022-06-07 00:07:01','CS_UPDATED','2 Stupid Furs',0,0,0,'','https://2stupidfurs.weebly.com/prices---quote-forms---tos.html','','','Commissions',0);
+INSERT INTO events VALUES(526,'2022-06-08 00:07:07','CS_UPDATED','Skylight Suits',0,0,0,'','http://skylightsuits.com/','','Quotes','',1);
+INSERT INTO events VALUES(527,'2022-06-08 00:07:07','CS_UPDATED','KingBayArt',0,0,0,'','https://kingbayler.wixsite.com/28ghostiez','','Commissions','',0);
+INSERT INTO events VALUES(528,'2022-06-08 12:07:07','CS_UPDATED','Skylight Suits',0,0,0,'','http://skylightsuits.com/','','','Quotes',0);
 COMMIT;
