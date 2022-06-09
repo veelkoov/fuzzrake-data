@@ -513,4 +513,5 @@ INSERT INTO events VALUES(525,'2022-06-07 00:07:01','CS_UPDATED','2 Stupid Furs'
 INSERT INTO events VALUES(526,'2022-06-08 00:07:07','CS_UPDATED','Skylight Suits',0,0,0,'','http://skylightsuits.com/','','Quotes','',1);
 INSERT INTO events VALUES(527,'2022-06-08 00:07:07','CS_UPDATED','KingBayArt',0,0,0,'','https://kingbayler.wixsite.com/28ghostiez','','Commissions','',0);
 INSERT INTO events VALUES(528,'2022-06-08 12:07:07','CS_UPDATED','Skylight Suits',0,0,0,'','http://skylightsuits.com/','','','Quotes',0);
+INSERT INTO events VALUES(529,'2022-06-09 17:42:17','CS_UPDATED','Furry Frenzy Studios',0,0,0,'','https://www.instagram.com/furryfr3nzy/','','',replace('Quotes\nCommissions','\n',char(10)),1);
 COMMIT;
