@@ -514,4 +514,7 @@ INSERT INTO events VALUES(526,'2022-06-08 00:07:07','CS_UPDATED','Skylight Suits
 INSERT INTO events VALUES(527,'2022-06-08 00:07:07','CS_UPDATED','KingBayArt',0,0,0,'','https://kingbayler.wixsite.com/28ghostiez','','Commissions','',0);
 INSERT INTO events VALUES(528,'2022-06-08 12:07:07','CS_UPDATED','Skylight Suits',0,0,0,'','http://skylightsuits.com/','','','Quotes',0);
 INSERT INTO events VALUES(529,'2022-06-09 17:42:17','CS_UPDATED','Furry Frenzy Studios',0,0,0,'','https://www.instagram.com/furryfr3nzy/','','',replace('Quotes\nCommissions','\n',char(10)),1);
+INSERT INTO events VALUES(530,'2022-06-09 17:43:00','DATA_UPDATED','',2,0,0,'a6ad80763cd240e66d3d14839b3d8f758dfc16ea','','','','',0);
+INSERT INTO events VALUES(531,'2022-06-10 00:06:45','CS_UPDATED','Furry Frenzy Studios',0,0,0,'','https://www.instagram.com/furryfr3nzy/','',replace('Quotes\nCommissions','\n',char(10)),'',1);
+INSERT INTO events VALUES(532,'2022-06-10 12:06:52','CS_UPDATED','Kilcodo Costumes',0,0,0,'','http://www.kilcodocostumes.com/','','','Quotes',0);
 COMMIT;
