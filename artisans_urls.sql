@@ -3445,4 +3445,12 @@ INSERT INTO artisans_urls VALUES(11382,109,'URL_FACEBOOK','https://www.facebook.
 INSERT INTO artisans_urls VALUES(11383,109,'URL_TUMBLR','https://lobitoworks.tumblr.com/');
 INSERT INTO artisans_urls VALUES(11384,109,'URL_INSTAGRAM','https://www.instagram.com/lobitoworks/');
 INSERT INTO artisans_urls VALUES(11385,109,'URL_COMMISSIONS','https://www.lobitoworks.com/commissions.html');
+INSERT INTO artisans_urls VALUES(11387,552,'URL_WEBSITE','https://www.sasa-creations.de/');
+INSERT INTO artisans_urls VALUES(11388,552,'URL_PRICES','https://www.sasa-creations.de/preise/');
+INSERT INTO artisans_urls VALUES(11389,552,'URL_COMMISSIONS','https://www.sasa-creations.de/commission-status/');
+INSERT INTO artisans_urls VALUES(11390,552,'URL_FAQ','https://www.sasa-creations.de/faq/');
+INSERT INTO artisans_urls VALUES(11391,552,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/~sasa/');
+INSERT INTO artisans_urls VALUES(11392,552,'URL_TWITTER','https://twitter.com/Sasa_Creations');
+INSERT INTO artisans_urls VALUES(11393,552,'URL_ETSY','https://www.etsy.com/shop/SasaCreationsDE');
+INSERT INTO artisans_urls VALUES(11394,552,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/search/other-items/?username=sasa_creations&user_id=115042');
 COMMIT;
