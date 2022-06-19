@@ -517,4 +517,14 @@ INSERT INTO events VALUES(529,'2022-06-09 17:42:17','CS_UPDATED','Furry Frenzy S
 INSERT INTO events VALUES(530,'2022-06-09 17:43:00','DATA_UPDATED','',2,0,0,'a6ad80763cd240e66d3d14839b3d8f758dfc16ea','','','','',0);
 INSERT INTO events VALUES(531,'2022-06-10 00:06:45','CS_UPDATED','Furry Frenzy Studios',0,0,0,'','https://www.instagram.com/furryfr3nzy/','',replace('Quotes\nCommissions','\n',char(10)),'',1);
 INSERT INTO events VALUES(532,'2022-06-10 12:06:52','CS_UPDATED','Kilcodo Costumes',0,0,0,'','http://www.kilcodocostumes.com/','','','Quotes',0);
+INSERT INTO events VALUES(533,'2022-06-11 00:06:58','CS_UPDATED','Starcane Arts',0,0,0,'','https://www.starcanearts.com/pricing','','','Commissions',0);
+INSERT INTO events VALUES(534,'2022-06-11 22:27:47','CS_UPDATED','ArtZora Studios',0,0,0,'','https://artzorastudios.weebly.com/fursuit-commissions.html','','','Commissions',0);
+INSERT INTO events VALUES(535,'2022-06-11 22:29:00','DATA_UPDATED','',1,2,0,'d68a1ea9239fef905917b3f91f89b8356691113f','','','','',0);
+INSERT INTO events VALUES(536,'2022-06-13 00:06:47','CS_UPDATED','CCS Mascots',0,0,0,'','http://ccsmascots.com/commission-pricing-2/','','','Commissions',0);
+INSERT INTO events VALUES(537,'2022-06-14 00:07:07','CS_UPDATED','Kilcodo Costumes',0,0,0,'','http://www.kilcodocostumes.com/','','Quotes','',0);
+INSERT INTO events VALUES(538,'2022-06-14 00:07:07','CS_UPDATED','Skylight Suits',0,0,0,'','http://skylightsuits.com/','','Quotes','',1);
+INSERT INTO events VALUES(539,'2022-06-14 12:06:56','CS_UPDATED','Skylight Suits',0,0,0,'','http://skylightsuits.com/','','','Quotes',0);
+INSERT INTO events VALUES(540,'2022-06-15 12:07:01','CS_UPDATED','Skylight Suits',0,0,0,'','http://skylightsuits.com/','','Quotes','',1);
+INSERT INTO events VALUES(541,'2022-06-16 00:07:03','CS_UPDATED','Skylight Suits',0,0,0,'','http://skylightsuits.com/','','','Quotes',0);
+INSERT INTO events VALUES(542,'2022-06-18 12:06:58','CS_UPDATED','Starcane Arts',0,0,0,'','https://www.starcanearts.com/pricing','','Commissions','',0);
 COMMIT;

@@ -3445,6 +3445,7 @@ INSERT INTO artisans_urls VALUES(11382,109,'URL_FACEBOOK','https://www.facebook.
 INSERT INTO artisans_urls VALUES(11383,109,'URL_TUMBLR','https://lobitoworks.tumblr.com/');
 INSERT INTO artisans_urls VALUES(11384,109,'URL_INSTAGRAM','https://www.instagram.com/lobitoworks/');
 INSERT INTO artisans_urls VALUES(11385,109,'URL_COMMISSIONS','https://www.lobitoworks.com/commissions.html');
+INSERT INTO artisans_urls VALUES(11386,551,'URL_FURSUITREVIEW','https://fursuitreview.com/m/furry-frenzy-studios/');
 INSERT INTO artisans_urls VALUES(11387,552,'URL_WEBSITE','https://www.sasa-creations.de/');
 INSERT INTO artisans_urls VALUES(11388,552,'URL_PRICES','https://www.sasa-creations.de/preise/');
 INSERT INTO artisans_urls VALUES(11389,552,'URL_COMMISSIONS','https://www.sasa-creations.de/commission-status/');
@@ -3468,4 +3469,14 @@ INSERT INTO artisans_urls VALUES(11406,553,'URL_LINKLIST','https://linktr.ee/tri
 INSERT INTO artisans_urls VALUES(11407,553,'URL_ETSY','https://www.etsy.com/shop/TrinketWorksCreative');
 INSERT INTO artisans_urls VALUES(11408,553,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/search/other-items/?username=ghostinthepouch&user_id=134805');
 INSERT INTO artisans_urls VALUES(11409,553,'URL_QUEUE','https://t.me/+PLskK6t8zsBhMmUz');
+INSERT INTO artisans_urls VALUES(11410,429,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/87780-bd433cacf1da8b5903ccf77963061f02.jpg');
+INSERT INTO artisans_urls VALUES(11411,429,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/87781-cdbaee59a8ed23bc6acbfcd7d9110062.png');
+INSERT INTO artisans_urls VALUES(11412,429,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/87782-5fc772ed02ec95d5d8d106b86d576455.png');
+INSERT INTO artisans_urls VALUES(11413,429,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/87783-cb95dc078a3cecf7b906aaf588f7e2a1.jpg');
+INSERT INTO artisans_urls VALUES(11414,551,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/88394-f0534b981a3f27759cc869fe6412f29e.jpg');
+INSERT INTO artisans_urls VALUES(11415,551,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/88393-1de4fb0f57cc1841c455d6f2b8688739.jpg');
+INSERT INTO artisans_urls VALUES(11416,551,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/88392-2e5f58bf3951d68a478811a7a5554d60.jpg');
+INSERT INTO artisans_urls VALUES(11417,551,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/88395-33002569b4eb11d78971421b49aea794.jpg');
+INSERT INTO artisans_urls VALUES(11418,546,'URL_FURSUITREVIEW','https://fursuitreview.com/m/godbee-gardens/');
+INSERT INTO artisans_urls VALUES(11419,501,'URL_FURSUITREVIEW','https://fursuitreview.com/m/the-softest-fursuits-creations/');
 COMMIT;
