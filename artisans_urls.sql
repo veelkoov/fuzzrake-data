@@ -3495,4 +3495,5 @@ INSERT INTO artisans_urls VALUES(11432,555,'URL_TWITTER','https://twitter.com/De
 INSERT INTO artisans_urls VALUES(11433,555,'URL_INSTAGRAM','https://www.instagram.com/DeadPozzum/');
 INSERT INTO artisans_urls VALUES(11434,555,'URL_YOUTUBE','https://www.youtube.com/channel/UCJEOmUXCHOBFU3BBGYyEpuQ');
 INSERT INTO artisans_urls VALUES(11435,555,'URL_LINKLIST','https://linktr.ee/BoboMoonstone');
+INSERT INTO artisans_urls VALUES(11436,555,'URL_QUEUE','https://twitter.com/DeadPozzum');
 COMMIT;
