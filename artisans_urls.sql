@@ -1065,14 +1065,11 @@ INSERT INTO artisans_urls VALUES(1215,268,'URL_FUR_AFFINITY','https://www.furaff
 INSERT INTO artisans_urls VALUES(1216,268,'URL_DEVIANTART','https://www.deviantart.com/feralunicornfursuits');
 INSERT INTO artisans_urls VALUES(1217,268,'URL_FACEBOOK','https://www.facebook.com/FeralUnicornCostumes/');
 INSERT INTO artisans_urls VALUES(1218,268,'URL_INSTAGRAM','https://www.instagram.com/feral_unicorn_fursuits/');
-INSERT INTO artisans_urls VALUES(1219,269,'URL_WEBSITE','http://carnivcreations.weebly.com/');
-INSERT INTO artisans_urls VALUES(1220,269,'URL_PRICES','http://carnivcreations.weebly.com/fursuits.html');
 INSERT INTO artisans_urls VALUES(1221,269,'URL_DEVIANTART','https://www.deviantart.com/furyourdreams');
 INSERT INTO artisans_urls VALUES(1222,269,'URL_FACEBOOK','https://www.facebook.com/carnivcreations/');
 INSERT INTO artisans_urls VALUES(1223,269,'URL_INSTAGRAM','https://www.instagram.com/carnivcreations/');
 INSERT INTO artisans_urls VALUES(1224,269,'URL_YOUTUBE','https://www.youtube.com/channel/UCmSz4Z7uxyqj1ZC0ZWrfi7g');
 INSERT INTO artisans_urls VALUES(1225,269,'URL_QUEUE','https://trello.com/b/JhaYDul2/carniv-creations-queue');
-INSERT INTO artisans_urls VALUES(1227,269,'URL_COMMISSIONS','http://carnivcreations.weebly.com/');
 INSERT INTO artisans_urls VALUES(1230,270,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/dawnybear666/');
 INSERT INTO artisans_urls VALUES(1233,270,'URL_FACEBOOK','https://www.facebook.com/Fursnickety/');
 INSERT INTO artisans_urls VALUES(1235,270,'URL_YOUTUBE','https://www.youtube.com/channel/UCg9Sz2mNIq9iqfWzBjq82LQ');
@@ -3496,4 +3493,5 @@ INSERT INTO artisans_urls VALUES(11433,555,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(11434,555,'URL_YOUTUBE','https://www.youtube.com/channel/UCJEOmUXCHOBFU3BBGYyEpuQ');
 INSERT INTO artisans_urls VALUES(11435,555,'URL_LINKLIST','https://linktr.ee/BoboMoonstone');
 INSERT INTO artisans_urls VALUES(11436,555,'URL_QUEUE','https://twitter.com/DeadPozzum');
+INSERT INTO artisans_urls VALUES(11437,269,'URL_WEBSITE','https://www.carnivcreations.com/');
 COMMIT;
