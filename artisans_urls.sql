@@ -2623,7 +2623,6 @@ INSERT INTO artisans_urls VALUES(10467,491,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(10468,491,'URL_QUEUE','https://trello.com/b/efhb7zGk/fox-floof-comm');
 INSERT INTO artisans_urls VALUES(10469,491,'URL_SCRITCH','https://scritch.es/makers/fox-floof-studio');
 INSERT INTO artisans_urls VALUES(10470,491,'URL_FURTRACK','https://www.furtrack.com/index/maker:fox_floof_studio');
-INSERT INTO artisans_urls VALUES(10472,492,'URL_FACEBOOK','https://www.facebook.com/Diinokitart/');
 INSERT INTO artisans_urls VALUES(10473,492,'URL_INSTAGRAM','https://www.instagram.com/diinokit/');
 INSERT INTO artisans_urls VALUES(10476,492,'URL_FURTRACK','https://www.furtrack.com/index/maker:diinokit');
 INSERT INTO artisans_urls VALUES(10477,286,'URL_COMMISSIONS','https://www.furaffinity.net/user/omegapaws/');
@@ -3494,4 +3493,5 @@ INSERT INTO artisans_urls VALUES(11434,555,'URL_YOUTUBE','https://www.youtube.co
 INSERT INTO artisans_urls VALUES(11435,555,'URL_LINKLIST','https://linktr.ee/BoboMoonstone');
 INSERT INTO artisans_urls VALUES(11436,555,'URL_QUEUE','https://twitter.com/DeadPozzum');
 INSERT INTO artisans_urls VALUES(11437,269,'URL_WEBSITE','https://www.carnivcreations.com/');
+INSERT INTO artisans_urls VALUES(11438,492,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/diinokit/');
 COMMIT;
