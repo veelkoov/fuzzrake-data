@@ -3494,4 +3494,13 @@ INSERT INTO artisans_urls VALUES(11435,555,'URL_LINKLIST','https://linktr.ee/Bob
 INSERT INTO artisans_urls VALUES(11436,555,'URL_QUEUE','https://twitter.com/DeadPozzum');
 INSERT INTO artisans_urls VALUES(11437,269,'URL_WEBSITE','https://www.carnivcreations.com/');
 INSERT INTO artisans_urls VALUES(11438,492,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/diinokit/');
+INSERT INTO artisans_urls VALUES(11439,556,'URL_WEBSITE','https://builtbyaxel.vulpesvulp.es/');
+INSERT INTO artisans_urls VALUES(11440,556,'URL_PRICES','https://builtbyaxel.vulpesvulp.es/pricing/');
+INSERT INTO artisans_urls VALUES(11441,556,'URL_TWITTER','https://twitter.com/BuiltByAxel');
+INSERT INTO artisans_urls VALUES(11442,556,'URL_QUEUE','https://trello.com/b/LiqhlPiY/built-by-axel-queue');
+INSERT INTO artisans_urls VALUES(11443,557,'URL_PRICES','https://trello.com/c/rb5ObL40/14-price-guide');
+INSERT INTO artisans_urls VALUES(11444,557,'URL_COMMISSIONS','https://twitter.com/LittleKitSuits');
+INSERT INTO artisans_urls VALUES(11445,557,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/kisuneko/');
+INSERT INTO artisans_urls VALUES(11446,557,'URL_TWITTER','https://twitter.com/LittleKitSuits');
+INSERT INTO artisans_urls VALUES(11447,557,'URL_OTHER','https://trello.com/b/w1IFGrfu/little-kit-creations-commission-queue');
 COMMIT;
