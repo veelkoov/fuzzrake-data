@@ -3513,4 +3513,8 @@ INSERT INTO artisans_urls VALUES(11463,339,'URL_FURTRACK','https://www.furtrack.
 INSERT INTO artisans_urls VALUES(11464,339,'URL_OTHER',replace('http://top-dog.studio/suits-for-sale\nhttp://top-dog.studio/suit-gallery\nhttp://patreon.com/pinkdogpinclub','\n',char(10)));
 INSERT INTO artisans_urls VALUES(11465,556,'URL_FURSUITREVIEW','https://fursuitreview.com/m/built-by-axel/');
 INSERT INTO artisans_urls VALUES(11466,402,'URL_FURSUITREVIEW','https://fursuitreview.com/m/felistellar-studios/');
+INSERT INTO artisans_urls VALUES(11467,559,'URL_TWITTER','https://twitter.com/anonwolfstudios');
+INSERT INTO artisans_urls VALUES(11468,559,'URL_INSTAGRAM','https://www.instagram.com/anonwolf_studios/');
+INSERT INTO artisans_urls VALUES(11469,559,'URL_LINKLIST','https://linktr.ee/Anonwolf_Studios');
+INSERT INTO artisans_urls VALUES(11470,559,'URL_ETSY','https://www.etsy.com/shop/AnonWolfStudios');
 COMMIT;
