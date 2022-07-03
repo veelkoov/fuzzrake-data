@@ -3511,4 +3511,6 @@ INSERT INTO artisans_urls VALUES(11461,339,'URL_ETSY','https://www.etsy.com/shop
 INSERT INTO artisans_urls VALUES(11462,339,'URL_OTHER_SHOP','http://top-dog.studio/online-store');
 INSERT INTO artisans_urls VALUES(11463,339,'URL_FURTRACK','https://www.furtrack.com/index/maker:topdogstudios');
 INSERT INTO artisans_urls VALUES(11464,339,'URL_OTHER',replace('http://top-dog.studio/suits-for-sale\nhttp://top-dog.studio/suit-gallery\nhttp://patreon.com/pinkdogpinclub','\n',char(10)));
+INSERT INTO artisans_urls VALUES(11465,556,'URL_FURSUITREVIEW','https://fursuitreview.com/m/built-by-axel/');
+INSERT INTO artisans_urls VALUES(11466,402,'URL_FURSUITREVIEW','https://fursuitreview.com/m/felistellar-studios/');
 COMMIT;
