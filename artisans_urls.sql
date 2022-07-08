@@ -3517,4 +3517,14 @@ INSERT INTO artisans_urls VALUES(11467,559,'URL_TWITTER','https://twitter.com/an
 INSERT INTO artisans_urls VALUES(11468,559,'URL_INSTAGRAM','https://www.instagram.com/anonwolf_studios/');
 INSERT INTO artisans_urls VALUES(11469,559,'URL_LINKLIST','https://linktr.ee/Anonwolf_Studios');
 INSERT INTO artisans_urls VALUES(11470,559,'URL_ETSY','https://www.etsy.com/shop/AnonWolfStudios');
+INSERT INTO artisans_urls VALUES(11471,560,'URL_WEBSITE','https://www.becausefuzz.com/');
+INSERT INTO artisans_urls VALUES(11472,560,'URL_PRICES','https://www.becausefuzz.com/prices');
+INSERT INTO artisans_urls VALUES(11473,560,'URL_COMMISSIONS','https://www.becausefuzz.com/');
+INSERT INTO artisans_urls VALUES(11474,560,'URL_TWITTER','https://twitter.com/because_fuzz');
+INSERT INTO artisans_urls VALUES(11475,560,'URL_FACEBOOK','https://www.facebook.com/BecauseFuzz/');
+INSERT INTO artisans_urls VALUES(11476,560,'URL_INSTAGRAM','https://www.instagram.com/becausefuzz/');
+INSERT INTO artisans_urls VALUES(11477,560,'URL_LINKLIST','https://smolfuzz.com/');
+INSERT INTO artisans_urls VALUES(11478,560,'URL_ETSY','https://www.etsy.com/shop/BecauseFuzz');
+INSERT INTO artisans_urls VALUES(11479,560,'URL_QUEUE','https://trello.com/b/UrbgBbBG/because-fuzz-commissions');
+INSERT INTO artisans_urls VALUES(11480,560,'URL_FURTRACK','https://www.furtrack.com/index/maker:because_fuzz');
 COMMIT;
