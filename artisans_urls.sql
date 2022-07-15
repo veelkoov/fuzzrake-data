@@ -3527,4 +3527,16 @@ INSERT INTO artisans_urls VALUES(11477,560,'URL_LINKLIST','https://smolfuzz.com/
 INSERT INTO artisans_urls VALUES(11478,560,'URL_ETSY','https://www.etsy.com/shop/BecauseFuzz');
 INSERT INTO artisans_urls VALUES(11479,560,'URL_QUEUE','https://trello.com/b/UrbgBbBG/because-fuzz-commissions');
 INSERT INTO artisans_urls VALUES(11480,560,'URL_FURTRACK','https://www.furtrack.com/index/maker:because_fuzz');
+INSERT INTO artisans_urls VALUES(11481,561,'URL_WEBSITE','https://faroutfursuits.com/');
+INSERT INTO artisans_urls VALUES(11482,561,'URL_PRICES','https://faroutfursuits.com/fursuits');
+INSERT INTO artisans_urls VALUES(11483,561,'URL_COMMISSIONS','https://faroutfursuits.com/');
+INSERT INTO artisans_urls VALUES(11484,561,'URL_INSTAGRAM','https://www.instagram.com/caraline_shmaraline/');
+INSERT INTO artisans_urls VALUES(11485,561,'URL_LINKLIST','https://faroutfursuits.carrd.co/');
+INSERT INTO artisans_urls VALUES(11486,561,'URL_ETSY','https://www.etsy.com/shop/FarOutFursuits');
+INSERT INTO artisans_urls VALUES(11487,561,'URL_QUEUE','https://trello.com/b/CBN2q5kS/commissions');
+INSERT INTO artisans_urls VALUES(11488,561,'URL_SCRITCH','https://scritch.es/makers/far-out-fursuits');
+INSERT INTO artisans_urls VALUES(11489,561,'URL_FURTRACK','https://www.furtrack.com/index/maker:faroutfursuits');
+INSERT INTO artisans_urls VALUES(11490,482,'URL_TWITTER','https://twitter.com/Dogwoolowner');
+INSERT INTO artisans_urls VALUES(11491,482,'URL_LINKLIST','https://linktr.ee/DogWool');
+INSERT INTO artisans_urls VALUES(11492,482,'URL_QUEUE','https://trello.com/b/HcG1qVtI/dogwool-queue');
 COMMIT;
