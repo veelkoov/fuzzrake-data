@@ -824,7 +824,6 @@ INSERT INTO artisans_urls VALUES(935,215,'URL_TWITTER','https://twitter.com/Luno
 INSERT INTO artisans_urls VALUES(936,215,'URL_COMMISSIONS','https://wildspotworks.com/');
 INSERT INTO artisans_urls VALUES(937,216,'URL_WEBSITE','http://www.pinali.net/');
 INSERT INTO artisans_urls VALUES(938,216,'URL_TWITTER','https://twitter.com/StudioPinali');
-INSERT INTO artisans_urls VALUES(939,216,'URL_COMMISSIONS','https://twitter.com/StudioPinali');
 INSERT INTO artisans_urls VALUES(940,217,'URL_FURSUITREVIEW','https://fursuitreview.com/m/sassy-pup-creations/');
 INSERT INTO artisans_urls VALUES(944,218,'URL_FURSUITREVIEW','https://fursuitreview.com/m/sparkle-kreations/');
 INSERT INTO artisans_urls VALUES(945,218,'URL_WEBSITE','http://www.sparklekreations.com/');
@@ -3542,4 +3541,13 @@ INSERT INTO artisans_urls VALUES(11496,356,'URL_THE_DEALERS_DEN','https://www.th
 INSERT INTO artisans_urls VALUES(11497,356,'URL_QUEUE','https://trello.com/b/bZxDDrUf/yeenbug-studio');
 INSERT INTO artisans_urls VALUES(11498,492,'URL_WEBSITE','https://diinokit.carrd.co/');
 INSERT INTO artisans_urls VALUES(11499,492,'URL_COMMISSIONS','https://diinokit.carrd.co/#commissions');
+INSERT INTO artisans_urls VALUES(11500,216,'URL_PRICES','https://www.pinali.net/pricing');
+INSERT INTO artisans_urls VALUES(11501,216,'URL_COMMISSIONS','https://www.pinali.net/home');
+INSERT INTO artisans_urls VALUES(11502,216,'URL_FAQ','https://www.pinali.net/faq');
+INSERT INTO artisans_urls VALUES(11503,216,'URL_FURTRACK','https://www.furtrack.com/index/maker:studio_pinali');
+INSERT INTO artisans_urls VALUES(11504,562,'URL_WEBSITE','https://snarlsquad.com/');
+INSERT INTO artisans_urls VALUES(11505,562,'URL_PRICES','https://snarlsquad.com/#furpricing');
+INSERT INTO artisans_urls VALUES(11506,562,'URL_COMMISSIONS','https://twitter.com/snarlsquadsuits');
+INSERT INTO artisans_urls VALUES(11507,562,'URL_TWITTER','https://twitter.com/snarlsquadsuits');
+INSERT INTO artisans_urls VALUES(11508,562,'URL_QUEUE','https://trello.com/b/S1Fz1awu/luxys-suit-art-queue');
 COMMIT;
