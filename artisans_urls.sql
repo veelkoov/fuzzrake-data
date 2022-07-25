@@ -3163,9 +3163,7 @@ INSERT INTO artisans_urls VALUES(11101,441,'URL_FURTRACK','https://www.furtrack.
 INSERT INTO artisans_urls VALUES(11102,441,'URL_PHOTOS','https://scritch.es/pictures/4e0e931f-d1ff-4a9a-a540-443e51b86e75');
 INSERT INTO artisans_urls VALUES(11103,441,'URL_PHOTOS','https://scritch.es/pictures/1856cc68-419c-4543-80e2-7ea97ead919b');
 INSERT INTO artisans_urls VALUES(11104,441,'URL_PHOTOS','https://scritch.es/pictures/22217b02-14fa-4e7f-94ab-f138862cdbff');
-INSERT INTO artisans_urls VALUES(11111,529,'URL_COMMISSIONS','https://www.instagram.com/furring_dead/');
 INSERT INTO artisans_urls VALUES(11112,529,'URL_TWITTER','https://twitter.com/KingDallasDead');
-INSERT INTO artisans_urls VALUES(11113,529,'URL_INSTAGRAM','https://www.instagram.com/furring_dead/');
 INSERT INTO artisans_urls VALUES(11114,529,'URL_YOUTUBE','https://www.youtube.com/channel/UC5FD0Y-A4YszLxc242kY-Tg');
 INSERT INTO artisans_urls VALUES(11115,529,'URL_LINKLIST','https://www.flowcode.com/page/kingdallasisdead');
 INSERT INTO artisans_urls VALUES(11116,529,'URL_QUEUE','https://trello.com/b/TxhA2lW5/fursuits');
@@ -3550,4 +3548,6 @@ INSERT INTO artisans_urls VALUES(11505,562,'URL_PRICES','https://snarlsquad.com/
 INSERT INTO artisans_urls VALUES(11506,562,'URL_COMMISSIONS','https://twitter.com/snarlsquadsuits');
 INSERT INTO artisans_urls VALUES(11507,562,'URL_TWITTER','https://twitter.com/snarlsquadsuits');
 INSERT INTO artisans_urls VALUES(11508,562,'URL_QUEUE','https://trello.com/b/S1Fz1awu/luxys-suit-art-queue');
+INSERT INTO artisans_urls VALUES(11510,529,'URL_INSTAGRAM','https://www.instagram.com/madeinsheol/');
+INSERT INTO artisans_urls VALUES(11511,529,'URL_COMMISSIONS','https://www.instagram.com/madeinsheol/');
 COMMIT;
