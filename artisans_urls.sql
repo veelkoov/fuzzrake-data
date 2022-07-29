@@ -3548,6 +3548,7 @@ INSERT INTO artisans_urls VALUES(11505,562,'URL_PRICES','https://snarlsquad.com/
 INSERT INTO artisans_urls VALUES(11506,562,'URL_COMMISSIONS','https://twitter.com/snarlsquadsuits');
 INSERT INTO artisans_urls VALUES(11507,562,'URL_TWITTER','https://twitter.com/snarlsquadsuits');
 INSERT INTO artisans_urls VALUES(11508,562,'URL_QUEUE','https://trello.com/b/S1Fz1awu/luxys-suit-art-queue');
+INSERT INTO artisans_urls VALUES(11509,472,'URL_FURSUITREVIEW','https://fursuitreview.com/m/salt-valley-creations/');
 INSERT INTO artisans_urls VALUES(11510,529,'URL_INSTAGRAM','https://www.instagram.com/madeinsheol/');
 INSERT INTO artisans_urls VALUES(11511,529,'URL_COMMISSIONS','https://www.instagram.com/madeinsheol/');
 COMMIT;
