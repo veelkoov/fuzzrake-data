@@ -3597,4 +3597,5 @@ INSERT INTO artisans_urls VALUES(11563,565,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(11564,565,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/135529-1531de1fa92f9af3368bfec331b3b115.jpg');
 INSERT INTO artisans_urls VALUES(11565,565,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/135520-d8615f96e87554117129869742b20fd6.jpg');
 INSERT INTO artisans_urls VALUES(11566,565,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/135517-722e0f9d62534066e215c314a260f16e.jpg');
+INSERT INTO artisans_urls VALUES(11567,565,'URL_FURSUITREVIEW','https://fursuitreview.com/m/snyder-dragdire/');
 COMMIT;
