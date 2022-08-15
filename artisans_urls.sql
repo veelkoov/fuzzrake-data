@@ -2069,7 +2069,6 @@ INSERT INTO artisans_urls VALUES(9847,11,'URL_PRICES','https://alphadogs.dk/');
 INSERT INTO artisans_urls VALUES(9848,11,'URL_YOUTUBE','https://www.youtube.com/c/AlphaDogsStudio');
 INSERT INTO artisans_urls VALUES(9849,440,'URL_FURSUITREVIEW','https://fursuitreview.com/m/big-snoot-suits/');
 INSERT INTO artisans_urls VALUES(9850,440,'URL_WEBSITE','https://www.bigsnootsuits.com/');
-INSERT INTO artisans_urls VALUES(9851,440,'URL_PRICES','https://www.bigsnootsuits.com/home/prices');
 INSERT INTO artisans_urls VALUES(9852,440,'URL_TWITTER','https://twitter.com/BigSnootSuits');
 INSERT INTO artisans_urls VALUES(9853,440,'URL_INSTAGRAM','https://www.instagram.com/bigsnootsuits/');
 INSERT INTO artisans_urls VALUES(9854,440,'URL_LINKLIST','https://linktr.ee/bigsnootsuits');
@@ -3598,4 +3597,6 @@ INSERT INTO artisans_urls VALUES(11565,565,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(11566,565,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/135517-722e0f9d62534066e215c314a260f16e.jpg');
 INSERT INTO artisans_urls VALUES(11567,565,'URL_FURSUITREVIEW','https://fursuitreview.com/m/snyder-dragdire/');
 INSERT INTO artisans_urls VALUES(11568,276,'URL_PRICES','https://slateslothsuits.weebly.com/pricing-guide.html');
+INSERT INTO artisans_urls VALUES(11569,440,'URL_PRICES','https://bigsnootsuits.com/home/prices-menu/prices');
+INSERT INTO artisans_urls VALUES(11570,440,'URL_COMMISSIONS','https://bigsnootsuits.com/home/fursuit-quote');
 COMMIT;
