@@ -1087,7 +1087,6 @@ INSERT INTO artisans_urls VALUES(1249,274,'URL_FACEBOOK','https://www.facebook.c
 INSERT INTO artisans_urls VALUES(1250,274,'URL_YOUTUBE','https://www.youtube.com/channel/UC8cuiJMrg4YS9vl7FyJXf-Q');
 INSERT INTO artisans_urls VALUES(1251,274,'URL_COMMISSIONS','https://twitter.com/tmcfursuits');
 INSERT INTO artisans_urls VALUES(1252,276,'URL_WEBSITE','https://slateslothsuits.weebly.com/');
-INSERT INTO artisans_urls VALUES(1253,276,'URL_PRICES','https://slateslothsuits.weebly.com/gallery.html');
 INSERT INTO artisans_urls VALUES(1254,276,'URL_INSTAGRAM','https://www.instagram.com/slateslothsuits/');
 INSERT INTO artisans_urls VALUES(1255,276,'URL_QUEUE','https://trello.com/b/gmUbkPC9/fursuit-making-queue');
 INSERT INTO artisans_urls VALUES(1256,276,'URL_COMMISSIONS','https://slateslothsuits.weebly.com/');
@@ -3598,4 +3597,5 @@ INSERT INTO artisans_urls VALUES(11564,565,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(11565,565,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/135520-d8615f96e87554117129869742b20fd6.jpg');
 INSERT INTO artisans_urls VALUES(11566,565,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/135517-722e0f9d62534066e215c314a260f16e.jpg');
 INSERT INTO artisans_urls VALUES(11567,565,'URL_FURSUITREVIEW','https://fursuitreview.com/m/snyder-dragdire/');
+INSERT INTO artisans_urls VALUES(11568,276,'URL_PRICES','https://slateslothsuits.weebly.com/pricing-guide.html');
 COMMIT;
