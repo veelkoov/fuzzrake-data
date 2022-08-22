@@ -3088,7 +3088,6 @@ INSERT INTO artisans_urls VALUES(11025,523,'URL_FURRY_AMINO','http://aminoapps.c
 INSERT INTO artisans_urls VALUES(11026,523,'URL_ETSY','https://www.etsy.com/shop/NekoWerks');
 INSERT INTO artisans_urls VALUES(11027,523,'URL_QUEUE','https://trello.com/b/7wpoL5SM/commissions');
 INSERT INTO artisans_urls VALUES(11028,523,'URL_FURTRACK','https://www.furtrack.com/user/ScarletteMejia');
-INSERT INTO artisans_urls VALUES(11029,523,'URL_PHOTOS','https://www.furtrack.com/p/68919');
 INSERT INTO artisans_urls VALUES(11030,523,'URL_PHOTOS','https://www.furtrack.com/p/68920');
 INSERT INTO artisans_urls VALUES(11031,523,'URL_PHOTOS','https://www.furtrack.com/p/68921');
 INSERT INTO artisans_urls VALUES(11032,523,'URL_PHOTOS','https://www.furtrack.com/p/68922');
