@@ -671,4 +671,9 @@ INSERT INTO events VALUES(682,'2022-08-09 00:15:02','CS_UPDATED','Kemoyagi',0,0,
 INSERT INTO events VALUES(683,'2022-08-09 12:14:44','CS_UPDATED','Gatorwave',0,0,0,'','https://www.gatorwavesuits.com/','','Commissions','',0);
 INSERT INTO events VALUES(684,'2022-08-11 12:15:00','CS_UPDATED','Unleashed Studios',0,0,0,'','https://twitter.com/UnleashedSTU','','','Commissions',0);
 INSERT INTO events VALUES(685,'2022-08-15 00:14:44','CS_UPDATED','Kemoyagi',0,0,0,'','https://www.kemoyagi.com/','','Commissions','',0);
+INSERT INTO events VALUES(686,'2022-08-15 08:21:00','DATA_UPDATED','',0,1,0,'98a0c7581368d43f7b6271428106eadbed265ce0','','','','',0);
+INSERT INTO events VALUES(687,'2022-08-15 12:14:49','CS_UPDATED','Unleashed Studios',0,0,0,'','https://twitter.com/UnleashedSTU','','Commissions','',0);
+INSERT INTO events VALUES(688,'2022-08-15 20:21:00','DATA_UPDATED','',0,1,0,'c217d18ad0a89de9fc9243c813135fee429939a5','','','','',0);
+INSERT INTO events VALUES(689,'2022-08-16 00:14:52','CS_UPDATED','Desert Fizz',0,0,0,'','https://twitter.com/DesertFizz','','Commissions','',0);
+INSERT INTO events VALUES(690,'2022-08-19 22:30:00','DATA_UPDATED','',2,2,0,'ff5c4515dd11237efcf1355c11c7041bfb45b3bb','','','','',0);
 COMMIT;
