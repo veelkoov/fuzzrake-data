@@ -676,4 +676,8 @@ INSERT INTO events VALUES(687,'2022-08-15 12:14:49','CS_UPDATED','Unleashed Stud
 INSERT INTO events VALUES(688,'2022-08-15 20:21:00','DATA_UPDATED','',0,1,0,'c217d18ad0a89de9fc9243c813135fee429939a5','','','','',0);
 INSERT INTO events VALUES(689,'2022-08-16 00:14:52','CS_UPDATED','Desert Fizz',0,0,0,'','https://twitter.com/DesertFizz','','Commissions','',0);
 INSERT INTO events VALUES(690,'2022-08-19 22:30:00','DATA_UPDATED','',2,2,0,'ff5c4515dd11237efcf1355c11c7041bfb45b3bb','','','','',0);
+INSERT INTO events VALUES(691,'2022-08-22 22:25:00','DATA_UPDATED','',0,1,0,'920b3941c385a39022b8a6479049c67d1d6adff4','','','','',0);
+INSERT INTO events VALUES(692,'2022-08-22 22:38:48','CS_UPDATED','Alecrim Carmim',0,0,0,'','https://www.alecrimcarmim.com/','','',replace('Commissions\nQuotes','\n',char(10)),1);
+INSERT INTO events VALUES(693,'2022-08-24 00:15:22','CS_UPDATED','CLAWED CREATURES CREATIONS',0,0,0,'','https://clawedcreaturescreations.weebly.com/','','','Quotes',0);
+INSERT INTO events VALUES(694,'2022-08-26 12:14:40','CS_UPDATED','MaskedMerchant',0,0,0,'','https://maskedmerchant.weebly.com/fursuits.html','','Commissions','',1);
 COMMIT;
