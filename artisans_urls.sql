@@ -3624,4 +3624,5 @@ INSERT INTO artisans_urls VALUES(11599,523,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(11600,523,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/68922-4d36602b98fb3bc433efab8b6e98d0e4.jpg');
 INSERT INTO artisans_urls VALUES(11601,523,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/68924-25c90c810d34963a64748ff27ef26a25.jpg');
 INSERT INTO artisans_urls VALUES(11602,523,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/68923-232f9b0e1e63bd16e6f752c3dcba24e7.jpg');
+INSERT INTO artisans_urls VALUES(11603,566,'URL_PRICES','https://clawedcreaturescreations.weebly.com/prices.html');
 COMMIT;
