@@ -3625,4 +3625,18 @@ INSERT INTO artisans_urls VALUES(11600,523,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(11601,523,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/68924-25c90c810d34963a64748ff27ef26a25.jpg');
 INSERT INTO artisans_urls VALUES(11602,523,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/68923-232f9b0e1e63bd16e6f752c3dcba24e7.jpg');
 INSERT INTO artisans_urls VALUES(11603,566,'URL_PRICES','https://clawedcreaturescreations.weebly.com/prices.html');
+INSERT INTO artisans_urls VALUES(11604,568,'URL_COMMISSIONS','https://www.instagram.com/queen_pendas/');
+INSERT INTO artisans_urls VALUES(11605,568,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/queenpendas/');
+INSERT INTO artisans_urls VALUES(11606,568,'URL_TWITTER','https://twitter.com/QueenPendas');
+INSERT INTO artisans_urls VALUES(11607,568,'URL_INSTAGRAM','https://www.instagram.com/queen_pendas/');
+INSERT INTO artisans_urls VALUES(11608,568,'URL_LINKLIST','https://linktr.ee/queenpendas');
+INSERT INTO artisans_urls VALUES(11609,568,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/search/other-items/?username=queen_pendas&user_id=120441');
+INSERT INTO artisans_urls VALUES(11610,568,'URL_PHOTOS','https://scritch.es/pictures/c1b7eec9-f68c-4583-8eb8-cd4805ff767f');
+INSERT INTO artisans_urls VALUES(11611,568,'URL_PHOTOS','https://scritch.es/pictures/ed34da42-050f-4289-92fe-92a1136dc34a');
+INSERT INTO artisans_urls VALUES(11612,568,'URL_PHOTOS','https://scritch.es/pictures/cf0261fb-3874-46e7-8b9c-92f4fcc605db');
+INSERT INTO artisans_urls VALUES(11613,568,'URL_PHOTOS','https://scritch.es/pictures/d0c0dbcc-af37-4e22-b2e3-9afe11f7b0b5');
+INSERT INTO artisans_urls VALUES(11615,568,'URL_MINIATURES','https://storage.scritch.es/scritch/d682777e810dd101233c7dcfe3068e02d5228f15/thumbnail_43a72d5c-ccd6-40ac-8138-ce6d02bfb2e4.jpeg');
+INSERT INTO artisans_urls VALUES(11617,568,'URL_MINIATURES','https://storage.scritch.es/scritch/fb6856d03cc415f8ac70665150aa88b9ae9887f0/thumbnail_1d43163c-45ef-4ed7-a376-9763e791204c.jpeg');
+INSERT INTO artisans_urls VALUES(11618,568,'URL_MINIATURES','https://storage.scritch.es/scritch/23a374c6698a65af1e562d4c1e0db900fca8e199/thumbnail_9a5b6602-27c4-43bf-8501-3df24ac17700.jpeg#d20');
+INSERT INTO artisans_urls VALUES(11619,568,'URL_MINIATURES','https://storage.scritch.es/scritch/c388c9316f6aaca888d13c90392fb7087146fced/thumbnail_68a30de5-ab43-4551-bcaa-fdf8612d5ae1.jpeg#d30');
 COMMIT;
