@@ -3639,4 +3639,12 @@ INSERT INTO artisans_urls VALUES(11615,568,'URL_MINIATURES','https://storage.scr
 INSERT INTO artisans_urls VALUES(11617,568,'URL_MINIATURES','https://storage.scritch.es/scritch/fb6856d03cc415f8ac70665150aa88b9ae9887f0/thumbnail_1d43163c-45ef-4ed7-a376-9763e791204c.jpeg');
 INSERT INTO artisans_urls VALUES(11618,568,'URL_MINIATURES','https://storage.scritch.es/scritch/23a374c6698a65af1e562d4c1e0db900fca8e199/thumbnail_9a5b6602-27c4-43bf-8501-3df24ac17700.jpeg#d20');
 INSERT INTO artisans_urls VALUES(11619,568,'URL_MINIATURES','https://storage.scritch.es/scritch/c388c9316f6aaca888d13c90392fb7087146fced/thumbnail_68a30de5-ab43-4551-bcaa-fdf8612d5ae1.jpeg#d30');
+INSERT INTO artisans_urls VALUES(11620,569,'URL_WEBSITE','https://iridescentmirage.wordpress.com/');
+INSERT INTO artisans_urls VALUES(11621,569,'URL_PRICES','https://iridescentmirage.wordpress.com/fursuit-commissions/');
+INSERT INTO artisans_urls VALUES(11622,569,'URL_DEVIANTART','https://www.deviantart.com/iridescentmirage');
+INSERT INTO artisans_urls VALUES(11623,569,'URL_TWITTER','https://twitter.com/GuroIridescent');
+INSERT INTO artisans_urls VALUES(11624,569,'URL_PHOTOS','https://scritch.es/pictures/9ecfc142-1c92-4367-88da-43f0b3250208');
+INSERT INTO artisans_urls VALUES(11625,569,'URL_PHOTOS','https://scritch.es/pictures/f9fd4d75-e206-4eb4-b514-a9f011c194e7');
+INSERT INTO artisans_urls VALUES(11629,569,'URL_MINIATURES','https://storage.scritch.es/scritch/c1f203f9ccaf6eea9a9e3daed5e9c82526a6581a/thumbnail_d590b468-42e3-495d-86e4-a51a17e92f33.jpeg#d30');
+INSERT INTO artisans_urls VALUES(11630,569,'URL_MINIATURES','https://storage.scritch.es/scritch/48361653d9fce28846df5b347774ff98fa2bb707/thumbnail_db760562-b8d3-4809-b171-84f23387f19e.png');
 COMMIT;
