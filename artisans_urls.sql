@@ -3647,4 +3647,16 @@ INSERT INTO artisans_urls VALUES(11624,569,'URL_PHOTOS','https://scritch.es/pict
 INSERT INTO artisans_urls VALUES(11625,569,'URL_PHOTOS','https://scritch.es/pictures/f9fd4d75-e206-4eb4-b514-a9f011c194e7');
 INSERT INTO artisans_urls VALUES(11629,569,'URL_MINIATURES','https://storage.scritch.es/scritch/c1f203f9ccaf6eea9a9e3daed5e9c82526a6581a/thumbnail_d590b468-42e3-495d-86e4-a51a17e92f33.jpeg#d30');
 INSERT INTO artisans_urls VALUES(11630,569,'URL_MINIATURES','https://storage.scritch.es/scritch/48361653d9fce28846df5b347774ff98fa2bb707/thumbnail_db760562-b8d3-4809-b171-84f23387f19e.png');
+INSERT INTO artisans_urls VALUES(11631,570,'URL_COMMISSIONS','https://www.furaffinity.net/user/ozarksfursuits/');
+INSERT INTO artisans_urls VALUES(11632,570,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/ozarksfursuits/');
+INSERT INTO artisans_urls VALUES(11633,570,'URL_TWITTER','https://twitter.com/ozarksfursuits');
+INSERT INTO artisans_urls VALUES(11634,570,'URL_ETSY','https://www.etsy.com/shop/OzarksFursuits');
+INSERT INTO artisans_urls VALUES(11635,571,'URL_WEBSITE','https://www.firestormwingcreations.net/');
+INSERT INTO artisans_urls VALUES(11636,571,'URL_PRICES','https://www.firestormwingcreations.net/Price_lists.C.htm');
+INSERT INTO artisans_urls VALUES(11637,571,'URL_INSTAGRAM','https://www.instagram.com/firestormwingcreations/');
+INSERT INTO artisans_urls VALUES(11638,572,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/teacandysuits/');
+INSERT INTO artisans_urls VALUES(11639,572,'URL_TWITTER','https://twitter.com/TeaCandySuits');
+INSERT INTO artisans_urls VALUES(11640,572,'URL_INSTAGRAM','https://www.instagram.com/teacandysuits/');
+INSERT INTO artisans_urls VALUES(11641,572,'URL_LINKLIST','https://linktr.ee/TeaCandySuits');
+INSERT INTO artisans_urls VALUES(11642,572,'URL_ETSY','https://www.etsy.com/shop/TeaCandySuits');
 COMMIT;
