@@ -1627,13 +1627,9 @@ INSERT INTO artisans_urls VALUES(9330,386,'URL_FACEBOOK','https://www.facebook.c
 INSERT INTO artisans_urls VALUES(9331,386,'URL_INSTAGRAM','https://www.instagram.com/butterscotchbiscuitcostumes/');
 INSERT INTO artisans_urls VALUES(9332,386,'URL_QUEUE','https://trello.com/b/UmvCUwwk/butterscotch-biscuit');
 INSERT INTO artisans_urls VALUES(9333,386,'URL_COMMISSIONS','http://butterscotchbiscuit.com/');
-INSERT INTO artisans_urls VALUES(9334,387,'URL_WEBSITE','https://jawsandpaws.uk/');
-INSERT INTO artisans_urls VALUES(9335,387,'URL_PRICES','https://jawsandpaws.uk/price-guide/');
-INSERT INTO artisans_urls VALUES(9336,387,'URL_FAQ','https://jawsandpaws.uk/faq/');
 INSERT INTO artisans_urls VALUES(9337,387,'URL_TWITTER','https://twitter.com/JawsNpawsUK');
 INSERT INTO artisans_urls VALUES(9338,387,'URL_FACEBOOK','https://www.facebook.com/Jawsandpaws_UK-104808350896886/');
 INSERT INTO artisans_urls VALUES(9339,387,'URL_INSTAGRAM','https://www.instagram.com/jawsandpaws_uk/');
-INSERT INTO artisans_urls VALUES(9340,387,'URL_QUEUE','https://jawsandpaws.uk/current-queue/');
 INSERT INTO artisans_urls VALUES(9341,387,'URL_SCRITCH','https://scritch.es/makers/jaws-and-paws-uk');
 INSERT INTO artisans_urls VALUES(9342,387,'URL_PHOTOS','https://scritch.es/pictures/a7284232-c278-4f2b-bc3b-4007692a3df2');
 INSERT INTO artisans_urls VALUES(9343,387,'URL_COMMISSIONS','https://twitter.com/JawsNpawsUK');
@@ -2054,7 +2050,6 @@ INSERT INTO artisans_urls VALUES(9832,437,'URL_ETSY','https://www.etsy.com/shop/
 INSERT INTO artisans_urls VALUES(9833,438,'URL_PRICES','https://docs.google.com/document/d/1rTG7lp1ObPzZdn0ze5iYa4HAzESYo36-bJqpmvmEhg0/edit?usp=sharing');
 INSERT INTO artisans_urls VALUES(9834,438,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/abyssalkei/');
 INSERT INTO artisans_urls VALUES(9835,438,'URL_DEVIANTART','https://www.deviantart.com/katserura');
-INSERT INTO artisans_urls VALUES(9836,438,'URL_TWITTER','https://twitter.com/abyssalkei');
 INSERT INTO artisans_urls VALUES(9837,438,'URL_FACEBOOK','https://www.facebook.com/abyssalkrafting/');
 INSERT INTO artisans_urls VALUES(9838,438,'URL_INSTAGRAM','https://www.instagram.com/abyssalkei/');
 INSERT INTO artisans_urls VALUES(9839,438,'URL_ETSY','https://www.etsy.com/shop/AbyssalKrafting');
@@ -2169,7 +2164,6 @@ INSERT INTO artisans_urls VALUES(9955,450,'URL_OTHER_SHOP','https://www.ritzcost
 INSERT INTO artisans_urls VALUES(9956,450,'URL_QUEUE','https://trello.com/b/qQn1srkv/commission-queue');
 INSERT INTO artisans_urls VALUES(9957,450,'URL_OTHER','https://www.twitch.tv/ritzbitzart');
 INSERT INTO artisans_urls VALUES(9958,450,'URL_COMMISSIONS','https://www.ritzcostumes.com/');
-INSERT INTO artisans_urls VALUES(9959,438,'URL_COMMISSIONS','https://twitter.com/abyssalkei');
 INSERT INTO artisans_urls VALUES(9960,451,'URL_FURSUITREVIEW','https://fursuitreview.com/m/crazed-kenku-creations/');
 INSERT INTO artisans_urls VALUES(9961,451,'URL_WEBSITE','https://ckcfursuits.weebly.com/');
 INSERT INTO artisans_urls VALUES(9962,451,'URL_PRICES','http://ckcfursuits.weebly.com/');
@@ -3659,4 +3653,11 @@ INSERT INTO artisans_urls VALUES(11639,572,'URL_TWITTER','https://twitter.com/Te
 INSERT INTO artisans_urls VALUES(11640,572,'URL_INSTAGRAM','https://www.instagram.com/teacandysuits/');
 INSERT INTO artisans_urls VALUES(11641,572,'URL_LINKLIST','https://linktr.ee/TeaCandySuits');
 INSERT INTO artisans_urls VALUES(11642,572,'URL_ETSY','https://www.etsy.com/shop/TeaCandySuits');
+INSERT INTO artisans_urls VALUES(11643,438,'URL_TWITTER','https://twitter.com/abyssalkrafts');
+INSERT INTO artisans_urls VALUES(11644,438,'URL_COMMISSIONS','https://twitter.com/abyssalkrafts');
+INSERT INTO artisans_urls VALUES(11646,387,'URL_QUEUE','https://trello.com/b/thAyzuHo/jawsandpawsuk');
+INSERT INTO artisans_urls VALUES(11647,387,'URL_LINKLIST','https://linktr.ee/JawsandPaws_UK');
+INSERT INTO artisans_urls VALUES(11648,387,'URL_ETSY','https://www.etsy.com/shop/JawsandPawsUK');
+INSERT INTO artisans_urls VALUES(11649,387,'URL_OTHER_SHOP','https://www.jawsandpaw.co.uk/');
+INSERT INTO artisans_urls VALUES(11650,387,'URL_WEBSITE','https://jawsandpawsuk.webflow.io/');
 COMMIT;
