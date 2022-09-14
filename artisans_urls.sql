@@ -3660,4 +3660,5 @@ INSERT INTO artisans_urls VALUES(11647,387,'URL_LINKLIST','https://linktr.ee/Jaw
 INSERT INTO artisans_urls VALUES(11648,387,'URL_ETSY','https://www.etsy.com/shop/JawsandPawsUK');
 INSERT INTO artisans_urls VALUES(11649,387,'URL_OTHER_SHOP','https://www.jawsandpaw.co.uk/');
 INSERT INTO artisans_urls VALUES(11650,387,'URL_WEBSITE','https://jawsandpawsuk.webflow.io/');
+INSERT INTO artisans_urls VALUES(11651,241,'URL_COMMISSIONS','https://www.furaffinity.net/user/eddiebear/');
 COMMIT;
