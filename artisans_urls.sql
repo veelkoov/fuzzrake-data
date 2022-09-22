@@ -2852,9 +2852,6 @@ INSERT INTO artisans_urls VALUES(10793,235,'URL_QUEUE','https://trello.com/b/K8b
 INSERT INTO artisans_urls VALUES(10794,235,'URL_FURTRACK','https://www.furtrack.com/index/maker:thunderhowl_studios');
 INSERT INTO artisans_urls VALUES(10795,235,'URL_OTHER','https://www.patreon.com/ThunderhowlStudios');
 INSERT INTO artisans_urls VALUES(10796,289,'URL_PRICES','https://creature-couture.weebly.com/price-guide.html');
-INSERT INTO artisans_urls VALUES(10797,193,'URL_WEBSITE','https://knhproductions.square.site/');
-INSERT INTO artisans_urls VALUES(10798,193,'URL_PRICES','https://knhproductions.square.site/fursuits');
-INSERT INTO artisans_urls VALUES(10799,193,'URL_COMMISSIONS','https://knhproductions.square.site/');
 INSERT INTO artisans_urls VALUES(10800,409,'URL_COMMISSIONS','https://twitter.com/CuteSmolBeanPT1');
 INSERT INTO artisans_urls VALUES(10801,409,'URL_FACEBOOK','https://www.facebook.com/CuteSmolBeanPT/');
 INSERT INTO artisans_urls VALUES(10802,409,'URL_YOUTUBE','https://www.youtube.com/channel/UCW1Ne6UrB5iOWClH4WQF1iw');
@@ -3664,4 +3661,7 @@ INSERT INTO artisans_urls VALUES(11662,417,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(11663,417,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/51882-ec752987494011067f64c082d06a47aa.jpg');
 INSERT INTO artisans_urls VALUES(11664,417,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/52019-456270801f56da5759053bcd6865a1c7.jpg');
 INSERT INTO artisans_urls VALUES(11665,305,'URL_OTHER',replace('https://vk.com/arvins_lair\nhttp://www.flickr.com/photos/arvin69\nhttps://www.patreon.com/ArvinsLair\nhttps://boosty.to/arvinslair','\n',char(10)));
+INSERT INTO artisans_urls VALUES(11666,193,'URL_WEBSITE','https://www.knhproductions.com/');
+INSERT INTO artisans_urls VALUES(11667,193,'URL_PRICES','https://www.knhproductions.com/fursuits');
+INSERT INTO artisans_urls VALUES(11668,193,'URL_COMMISSIONS','https://www.knhproductions.com/');
 COMMIT;
