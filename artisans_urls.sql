@@ -3664,4 +3664,5 @@ INSERT INTO artisans_urls VALUES(11665,305,'URL_OTHER',replace('https://vk.com/a
 INSERT INTO artisans_urls VALUES(11666,193,'URL_WEBSITE','https://www.knhproductions.com/');
 INSERT INTO artisans_urls VALUES(11667,193,'URL_PRICES','https://www.knhproductions.com/fursuits');
 INSERT INTO artisans_urls VALUES(11668,193,'URL_COMMISSIONS','https://www.knhproductions.com/');
+INSERT INTO artisans_urls VALUES(11669,463,'URL_FURTRACK','https://www.furtrack.com/index/maker:foxes_in_boxes');
 COMMIT;
