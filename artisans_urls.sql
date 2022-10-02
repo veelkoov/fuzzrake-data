@@ -3665,4 +3665,9 @@ INSERT INTO artisans_urls VALUES(11666,193,'URL_WEBSITE','https://www.knhproduct
 INSERT INTO artisans_urls VALUES(11667,193,'URL_PRICES','https://www.knhproductions.com/fursuits');
 INSERT INTO artisans_urls VALUES(11668,193,'URL_COMMISSIONS','https://www.knhproductions.com/');
 INSERT INTO artisans_urls VALUES(11669,463,'URL_FURTRACK','https://www.furtrack.com/index/maker:foxes_in_boxes');
+INSERT INTO artisans_urls VALUES(11670,573,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/tursoworks/');
+INSERT INTO artisans_urls VALUES(11671,573,'URL_TWITTER','https://twitter.com/tursoworks');
+INSERT INTO artisans_urls VALUES(11672,573,'URL_TUMBLR','https://tursoworks.tumblr.com/');
+INSERT INTO artisans_urls VALUES(11673,573,'URL_INSTAGRAM','https://www.instagram.com/tursoworks/');
+INSERT INTO artisans_urls VALUES(11674,573,'URL_ETSY','https://www.etsy.com/shop/tursoworks');
 COMMIT;
