@@ -3670,4 +3670,8 @@ INSERT INTO artisans_urls VALUES(11676,276,'URL_PRICES','https://scruffandtumble
 INSERT INTO artisans_urls VALUES(11677,276,'URL_COMMISSIONS','https://scruffandtumblefursuits.com/');
 INSERT INTO artisans_urls VALUES(11678,276,'URL_FAQ','https://scruffandtumblefursuits.com/frequently-asked-questions-faq/');
 INSERT INTO artisans_urls VALUES(11679,276,'URL_INSTAGRAM','https://www.instagram.com/scruffandtumblefursuits/');
+INSERT INTO artisans_urls VALUES(11680,474,'URL_WEBSITE','https://8-8itartistries.carrd.co/');
+INSERT INTO artisans_urls VALUES(11681,474,'URL_PRICES','https://8-8itartistries.carrd.co/#commissions');
+INSERT INTO artisans_urls VALUES(11682,474,'URL_TUMBLR','https://www.tumblr.com/8-8itartistries');
+INSERT INTO artisans_urls VALUES(11683,474,'URL_INSTAGRAM','https://www.instagram.com/8.8it_/');
 COMMIT;
