@@ -897,4 +897,11 @@ INSERT INTO events VALUES(908,'2022-10-09 00:14:09','CS_UPDATED','MaskedMerchant
 INSERT INTO events VALUES(909,'2022-10-09 00:14:09','CS_UPDATED','Howlmetal Horrors',0,0,0,'','https://twitter.com/howlmetalhorror','','','Commissions',0);
 INSERT INTO events VALUES(910,'2022-10-09 00:14:16','CS_UPDATED','SnyderDragdire',0,0,0,'','https://twitter.com/snyderdragdire','','','Commissions',0);
 INSERT INTO events VALUES(911,'2022-10-09 12:14:36','CS_UPDATED','Diinokit',0,0,0,'','https://diinokit.carrd.co/#commissions','','Commissions','',0);
+INSERT INTO events VALUES(912,'2022-10-09 19:33:00','DATA_UPDATED','',0,1,0,'01985d8ac5e9ed8d3a7d5face586e0f00c3e9b45','','','','',0);
+INSERT INTO events VALUES(913,'2022-10-10 00:14:35','CS_UPDATED','Howlmetal Horrors',0,0,0,'','https://twitter.com/howlmetalhorror','','Commissions','',1);
+INSERT INTO events VALUES(914,'2022-10-12 00:14:50','CS_UPDATED','Koshka Fursuits',0,0,0,'','https://twitter.com/koshkafursuits','','','Commissions',0);
+INSERT INTO events VALUES(915,'2022-10-12 12:14:47','CS_UPDATED','Mixed Candy Costumes',0,0,0,'','https://www.mixedcandycostumes.com/','','Orders','',1);
+INSERT INTO events VALUES(916,'2022-10-13 12:14:52','CS_UPDATED','Koshka Fursuits',0,0,0,'','https://twitter.com/koshkafursuits','','Commissions','',0);
+INSERT INTO events VALUES(917,'2022-10-16 00:14:45','CS_UPDATED','Scruff and Tumble Fursuits',0,0,0,'','https://scruffandtumblefursuits.com/','','','Commissions',0);
+INSERT INTO events VALUES(918,'2022-10-16 00:14:53','CS_UPDATED','Sleepy Stag Suits',0,0,0,'','https://twitter.com/thesleepystag','','Commissions','',0);
 COMMIT;
