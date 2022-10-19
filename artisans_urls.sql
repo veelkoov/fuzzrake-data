@@ -116,7 +116,6 @@ INSERT INTO artisans_urls VALUES(123,26,'URL_FACEBOOK','https://www.facebook.com
 INSERT INTO artisans_urls VALUES(124,26,'URL_TUMBLR','https://thekareliafursuits.tumblr.com/');
 INSERT INTO artisans_urls VALUES(125,26,'URL_INSTAGRAM','https://www.instagram.com/thekareliafursuits/');
 INSERT INTO artisans_urls VALUES(126,26,'URL_YOUTUBE','https://www.youtube.com/channel/UCXhlSJ-sqQ3c5-zk_gZBs-g');
-INSERT INTO artisans_urls VALUES(127,26,'URL_COMMISSIONS','https://www.furaffinity.net/user/thekareliafursuits/');
 INSERT INTO artisans_urls VALUES(129,27,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/streifenschnauzer/');
 INSERT INTO artisans_urls VALUES(130,27,'URL_TWITTER','https://twitter.com/StreifenSuits');
 INSERT INTO artisans_urls VALUES(131,27,'URL_INSTAGRAM','https://www.instagram.com/streifensuits/');
@@ -3674,4 +3673,10 @@ INSERT INTO artisans_urls VALUES(11680,474,'URL_WEBSITE','https://8-8itartistrie
 INSERT INTO artisans_urls VALUES(11681,474,'URL_PRICES','https://8-8itartistries.carrd.co/#commissions');
 INSERT INTO artisans_urls VALUES(11682,474,'URL_TUMBLR','https://www.tumblr.com/8-8itartistries');
 INSERT INTO artisans_urls VALUES(11683,474,'URL_INSTAGRAM','https://www.instagram.com/8.8it_/');
+INSERT INTO artisans_urls VALUES(11684,26,'URL_WEBSITE','https://www.thekareliafursuits.com/');
+INSERT INTO artisans_urls VALUES(11685,26,'URL_PRICES','https://www.thekareliafursuits.com/prices');
+INSERT INTO artisans_urls VALUES(11686,26,'URL_COMMISSIONS','https://www.thekareliafursuits.com/');
+INSERT INTO artisans_urls VALUES(11687,26,'URL_FAQ','https://www.thekareliafursuits.com/faq-tos');
+INSERT INTO artisans_urls VALUES(11688,26,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/search/other-items/?username=thekareliafursuits&user_id=111278');
+INSERT INTO artisans_urls VALUES(11689,26,'URL_QUEUE','https://www.patreon.com/thekareliafursuits');
 COMMIT;
