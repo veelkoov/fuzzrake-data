@@ -1756,11 +1756,9 @@ INSERT INTO artisans_urls VALUES(9498,401,'URL_INSTAGRAM','https://www.instagram
 INSERT INTO artisans_urls VALUES(9499,290,'URL_FURSUITREVIEW','https://fursuitreview.com/m/koshka-fursuits/');
 INSERT INTO artisans_urls VALUES(9500,290,'URL_QUEUE','https://trello.com/b/BXIUnYmk/koshkafursuits-works');
 INSERT INTO artisans_urls VALUES(9501,290,'URL_SCRITCH','https://scritch.es/makers/koshka-fursuits');
-INSERT INTO artisans_urls VALUES(9502,402,'URL_WEBSITE','https://www.felistellar.com/');
 INSERT INTO artisans_urls VALUES(9503,402,'URL_PRICES','https://felistellar.wixsite.com/felistellarstudios/fursuits-and-mascots');
 INSERT INTO artisans_urls VALUES(9504,402,'URL_FAQ','https://felistellar.wixsite.com/felistellarstudios/terms-of-service');
 INSERT INTO artisans_urls VALUES(9505,402,'URL_DEVIANTART','https://www.deviantart.com/felistellar');
-INSERT INTO artisans_urls VALUES(9506,402,'URL_TWITTER','https://twitter.com/felistellar');
 INSERT INTO artisans_urls VALUES(9507,402,'URL_INSTAGRAM','https://www.instagram.com/felistellar/');
 INSERT INTO artisans_urls VALUES(9508,402,'URL_LINKLIST','https://linktr.ee/felistellar');
 INSERT INTO artisans_urls VALUES(9509,402,'URL_OTHER_SHOP','https://www.redbubble.com/people/Yeen-Bean/shop');
@@ -3679,4 +3677,11 @@ INSERT INTO artisans_urls VALUES(11686,26,'URL_COMMISSIONS','https://www.thekare
 INSERT INTO artisans_urls VALUES(11687,26,'URL_FAQ','https://www.thekareliafursuits.com/faq-tos');
 INSERT INTO artisans_urls VALUES(11688,26,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/search/other-items/?username=thekareliafursuits&user_id=111278');
 INSERT INTO artisans_urls VALUES(11689,26,'URL_QUEUE','https://www.patreon.com/thekareliafursuits');
+INSERT INTO artisans_urls VALUES(11690,402,'URL_WEBSITE','https://felistellar.wixsite.com/felistellarstudios');
+INSERT INTO artisans_urls VALUES(11691,574,'URL_COMMISSIONS','https://twitter.com/HaukNona');
+INSERT INTO artisans_urls VALUES(11692,574,'URL_INSTAGRAM','https://www.instagram.com/fureverfuzzygoods/');
+INSERT INTO artisans_urls VALUES(11693,575,'URL_INSTAGRAM','https://www.instagram.com/anima_creatures/');
+INSERT INTO artisans_urls VALUES(11694,575,'URL_PHOTOS','https://www.furtrack.com/p/180528');
+INSERT INTO artisans_urls VALUES(11695,575,'URL_PHOTOS','https://www.furtrack.com/p/180527');
+INSERT INTO artisans_urls VALUES(11696,575,'URL_PHOTOS','https://www.furtrack.com/p/180526');
 COMMIT;
