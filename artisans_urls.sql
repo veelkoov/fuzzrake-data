@@ -3684,4 +3684,8 @@ INSERT INTO artisans_urls VALUES(11693,575,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(11694,575,'URL_PHOTOS','https://www.furtrack.com/p/180528');
 INSERT INTO artisans_urls VALUES(11695,575,'URL_PHOTOS','https://www.furtrack.com/p/180527');
 INSERT INTO artisans_urls VALUES(11696,575,'URL_PHOTOS','https://www.furtrack.com/p/180526');
+INSERT INTO artisans_urls VALUES(11697,575,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/180528-d49bd22f02fa4fe5daeb97b46b91dfff.jpg');
+INSERT INTO artisans_urls VALUES(11698,575,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/180527-335bc70e52cc3430a211f4da6fd808e3.jpg');
+INSERT INTO artisans_urls VALUES(11699,575,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/180526-c6dd352a6a6e57031dc6acfa79097dd4.jpg');
+INSERT INTO artisans_urls VALUES(11700,182,'URL_FURSUITREVIEW','https://fursuitreview.com/m/melissa-mendelson-art/');
 COMMIT;
