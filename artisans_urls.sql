@@ -277,9 +277,7 @@ INSERT INTO artisans_urls VALUES(310,77,'URL_COMMISSIONS','https://www.furaffini
 INSERT INTO artisans_urls VALUES(311,79,'URL_FURSUITREVIEW','https://fursuitreview.com/m/phoenix-nest/');
 INSERT INTO artisans_urls VALUES(312,79,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/phoenixnest/');
 INSERT INTO artisans_urls VALUES(313,79,'URL_TWITTER','https://twitter.com/phoenixwuff');
-INSERT INTO artisans_urls VALUES(314,80,'URL_WEBSITE','http://ruffleddesigns.com/');
 INSERT INTO artisans_urls VALUES(315,80,'URL_TWITTER','https://twitter.com/ruffleddesigns');
-INSERT INTO artisans_urls VALUES(316,80,'URL_COMMISSIONS','http://ruffleddesigns.com/');
 INSERT INTO artisans_urls VALUES(317,82,'URL_WEBSITE','http://stuffedpandastudios.com/');
 INSERT INTO artisans_urls VALUES(318,82,'URL_TWITTER','https://twitter.com/stuffedpanda');
 INSERT INTO artisans_urls VALUES(319,82,'URL_FACEBOOK','https://www.facebook.com/stuffedpandastudios/');
@@ -775,7 +773,6 @@ INSERT INTO artisans_urls VALUES(885,206,'URL_DEVIANTART','https://www.deviantar
 INSERT INTO artisans_urls VALUES(886,206,'URL_TWITTER','https://twitter.com/saltysuits');
 INSERT INTO artisans_urls VALUES(887,206,'URL_FACEBOOK','https://www.facebook.com/SaltySuits/');
 INSERT INTO artisans_urls VALUES(888,206,'URL_TUMBLR','https://saltysuits.tumblr.com/');
-INSERT INTO artisans_urls VALUES(889,207,'URL_TWITTER','https://twitter.com/varian_king');
 INSERT INTO artisans_urls VALUES(890,208,'URL_WEBSITE','https://www.twotailsenterprises.com/');
 INSERT INTO artisans_urls VALUES(891,208,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/twotailsenterprises/');
 INSERT INTO artisans_urls VALUES(892,208,'URL_TWITTER','https://twitter.com/twotailsfursuit');
@@ -2752,8 +2749,6 @@ INSERT INTO artisans_urls VALUES(10699,229,'URL_LINKLIST','https://onixangel.car
 INSERT INTO artisans_urls VALUES(10701,229,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/onix-angel-creations');
 INSERT INTO artisans_urls VALUES(10702,229,'URL_QUEUE','https://trello.com/b/QR2cfNwp/onix-angels-commission-queue');
 INSERT INTO artisans_urls VALUES(10703,229,'URL_OTHER','https://www.patreon.com/onixangelcreations');
-INSERT INTO artisans_urls VALUES(10704,217,'URL_WEBSITE','https://www.frostihadasundae.com/');
-INSERT INTO artisans_urls VALUES(10705,217,'URL_PRICES','https://www.frostihadasundae.com/prices');
 INSERT INTO artisans_urls VALUES(10706,217,'URL_TWITTER','https://twitter.com/frostihadsundae');
 INSERT INTO artisans_urls VALUES(10707,217,'URL_QUEUE','https://trello.com/b/c3MqVlIE/current-suit-projectS');
 INSERT INTO artisans_urls VALUES(10708,184,'URL_WEBSITE','https://www.charming-creations.eu/');
