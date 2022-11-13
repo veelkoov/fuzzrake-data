@@ -2056,7 +2056,6 @@ INSERT INTO artisans_urls VALUES(9850,440,'URL_WEBSITE','https://www.bigsnootsui
 INSERT INTO artisans_urls VALUES(9852,440,'URL_TWITTER','https://twitter.com/BigSnootSuits');
 INSERT INTO artisans_urls VALUES(9853,440,'URL_INSTAGRAM','https://www.instagram.com/bigsnootsuits/');
 INSERT INTO artisans_urls VALUES(9854,440,'URL_LINKLIST','https://linktr.ee/bigsnootsuits');
-INSERT INTO artisans_urls VALUES(9855,440,'URL_ETSY','https://www.etsy.com/shop/BigSnootSuits');
 INSERT INTO artisans_urls VALUES(9856,440,'URL_QUEUE','https://trello.com/b/Y6bOi3Hw/big-snoot-suits-queue');
 INSERT INTO artisans_urls VALUES(9857,441,'URL_FURSUITREVIEW','https://fursuitreview.com/m/alecrim-carmim/');
 INSERT INTO artisans_urls VALUES(9858,441,'URL_WEBSITE','https://www.alecrimcarmim.com/');
@@ -3559,8 +3558,6 @@ INSERT INTO artisans_urls VALUES(11564,565,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(11565,565,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/135520-d8615f96e87554117129869742b20fd6.jpg');
 INSERT INTO artisans_urls VALUES(11566,565,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/135517-722e0f9d62534066e215c314a260f16e.jpg');
 INSERT INTO artisans_urls VALUES(11567,565,'URL_FURSUITREVIEW','https://fursuitreview.com/m/snyder-dragdire/');
-INSERT INTO artisans_urls VALUES(11569,440,'URL_PRICES','https://bigsnootsuits.com/home/prices-menu/prices');
-INSERT INTO artisans_urls VALUES(11570,440,'URL_COMMISSIONS','https://bigsnootsuits.com/home/fursuit-quote');
 INSERT INTO artisans_urls VALUES(11571,566,'URL_WEBSITE','https://clawedcreaturescreations.weebly.com/');
 INSERT INTO artisans_urls VALUES(11572,566,'URL_COMMISSIONS','https://clawedcreaturescreations.weebly.com/');
 INSERT INTO artisans_urls VALUES(11573,566,'URL_INSTAGRAM','https://www.instagram.com/clawedcreaturescreations/');
@@ -3686,4 +3683,11 @@ INSERT INTO artisans_urls VALUES(11700,182,'URL_FURSUITREVIEW','https://fursuitr
 INSERT INTO artisans_urls VALUES(11701,279,'URL_FAQ','https://www.kemoyagi.com/faqtos.html');
 INSERT INTO artisans_urls VALUES(11702,279,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/melcaara/');
 INSERT INTO artisans_urls VALUES(11703,279,'URL_TWITTER','https://twitter.com/Kemoyagi');
+INSERT INTO artisans_urls VALUES(11704,576,'URL_TWITTER','https://twitter.com/HyFyLowFy');
+INSERT INTO artisans_urls VALUES(11705,576,'URL_INSTAGRAM','https://www.instagram.com/highfy_lowfy/');
+INSERT INTO artisans_urls VALUES(11706,576,'URL_QUEUE','https://trello.com/b/iMYQ1DPv/to-do-art-fursuit');
+INSERT INTO artisans_urls VALUES(11707,440,'URL_PRICES','https://www.bigsnootsuits.com/fursuit-prices');
+INSERT INTO artisans_urls VALUES(11708,440,'URL_COMMISSIONS','https://www.bigsnootsuits.com/quote-form');
+INSERT INTO artisans_urls VALUES(11709,440,'URL_OTHER_SHOP','https://ko-fi.com/bigsnootsuits/shop');
+INSERT INTO artisans_urls VALUES(11710,440,'URL_FURTRACK','https://www.furtrack.com/index/maker:big_snoot_suits');
 COMMIT;
