@@ -990,4 +990,9 @@ INSERT INTO events VALUES(1001,'2022-11-13 12:15:15','CS_UPDATED','starslikerose
 INSERT INTO events VALUES(1002,'2022-11-13 12:15:17','CS_UPDATED','FURRING DEAD',0,0,0,'','https://www.instagram.com/madeinsheol/','','Commissions','',1);
 INSERT INTO events VALUES(1003,'2022-11-13 12:15:18','CS_UPDATED','TetraClaws',0,0,0,'','https://www.instagram.com/tetra_claws/','','Commissions','',1);
 INSERT INTO events VALUES(1004,'2022-11-13 12:15:18','CS_UPDATED','Furry Frenzy Studios',0,0,0,'','https://www.instagram.com/furryfr3nzy/','','Quotes','',1);
+INSERT INTO events VALUES(1005,'2022-11-13 19:51:00','DATA_UPDATED','',1,1,0,'f96bc3ae91e15f90c7645366346ed1245586830e','','','','',0);
+INSERT INTO events VALUES(1006,'2022-11-15 00:15:16','CS_UPDATED','Unleashed Studios',0,0,0,'','https://twitter.com/UnleashedSTU','','','Commissions',0);
+INSERT INTO events VALUES(1007,'2022-11-15 00:15:18','CS_UPDATED','Alecrim Carmim',0,0,0,'','https://www.alecrimcarmim.com/','','','Artistic liberty',1);
+INSERT INTO events VALUES(1008,'2022-11-16 00:15:01','CS_UPDATED','Sammy''s Fur Shoppe',0,0,0,'','https://www.furaffinity.net/user/samthemoose101/','','Commissions','',0);
+INSERT INTO events VALUES(1009,'2022-11-16 00:15:15','CS_UPDATED','OzarksFursuits',0,0,0,'','https://www.furaffinity.net/user/ozarksfursuits/','','','Commissions',0);
 COMMIT;
