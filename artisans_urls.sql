@@ -3690,4 +3690,11 @@ INSERT INTO artisans_urls VALUES(11707,440,'URL_PRICES','https://www.bigsnootsui
 INSERT INTO artisans_urls VALUES(11708,440,'URL_COMMISSIONS','https://www.bigsnootsuits.com/quote-form');
 INSERT INTO artisans_urls VALUES(11709,440,'URL_OTHER_SHOP','https://ko-fi.com/bigsnootsuits/shop');
 INSERT INTO artisans_urls VALUES(11710,440,'URL_FURTRACK','https://www.furtrack.com/index/maker:big_snoot_suits');
+INSERT INTO artisans_urls VALUES(11711,577,'URL_WEBSITE','https://randomthehellhound.wixsite.com/random-rituals');
+INSERT INTO artisans_urls VALUES(11712,577,'URL_PRICES','https://randomthehellhound.wixsite.com/random-rituals/price-list');
+INSERT INTO artisans_urls VALUES(11713,577,'URL_TWITTER','https://twitter.com/Random_hell_');
+INSERT INTO artisans_urls VALUES(11714,577,'URL_FACEBOOK','https://www.facebook.com/profile.php?id=100004564395599');
+INSERT INTO artisans_urls VALUES(11715,577,'URL_INSTAGRAM','https://www.instagram.com/random_hellhound/');
+INSERT INTO artisans_urls VALUES(11716,577,'URL_LINKLIST','https://linktr.ee/randomhell');
+INSERT INTO artisans_urls VALUES(11717,577,'URL_OTHER','https://t.me/+zXfKPwucVwViMzM0');
 COMMIT;
