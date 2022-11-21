@@ -1032,7 +1032,6 @@ INSERT INTO artisans_urls VALUES(1176,261,'URL_PRICES','https://flowercityfursui
 INSERT INTO artisans_urls VALUES(1177,261,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/flowercityfursuits/');
 INSERT INTO artisans_urls VALUES(1178,261,'URL_TWITTER','https://twitter.com/FlowercitySuits');
 INSERT INTO artisans_urls VALUES(1179,261,'URL_COMMISSIONS','https://twitter.com/FlowercitySuits');
-INSERT INTO artisans_urls VALUES(1182,262,'URL_FACEBOOK','https://www.facebook.com/Bahamut19-1513798548737417/');
 INSERT INTO artisans_urls VALUES(1184,262,'URL_OTHER','https://www.flickr.com/photos/159403255@N08/');
 INSERT INTO artisans_urls VALUES(1186,263,'URL_WEBSITE','http://tokaisuiting.com/');
 INSERT INTO artisans_urls VALUES(1187,263,'URL_PRICES','http://tokaisuiting.com/');
@@ -1526,10 +1525,7 @@ INSERT INTO artisans_urls VALUES(9219,372,'URL_TWITTER','https://twitter.com/Mat
 INSERT INTO artisans_urls VALUES(9220,372,'URL_INSTAGRAM','https://www.instagram.com/VixenBrushStudios/');
 INSERT INTO artisans_urls VALUES(9221,372,'URL_SCRITCH','https://scritch.es/Vixenbrushstudios');
 INSERT INTO artisans_urls VALUES(9222,339,'URL_SCRITCH','https://scritch.es/makers/that-one-pink-dog-studios');
-INSERT INTO artisans_urls VALUES(9223,373,'URL_PRICES','https://www.etsy.com/shop/violettrenchstudios');
-INSERT INTO artisans_urls VALUES(9224,373,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/violettrench/');
 INSERT INTO artisans_urls VALUES(9225,373,'URL_TWITTER','https://twitter.com/TrenchViolet');
-INSERT INTO artisans_urls VALUES(9226,373,'URL_TUMBLR','https://grayonlyneedscheezits.tumblr.com/');
 INSERT INTO artisans_urls VALUES(9227,373,'URL_YOUTUBE','https://www.youtube.com/channel/UCRCCYvkJv_GeHGN1sSd-4zA');
 INSERT INTO artisans_urls VALUES(9228,373,'URL_SCRITCH','https://scritch.es/violettrench');
 INSERT INTO artisans_urls VALUES(9229,373,'URL_COMMISSIONS','https://www.etsy.com/shop/violettrenchstudios');
@@ -1938,7 +1934,6 @@ INSERT INTO artisans_urls VALUES(9718,425,'URL_FURSUITREVIEW','https://fursuitre
 INSERT INTO artisans_urls VALUES(9719,425,'URL_WEBSITE','https://neonpawcreations.com/');
 INSERT INTO artisans_urls VALUES(9720,425,'URL_PRICES','https://neonpawcreations.com/fursuit-prices/');
 INSERT INTO artisans_urls VALUES(9721,425,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/kayobe/');
-INSERT INTO artisans_urls VALUES(9722,425,'URL_TWITTER','https://twitter.com/Kayobe_NeonPaws');
 INSERT INTO artisans_urls VALUES(9723,425,'URL_FACEBOOK','https://www.facebook.com/NeonPawCreations/');
 INSERT INTO artisans_urls VALUES(9724,425,'URL_YOUTUBE','https://www.youtube.com/channel/UC7vjTh2gOqmgyifDFdMA_eg');
 INSERT INTO artisans_urls VALUES(9725,425,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/neon-paw-creations');
@@ -2851,7 +2846,6 @@ INSERT INTO artisans_urls VALUES(10808,409,'URL_MINIATURES','https://storage.scr
 INSERT INTO artisans_urls VALUES(10809,409,'URL_MINIATURES','https://storage.scritch.es/scritch/ec94f9442207f66c75e2e2b783be37718034fb5d/thumbnail_f1716a0f-aa39-438b-b1f6-35cc39e3f619.jpeg');
 INSERT INTO artisans_urls VALUES(10810,409,'URL_MINIATURES','https://storage.scritch.es/scritch/1d2f09fa0752425cf8241f3cdc5b718f94724e13/thumbnail_f94b3ca7-6b45-4400-9915-c03f7edd5dee.jpeg');
 INSERT INTO artisans_urls VALUES(10811,323,'URL_LINKLIST','https://linktr.ee/kabber');
-INSERT INTO artisans_urls VALUES(10812,425,'URL_COMMISSIONS','https://www.furaffinity.net/user/kayobe/');
 INSERT INTO artisans_urls VALUES(10813,507,'URL_FURSUITREVIEW','https://fursuitreview.com/m/sleepy-stag-suits/');
 INSERT INTO artisans_urls VALUES(10814,507,'URL_WEBSITE','https://www.sleepystagsuits.com/');
 INSERT INTO artisans_urls VALUES(10815,507,'URL_PRICES','https://www.sleepystagsuits.com/prices');
@@ -3697,4 +3691,21 @@ INSERT INTO artisans_urls VALUES(11714,577,'URL_FACEBOOK','https://www.facebook.
 INSERT INTO artisans_urls VALUES(11715,577,'URL_INSTAGRAM','https://www.instagram.com/random_hellhound/');
 INSERT INTO artisans_urls VALUES(11716,577,'URL_LINKLIST','https://linktr.ee/randomhell');
 INSERT INTO artisans_urls VALUES(11717,577,'URL_OTHER','https://t.me/+zXfKPwucVwViMzM0');
+INSERT INTO artisans_urls VALUES(11718,262,'URL_FURSUITREVIEW','https://fursuitreview.com/m/nordstrom-kaiju/');
+INSERT INTO artisans_urls VALUES(11719,262,'URL_WEBSITE','https://www.instagram.com/northernkaiju/');
+INSERT INTO artisans_urls VALUES(11720,262,'URL_PRICES','https://docs.google.com/forms/d/e/1FAIpQLScdOn6FGthsae_Bc--y8fPjZ1O6ixjQTrbCA4zqV-Jg8Jqo0A/viewform');
+INSERT INTO artisans_urls VALUES(11721,262,'URL_TWITTER','https://twitter.com/NordstromKaiju');
+INSERT INTO artisans_urls VALUES(11722,262,'URL_INSTAGRAM','https://www.instagram.com/northernkaiju/');
+INSERT INTO artisans_urls VALUES(11723,262,'URL_LINKLIST','https://linktr.ee/NorthernKaiju');
+INSERT INTO artisans_urls VALUES(11724,425,'URL_COMMISSIONS','https://neonpawcreations.com/');
+INSERT INTO artisans_urls VALUES(11725,425,'URL_TWITTER','https://twitter.com/NeonPawCreation');
+INSERT INTO artisans_urls VALUES(11726,425,'URL_TUMBLR','https://www.tumblr.com/kayobe');
+INSERT INTO artisans_urls VALUES(11727,425,'URL_INSTAGRAM','https://www.instagram.com/kayobe_neonpaws/');
+INSERT INTO artisans_urls VALUES(11728,373,'URL_WEBSITE','https://violettrenchstudios.wixsite.com/website');
+INSERT INTO artisans_urls VALUES(11729,373,'URL_PRICES','https://violettrenchstudios.wixsite.com/website/plans-pricing');
+INSERT INTO artisans_urls VALUES(11730,373,'URL_INSTAGRAM','https://www.instagram.com/yeenteeeth/');
+INSERT INTO artisans_urls VALUES(11731,373,'URL_ETSY','https://www.etsy.com/shop/violettrenchstudios');
+INSERT INTO artisans_urls VALUES(11732,578,'URL_COMMISSIONS','https://twitter.com/tomacats_suits');
+INSERT INTO artisans_urls VALUES(11733,578,'URL_TWITTER','https://twitter.com/tomacats_suits');
+INSERT INTO artisans_urls VALUES(11734,578,'URL_INSTAGRAM','https://www.instagram.com/tomacats_suits/');
 COMMIT;
