@@ -3708,4 +3708,6 @@ INSERT INTO artisans_urls VALUES(11731,373,'URL_ETSY','https://www.etsy.com/shop
 INSERT INTO artisans_urls VALUES(11732,578,'URL_COMMISSIONS','https://twitter.com/tomacats_suits');
 INSERT INTO artisans_urls VALUES(11733,578,'URL_TWITTER','https://twitter.com/tomacats_suits');
 INSERT INTO artisans_urls VALUES(11734,578,'URL_INSTAGRAM','https://www.instagram.com/tomacats_suits/');
+INSERT INTO artisans_urls VALUES(11735,579,'URL_INSTAGRAM','https://www.instagram.com/doubledogcreations/');
+INSERT INTO artisans_urls VALUES(11736,579,'URL_ETSY','https://www.etsy.com/shop/DoubleDogCreations');
 COMMIT;
