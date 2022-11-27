@@ -3206,13 +3206,9 @@ INSERT INTO artisans_urls VALUES(11204,436,'URL_FURSUITREVIEW','https://fursuitr
 INSERT INTO artisans_urls VALUES(11205,209,'URL_PRICES','https://dragonsgrinstudios.weebly.com/fursuit-prices.html');
 INSERT INTO artisans_urls VALUES(11206,209,'URL_TWITTER','https://twitter.com/DragonsGStudios');
 INSERT INTO artisans_urls VALUES(11207,113,'URL_QUEUE','https://trello.com/b/O0XrnHbZ/golden-maws-work-queue');
-INSERT INTO artisans_urls VALUES(11208,538,'URL_WEBSITE','https://trello.com/b/GSbPtXCV/darkmustangcreations');
-INSERT INTO artisans_urls VALUES(11209,538,'URL_PRICES','https://trello.com/b/GSbPtXCV/darkmustangcreations');
-INSERT INTO artisans_urls VALUES(11210,538,'URL_COMMISSIONS','https://trello.com/b/GSbPtXCV/darkmustangcreations');
 INSERT INTO artisans_urls VALUES(11211,538,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/darkmustang1/');
 INSERT INTO artisans_urls VALUES(11212,538,'URL_LINKLIST','http://Linktr.ee/Darkmustang1');
 INSERT INTO artisans_urls VALUES(11213,538,'URL_ETSY','https://www.etsy.com/shop/DarkmustangCreations');
-INSERT INTO artisans_urls VALUES(11214,538,'URL_QUEUE','https://trello.com/b/GSbPtXCV/darkmustangcreations');
 INSERT INTO artisans_urls VALUES(11215,539,'URL_COMMISSIONS','https://www.furaffinity.net/user/fedorafursuits/');
 INSERT INTO artisans_urls VALUES(11216,539,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/fedorafursuits/');
 INSERT INTO artisans_urls VALUES(11217,539,'URL_TWITTER','https://twitter.com/FedorasFursuits');
@@ -3710,4 +3706,12 @@ INSERT INTO artisans_urls VALUES(11733,578,'URL_TWITTER','https://twitter.com/to
 INSERT INTO artisans_urls VALUES(11734,578,'URL_INSTAGRAM','https://www.instagram.com/tomacats_suits/');
 INSERT INTO artisans_urls VALUES(11735,579,'URL_INSTAGRAM','https://www.instagram.com/doubledogcreations/');
 INSERT INTO artisans_urls VALUES(11736,579,'URL_ETSY','https://www.etsy.com/shop/DoubleDogCreations');
+INSERT INTO artisans_urls VALUES(11737,538,'URL_WEBSITE','https://trello.com/b/GSbPtXCV/clown-car-critters-open-for-commissions');
+INSERT INTO artisans_urls VALUES(11738,538,'URL_PRICES','https://trello.com/b/GSbPtXCV/clown-car-critters-open-for-commissions');
+INSERT INTO artisans_urls VALUES(11739,538,'URL_COMMISSIONS','https://trello.com/b/GSbPtXCV/clown-car-critters-open-for-commissions');
+INSERT INTO artisans_urls VALUES(11740,538,'URL_TWITTER','https://twitter.com/ClownCarCritter');
+INSERT INTO artisans_urls VALUES(11741,538,'URL_FACEBOOK','https://www.facebook.com/profile.php?id=100030756357125');
+INSERT INTO artisans_urls VALUES(11742,538,'URL_INSTAGRAM','https://www.instagram.com/clowncarcritters/');
+INSERT INTO artisans_urls VALUES(11743,538,'URL_YOUTUBE','https://www.youtube.com/channel/UClXpB4Nf7K2btwr-XMhobDA');
+INSERT INTO artisans_urls VALUES(11744,538,'URL_QUEUE','https://trello.com/b/GSbPtXCV/clown-car-critters-open-for-commissions');
 COMMIT;
