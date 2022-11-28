@@ -3714,4 +3714,8 @@ INSERT INTO artisans_urls VALUES(11741,538,'URL_FACEBOOK','https://www.facebook.
 INSERT INTO artisans_urls VALUES(11742,538,'URL_INSTAGRAM','https://www.instagram.com/clowncarcritters/');
 INSERT INTO artisans_urls VALUES(11743,538,'URL_YOUTUBE','https://www.youtube.com/channel/UClXpB4Nf7K2btwr-XMhobDA');
 INSERT INTO artisans_urls VALUES(11744,538,'URL_QUEUE','https://trello.com/b/GSbPtXCV/clown-car-critters-open-for-commissions');
+INSERT INTO artisans_urls VALUES(11745,211,'URL_PRICES','https://www.fuzzbuttfursuits.com/collections');
+INSERT INTO artisans_urls VALUES(11746,211,'URL_FAQ','https://www.fuzzbuttfursuits.com/pages/policies-and-faq');
+INSERT INTO artisans_urls VALUES(11747,211,'URL_TUMBLR','https://fuzzbuttfursuits.tumblr.com/');
+INSERT INTO artisans_urls VALUES(11748,211,'URL_OTHER','Discord Server: http://www.fuzzbuttfursuits.com/discord');
 COMMIT;
