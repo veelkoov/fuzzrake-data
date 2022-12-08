@@ -3719,4 +3719,6 @@ INSERT INTO artisans_urls VALUES(11746,211,'URL_FAQ','https://www.fuzzbuttfursui
 INSERT INTO artisans_urls VALUES(11747,211,'URL_TUMBLR','https://fuzzbuttfursuits.tumblr.com/');
 INSERT INTO artisans_urls VALUES(11748,211,'URL_OTHER','Discord Server: http://www.fuzzbuttfursuits.com/discord');
 INSERT INTO artisans_urls VALUES(11749,440,'URL_FAQ','https://www.bigsnootsuits.com/f-a-q');
+INSERT INTO artisans_urls VALUES(11750,579,'URL_FURSUITREVIEW','https://fursuitreview.com/m/double-dog-creations/');
+INSERT INTO artisans_urls VALUES(11751,481,'URL_FURSUITREVIEW','https://fursuitreview.com/m/treebark-creations-llc/');
 COMMIT;
