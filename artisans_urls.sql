@@ -3718,4 +3718,5 @@ INSERT INTO artisans_urls VALUES(11745,211,'URL_PRICES','https://www.fuzzbuttfur
 INSERT INTO artisans_urls VALUES(11746,211,'URL_FAQ','https://www.fuzzbuttfursuits.com/pages/policies-and-faq');
 INSERT INTO artisans_urls VALUES(11747,211,'URL_TUMBLR','https://fuzzbuttfursuits.tumblr.com/');
 INSERT INTO artisans_urls VALUES(11748,211,'URL_OTHER','Discord Server: http://www.fuzzbuttfursuits.com/discord');
+INSERT INTO artisans_urls VALUES(11749,440,'URL_FAQ','https://www.bigsnootsuits.com/f-a-q');
 COMMIT;
