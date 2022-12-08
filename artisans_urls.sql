@@ -2280,12 +2280,6 @@ INSERT INTO artisans_urls VALUES(10098,469,'URL_ETSY','https://www.etsy.com/shop
 INSERT INTO artisans_urls VALUES(10099,469,'URL_OTHER_SHOP','https://artzorastudios.weebly.com/premades-for-sale.html');
 INSERT INTO artisans_urls VALUES(10100,469,'URL_QUEUE','https://trello.com/b/NJskTkot/artzora-fursuit-queue');
 INSERT INTO artisans_urls VALUES(10101,469,'URL_COMMISSIONS','https://artzorastudios.weebly.com/fursuit-commissions.html');
-INSERT INTO artisans_urls VALUES(10102,470,'URL_WEBSITE','https://www.wandernwild.com/');
-INSERT INTO artisans_urls VALUES(10103,470,'URL_PRICES','https://www.wandernwild.com/prices');
-INSERT INTO artisans_urls VALUES(10104,470,'URL_FAQ','https://www.wandernwild.com/frequently-asked-questions');
-INSERT INTO artisans_urls VALUES(10105,470,'URL_TWITTER','https://twitter.com/wandernwild');
-INSERT INTO artisans_urls VALUES(10106,470,'URL_INSTAGRAM','https://www.instagram.com/wander.n.wild/');
-INSERT INTO artisans_urls VALUES(10107,470,'URL_COMMISSIONS','https://www.wandernwild.com/');
 INSERT INTO artisans_urls VALUES(10108,471,'URL_WEBSITE','https://www.lisanotuspaja.com/en/');
 INSERT INTO artisans_urls VALUES(10109,471,'URL_PRICES','https://www.lisanotuspaja.com/pricelist/');
 INSERT INTO artisans_urls VALUES(10110,471,'URL_FACEBOOK','https://www.facebook.com/lisanotuspaja/');
@@ -2471,11 +2465,6 @@ INSERT INTO artisans_urls VALUES(10335,481,'URL_QUEUE','https://trello.com/b/MCh
 INSERT INTO artisans_urls VALUES(10336,481,'URL_FURTRACK','https://www.furtrack.com/index/maker:treebark_creations');
 INSERT INTO artisans_urls VALUES(10341,482,'URL_DEVIANTART','https://www.deviantart.com/dogwool');
 INSERT INTO artisans_urls VALUES(10342,482,'URL_TUMBLR','https://dogwool.tumblr.com/');
-INSERT INTO artisans_urls VALUES(10343,483,'URL_WEBSITE','https://eisfuchsin.square.site/');
-INSERT INTO artisans_urls VALUES(10344,483,'URL_PRICES','https://eisfuchsin.square.site/commission-pricing');
-INSERT INTO artisans_urls VALUES(10345,483,'URL_COMMISSIONS','https://eisfuchsin.square.site/commission-pricing');
-INSERT INTO artisans_urls VALUES(10346,483,'URL_TWITTER','https://twitter.com/EisFuchsin');
-INSERT INTO artisans_urls VALUES(10347,483,'URL_INSTAGRAM','https://www.instagram.com/EisFuchsin/');
 INSERT INTO artisans_urls VALUES(10348,474,'URL_COMMISSIONS','https://twitter.com/8_8itArtistries');
 INSERT INTO artisans_urls VALUES(10349,482,'URL_PRICES','https://dogwool.square.site/fursuits');
 INSERT INTO artisans_urls VALUES(10350,482,'URL_COMMISSIONS','https://dogwool.square.site/fursuits');
