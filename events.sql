@@ -1076,4 +1076,6 @@ INSERT INTO events VALUES(1087,'2022-12-07 00:15:05','CS_UPDATED','Scruff and Tu
 INSERT INTO events VALUES(1088,'2022-12-07 12:15:21','CS_UPDATED','Scruff and Tumble Fursuits',0,0,0,'','https://scruffandtumblefursuits.com/','','','Commissions',0);
 INSERT INTO events VALUES(1089,'2022-12-08 12:15:32','CS_UPDATED','Furry Frenzy Studios',0,0,0,'','https://www.instagram.com/furryfr3nzy/','','','Quotes',1);
 INSERT INTO events VALUES(1090,'2022-12-08 16:50:00','DATA_UPDATED','',0,1,0,'0e9772fc2a2a9b0429572a26c979c4b3d3225372','','','','',0);
+INSERT INTO events VALUES(1091,'2022-12-08 18:27:00','DATA_UPDATED','',0,0,2,'24795b8d87d921030b3337b082f750ecdc44dda3','','','','',0);
+INSERT INTO events VALUES(1092,'2022-12-08 19:03:00','DATA_UPDATED','',2,0,0,'b0a6f7b128a58399ef301f91e8d2ea0e6c1f6e8c','','','','',0);
 COMMIT;
