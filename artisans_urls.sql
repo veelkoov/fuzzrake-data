@@ -2197,11 +2197,7 @@ INSERT INTO artisans_urls VALUES(10007,457,'URL_THE_DEALERS_DEN','https://www.th
 INSERT INTO artisans_urls VALUES(10008,457,'URL_QUEUE','https://trello.com/b/REt8ArwD/evilmakers-fursuits');
 INSERT INTO artisans_urls VALUES(10009,457,'URL_SCRITCH','https://scritch.es/makers/evil-makers');
 INSERT INTO artisans_urls VALUES(10010,457,'URL_COMMISSIONS','https://twitter.com/Evi1Makers');
-INSERT INTO artisans_urls VALUES(10011,458,'URL_WEBSITE','https://www.styngerskies.com/');
-INSERT INTO artisans_urls VALUES(10012,458,'URL_PRICES','https://www.styngerskies.com/pricing');
-INSERT INTO artisans_urls VALUES(10013,458,'URL_FAQ','https://www.styngerskies.com/faq');
 INSERT INTO artisans_urls VALUES(10014,458,'URL_TWITTER','https://twitter.com/StyngerC');
-INSERT INTO artisans_urls VALUES(10015,458,'URL_INSTAGRAM','https://www.instagram.com/styngerskies/');
 INSERT INTO artisans_urls VALUES(10016,458,'URL_ETSY','https://www.etsy.com/shop/StyngerSkies');
 INSERT INTO artisans_urls VALUES(10017,458,'URL_QUEUE','https://trello.com/b/wClChmLz/current-work-cycle');
 INSERT INTO artisans_urls VALUES(10018,458,'URL_SCRITCH','https://scritch.es/styngerskies');
@@ -2547,7 +2543,6 @@ INSERT INTO artisans_urls VALUES(10444,14,'URL_FAQ','https://www.battitudestudio
 INSERT INTO artisans_urls VALUES(10445,14,'URL_TWITTER','https://twitter.com/battitudestudio');
 INSERT INTO artisans_urls VALUES(10446,14,'URL_INSTAGRAM','https://www.instagram.com/battitudestudio/');
 INSERT INTO artisans_urls VALUES(10447,14,'URL_QUEUE','https://trello.com/b/nk1k2xvy/battitude-studio-fursuit-queue');
-INSERT INTO artisans_urls VALUES(10448,458,'URL_TUMBLR','https://styngerskies.tumblr.com/');
 INSERT INTO artisans_urls VALUES(10449,222,'URL_TWITTER','https://twitter.com/TungstenCarb');
 INSERT INTO artisans_urls VALUES(10450,222,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/tc-stuff');
 INSERT INTO artisans_urls VALUES(10451,428,'URL_SCRITCH','https://scritch.es/makers/angel-tigress');
@@ -3719,4 +3714,9 @@ INSERT INTO artisans_urls VALUES(11757,581,'URL_COMMISSIONS','https://www.instag
 INSERT INTO artisans_urls VALUES(11758,581,'URL_COMMISSIONS','https://sites.google.com/view/copper-works/queue');
 INSERT INTO artisans_urls VALUES(11759,581,'URL_INSTAGRAM','https://www.instagram.com/paws.n.needles.pro/');
 INSERT INTO artisans_urls VALUES(11760,581,'URL_QUEUE','https://sites.google.com/view/copper-works/queue');
+INSERT INTO artisans_urls VALUES(11761,458,'URL_WEBSITE','https://www.deaddragonfursuits.com/');
+INSERT INTO artisans_urls VALUES(11762,458,'URL_PRICES','https://www.deaddragonfursuits.com/pricing');
+INSERT INTO artisans_urls VALUES(11763,458,'URL_FAQ','https://www.deaddragonfursuits.com/faq');
+INSERT INTO artisans_urls VALUES(11764,458,'URL_TUMBLR','https://www.tumblr.com/deaddragonfursuits');
+INSERT INTO artisans_urls VALUES(11765,458,'URL_INSTAGRAM','https://www.instagram.com/ddfursuits/');
 COMMIT;
