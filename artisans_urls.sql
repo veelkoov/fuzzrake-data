@@ -1380,10 +1380,6 @@ INSERT INTO artisans_urls VALUES(9055,293,'URL_TWITTER','https://twitter.com/Hun
 INSERT INTO artisans_urls VALUES(9056,1,'URL_PRICES','http://silvenahandmade.com/index.php/prices/');
 INSERT INTO artisans_urls VALUES(9057,1,'URL_TWITTER','https://twitter.com/SilvenaHandmade');
 INSERT INTO artisans_urls VALUES(9058,1,'URL_YOUTUBE','https://www.youtube.com/channel/UCQE1E2PybO2UZ_1WQStROYA');
-INSERT INTO artisans_urls VALUES(9059,350,'URL_WEBSITE','https://tinydreamcreations.wixsite.com/tinydreamcreations');
-INSERT INTO artisans_urls VALUES(9060,350,'URL_PRICES','https://tinydreamcreations.wixsite.com/tinydreamcreations');
-INSERT INTO artisans_urls VALUES(9061,350,'URL_TWITTER','https://twitter.com/TDreamCreations');
-INSERT INTO artisans_urls VALUES(9064,350,'URL_COMMISSIONS','https://tinydreamcreations.wixsite.com/tinydreamcreations');
 INSERT INTO artisans_urls VALUES(9065,351,'URL_WEBSITE','https://unleashedstu.wixsite.com/unleashedstudios');
 INSERT INTO artisans_urls VALUES(9066,351,'URL_PRICES','https://unleashedstu.wixsite.com/unleashedstudios/about');
 INSERT INTO artisans_urls VALUES(9067,351,'URL_TWITTER','https://twitter.com/UnleashedSTU');
@@ -2580,8 +2576,6 @@ INSERT INTO artisans_urls VALUES(10491,200,'URL_QUEUE','https://trello.com/b/88v
 INSERT INTO artisans_urls VALUES(10492,200,'URL_COMMISSIONS','https://nnormann.wixsite.com/normansneedleworks/quotes');
 INSERT INTO artisans_urls VALUES(10493,200,'URL_LINKLIST','https://normansneedleworks.carrd.co/');
 INSERT INTO artisans_urls VALUES(10494,412,'URL_LINKLIST','https://linktr.ee/zipgrowl');
-INSERT INTO artisans_urls VALUES(10495,350,'URL_INSTAGRAM','https://www.instagram.com/tiny_dream_creations/');
-INSERT INTO artisans_urls VALUES(10496,350,'URL_LINKLIST','https://linktr.ee/TinyDream');
 INSERT INTO artisans_urls VALUES(10497,350,'URL_ETSY','https://www.etsy.com/shop/TinyDreamCreationDE');
 INSERT INTO artisans_urls VALUES(10498,493,'URL_WEBSITE','https://www.ychfursuits.com/home');
 INSERT INTO artisans_urls VALUES(10499,493,'URL_PRICES','https://www.ychfursuits.com/fursuit-prices');
@@ -3742,4 +3736,11 @@ INSERT INTO artisans_urls VALUES(11785,583,'URL_QUEUE','https://trello.com/invit
 INSERT INTO artisans_urls VALUES(11786,582,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/184051-73860c68d6a733aee2724aa680d54455.jpg');
 INSERT INTO artisans_urls VALUES(11787,582,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/184049-d1083d31df5d399c64dc77c15ddebd96.jpg');
 INSERT INTO artisans_urls VALUES(11788,582,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/184047-630c888a64edb534f7006d152ddb3082.jpg');
+INSERT INTO artisans_urls VALUES(11799,350,'URL_WEBSITE','https://koboldcraftings.carrd.co/');
+INSERT INTO artisans_urls VALUES(11800,350,'URL_PRICES','https://koboldcraftings.carrd.co');
+INSERT INTO artisans_urls VALUES(11801,350,'URL_COMMISSIONS','https://koboldcraftings.carrd.co/');
+INSERT INTO artisans_urls VALUES(11802,350,'URL_FAQ','https://docs.google.com/document/u/1/d/e/2PACX-1vTJIfLNLW3druZuYDyV8_0-KCnlIH6cOe11TLEhz3VVVZlzQGJxQOWcfRj9mALrReH82U57g0uDaHZu/pub');
+INSERT INTO artisans_urls VALUES(11803,350,'URL_TWITTER','https://twitter.com/KoboldCraftings');
+INSERT INTO artisans_urls VALUES(11804,350,'URL_INSTAGRAM','https://www.instagram.com/tinygreml/');
+INSERT INTO artisans_urls VALUES(11805,350,'URL_FURTRACK','https://www.furtrack.com/user/KoboldCraftings');
 COMMIT;
