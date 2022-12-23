@@ -3167,7 +3167,6 @@ INSERT INTO artisans_urls VALUES(11189,535,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(11190,535,'URL_YOUTUBE','https://www.youtube.com/channel/UCprS8VlyFlhi278sND-IIgg');
 INSERT INTO artisans_urls VALUES(11191,535,'URL_FURRY_AMINO','http://aminoapps.com/p/o84iuo');
 INSERT INTO artisans_urls VALUES(11192,535,'URL_QUEUE','https://trello.com/b/68tSmFqj/kiki-chaos-creations-queue');
-INSERT INTO artisans_urls VALUES(11193,536,'URL_PRICES','https://trello.com/b/COT01RJW/saber-studios-fursuit-commission-queue');
 INSERT INTO artisans_urls VALUES(11194,536,'URL_TWITTER','https://twitter.com/_Saberstudios_');
 INSERT INTO artisans_urls VALUES(11195,536,'URL_FACEBOOK','https://www.facebook.com/wolfssaberstudios/');
 INSERT INTO artisans_urls VALUES(11196,536,'URL_INSTAGRAM','https://www.instagram.com/saberstudios/');
@@ -3759,4 +3758,20 @@ INSERT INTO artisans_urls VALUES(11815,462,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(11816,462,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/87276-a19e3792d74e3e506c0b2e1b581a422e.jpg');
 INSERT INTO artisans_urls VALUES(11817,462,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/87712-089cad5e2fb4772c6478d12b4e8e9c05.jpg');
 INSERT INTO artisans_urls VALUES(11818,462,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/88379-10ff3226e8298de3ccb91270faa93c96.jpg');
+INSERT INTO artisans_urls VALUES(11819,584,'URL_COMMISSIONS','https://twitter.com/Paws_and_Maws');
+INSERT INTO artisans_urls VALUES(11820,584,'URL_TWITTER','https://twitter.com/Paws_and_Maws');
+INSERT INTO artisans_urls VALUES(11821,584,'URL_INSTAGRAM','https://www.instagram.com/HauntedPhantom_/');
+INSERT INTO artisans_urls VALUES(11822,584,'URL_YOUTUBE','https://youtube.com/@hauntedphantom9117');
+INSERT INTO artisans_urls VALUES(11823,584,'URL_LINKLIST','https://linktr.ee/Hauntedphantom');
+INSERT INTO artisans_urls VALUES(11824,584,'URL_ETSY','https://www.etsy.com/shop/PawsAndMaws');
+INSERT INTO artisans_urls VALUES(11825,584,'URL_QUEUE','https://trello.com/b/2Nf2y9Wp/pawsmaws-harness-commissions');
+INSERT INTO artisans_urls VALUES(11826,585,'URL_INSTAGRAM','https://www.instagram.com/amnesiacs_workshop/');
+INSERT INTO artisans_urls VALUES(11827,586,'URL_WEBSITE','https://spicydragon.uwu.ai/');
+INSERT INTO artisans_urls VALUES(11828,586,'URL_PRICES','https://spicydragon.uwu.ai/#prices');
+INSERT INTO artisans_urls VALUES(11829,586,'URL_TWITTER','https://twitter.com/spicy_dragon_s');
+INSERT INTO artisans_urls VALUES(11830,586,'URL_FACEBOOK','https://www.facebook.com/spicydragonstudio/');
+INSERT INTO artisans_urls VALUES(11831,536,'URL_WEBSITE','https://wuskyssaberstudios.wixsite.com/saberstudios/');
+INSERT INTO artisans_urls VALUES(11832,536,'URL_PRICES','https://wuskyssaberstudios.wixsite.com/saberstudios/blank-2');
+INSERT INTO artisans_urls VALUES(11833,536,'URL_COMMISSIONS','https://wuskyssaberstudios.wixsite.com/saberstudios');
+INSERT INTO artisans_urls VALUES(11834,536,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/search/other-items/?username=saberstudios&user_id=144557');
 COMMIT;
