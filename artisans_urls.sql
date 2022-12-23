@@ -2227,10 +2227,8 @@ INSERT INTO artisans_urls VALUES(10052,462,'URL_TWITTER','https://twitter.com/na
 INSERT INTO artisans_urls VALUES(10053,462,'URL_FACEBOOK','https://www.facebook.com/naritacoree.fur/');
 INSERT INTO artisans_urls VALUES(10054,462,'URL_INSTAGRAM','https://www.instagram.com/naritacoree.fur/');
 INSERT INTO artisans_urls VALUES(10055,462,'URL_YOUTUBE','https://www.youtube.com/c/flashpelt1');
-INSERT INTO artisans_urls VALUES(10056,462,'URL_LINKLIST','http://linktr.ee/naritacoree.fur');
 INSERT INTO artisans_urls VALUES(10057,462,'URL_FURRY_AMINO','http://aminoapps.com/p/yuvkz6');
 INSERT INTO artisans_urls VALUES(10058,462,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/naritacoree-fursuit-creations');
-INSERT INTO artisans_urls VALUES(10059,462,'URL_OTHER_SHOP','https://naritacoree.storenvy.com/');
 INSERT INTO artisans_urls VALUES(10060,462,'URL_QUEUE','https://trello.com/b/lEpxzLXZ/naritacoree-fursuits');
 INSERT INTO artisans_urls VALUES(10061,462,'URL_OTHER','http://instagram.com/naritacoree (my art specific non fursuit Instagram)');
 INSERT INTO artisans_urls VALUES(10062,463,'URL_WEBSITE','https://foxesinboxes.wixsite.com/foxesinboxes');
@@ -3751,4 +3749,14 @@ INSERT INTO artisans_urls VALUES(11805,350,'URL_FURTRACK','https://www.furtrack.
 INSERT INTO artisans_urls VALUES(11806,251,'URL_FURSUITREVIEW','https://fursuitreview.com/m/heckgeck-fursuits/');
 INSERT INTO artisans_urls VALUES(11807,442,'URL_WEBSITE','https://makeafurs.carrd.co/');
 INSERT INTO artisans_urls VALUES(11808,442,'URL_PRICES','https://makeafurs.carrd.co/');
+INSERT INTO artisans_urls VALUES(11809,462,'URL_LINKLIST','https://naritacoree.carrd.co/');
+INSERT INTO artisans_urls VALUES(11810,462,'URL_FURTRACK','https://www.furtrack.com/user/NaritaCoree/crafting');
+INSERT INTO artisans_urls VALUES(11811,462,'URL_PHOTOS','https://www.furtrack.com/p/87705');
+INSERT INTO artisans_urls VALUES(11812,462,'URL_PHOTOS','https://www.furtrack.com/p/87276');
+INSERT INTO artisans_urls VALUES(11813,462,'URL_PHOTOS','https://www.furtrack.com/p/87712');
+INSERT INTO artisans_urls VALUES(11814,462,'URL_PHOTOS','https://www.furtrack.com/p/88379');
+INSERT INTO artisans_urls VALUES(11815,462,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/87705-3f6bc07d4697ad06b94419eacc1a6c5d.jpg');
+INSERT INTO artisans_urls VALUES(11816,462,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/87276-a19e3792d74e3e506c0b2e1b581a422e.jpg');
+INSERT INTO artisans_urls VALUES(11817,462,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/87712-089cad5e2fb4772c6478d12b4e8e9c05.jpg');
+INSERT INTO artisans_urls VALUES(11818,462,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/88379-10ff3226e8298de3ccb91270faa93c96.jpg');
 COMMIT;
