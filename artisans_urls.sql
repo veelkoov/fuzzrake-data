@@ -3749,4 +3749,6 @@ INSERT INTO artisans_urls VALUES(11803,350,'URL_TWITTER','https://twitter.com/Ko
 INSERT INTO artisans_urls VALUES(11804,350,'URL_INSTAGRAM','https://www.instagram.com/tinygreml/');
 INSERT INTO artisans_urls VALUES(11805,350,'URL_FURTRACK','https://www.furtrack.com/user/KoboldCraftings');
 INSERT INTO artisans_urls VALUES(11806,251,'URL_FURSUITREVIEW','https://fursuitreview.com/m/heckgeck-fursuits/');
+INSERT INTO artisans_urls VALUES(11807,442,'URL_WEBSITE','https://makeafurs.carrd.co/');
+INSERT INTO artisans_urls VALUES(11808,442,'URL_PRICES','https://makeafurs.carrd.co/');
 COMMIT;
