@@ -3774,4 +3774,5 @@ INSERT INTO artisans_urls VALUES(11831,536,'URL_WEBSITE','https://wuskyssaberstu
 INSERT INTO artisans_urls VALUES(11832,536,'URL_PRICES','https://wuskyssaberstudios.wixsite.com/saberstudios/blank-2');
 INSERT INTO artisans_urls VALUES(11833,536,'URL_COMMISSIONS','https://wuskyssaberstudios.wixsite.com/saberstudios');
 INSERT INTO artisans_urls VALUES(11834,536,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/search/other-items/?username=saberstudios&user_id=144557');
+INSERT INTO artisans_urls VALUES(11835,151,'URL_FURSUITREVIEW','https://fursuitreview.com/m/winters-howling/');
 COMMIT;
