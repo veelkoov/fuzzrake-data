@@ -3781,4 +3781,6 @@ INSERT INTO artisans_urls VALUES(11847,587,'URL_PRICES','https://stxrcane.art/#c
 INSERT INTO artisans_urls VALUES(11848,587,'URL_TWITTER','https://twitter.com/stxrcane_suits');
 INSERT INTO artisans_urls VALUES(11849,587,'URL_ETSY','https://www.etsy.com/shop/stxrcane');
 INSERT INTO artisans_urls VALUES(11850,587,'URL_QUEUE','https://trello.com/b/dgsfZi8P/stxrcane-commission-queue-%F0%9F%94%AE');
+INSERT INTO artisans_urls VALUES(11851,436,'URL_LINKLIST','https://starcanearts.carrd.co/');
+INSERT INTO artisans_urls VALUES(11852,436,'URL_FURTRACK','https://www.furtrack.com/index/starcane_arts');
 COMMIT;
