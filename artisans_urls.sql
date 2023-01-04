@@ -1727,7 +1727,6 @@ INSERT INTO artisans_urls VALUES(9477,340,'URL_SCRITCH','https://scritch.es/make
 INSERT INTO artisans_urls VALUES(9480,399,'URL_SCRITCH','https://scritch.es/wolfskin-studio');
 INSERT INTO artisans_urls VALUES(9481,137,'URL_OTHER_SHOP','https://www.curlworks.net/shop');
 INSERT INTO artisans_urls VALUES(9482,187,'URL_FURSUITREVIEW','https://fursuitreview.com/m/bird-king-creations/');
-INSERT INTO artisans_urls VALUES(9483,246,'URL_TWITTER','https://twitter.com/mikusch_cat');
 INSERT INTO artisans_urls VALUES(9484,241,'URL_QUEUE','https://www.furaffinity.net/user/eddiebear/');
 INSERT INTO artisans_urls VALUES(9485,305,'URL_FURSUITREVIEW','https://fursuitreview.com/m/arvins-lair/');
 INSERT INTO artisans_urls VALUES(9486,305,'URL_LINKLIST','https://linktr.ee/arvinslair');
