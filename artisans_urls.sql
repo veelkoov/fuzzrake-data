@@ -3832,4 +3832,11 @@ INSERT INTO artisans_urls VALUES(11902,590,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(11903,590,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/210879-72fbe4759e7415f7b9860847e5546b17.jpg');
 INSERT INTO artisans_urls VALUES(11904,590,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/210889-34d4f330413f91de5bc77eda0e73b4b2.jpg');
 INSERT INTO artisans_urls VALUES(11905,588,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/194704-d74d2c6c1e0f9ed5a5c008914c21b0be.jpg');
+INSERT INTO artisans_urls VALUES(11906,592,'URL_WEBSITE','https://wolfbuckstudios.com/');
+INSERT INTO artisans_urls VALUES(11907,592,'URL_PRICES','https://trello.com/b/Zb1m2Adc/fursuit-tos-and-queue');
+INSERT INTO artisans_urls VALUES(11908,592,'URL_COMMISSIONS','https://wolfbuckstudios.com/');
+INSERT INTO artisans_urls VALUES(11909,592,'URL_TWITTER','https://twitter.com/nwbsuits');
+INSERT INTO artisans_urls VALUES(11910,592,'URL_ETSY','https://www.etsy.com/shop/WolfBuckStudios');
+INSERT INTO artisans_urls VALUES(11911,592,'URL_QUEUE','https://trello.com/b/Zb1m2Adc/fursuit-tos-and-queue');
+INSERT INTO artisans_urls VALUES(11912,593,'URL_WEBSITE','https://www.instagram.com/kalu_frostrhime/');
 COMMIT;
