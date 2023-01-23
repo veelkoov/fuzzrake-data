@@ -3895,4 +3895,13 @@ INSERT INTO artisans_urls VALUES(11975,361,'URL_THE_DEALERS_DEN','https://www.th
 INSERT INTO artisans_urls VALUES(11976,361,'URL_OTHER_SHOP','https://www.oakleyscreations.com/store');
 INSERT INTO artisans_urls VALUES(11977,361,'URL_QUEUE','https://trello.com/b/nQEi0Y23/oakleys-creations-fursuit-queue');
 INSERT INTO artisans_urls VALUES(11978,361,'URL_FURTRACK','https://www.furtrack.com/index/maker:oakleys_creations');
+INSERT INTO artisans_urls VALUES(11979,598,'URL_COMMISSIONS','https://twitter.com/craftycovenco');
+INSERT INTO artisans_urls VALUES(11980,598,'URL_TWITTER','https://twitter.com/craftycovenco');
+INSERT INTO artisans_urls VALUES(11981,598,'URL_INSTAGRAM','https://www.instagram.com/craftycovenco/');
+INSERT INTO artisans_urls VALUES(11982,598,'URL_LINKLIST','https://craftycovenco.carrd.co/');
+INSERT INTO artisans_urls VALUES(11983,598,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/other-items/hfursuits/121326?fbclid=PAAaby0j_KCqd0jUGYYKYyYfUpPW-BQzxCXBhI2GLAv8-TkUPF1NWyyiJdFe8');
+INSERT INTO artisans_urls VALUES(11984,598,'URL_QUEUE','https://trello.com/b/LM58MoBq/craftycoven-queue');
+INSERT INTO artisans_urls VALUES(11985,599,'URL_PRICES','https://trello.com/c/V7fVsWT2/31-fursuit-pricing');
+INSERT INTO artisans_urls VALUES(11986,599,'URL_TWITTER','https://twitter.com/BunnypawsFur');
+INSERT INTO artisans_urls VALUES(11987,599,'URL_QUEUE','https://trello.com/b/lYZI4E5P/creams-workshop');
 COMMIT;
