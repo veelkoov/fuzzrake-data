@@ -3882,4 +3882,17 @@ INSERT INTO artisans_urls VALUES(11962,279,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(11963,279,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/215099-a141ba4f6a76c7e952595be4e7618e71.jpg');
 INSERT INTO artisans_urls VALUES(11964,279,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/189549-c22a26640902fc7cab1d2bd0eed4685d.jpg');
 INSERT INTO artisans_urls VALUES(11965,279,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/160505-db1483d538d4946fef1527af0c8a0e4f.jpg');
+INSERT INTO artisans_urls VALUES(11966,361,'URL_FURSUITREVIEW','https://fursuitreview.com/m/oakleys-creations/');
+INSERT INTO artisans_urls VALUES(11967,361,'URL_WEBSITE','https://www.oakleyscreations.com/');
+INSERT INTO artisans_urls VALUES(11968,361,'URL_PRICES','https://www.oakleyscreations.com/prices');
+INSERT INTO artisans_urls VALUES(11969,361,'URL_COMMISSIONS','https://www.oakleyscreations.com/');
+INSERT INTO artisans_urls VALUES(11970,361,'URL_FAQ','https://www.oakleyscreations.com/faq');
+INSERT INTO artisans_urls VALUES(11971,361,'URL_TWITTER','https://twitter.com/oakleycreations');
+INSERT INTO artisans_urls VALUES(11972,361,'URL_TUMBLR','https://www.tumblr.com/oakleyscreations');
+INSERT INTO artisans_urls VALUES(11973,361,'URL_INSTAGRAM','https://www.instagram.com/oakleyscreations/');
+INSERT INTO artisans_urls VALUES(11974,361,'URL_LINKLIST','https://linktr.ee/oakleyscons');
+INSERT INTO artisans_urls VALUES(11975,361,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/oakleys-creations');
+INSERT INTO artisans_urls VALUES(11976,361,'URL_OTHER_SHOP','https://www.oakleyscreations.com/store');
+INSERT INTO artisans_urls VALUES(11977,361,'URL_QUEUE','https://trello.com/b/nQEi0Y23/oakleys-creations-fursuit-queue');
+INSERT INTO artisans_urls VALUES(11978,361,'URL_FURTRACK','https://www.furtrack.com/index/maker:oakleys_creations');
 COMMIT;
