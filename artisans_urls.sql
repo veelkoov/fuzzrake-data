@@ -3891,4 +3891,18 @@ INSERT INTO artisans_urls VALUES(11984,598,'URL_QUEUE','https://trello.com/b/LM5
 INSERT INTO artisans_urls VALUES(11985,599,'URL_PRICES','https://trello.com/c/V7fVsWT2/31-fursuit-pricing');
 INSERT INTO artisans_urls VALUES(11986,599,'URL_TWITTER','https://twitter.com/BunnypawsFur');
 INSERT INTO artisans_urls VALUES(11987,599,'URL_QUEUE','https://trello.com/b/lYZI4E5P/creams-workshop');
+INSERT INTO artisans_urls VALUES(11988,600,'URL_WEBSITE','https://fujidove.wixsite.com/akosfurlab');
+INSERT INTO artisans_urls VALUES(11989,600,'URL_PRICES','https://docs.google.com/document/d/19UH_kLXxA6jB-in87oli3Bf1XsOMGVhgTdN7gMc089o/edit');
+INSERT INTO artisans_urls VALUES(11990,600,'URL_COMMISSIONS','https://www.furaffinity.net/user/dragonlovescarrots/');
+INSERT INTO artisans_urls VALUES(11991,600,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/dragonlovescarrots/');
+INSERT INTO artisans_urls VALUES(11992,600,'URL_DEVIANTART','https://www.deviantart.com/lordalora');
+INSERT INTO artisans_urls VALUES(11993,600,'URL_TWITTER','https://twitter.com/DragonsPatch');
+INSERT INTO artisans_urls VALUES(11994,600,'URL_YOUTUBE','https://www.youtube.com/channel/UCiKH83WVwluh1rOaRBZqO4w');
+INSERT INTO artisans_urls VALUES(11996,600,'URL_OTHER_SHOP','https://fujidove.wixsite.com/akosfurlab');
+INSERT INTO artisans_urls VALUES(11997,600,'URL_SCRITCH','https://scritch.es/akohusky');
+INSERT INTO artisans_urls VALUES(11998,600,'URL_PHOTOS','https://scritch.es/pictures/1e923aec-cd67-42f4-bb8e-ce7804241c2b');
+INSERT INTO artisans_urls VALUES(11999,482,'URL_OTHER','https://www.tiktok.com/@dogwoolowner');
+INSERT INTO artisans_urls VALUES(12000,601,'URL_TWITTER','https://twitter.com/ThatFStudio');
+INSERT INTO artisans_urls VALUES(12001,601,'URL_INSTAGRAM','https://www.instagram.com/thatfursuitstudio/');
+INSERT INTO artisans_urls VALUES(12002,601,'URL_LINKLIST','https://linktr.ee/thatfursuitstudio');
 COMMIT;
