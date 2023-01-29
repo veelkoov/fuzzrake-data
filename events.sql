@@ -1234,4 +1234,13 @@ INSERT INTO events VALUES(1245,'2023-01-23 00:16:10','CS_UPDATED','Furry Frenzy 
 INSERT INTO events VALUES(1246,'2023-01-23 00:16:11','CS_UPDATED','Queen Pendas',0,0,0,'','https://www.instagram.com/queen_pendas/','','Commissions','',1);
 INSERT INTO events VALUES(1247,'2023-01-23 12:15:49','CS_UPDATED','Scruff and Tumble Fursuits',0,0,0,'','https://scruffandtumblefursuits.com/','','Commissions','',1);
 INSERT INTO events VALUES(1248,'2023-01-23 21:20:00','DATA_UPDATED','',0,1,0,'cbba78f22293495a380f01e53c8863b154250975','','','','',0);
+INSERT INTO events VALUES(1249,'2023-01-23 22:39:00','DATA_UPDATED','',2,0,0,'ce1ac9806e01b7309c61d12b8d092a0f78396de6','','','','',0);
+INSERT INTO events VALUES(1250,'2023-01-24 00:15:59','CS_UPDATED','CFStudios',0,0,0,'','https://twitter.com/C_F_Studios','','Commissions','',0);
+INSERT INTO events VALUES(1251,'2023-01-24 00:16:02','CS_UPDATED','Scruff and Tumble Fursuits',0,0,0,'','https://scruffandtumblefursuits.com/','','','Commissions',0);
+INSERT INTO events VALUES(1252,'2023-01-24 00:16:04','CS_UPDATED','Schorsuits',0,0,0,'','https://schorsuits.wixsite.com/schorsuits','','Commissions','',1);
+INSERT INTO events VALUES(1253,'2023-01-24 12:16:03','CS_UPDATED','Schorsuits',0,0,0,'','https://schorsuits.wixsite.com/schorsuits','','','Commissions',1);
+INSERT INTO events VALUES(1254,'2023-01-26 12:16:37','CS_UPDATED','ArtZora Studios',0,0,0,'','https://artzorastudios.weebly.com/fursuit-commissions.html','','Commissions','',0);
+INSERT INTO events VALUES(1255,'2023-01-27 00:16:29','CS_UPDATED','Scruff and Tumble Fursuits',0,0,0,'','https://scruffandtumblefursuits.com/','','Commissions','',1);
+INSERT INTO events VALUES(1256,'2023-01-27 12:16:16','CS_UPDATED','Scruff and Tumble Fursuits',0,0,0,'','https://scruffandtumblefursuits.com/','','','Commissions',0);
+INSERT INTO events VALUES(1257,'2023-01-28 00:15:54','CS_UPDATED','RandDfursuits',0,0,0,'','https://www.furaffinity.net/user/randdfursuits/','','Commissions','',0);
 COMMIT;
