@@ -3905,4 +3905,5 @@ INSERT INTO artisans_urls VALUES(11999,482,'URL_OTHER','https://www.tiktok.com/@
 INSERT INTO artisans_urls VALUES(12000,601,'URL_TWITTER','https://twitter.com/ThatFStudio');
 INSERT INTO artisans_urls VALUES(12001,601,'URL_INSTAGRAM','https://www.instagram.com/thatfursuitstudio/');
 INSERT INTO artisans_urls VALUES(12002,601,'URL_LINKLIST','https://linktr.ee/thatfursuitstudio');
+INSERT INTO artisans_urls VALUES(12005,600,'URL_MINIATURES','https://storage.scritch.es/scritch/298c11160c7dc87b318bc93102a7d3592f905844/thumbnail_19d09eda-278b-4531-9d09-14aacf3873bc.jpeg#r270');
 COMMIT;
