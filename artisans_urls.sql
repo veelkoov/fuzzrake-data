@@ -678,7 +678,6 @@ INSERT INTO artisans_urls VALUES(769,186,'URL_YOUTUBE','https://www.youtube.com/
 INSERT INTO artisans_urls VALUES(770,186,'URL_COMMISSIONS','https://www.furaffinity.net/user/samthemoose101/');
 INSERT INTO artisans_urls VALUES(774,187,'URL_TWITTER','https://twitter.com/birdkinq');
 INSERT INTO artisans_urls VALUES(775,187,'URL_FACEBOOK','https://www.facebook.com/birdkinq/');
-INSERT INTO artisans_urls VALUES(776,187,'URL_INSTAGRAM','https://www.instagram.com/birdkinq/');
 INSERT INTO artisans_urls VALUES(777,187,'URL_QUEUE','https://trello.com/b/ZJcplAnl/commission-queue');
 INSERT INTO artisans_urls VALUES(778,187,'URL_COMMISSIONS','https://twitter.com/birdkinq');
 INSERT INTO artisans_urls VALUES(779,188,'URL_WEBSITE','https://www.weaselsoneasels.com/');
@@ -3906,4 +3905,8 @@ INSERT INTO artisans_urls VALUES(12000,601,'URL_TWITTER','https://twitter.com/Th
 INSERT INTO artisans_urls VALUES(12001,601,'URL_INSTAGRAM','https://www.instagram.com/thatfursuitstudio/');
 INSERT INTO artisans_urls VALUES(12002,601,'URL_LINKLIST','https://linktr.ee/thatfursuitstudio');
 INSERT INTO artisans_urls VALUES(12005,600,'URL_MINIATURES','https://storage.scritch.es/scritch/298c11160c7dc87b318bc93102a7d3592f905844/thumbnail_19d09eda-278b-4531-9d09-14aacf3873bc.jpeg#r270');
+INSERT INTO artisans_urls VALUES(12006,187,'URL_WEBSITE','http://www.birdkingcreations.com/');
+INSERT INTO artisans_urls VALUES(12007,187,'URL_PRICES','http://www.birdkingcreations.com/prices.html');
+INSERT INTO artisans_urls VALUES(12008,187,'URL_INSTAGRAM','https://www.instagram.com/birdkingcreations/');
+INSERT INTO artisans_urls VALUES(12009,187,'URL_LINKLIST','https://linktr.ee/birdkingcreations');
 COMMIT;
