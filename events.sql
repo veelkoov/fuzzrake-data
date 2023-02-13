@@ -1309,4 +1309,5 @@ INSERT INTO events VALUES(1320,'2023-02-12 12:52:11','CS_UPDATED','starslikerose
 INSERT INTO events VALUES(1321,'2023-02-13 00:16:01','CS_UPDATED','EvilMakers',0,0,0,'','https://twitter.com/Evi1Makers','','Commissions','',0);
 INSERT INTO events VALUES(1322,'2023-02-13 00:16:02','CS_UPDATED','Silver Lynx Studios',0,0,0,'','https://www.instagram.com/silverlynxstudios/','','','Commissions',0);
 INSERT INTO events VALUES(1323,'2023-02-13 12:16:31','CS_UPDATED','Silver Lynx Studios',0,0,0,'','https://www.instagram.com/silverlynxstudios/','','Commissions','',1);
+INSERT INTO events VALUES(1324,'2023-02-13 20:39:06','CS_UPDATED','Love Heart Creations',0,0,0,'',replace('https://twitter.com/LoveAwesomeHea1\nhttps://www.instagram.com/love_heart_creations/','\n',char(10)),'','','Commissions',1);
 COMMIT;
