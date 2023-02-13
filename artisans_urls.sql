@@ -274,7 +274,6 @@ INSERT INTO artisans_urls VALUES(307,77,'URL_FAQ','http://www.onefurall.com/faq'
 INSERT INTO artisans_urls VALUES(308,77,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/onefurall/');
 INSERT INTO artisans_urls VALUES(309,77,'URL_TWITTER','https://twitter.com/Onefurallstudio');
 INSERT INTO artisans_urls VALUES(310,77,'URL_COMMISSIONS','https://www.furaffinity.net/user/onefurall/');
-INSERT INTO artisans_urls VALUES(311,79,'URL_FURSUITREVIEW','https://fursuitreview.com/m/phoenix-nest/');
 INSERT INTO artisans_urls VALUES(312,79,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/phoenixnest/');
 INSERT INTO artisans_urls VALUES(313,79,'URL_TWITTER','https://twitter.com/phoenixwuff');
 INSERT INTO artisans_urls VALUES(315,80,'URL_TWITTER','https://twitter.com/ruffleddesigns');
@@ -3909,4 +3908,5 @@ INSERT INTO artisans_urls VALUES(12006,187,'URL_WEBSITE','http://www.birdkingcre
 INSERT INTO artisans_urls VALUES(12007,187,'URL_PRICES','http://www.birdkingcreations.com/prices.html');
 INSERT INTO artisans_urls VALUES(12008,187,'URL_INSTAGRAM','https://www.instagram.com/birdkingcreations/');
 INSERT INTO artisans_urls VALUES(12009,187,'URL_LINKLIST','https://linktr.ee/birdkingcreations');
+INSERT INTO artisans_urls VALUES(12010,79,'URL_FURSUITREVIEW','https://fursuitreview.com/m/the-phoenix-nest/');
 COMMIT;
