@@ -1332,4 +1332,18 @@ INSERT INTO events VALUES(1343,'2023-02-19 00:15:46','CS_UPDATED','Silver Lynx S
 INSERT INTO events VALUES(1344,'2023-02-19 00:15:51','CS_UPDATED','FurNEkko Creations',0,0,0,'',replace('https://furnekkocreations.wixsite.com/furnekko-creations\nhttps://www.instagram.com/furnekko.creations/','\n',char(10)),'','Quotes','',1);
 INSERT INTO events VALUES(1345,'2023-02-19 12:15:31','CS_UPDATED','Nautical Creations',0,0,0,'','https://www.instagram.com/jakedaneza/','','','Commissions',0);
 INSERT INTO events VALUES(1346,'2023-02-20 00:15:54','CS_UPDATED','Nautical Creations',0,0,0,'','https://www.instagram.com/jakedaneza/','','Commissions','',1);
+INSERT INTO events VALUES(1347,'2023-02-20 22:33:00','DATA_UPDATED','',0,1,0,'570d4de235f5df1068f5d6175a1b7a2ed5f673b1','','','','',0);
+INSERT INTO events VALUES(1348,'2023-02-21 00:15:58','CS_UPDATED','TreeBark Creations LLC',0,0,0,'','https://therabbitssoul.wixsite.com/treebarkcreations','',replace('Commissions\nQuotes','\n',char(10)),'',0);
+INSERT INTO events VALUES(1349,'2023-02-21 12:16:13','CS_UPDATED','Selkie Suits',0,0,0,'','https://selkiesuits.co.uk/quotes.php','','Commissions','',0);
+INSERT INTO events VALUES(1350,'2023-02-22 00:16:22','CS_UPDATED','Nautical Creations',0,0,0,'','https://www.instagram.com/jakedaneza/','','','Commissions',0);
+INSERT INTO events VALUES(1351,'2023-02-22 12:16:09','CS_UPDATED','Nautical Creations',0,0,0,'','https://www.instagram.com/jakedaneza/','','Commissions','',1);
+INSERT INTO events VALUES(1352,'2023-02-22 12:16:10','CS_UPDATED','ZipGrowl Studios',0,0,0,'','https://www.instagram.com/zipgrowl/','','','Commissions',0);
+INSERT INTO events VALUES(1353,'2023-02-23 00:16:10','CS_UPDATED','ZipGrowl Studios',0,0,0,'','https://www.instagram.com/zipgrowl/','','Commissions','',1);
+INSERT INTO events VALUES(1354,'2023-02-23 00:16:17','CS_UPDATED','FurNEkko Creations',0,0,0,'',replace('https://furnekkocreations.wixsite.com/furnekko-creations\nhttps://www.instagram.com/furnekko.creations/','\n',char(10)),'','','Quotes',1);
+INSERT INTO events VALUES(1355,'2023-02-23 12:15:56','CS_UPDATED','Curlworks',0,0,0,'','https://www.curlworks.net/','','Commissions','',0);
+INSERT INTO events VALUES(1356,'2023-02-23 12:16:11','CS_UPDATED','FurNEkko Creations',0,0,0,'',replace('https://furnekkocreations.wixsite.com/furnekko-creations\nhttps://www.instagram.com/furnekko.creations/','\n',char(10)),'','Quotes','',1);
+INSERT INTO events VALUES(1357,'2023-02-24 00:16:06','CS_UPDATED','Sweet and Salty Suits',0,0,0,'','https://www.instagram.com/sassy.suits/','','','Quotes',0);
+INSERT INTO events VALUES(1358,'2023-02-24 00:16:18','CS_UPDATED','Furry Frenzy Studios',0,0,0,'','https://www.instagram.com/furryfr3nzy/','','','Quotes',0);
+INSERT INTO events VALUES(1359,'2023-02-24 12:15:53','CS_UPDATED','Sweet and Salty Suits',0,0,0,'','https://www.instagram.com/sassy.suits/','','Quotes','',1);
+INSERT INTO events VALUES(1360,'2023-02-24 12:16:05','CS_UPDATED','Furry Frenzy Studios',0,0,0,'','https://www.instagram.com/furryfr3nzy/','','Quotes','',1);
 COMMIT;
