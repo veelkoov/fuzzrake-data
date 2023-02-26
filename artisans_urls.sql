@@ -3922,4 +3922,5 @@ INSERT INTO artisans_urls VALUES(12026,603,'URL_COMMISSIONS','https://www.xiangs
 INSERT INTO artisans_urls VALUES(12027,603,'URL_FAQ','https://www.xiangshan.studio/workflow');
 INSERT INTO artisans_urls VALUES(12028,603,'URL_TWITTER','https://twitter.com/xiangshanstudio');
 INSERT INTO artisans_urls VALUES(12029,602,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/199916-c0243f3b6064d707da3e30ba8ff7483f.jpg');
+INSERT INTO artisans_urls VALUES(12030,603,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/xiangshan/');
 COMMIT;
