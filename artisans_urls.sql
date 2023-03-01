@@ -998,7 +998,6 @@ INSERT INTO artisans_urls VALUES(1140,255,'URL_INSTAGRAM','https://www.instagram
 INSERT INTO artisans_urls VALUES(1141,255,'URL_YOUTUBE','https://www.youtube.com/channel/UCqNtjK6k1npU-kz6Tx5CIxg');
 INSERT INTO artisans_urls VALUES(1143,256,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/hyenaclaw/');
 INSERT INTO artisans_urls VALUES(1145,256,'URL_INSTAGRAM','https://www.instagram.com/thekraftyhyena/');
-INSERT INTO artisans_urls VALUES(1146,256,'URL_YOUTUBE','https://www.youtube.com/channel/UCMTd9ZNpvB8_f3e1DMy7ddQ');
 INSERT INTO artisans_urls VALUES(1147,256,'URL_COMMISSIONS','https://www.furaffinity.net/user/hyenaclaw/');
 INSERT INTO artisans_urls VALUES(1151,257,'URL_TWITTER','https://twitter.com/NorthcatC');
 INSERT INTO artisans_urls VALUES(1154,258,'URL_WEBSITE','https://feelysden.weebly.com/');
@@ -3923,4 +3922,5 @@ INSERT INTO artisans_urls VALUES(12027,603,'URL_FAQ','https://www.xiangshan.stud
 INSERT INTO artisans_urls VALUES(12028,603,'URL_TWITTER','https://twitter.com/xiangshanstudio');
 INSERT INTO artisans_urls VALUES(12029,602,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/199916-c0243f3b6064d707da3e30ba8ff7483f.jpg');
 INSERT INTO artisans_urls VALUES(12030,603,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/xiangshan/');
+INSERT INTO artisans_urls VALUES(12031,256,'URL_FACEBOOK','https://www.facebook.com/thekraftyhyena/');
 COMMIT;
