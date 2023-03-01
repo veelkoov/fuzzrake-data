@@ -1346,4 +1346,11 @@ INSERT INTO events VALUES(1357,'2023-02-24 00:16:06','CS_UPDATED','Sweet and Sal
 INSERT INTO events VALUES(1358,'2023-02-24 00:16:18','CS_UPDATED','Furry Frenzy Studios',0,0,0,'','https://www.instagram.com/furryfr3nzy/','','','Quotes',0);
 INSERT INTO events VALUES(1359,'2023-02-24 12:15:53','CS_UPDATED','Sweet and Salty Suits',0,0,0,'','https://www.instagram.com/sassy.suits/','','Quotes','',1);
 INSERT INTO events VALUES(1360,'2023-02-24 12:16:05','CS_UPDATED','Furry Frenzy Studios',0,0,0,'','https://www.instagram.com/furryfr3nzy/','','Quotes','',1);
+INSERT INTO events VALUES(1361,'2023-02-26 17:47:00','DATA_UPDATED','',0,1,0,'61fea68ee55986b047acaffe395a8355764ff709','','','','',0);
+INSERT INTO events VALUES(1362,'2023-02-27 00:15:44','CS_UPDATED','Nautical Creations',0,0,0,'','https://www.instagram.com/jakedaneza/','','','Commissions',0);
+INSERT INTO events VALUES(1363,'2023-02-27 12:16:16','CS_UPDATED','Nautical Creations',0,0,0,'','https://www.instagram.com/jakedaneza/','','Commissions','',1);
+INSERT INTO events VALUES(1364,'2023-02-27 12:16:21','CS_UPDATED','HyenaHabits Workshop',0,0,0,'','https://hyenahabits.carrd.co/#','','','Quotes',0);
+INSERT INTO events VALUES(1365,'2023-02-28 00:15:53','CS_UPDATED','ByCats4Cats',0,0,0,'','http://bycats4cats.com/quote/','',replace('Commissions\nOrders','\n',char(10)),'',0);
+INSERT INTO events VALUES(1366,'2023-03-01 00:16:12','CS_UPDATED','Paws & Needles Production',0,0,0,'',replace('https://www.instagram.com/paws.n.needles.pro/\nhttps://sites.google.com/view/copper-works/queue','\n',char(10)),'','','Commissions',1);
+INSERT INTO events VALUES(1367,'2023-03-01 12:16:07','CS_UPDATED','Star Feather Atelier',0,0,0,'','https://twitter.com/starfeathersuit','','','Commissions',0);
 COMMIT;
