@@ -3923,4 +3923,6 @@ INSERT INTO artisans_urls VALUES(12028,603,'URL_TWITTER','https://twitter.com/xi
 INSERT INTO artisans_urls VALUES(12029,602,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/199916-c0243f3b6064d707da3e30ba8ff7483f.jpg');
 INSERT INTO artisans_urls VALUES(12030,603,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/xiangshan/');
 INSERT INTO artisans_urls VALUES(12031,256,'URL_FACEBOOK','https://www.facebook.com/thekraftyhyena/');
+INSERT INTO artisans_urls VALUES(12032,559,'URL_COMMISSIONS','https://trello.com/b/CRGC7zCh/commissions');
+INSERT INTO artisans_urls VALUES(12033,559,'URL_COMMISSIONS','https://instagram.com/anonwolf_studios');
 COMMIT;
