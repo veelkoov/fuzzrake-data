@@ -3925,4 +3925,11 @@ INSERT INTO artisans_urls VALUES(12030,603,'URL_FUR_AFFINITY','https://www.furaf
 INSERT INTO artisans_urls VALUES(12031,256,'URL_FACEBOOK','https://www.facebook.com/thekraftyhyena/');
 INSERT INTO artisans_urls VALUES(12032,559,'URL_COMMISSIONS','https://trello.com/b/CRGC7zCh/commissions');
 INSERT INTO artisans_urls VALUES(12033,559,'URL_COMMISSIONS','https://instagram.com/anonwolf_studios');
+INSERT INTO artisans_urls VALUES(12034,604,'URL_WEBSITE','https://www.stitchupfursuits.com/');
+INSERT INTO artisans_urls VALUES(12035,604,'URL_TWITTER','https://twitter.com/stitchupsuits');
+INSERT INTO artisans_urls VALUES(12036,604,'URL_FACEBOOK','https://www.facebook.com/Stitchupfursuits/');
+INSERT INTO artisans_urls VALUES(12037,604,'URL_QUEUE','https://trello.com/b/ZIgYcMsS/stitch-up-fursuit-commissions');
+INSERT INTO artisans_urls VALUES(12038,605,'URL_WEBSITE','https://crittercamp.carrd.co/');
+INSERT INTO artisans_urls VALUES(12039,605,'URL_TWITTER','https://twitter.com/CritterCampsite');
+INSERT INTO artisans_urls VALUES(12040,605,'URL_INSTAGRAM','https://www.instagram.com/crittercampsite/');
 COMMIT;
