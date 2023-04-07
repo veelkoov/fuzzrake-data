@@ -1490,4 +1490,5 @@ INSERT INTO events VALUES(1501,'2023-04-07 00:17:23','CS_UPDATED','Queen Pendas'
 INSERT INTO events VALUES(1502,'2023-04-07 00:17:24','CS_UPDATED','WolfBuck Studios',0,0,0,'','https://wolfbuckstudios.com/','','','Commissions',0);
 INSERT INTO events VALUES(1503,'2023-04-07 12:17:07','CS_UPDATED','Rum Wolf Studios',0,0,0,'','https://www.rumwolf.net/','','Commissions','',1);
 INSERT INTO events VALUES(1504,'2023-04-07 12:17:16','CS_UPDATED','Queen Pendas',0,0,0,'','https://www.instagram.com/queen_pendas/','','Commissions','',1);
+INSERT INTO events VALUES(1505,'2023-04-07 18:06:00','DATA_UPDATED','',0,2,0,'394589943f71277adabef8f32c5ff23fbedca1ac','','','','',0);
 COMMIT;
