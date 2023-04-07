@@ -1483,4 +1483,11 @@ INSERT INTO events VALUES(1494,'2023-04-05 12:16:48','CS_UPDATED','Furry Tailor'
 INSERT INTO events VALUES(1495,'2023-04-05 12:16:50','CS_UPDATED','Feely''s Den',0,0,0,'','https://twitter.com/feelysden','','Commissions','',1);
 INSERT INTO events VALUES(1496,'2023-04-06 12:16:59','CS_UPDATED','Komickrazi studios',0,0,0,'','https://twitter.com/Komickrazi','','Commissions','',1);
 INSERT INTO events VALUES(1497,'2023-04-06 12:17:06','CS_UPDATED','Whizmi Creations',0,0,0,'','https://www.instagram.com/whizmi.creations/','','','Commissions',0);
+INSERT INTO events VALUES(1498,'2023-04-06 20:48:00','DATA_UPDATED','',0,1,0,'49a472b8af502098efbdd0098890b002e43fb303','','','','',0);
+INSERT INTO events VALUES(1499,'2023-04-07 00:17:08','CS_UPDATED','Komickrazi studios',0,0,0,'','https://twitter.com/Komickrazi','','','Commissions',0);
+INSERT INTO events VALUES(1500,'2023-04-07 00:17:16','CS_UPDATED','Whizmi Creations',0,0,0,'','https://www.instagram.com/whizmi.creations/','','Commissions','',1);
+INSERT INTO events VALUES(1501,'2023-04-07 00:17:23','CS_UPDATED','Queen Pendas',0,0,0,'','https://www.instagram.com/queen_pendas/','','','Commissions',0);
+INSERT INTO events VALUES(1502,'2023-04-07 00:17:24','CS_UPDATED','WolfBuck Studios',0,0,0,'','https://wolfbuckstudios.com/','','','Commissions',0);
+INSERT INTO events VALUES(1503,'2023-04-07 12:17:07','CS_UPDATED','Rum Wolf Studios',0,0,0,'','https://www.rumwolf.net/','','Commissions','',1);
+INSERT INTO events VALUES(1504,'2023-04-07 12:17:16','CS_UPDATED','Queen Pendas',0,0,0,'','https://www.instagram.com/queen_pendas/','','Commissions','',1);
 COMMIT;
