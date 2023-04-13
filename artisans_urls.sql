@@ -2433,7 +2433,6 @@ INSERT INTO artisans_urls VALUES(10348,474,'URL_COMMISSIONS','https://twitter.co
 INSERT INTO artisans_urls VALUES(10349,482,'URL_PRICES','https://dogwool.square.site/fursuits');
 INSERT INTO artisans_urls VALUES(10350,482,'URL_COMMISSIONS','https://dogwool.square.site/fursuits');
 INSERT INTO artisans_urls VALUES(10351,482,'URL_INSTAGRAM','https://www.instagram.com/dogwoolowner/');
-INSERT INTO artisans_urls VALUES(10352,484,'URL_TWITTER','https://twitter.com/gocamecnun');
 INSERT INTO artisans_urls VALUES(10353,484,'URL_INSTAGRAM','https://www.instagram.com/liquidtoothcreations/');
 INSERT INTO artisans_urls VALUES(10356,185,'URL_LINKLIST','https://linktr.ee/ladynightlight');
 INSERT INTO artisans_urls VALUES(10358,185,'URL_PHOTOS','https://scritch.es/pictures/fb41c907-bca3-4cec-ad51-0958a169970c');
@@ -4124,4 +4123,6 @@ INSERT INTO artisans_urls VALUES(12242,624,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(12243,624,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/145310-8cb779bbed21b57c4f9e395235d2fe58.jpg');
 INSERT INTO artisans_urls VALUES(12244,624,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/145762-279ed7df22ac76720e6cfcdd69c74f83.jpg');
 INSERT INTO artisans_urls VALUES(12245,624,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/260422-4b2e014aa1b77d3e1687f05f005311d6.jpg');
+INSERT INTO artisans_urls VALUES(12246,484,'URL_TWITTER','https://twitter.com/LiquidTooth');
+INSERT INTO artisans_urls VALUES(12247,484,'URL_FURTRACK','https://www.furtrack.com/user/LiquidToothCreations');
 COMMIT;
