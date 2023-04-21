@@ -3144,9 +3144,6 @@ INSERT INTO artisans_urls VALUES(11212,538,'URL_LINKLIST','http://Linktr.ee/Dark
 INSERT INTO artisans_urls VALUES(11213,538,'URL_ETSY','https://www.etsy.com/shop/DarkmustangCreations');
 INSERT INTO artisans_urls VALUES(11215,539,'URL_COMMISSIONS','https://www.furaffinity.net/user/fedorafursuits/');
 INSERT INTO artisans_urls VALUES(11216,539,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/fedorafursuits/');
-INSERT INTO artisans_urls VALUES(11217,539,'URL_TWITTER','https://twitter.com/FedorasFursuits');
-INSERT INTO artisans_urls VALUES(11218,539,'URL_INSTAGRAM','https://www.instagram.com/fedorasfursuits/');
-INSERT INTO artisans_urls VALUES(11219,539,'URL_OTHER','Telegram: https://t.me/FedorasFursuits');
 INSERT INTO artisans_urls VALUES(11220,540,'URL_WEBSITE','https://cetaceanimagination.wixsite.com/home');
 INSERT INTO artisans_urls VALUES(11221,540,'URL_PRICES','https://cetaceanimagination.wixsite.com/home/prices');
 INSERT INTO artisans_urls VALUES(11222,540,'URL_TWITTER','https://twitter.com/CetaceanSuits');
@@ -4157,4 +4154,6 @@ INSERT INTO artisans_urls VALUES(12278,477,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(12279,477,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/102622-1a3c62d908f78eefbd3ec142f4298dab.jpg');
 INSERT INTO artisans_urls VALUES(12280,477,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/102611-8903073fceb32e38a41302bcab0e1301.jpg');
 INSERT INTO artisans_urls VALUES(12281,477,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/249928-5ea7f116d74cb1946be5581ff24122ad.jpg');
+INSERT INTO artisans_urls VALUES(12282,539,'URL_INSTAGRAM','https://www.instagram.com/fedorafursuits/');
+INSERT INTO artisans_urls VALUES(12283,539,'URL_OTHER','Telegram: https://t.me/Fedora_Fursuits');
 COMMIT;
