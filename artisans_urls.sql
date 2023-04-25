@@ -479,7 +479,6 @@ INSERT INTO artisans_urls VALUES(546,143,'URL_YOUTUBE','https://www.youtube.com/
 INSERT INTO artisans_urls VALUES(547,143,'URL_COMMISSIONS','http://furr.club/');
 INSERT INTO artisans_urls VALUES(548,144,'URL_WEBSITE','http://www.goldribbonstudio.com/');
 INSERT INTO artisans_urls VALUES(549,144,'URL_PRICES','http://www.goldribbonstudio.com/pricing');
-INSERT INTO artisans_urls VALUES(550,144,'URL_FAQ','http://www.goldribbonstudio.com/f-a-q');
 INSERT INTO artisans_urls VALUES(551,144,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/goldribbonstudio/');
 INSERT INTO artisans_urls VALUES(552,144,'URL_TWITTER','https://twitter.com/grsfursuits');
 INSERT INTO artisans_urls VALUES(553,144,'URL_FACEBOOK','https://www.facebook.com/goldribbonstudiofursuits/');
@@ -4156,4 +4155,14 @@ INSERT INTO artisans_urls VALUES(12280,477,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(12281,477,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/249928-5ea7f116d74cb1946be5581ff24122ad.jpg');
 INSERT INTO artisans_urls VALUES(12282,539,'URL_INSTAGRAM','https://www.instagram.com/fedorafursuits/');
 INSERT INTO artisans_urls VALUES(12283,539,'URL_OTHER','Telegram: https://t.me/Fedora_Fursuits');
+INSERT INTO artisans_urls VALUES(12284,144,'URL_FAQ','https://www.goldribbonstudio.com/f-a-q');
+INSERT INTO artisans_urls VALUES(12285,144,'URL_FURTRACK','https://www.furtrack.com/index/maker:gold_ribbon_studio');
+INSERT INTO artisans_urls VALUES(12286,144,'URL_PHOTOS','https://www.furtrack.com/p/174397');
+INSERT INTO artisans_urls VALUES(12287,144,'URL_PHOTOS','https://www.furtrack.com/p/176294');
+INSERT INTO artisans_urls VALUES(12288,144,'URL_PHOTOS','https://www.furtrack.com/p/281068');
+INSERT INTO artisans_urls VALUES(12289,144,'URL_PHOTOS','https://www.furtrack.com/p/224391');
+INSERT INTO artisans_urls VALUES(12290,144,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/174397-ab55a23d0377782a7fc30a9384c87348.jpg');
+INSERT INTO artisans_urls VALUES(12291,144,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/176294-631bc7fa8e25a5934c9c60698efbac21.jpg');
+INSERT INTO artisans_urls VALUES(12292,144,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/281068-f58db913305182db510d4e93fae0c6df.jpg');
+INSERT INTO artisans_urls VALUES(12293,144,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/224391-048181c1325471740ae736c954631300.jpg');
 COMMIT;
