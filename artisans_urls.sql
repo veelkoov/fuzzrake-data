@@ -1228,13 +1228,8 @@ INSERT INTO artisans_urls VALUES(1458,316,'URL_INSTAGRAM','https://www.instagram
 INSERT INTO artisans_urls VALUES(1459,316,'URL_YOUTUBE','https://www.youtube.com/channel/UCcLk3dgfqyvTXcG83O-V-gg');
 INSERT INTO artisans_urls VALUES(1460,316,'URL_QUEUE','https://trello.com/b/8zAEhGv3/2019-queue');
 INSERT INTO artisans_urls VALUES(1461,317,'URL_FURSUITREVIEW','https://fursuitreview.com/m/lizard-loves-mustache/');
-INSERT INTO artisans_urls VALUES(1462,317,'URL_WEBSITE','https://www.lizardlovesmustache.net/');
-INSERT INTO artisans_urls VALUES(1463,317,'URL_PRICES','https://www.lizardlovesmustache.net/prices');
-INSERT INTO artisans_urls VALUES(1464,317,'URL_FAQ','https://www.lizardlovesmustache.net/faq');
 INSERT INTO artisans_urls VALUES(1465,317,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/lizardlovesmustachecostumes/');
 INSERT INTO artisans_urls VALUES(1466,317,'URL_TWITTER','https://twitter.com/LLMCostumes');
-INSERT INTO artisans_urls VALUES(1467,317,'URL_FACEBOOK','https://www.facebook.com/LizardLovesMustache/');
-INSERT INTO artisans_urls VALUES(1468,317,'URL_QUEUE','https://trello.com/b/4QptWkS0/lizard-loves-mustache-commission-updates');
 INSERT INTO artisans_urls VALUES(1469,318,'URL_FACEBOOK','https://www.facebook.com/TribalPawStudios/');
 INSERT INTO artisans_urls VALUES(1470,318,'URL_INSTAGRAM','https://www.instagram.com/tribalpawstudios/');
 INSERT INTO artisans_urls VALUES(1471,318,'URL_COMMISSIONS','https://www.instagram.com/tribalpawstudios/');
@@ -2484,8 +2479,6 @@ INSERT INTO artisans_urls VALUES(10421,488,'URL_DEVIANTART','https://www.deviant
 INSERT INTO artisans_urls VALUES(10422,488,'URL_FURRY_AMINO','https://aminoapps.com/c/furry-amino/page/user/felidaefiendfursuits/N4Vm_0J8u0f43D8xDPXQ1ojpoEgoWML73l4');
 INSERT INTO artisans_urls VALUES(10423,488,'URL_PHOTOS','https://scritch.es/pictures/ce9c6ce2-e99b-4f7e-ab96-5fec55b50896');
 INSERT INTO artisans_urls VALUES(10424,488,'URL_MINIATURES','https://storage.scritch.es/scritch/474245fb1a7323478125fbd5c650818cc2094c6a/thumbnail_10ee81cf-bdd3-4bcb-aed7-16cc4c13e328.jpeg');
-INSERT INTO artisans_urls VALUES(10425,411,'URL_COMMISSIONS','https://twitter.com/HornedpupStudio');
-INSERT INTO artisans_urls VALUES(10426,411,'URL_TWITTER','https://twitter.com/HornedpupStudio');
 INSERT INTO artisans_urls VALUES(10427,489,'URL_TWITTER','https://twitter.com/MousetoothArt');
 INSERT INTO artisans_urls VALUES(10428,489,'URL_ETSY','https://www.etsy.com/shop/MousetoothCreations');
 INSERT INTO artisans_urls VALUES(10429,489,'URL_QUEUE','https://trello.com/b/8jYCMRPA/fursuits');
@@ -3708,7 +3701,6 @@ INSERT INTO artisans_urls VALUES(11829,586,'URL_TWITTER','https://twitter.com/sp
 INSERT INTO artisans_urls VALUES(11830,586,'URL_FACEBOOK','https://www.facebook.com/spicydragonstudio/');
 INSERT INTO artisans_urls VALUES(11831,536,'URL_WEBSITE','https://wuskyssaberstudios.wixsite.com/saberstudios/');
 INSERT INTO artisans_urls VALUES(11832,536,'URL_PRICES','https://wuskyssaberstudios.wixsite.com/saberstudios/blank-2');
-INSERT INTO artisans_urls VALUES(11833,536,'URL_COMMISSIONS','https://wuskyssaberstudios.wixsite.com/saberstudios');
 INSERT INTO artisans_urls VALUES(11834,536,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/search/other-items/?username=saberstudios&user_id=144557');
 INSERT INTO artisans_urls VALUES(11835,151,'URL_FURSUITREVIEW','https://fursuitreview.com/m/winters-howling/');
 INSERT INTO artisans_urls VALUES(11836,107,'URL_WEBSITE','https://starfeatheratelier.com/');
@@ -4165,4 +4157,10 @@ INSERT INTO artisans_urls VALUES(12290,144,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(12291,144,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/176294-631bc7fa8e25a5934c9c60698efbac21.jpg');
 INSERT INTO artisans_urls VALUES(12292,144,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/281068-f58db913305182db510d4e93fae0c6df.jpg');
 INSERT INTO artisans_urls VALUES(12293,144,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/224391-048181c1325471740ae736c954631300.jpg');
+INSERT INTO artisans_urls VALUES(12294,536,'URL_COMMISSIONS','https://twitter.com/_Saberstudios_');
+INSERT INTO artisans_urls VALUES(12295,317,'URL_WEBSITE','https://www.llmcostumes.com/');
+INSERT INTO artisans_urls VALUES(12296,317,'URL_PRICES','https://www.llmcostumes.com/prices');
+INSERT INTO artisans_urls VALUES(12297,317,'URL_FAQ','https://www.llmcostumes.com/faq');
+INSERT INTO artisans_urls VALUES(12298,317,'URL_FACEBOOK','https://www.facebook.com/people/LLM-Costumes/100042072915610/');
+INSERT INTO artisans_urls VALUES(12299,317,'URL_QUEUE','https://trello.com/b/4QptWkS0/llm-costumes-commission-updates');
 COMMIT;

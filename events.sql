@@ -1604,4 +1604,5 @@ INSERT INTO events VALUES(1615,'2023-04-27 00:17:42','CS_UPDATED','Ruff Stuff Co
 INSERT INTO events VALUES(1616,'2023-04-27 12:17:05','CS_UPDATED','Dragon''s Grin Studios',0,0,0,'','https://dragonsgrinstudios.weebly.com/','','','Trades',0);
 INSERT INTO events VALUES(1617,'2023-04-27 12:17:08','CS_UPDATED','Ruff Stuff Costumes',0,0,0,'','https://ruffstuffcostumes.webs.com/','','Commissions','',1);
 INSERT INTO events VALUES(1618,'2023-04-27 12:17:13','CS_UPDATED','Sabertooth cat Muffin',0,0,0,'','https://www.furaffinity.net/user/mingusmuffin/','','Commissions','',1);
+INSERT INTO events VALUES(1619,'2023-04-27 19:56:06','CS_UPDATED','Saber Studios',0,0,0,'','https://twitter.com/_Saberstudios_','',replace('Commissions\nQuotes','\n',char(10)),'',0);
 COMMIT;
