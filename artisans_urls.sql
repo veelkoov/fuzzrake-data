@@ -4180,4 +4180,11 @@ INSERT INTO artisans_urls VALUES(12326,516,'URL_WEBSITE','http://pinuhfursuits.g
 INSERT INTO artisans_urls VALUES(12327,516,'URL_PRICES','https://pinuhfursuits.glitch.me/pricing.html');
 INSERT INTO artisans_urls VALUES(12328,516,'URL_COMMISSIONS','https://twitter.com/pinuhfursuits');
 INSERT INTO artisans_urls VALUES(12329,516,'URL_FAQ','https://pinuhfursuits.glitch.me/faq.html');
+INSERT INTO artisans_urls VALUES(12330,633,'URL_COMMISSIONS','https://trello.com/b/vuiAIvmT/honeysuckles-home');
+INSERT INTO artisans_urls VALUES(12331,633,'URL_FAQ','https://trello.com/c/XqXz25OF/2-who-am-i');
+INSERT INTO artisans_urls VALUES(12332,633,'URL_TWITTER','https://twitter.com/HoneysucklezUK');
+INSERT INTO artisans_urls VALUES(12333,633,'URL_INSTAGRAM','https://www.instagram.com/_honeysucklez_/');
+INSERT INTO artisans_urls VALUES(12334,633,'URL_FURRY_AMINO','https://aminoapps.com/c/furry-amino/page/user/honeysuckle/g07N_pjgSxfVvL6N6Re4l8d6V51drwZgaBo');
+INSERT INTO artisans_urls VALUES(12335,633,'URL_ETSY','https://www.etsy.com/shop/HoneysuckleUK');
+INSERT INTO artisans_urls VALUES(12336,633,'URL_QUEUE','https://trello.com/b/vuiAIvmT/honeysuckles-home');
 COMMIT;
