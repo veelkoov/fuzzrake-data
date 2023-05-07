@@ -2865,10 +2865,6 @@ INSERT INTO artisans_urls VALUES(10909,515,'URL_QUEUE','https://t.me/TKGStudioCo
 INSERT INTO artisans_urls VALUES(10910,447,'URL_COMMISSIONS','https://twitter.com/rudebirdstudios');
 INSERT INTO artisans_urls VALUES(10911,447,'URL_TUMBLR','https://rudebirdstudios.tumblr.com/');
 INSERT INTO artisans_urls VALUES(10912,516,'URL_FURSUITREVIEW','https://fursuitreview.com/m/pinuh-fursuits/');
-INSERT INTO artisans_urls VALUES(10913,516,'URL_WEBSITE','https://pinuhfursuits.weebly.com/');
-INSERT INTO artisans_urls VALUES(10914,516,'URL_PRICES','https://pinuhfursuits.weebly.com/prices.html');
-INSERT INTO artisans_urls VALUES(10915,516,'URL_COMMISSIONS','https://pinuhfursuits.weebly.com/');
-INSERT INTO artisans_urls VALUES(10916,516,'URL_FAQ','https://pinuhfursuits.weebly.com/faq.html');
 INSERT INTO artisans_urls VALUES(10917,516,'URL_TWITTER','https://twitter.com/pinuhfursuits');
 INSERT INTO artisans_urls VALUES(10918,516,'URL_INSTAGRAM','https://www.instagram.com/pinuhfursuits/');
 INSERT INTO artisans_urls VALUES(10919,516,'URL_QUEUE','https://trello.com/b/MITeKDOd/pinuhs-fursuit-queue');
@@ -3707,8 +3703,6 @@ INSERT INTO artisans_urls VALUES(11843,107,'URL_LINKLIST','http://linktr.ee/star
 INSERT INTO artisans_urls VALUES(11844,107,'URL_OTHER_SHOP','https://ko-fi.com/starfeatheratelier/shop');
 INSERT INTO artisans_urls VALUES(11845,107,'URL_QUEUE','https://trello.com/b/Dhlvk8dE/star-feather-suits-queue');
 INSERT INTO artisans_urls VALUES(11846,587,'URL_WEBSITE','https://stxrcane.art/');
-INSERT INTO artisans_urls VALUES(11847,587,'URL_PRICES','https://stxrcane.art/#commission');
-INSERT INTO artisans_urls VALUES(11848,587,'URL_TWITTER','https://twitter.com/stxrcane_suits');
 INSERT INTO artisans_urls VALUES(11849,587,'URL_ETSY','https://www.etsy.com/shop/stxrcane');
 INSERT INTO artisans_urls VALUES(11850,587,'URL_QUEUE','https://trello.com/b/dgsfZi8P/stxrcane-commission-queue-%F0%9F%94%AE');
 INSERT INTO artisans_urls VALUES(11851,436,'URL_LINKLIST','https://starcanearts.carrd.co/');
@@ -4182,4 +4176,8 @@ INSERT INTO artisans_urls VALUES(12322,631,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(12323,631,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/288107-14b5a44db99ca955a377a439dea25a35.jpg');
 INSERT INTO artisans_urls VALUES(12324,631,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/288108-da89cb765b8c555f835d651591fe5920.jpg');
 INSERT INTO artisans_urls VALUES(12325,631,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/288109-30773aaa7d7d99ce278373253df2437e.jpg');
+INSERT INTO artisans_urls VALUES(12326,516,'URL_WEBSITE','http://pinuhfursuits.glitch.me/');
+INSERT INTO artisans_urls VALUES(12327,516,'URL_PRICES','https://pinuhfursuits.glitch.me/pricing.html');
+INSERT INTO artisans_urls VALUES(12328,516,'URL_COMMISSIONS','https://twitter.com/pinuhfursuits');
+INSERT INTO artisans_urls VALUES(12329,516,'URL_FAQ','https://pinuhfursuits.glitch.me/faq.html');
 COMMIT;
