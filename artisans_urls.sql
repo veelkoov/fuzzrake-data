@@ -604,7 +604,6 @@ INSERT INTO artisans_urls VALUES(683,171,'URL_INSTAGRAM','https://www.instagram.
 INSERT INTO artisans_urls VALUES(684,171,'URL_YOUTUBE','https://www.youtube.com/channel/UCG-AyPWdB-dC-0FNHvL6uxA');
 INSERT INTO artisans_urls VALUES(685,172,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/r5suits/');
 INSERT INTO artisans_urls VALUES(686,172,'URL_TWITTER','https://twitter.com/R5suits');
-INSERT INTO artisans_urls VALUES(687,172,'URL_FACEBOOK','https://www.facebook.com/r5suits/');
 INSERT INTO artisans_urls VALUES(688,172,'URL_QUEUE','https://trello.com/b/xcdyaWUP/r5-commissions');
 INSERT INTO artisans_urls VALUES(689,172,'URL_COMMISSIONS','https://trello.com/b/xcdyaWUP/r5-commissions');
 INSERT INTO artisans_urls VALUES(690,173,'URL_FACEBOOK','https://www.facebook.com/NightmareBeastCreations/');
@@ -4188,4 +4187,9 @@ INSERT INTO artisans_urls VALUES(12335,633,'URL_ETSY','https://www.etsy.com/shop
 INSERT INTO artisans_urls VALUES(12336,633,'URL_QUEUE','https://trello.com/b/vuiAIvmT/honeysuckles-home');
 INSERT INTO artisans_urls VALUES(12337,633,'URL_COMMISSIONS','https://trello.com/c/x2M4lhPg/34-commision-status');
 INSERT INTO artisans_urls VALUES(12338,453,'URL_TUMBLR','https://freckledcatcreations.tumblr.com/');
+INSERT INTO artisans_urls VALUES(12339,172,'URL_PRICES','https://trello.com/c/orY7IjIN/52-prices');
+INSERT INTO artisans_urls VALUES(12340,172,'URL_INSTAGRAM','https://www.instagram.com/r5suits/');
+INSERT INTO artisans_urls VALUES(12341,172,'URL_YOUTUBE','https://www.youtube.com/@rodneysilverfur1316');
+INSERT INTO artisans_urls VALUES(12342,172,'URL_LINKLIST','https://linktr.ee/r5suits');
+INSERT INTO artisans_urls VALUES(12343,172,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/search/other-items/?username=r5&user_id=111549');
 COMMIT;
