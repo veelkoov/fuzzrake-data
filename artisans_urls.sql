@@ -3762,7 +3762,6 @@ INSERT INTO artisans_urls VALUES(11905,588,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(11906,592,'URL_WEBSITE','https://wolfbuckstudios.com/');
 INSERT INTO artisans_urls VALUES(11907,592,'URL_PRICES','https://trello.com/b/Zb1m2Adc/fursuit-tos-and-queue');
 INSERT INTO artisans_urls VALUES(11908,592,'URL_COMMISSIONS','https://wolfbuckstudios.com/');
-INSERT INTO artisans_urls VALUES(11909,592,'URL_TWITTER','https://twitter.com/nwbsuits');
 INSERT INTO artisans_urls VALUES(11910,592,'URL_ETSY','https://www.etsy.com/shop/WolfBuckStudios');
 INSERT INTO artisans_urls VALUES(11911,592,'URL_QUEUE','https://trello.com/b/Zb1m2Adc/fursuit-tos-and-queue');
 INSERT INTO artisans_urls VALUES(11912,593,'URL_WEBSITE','https://www.instagram.com/kalu_frostrhime/');
@@ -4192,4 +4191,13 @@ INSERT INTO artisans_urls VALUES(12340,172,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(12341,172,'URL_YOUTUBE','https://www.youtube.com/@rodneysilverfur1316');
 INSERT INTO artisans_urls VALUES(12342,172,'URL_LINKLIST','https://linktr.ee/r5suits');
 INSERT INTO artisans_urls VALUES(12343,172,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/search/other-items/?username=r5&user_id=111549');
+INSERT INTO artisans_urls VALUES(12344,592,'URL_FURSUITREVIEW','https://fursuitreview.com/m/wolfbuck-studios/');
+INSERT INTO artisans_urls VALUES(12345,592,'URL_TWITTER','https://twitter.com/wolfbuckstudios');
+INSERT INTO artisans_urls VALUES(12346,452,'URL_FAQ','https://www.gatorwavesuits.com/info/faq.php');
+INSERT INTO artisans_urls VALUES(12347,452,'URL_MASTODON','https://meow.social/@gatorwave');
+INSERT INTO artisans_urls VALUES(12348,452,'URL_TUMBLR','https://www.tumblr.com/gatorwave');
+INSERT INTO artisans_urls VALUES(12349,452,'URL_QUEUE','https://trello.com/b/LLLWQGHn/gatorwaves-queue');
+INSERT INTO artisans_urls VALUES(12350,452,'URL_SCRITCH','https://scritch.es/makers/gatorwave');
+INSERT INTO artisans_urls VALUES(12351,452,'URL_FURTRACK','https://www.furtrack.com/index/maker:gatorwave');
+INSERT INTO artisans_urls VALUES(12352,539,'URL_QUEUE','https://trello.com/b/OP2soPlx/fedoras-fursuits');
 COMMIT;
