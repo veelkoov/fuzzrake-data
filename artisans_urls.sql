@@ -4200,4 +4200,5 @@ INSERT INTO artisans_urls VALUES(12349,452,'URL_QUEUE','https://trello.com/b/LLL
 INSERT INTO artisans_urls VALUES(12350,452,'URL_SCRITCH','https://scritch.es/makers/gatorwave');
 INSERT INTO artisans_urls VALUES(12351,452,'URL_FURTRACK','https://www.furtrack.com/index/maker:gatorwave');
 INSERT INTO artisans_urls VALUES(12352,539,'URL_QUEUE','https://trello.com/b/OP2soPlx/fedoras-fursuits');
+INSERT INTO artisans_urls VALUES(12353,306,'URL_FURSUITREVIEW','https://fursuitreview.com/m/beastlabs/');
 COMMIT;
