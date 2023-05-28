@@ -1657,4 +1657,9 @@ INSERT INTO events VALUES(1668,'2023-05-19 00:17:55','CS_UPDATED','Kitty Up Furs
 INSERT INTO events VALUES(1669,'2023-05-19 00:17:56','CS_UPDATED','CosmellCosplay',0,0,0,'','https://www.cosmellcosplay.com/','',replace('Quotes\nCommissions','\n',char(10)),'',0);
 INSERT INTO events VALUES(1670,'2023-05-20 00:17:21','CS_UPDATED','ByCats4Cats',0,0,0,'','http://bycats4cats.com/quote/','','',replace('Commissions\nOrders','\n',char(10)),0);
 INSERT INTO events VALUES(1671,'2023-05-21 11:03:00','DATA_UPDATED','',0,3,0,'48edda19817985c7745da2236bc9936f2d264e4e','','','','',0);
+INSERT INTO events VALUES(1672,'2023-05-23 00:18:06','CS_UPDATED','EmmaFursuits',0,0,0,'','https://twitter.com/emmafursuits','','Commissions','',1);
+INSERT INTO events VALUES(1673,'2023-05-23 12:17:46','CS_UPDATED','EmmaFursuits',0,0,0,'','https://twitter.com/emmafursuits','','','Commissions',0);
+INSERT INTO events VALUES(1674,'2023-05-24 00:17:34','CS_UPDATED','ByCats4Cats',0,0,0,'','http://bycats4cats.com/quote/','',replace('Commissions\nOrders','\n',char(10)),'',0);
+INSERT INTO events VALUES(1675,'2023-05-24 12:17:33','CS_UPDATED','ArtZora Studios',0,0,0,'','https://artzorastudios.weebly.com/fursuit-commissions.html','','Commissions','',0);
+INSERT INTO events VALUES(1676,'2023-05-24 12:17:38','CS_UPDATED','Kitty Up Fursuits',0,0,0,'','https://www.kittyupfursuits.com/home','','Commissions','',0);
 COMMIT;
