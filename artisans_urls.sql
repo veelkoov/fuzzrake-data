@@ -332,7 +332,6 @@ INSERT INTO artisans_urls VALUES(374,104,'URL_FUR_AFFINITY','https://www.furaffi
 INSERT INTO artisans_urls VALUES(375,104,'URL_COMMISSIONS','https://www.furaffinity.net/user/dexterouszombie/');
 INSERT INTO artisans_urls VALUES(376,105,'URL_WEBSITE','https://www.furaffinity.net/user/sugarnspicecostumes/');
 INSERT INTO artisans_urls VALUES(377,106,'URL_FURSUITREVIEW','https://fursuitreview.com/m/sarahcat/');
-INSERT INTO artisans_urls VALUES(379,107,'URL_FURSUITREVIEW','https://fursuitreview.com/m/grotto-creations/');
 INSERT INTO artisans_urls VALUES(381,108,'URL_WEBSITE','http://sugarcrittersstudios.webs.com/');
 INSERT INTO artisans_urls VALUES(385,109,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/lobitaworks/');
 INSERT INTO artisans_urls VALUES(386,109,'URL_DEVIANTART','https://www.deviantart.com/lobitaworks');
@@ -4201,4 +4200,5 @@ INSERT INTO artisans_urls VALUES(12350,452,'URL_SCRITCH','https://scritch.es/mak
 INSERT INTO artisans_urls VALUES(12351,452,'URL_FURTRACK','https://www.furtrack.com/index/maker:gatorwave');
 INSERT INTO artisans_urls VALUES(12352,539,'URL_QUEUE','https://trello.com/b/OP2soPlx/fedoras-fursuits');
 INSERT INTO artisans_urls VALUES(12353,306,'URL_FURSUITREVIEW','https://fursuitreview.com/m/beastlabs/');
+INSERT INTO artisans_urls VALUES(12354,107,'URL_FURSUITREVIEW','https://fursuitreview.com/m/star-feather-atelier/');
 COMMIT;
