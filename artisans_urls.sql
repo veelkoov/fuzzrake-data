@@ -4198,4 +4198,15 @@ INSERT INTO artisans_urls VALUES(12354,107,'URL_FURSUITREVIEW','https://fursuitr
 INSERT INTO artisans_urls VALUES(12355,493,'URL_WEBSITE','https://www.ychfursuits.com/');
 INSERT INTO artisans_urls VALUES(12356,493,'URL_PRICES','https://www.ychfursuits.com/prices');
 INSERT INTO artisans_urls VALUES(12357,493,'URL_COMMISSIONS','https://www.ychfursuits.com/');
+INSERT INTO artisans_urls VALUES(12358,634,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/deerdogryo/');
+INSERT INTO artisans_urls VALUES(12359,634,'URL_TWITTER','https://twitter.com/deerdogryo');
+INSERT INTO artisans_urls VALUES(12360,634,'URL_FACEBOOK','https://www.facebook.com/deerdogryo/');
+INSERT INTO artisans_urls VALUES(12361,634,'URL_TUMBLR','https://www.tumblr.com/deerdogryo');
+INSERT INTO artisans_urls VALUES(12362,634,'URL_INSTAGRAM','https://www.instagram.com/deerdogryo/');
+INSERT INTO artisans_urls VALUES(12363,634,'URL_LINKLIST','https://linktr.ee/DeerdogRyo');
+INSERT INTO artisans_urls VALUES(12364,634,'URL_ETSY','https://www.etsy.com/shop/Deerdogryo');
+INSERT INTO artisans_urls VALUES(12365,634,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/search/other-items/?username=deerdog&user_id=144073');
+INSERT INTO artisans_urls VALUES(12366,635,'URL_INSTAGRAM','https://www.instagram.com/midnight4creations/');
+INSERT INTO artisans_urls VALUES(12367,635,'URL_LINKLIST','https://linktr.ee/midnight_nightwolf');
+INSERT INTO artisans_urls VALUES(12368,635,'URL_FURTRACK','https://www.furtrack.com/user/midnight_nightwolf');
 COMMIT;
