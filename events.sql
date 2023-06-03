@@ -1663,4 +1663,14 @@ INSERT INTO events VALUES(1674,'2023-05-24 00:17:34','CS_UPDATED','ByCats4Cats',
 INSERT INTO events VALUES(1675,'2023-05-24 12:17:33','CS_UPDATED','ArtZora Studios',0,0,0,'','https://artzorastudios.weebly.com/fursuit-commissions.html','','Commissions','',0);
 INSERT INTO events VALUES(1676,'2023-05-24 12:17:38','CS_UPDATED','Kitty Up Fursuits',0,0,0,'','https://www.kittyupfursuits.com/home','','Commissions','',0);
 INSERT INTO events VALUES(1677,'2023-05-28 09:48:00','DATA_UPDATED','',0,1,0,'1c1b8387fb2706cb831f75bdbb129bad8c13e642','','','','',0);
+INSERT INTO events VALUES(1678,'2023-05-28 09:56:00','DATA_UPDATED','',0,0,3,'487d5859da78959dd66073361817860c694b0118','','','','',0);
+INSERT INTO events VALUES(1679,'2023-05-29 00:18:03','CS_UPDATED','OcMeCreations',0,0,0,'','https://ocmecreations.eu/en/status-for-getfursu-it.php','','Commissions','',1);
+INSERT INTO events VALUES(1680,'2023-05-29 12:17:39','CS_UPDATED','OcMeCreations',0,0,0,'','https://ocmecreations.eu/en/status-for-getfursu-it.php','','','Commissions',0);
+INSERT INTO events VALUES(1681,'2023-05-30 00:17:44','CS_UPDATED','OcMeCreations',0,0,0,'','https://ocmecreations.eu/en/status-for-getfursu-it.php','','Commissions','',1);
+INSERT INTO events VALUES(1682,'2023-05-30 12:17:32','CS_UPDATED','OcMeCreations',0,0,0,'','https://ocmecreations.eu/en/status-for-getfursu-it.php','','','Commissions',0);
+INSERT INTO events VALUES(1683,'2023-06-01 12:18:29','CS_UPDATED','Diinokit',0,0,0,'','https://diinokit.carrd.co/#commissions','','','Commissions',0);
+INSERT INTO events VALUES(1684,'2023-06-02 00:18:00','CS_UPDATED','R.W.C.',0,0,0,'','https://roxyswonderfulcreations8.webnode.cz/price-list/','','','Commissions',1);
+INSERT INTO events VALUES(1685,'2023-06-02 00:18:01','CS_UPDATED','WearCat Creations',0,0,0,'','https://wearcatcreations.com/','','Commissions','',1);
+INSERT INTO events VALUES(1686,'2023-06-02 00:18:08','CS_UPDATED','Painted Dog Studios',0,0,0,'','https://twitter.com/PaintedCanine','','Commissions','',0);
+INSERT INTO events VALUES(1687,'2023-06-03 00:17:27','CS_UPDATED','Howlmetal Horrors',0,0,0,'','https://twitter.com/howlmetalhorror','','','Commissions',0);
 COMMIT;
