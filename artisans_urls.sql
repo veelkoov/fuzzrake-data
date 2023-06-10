@@ -657,8 +657,6 @@ INSERT INTO artisans_urls VALUES(751,184,'URL_TWITTER','https://twitter.com/Hell
 INSERT INTO artisans_urls VALUES(752,184,'URL_YOUTUBE','https://www.youtube.com/channel/UCH6U0w82PhqZTSSfcfQ0jxg');
 INSERT INTO artisans_urls VALUES(753,184,'URL_QUEUE','https://trello.com/b/5zgiJhUF/fursuit-queue');
 INSERT INTO artisans_urls VALUES(755,185,'URL_WEBSITE','https://linktr.ee/ladynightlight');
-INSERT INTO artisans_urls VALUES(756,185,'URL_PRICES','https://georginacarpenter1.wixsite.com/ladynightlight/pricing');
-INSERT INTO artisans_urls VALUES(757,185,'URL_FAQ','https://georginacarpenter1.wixsite.com/ladynightlight/terms-of-service');
 INSERT INTO artisans_urls VALUES(758,185,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/ladynightlight/');
 INSERT INTO artisans_urls VALUES(759,185,'URL_DEVIANTART','https://ladynightlight.deviantart.com/');
 INSERT INTO artisans_urls VALUES(760,185,'URL_TWITTER','https://twitter.com/LadyNightLight');
@@ -2252,8 +2250,6 @@ INSERT INTO artisans_urls VALUES(10131,7,'URL_MINIATURES','https://storage.scrit
 INSERT INTO artisans_urls VALUES(10132,7,'URL_MINIATURES','https://storage.scritch.es/scritch/6d41728e3c9f8e08ca414e04ae8146f566424ba1/thumbnail_c9384707-000c-48ba-9c61-2ddf8b3ca6a9.jpeg#4050');
 INSERT INTO artisans_urls VALUES(10133,7,'URL_MINIATURES','https://storage.scritch.es/scritch/52bd52e48a18cf16f43ebf5d33863d1691ac8c46/thumbnail_f5ab0046-bbc2-40f0-869a-e517afee41b5.jpeg#4050');
 INSERT INTO artisans_urls VALUES(10134,185,'URL_PHOTOS','https://scritch.es/pictures/a29b6230-132f-4953-98c7-5c132659cba3');
-INSERT INTO artisans_urls VALUES(10135,185,'URL_PHOTOS','https://scritch.es/pictures/9b6fa405-e1cf-43b0-a19a-8470dd69039f');
-INSERT INTO artisans_urls VALUES(10136,185,'URL_PHOTOS','https://scritch.es/pictures/90532ae8-7ec2-4f28-8ede-01f92bc9672a');
 INSERT INTO artisans_urls VALUES(10144,188,'URL_PHOTOS','https://scritch.es/pictures/7e2722b6-91a5-470a-a1fd-a69c9012ae37');
 INSERT INTO artisans_urls VALUES(10145,188,'URL_PHOTOS','https://scritch.es/pictures/981ab7fa-10d0-4140-b23b-80ad732ba12d');
 INSERT INTO artisans_urls VALUES(10146,188,'URL_PHOTOS','https://scritch.es/pictures/7d56fddf-daf4-4f61-9deb-d81b78bc92f7');
@@ -2416,7 +2412,6 @@ INSERT INTO artisans_urls VALUES(10350,482,'URL_COMMISSIONS','https://dogwool.sq
 INSERT INTO artisans_urls VALUES(10351,482,'URL_INSTAGRAM','https://www.instagram.com/dogwoolowner/');
 INSERT INTO artisans_urls VALUES(10353,484,'URL_INSTAGRAM','https://www.instagram.com/liquidtoothcreations/');
 INSERT INTO artisans_urls VALUES(10356,185,'URL_LINKLIST','https://linktr.ee/ladynightlight');
-INSERT INTO artisans_urls VALUES(10358,185,'URL_PHOTOS','https://scritch.es/pictures/fb41c907-bca3-4cec-ad51-0958a169970c');
 INSERT INTO artisans_urls VALUES(10359,185,'URL_PHOTOS','https://scritch.es/pictures/7049a9eb-c287-460c-b973-d191b6fd6551');
 INSERT INTO artisans_urls VALUES(10365,185,'URL_COMMISSIONS','https://www.furaffinity.net/user/ladynightlight/');
 INSERT INTO artisans_urls VALUES(10371,323,'URL_WEBSITE','https://kabbercreations.weebly.com/');
@@ -2437,11 +2432,6 @@ INSERT INTO artisans_urls VALUES(10390,485,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(10391,485,'URL_YOUTUBE','https://www.youtube.com/channel/UCdtYgaMKktCR8OQ_A_wmWwA');
 INSERT INTO artisans_urls VALUES(10392,485,'URL_ETSY','https://www.etsy.com/shop/PocketWolfShop');
 INSERT INTO artisans_urls VALUES(10393,485,'URL_QUEUE','https://trello.com/b/bXWSkpDa/pocket-wolf-queue');
-INSERT INTO artisans_urls VALUES(10394,185,'URL_MINIATURES','https://storage.scritch.es/scritch/e16889eee61ae971ed6ecb5be363e574587d6921/thumbnail_ede1b44a-e2bb-4c11-95cb-348933f051b9.jpeg');
-INSERT INTO artisans_urls VALUES(10395,185,'URL_MINIATURES','https://storage.scritch.es/scritch/d6d2aa9dd2e84402d0699ee43f9d63251b4c2dd1/thumbnail_b68d1583-fdf5-4553-b8d4-240a85b71ce5.jpeg');
-INSERT INTO artisans_urls VALUES(10396,185,'URL_MINIATURES','https://storage.scritch.es/scritch/eb11568c490ca84beeca18744139107dc9f7c204/thumbnail_738b4095-4c79-4760-a313-d16a940e696c.jpeg');
-INSERT INTO artisans_urls VALUES(10397,185,'URL_MINIATURES','https://storage.scritch.es/scritch/2099e8861395cc2cd137560e4ff4279055eecb7f/thumbnail_7159358e-e7ed-45bb-8770-007830317a8f.jpeg');
-INSERT INTO artisans_urls VALUES(10398,185,'URL_MINIATURES','https://storage.scritch.es/scritch/51fdfe9d4872b0ca5ccad6b41ad5eccd80bbdaea/thumbnail_dc718173-022b-4f63-bed7-9c9f0764bca8.jpeg');
 INSERT INTO artisans_urls VALUES(10399,482,'URL_WEBSITE','https://dogwool.square.site/');
 INSERT INTO artisans_urls VALUES(10400,486,'URL_WEBSITE','https://swagliad.wixsite.com/antlerworks');
 INSERT INTO artisans_urls VALUES(10401,486,'URL_PRICES','https://swagliad.wixsite.com/antlerworks/pricing');
@@ -4212,4 +4202,15 @@ INSERT INTO artisans_urls VALUES(12368,635,'URL_FURTRACK','https://www.furtrack.
 INSERT INTO artisans_urls VALUES(12369,283,'URL_FURSUITREVIEW','https://fursuitreview.com/m/alphalyncis/');
 INSERT INTO artisans_urls VALUES(12370,499,'URL_FURSUITREVIEW','https://fursuitreview.com/m/wowdragonstudio/');
 INSERT INTO artisans_urls VALUES(12371,282,'URL_FURSUITREVIEW','https://fursuitreview.com/m/chaoticreations/');
+INSERT INTO artisans_urls VALUES(12372,524,'URL_TWITTER','https://twitter.com/Schmiggot');
+INSERT INTO artisans_urls VALUES(12373,185,'URL_PRICES','https://www.ladynightlight.com/pricing');
+INSERT INTO artisans_urls VALUES(12374,185,'URL_FAQ','http://ladynightlight.com/terms-of-service');
+INSERT INTO artisans_urls VALUES(12375,185,'URL_PHOTOS','https://scritch.es/pictures/6c7065f8-8711-4d4f-b152-dab1042abc01');
+INSERT INTO artisans_urls VALUES(12376,185,'URL_PHOTOS','https://scritch.es/pictures/74fdfd95-036e-4d01-9e84-876d81718f52');
+INSERT INTO artisans_urls VALUES(12377,185,'URL_PHOTOS','https://scritch.es/pictures/5be58f3a-848e-42c5-b786-6ff72438eb9a');
+INSERT INTO artisans_urls VALUES(12378,185,'URL_MINIATURES','https://storage.scritch.es/scritch/e16889eee61ae971ed6ecb5be363e574587d6921/thumbnail_ede1b44a-e2bb-4c11-95cb-348933f051b9.jpeg');
+INSERT INTO artisans_urls VALUES(12380,185,'URL_MINIATURES','https://storage.scritch.es/scritch/d137780bd63e015bde1cd701e78701f3e7108ad0/thumbnail_da5ba8eb-9724-4b9f-a6ee-4649bf356dee.jpeg');
+INSERT INTO artisans_urls VALUES(12382,185,'URL_MINIATURES','https://storage.scritch.es/scritch/3d065de2f6e2817340f3f2ff3bb675ec440d2687/thumbnail_45819e92-8349-4b1e-b1ec-f64eb44cac57.jpeg');
+INSERT INTO artisans_urls VALUES(12385,185,'URL_MINIATURES','https://storage.scritch.es/scritch/51fdfe9d4872b0ca5ccad6b41ad5eccd80bbdaea/thumbnail_dc718173-022b-4f63-bed7-9c9f0764bca8.jpeg#d20');
+INSERT INTO artisans_urls VALUES(12387,185,'URL_MINIATURES','https://storage.scritch.es/scritch/f30b328f489d3b93059fe21408384f01517d2b6b/thumbnail_1135d83e-4841-47c9-aa1d-f75ccfe79b8b.jpeg#r90d10');
 COMMIT;
