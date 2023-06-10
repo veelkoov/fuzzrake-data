@@ -4213,4 +4213,11 @@ INSERT INTO artisans_urls VALUES(12380,185,'URL_MINIATURES','https://storage.scr
 INSERT INTO artisans_urls VALUES(12382,185,'URL_MINIATURES','https://storage.scritch.es/scritch/3d065de2f6e2817340f3f2ff3bb675ec440d2687/thumbnail_45819e92-8349-4b1e-b1ec-f64eb44cac57.jpeg');
 INSERT INTO artisans_urls VALUES(12385,185,'URL_MINIATURES','https://storage.scritch.es/scritch/51fdfe9d4872b0ca5ccad6b41ad5eccd80bbdaea/thumbnail_dc718173-022b-4f63-bed7-9c9f0764bca8.jpeg#d20');
 INSERT INTO artisans_urls VALUES(12387,185,'URL_MINIATURES','https://storage.scritch.es/scritch/f30b328f489d3b93059fe21408384f01517d2b6b/thumbnail_1135d83e-4841-47c9-aa1d-f75ccfe79b8b.jpeg#r90d10');
+INSERT INTO artisans_urls VALUES(12388,636,'URL_WEBSITE','https://www.chaoscatcreations.de/');
+INSERT INTO artisans_urls VALUES(12389,636,'URL_PRICES','https://chaoscatcreations.de/preise/');
+INSERT INTO artisans_urls VALUES(12390,636,'URL_COMMISSIONS','https://www.furaffinity.net/user/chaos-cat-creations/');
+INSERT INTO artisans_urls VALUES(12391,636,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/chaos-cat-creations/');
+INSERT INTO artisans_urls VALUES(12392,636,'URL_TWITTER','https://twitter.com/Kiimesca');
+INSERT INTO artisans_urls VALUES(12393,636,'URL_INSTAGRAM','https://www.instagram.com/chaos_cat_creations/');
+INSERT INTO artisans_urls VALUES(12394,636,'URL_QUEUE','https://trello.com/b/d4Ru5swZ/chaos-cat-creations');
 COMMIT;
