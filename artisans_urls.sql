@@ -4209,4 +4209,7 @@ INSERT INTO artisans_urls VALUES(12365,634,'URL_THE_DEALERS_DEN','https://www.th
 INSERT INTO artisans_urls VALUES(12366,635,'URL_INSTAGRAM','https://www.instagram.com/midnight4creations/');
 INSERT INTO artisans_urls VALUES(12367,635,'URL_LINKLIST','https://linktr.ee/midnight_nightwolf');
 INSERT INTO artisans_urls VALUES(12368,635,'URL_FURTRACK','https://www.furtrack.com/user/midnight_nightwolf');
+INSERT INTO artisans_urls VALUES(12369,283,'URL_FURSUITREVIEW','https://fursuitreview.com/m/alphalyncis/');
+INSERT INTO artisans_urls VALUES(12370,499,'URL_FURSUITREVIEW','https://fursuitreview.com/m/wowdragonstudio/');
+INSERT INTO artisans_urls VALUES(12371,282,'URL_FURSUITREVIEW','https://fursuitreview.com/m/chaoticreations/');
 COMMIT;

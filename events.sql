@@ -1673,4 +1673,9 @@ INSERT INTO events VALUES(1684,'2023-06-02 00:18:00','CS_UPDATED','R.W.C.',0,0,0
 INSERT INTO events VALUES(1685,'2023-06-02 00:18:01','CS_UPDATED','WearCat Creations',0,0,0,'','https://wearcatcreations.com/','','Commissions','',1);
 INSERT INTO events VALUES(1686,'2023-06-02 00:18:08','CS_UPDATED','Painted Dog Studios',0,0,0,'','https://twitter.com/PaintedCanine','','Commissions','',0);
 INSERT INTO events VALUES(1687,'2023-06-03 00:17:27','CS_UPDATED','Howlmetal Horrors',0,0,0,'','https://twitter.com/howlmetalhorror','','','Commissions',0);
+INSERT INTO events VALUES(1688,'2023-06-04 12:17:39','CS_UPDATED','Chaoticreations',0,0,0,'','https://www.chaoticreations.co.uk/commissions','','','Quotes',0);
+INSERT INTO events VALUES(1689,'2023-06-06 00:17:51','CS_UPDATED','Chaoticreations',0,0,0,'','https://www.chaoticreations.co.uk/commissions','','Quotes','',0);
+INSERT INTO events VALUES(1690,'2023-06-06 12:17:32','CS_UPDATED','grayREALM Studio',0,0,0,'','https://www.grayrealmstudio.com/commission-status','','','Commissions',0);
+INSERT INTO events VALUES(1691,'2023-06-08 00:17:54','CS_UPDATED','Howlmetal Horrors',0,0,0,'','https://twitter.com/howlmetalhorror','','Commissions','',0);
+INSERT INTO events VALUES(1692,'2023-06-10 00:17:40','CS_UPDATED','Big Snoot Suits',0,0,0,'','https://www.bigsnootsuits.com/quote-form','','',replace('Commissions\nQuotes','\n',char(10)),0);
 COMMIT;
