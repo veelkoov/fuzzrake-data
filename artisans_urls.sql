@@ -2806,10 +2806,7 @@ INSERT INTO artisans_urls VALUES(10861,511,'URL_FAQ','https://trello.com/c/5KpkQ
 INSERT INTO artisans_urls VALUES(10862,511,'URL_TWITTER','https://twitter.com/StarsandBites');
 INSERT INTO artisans_urls VALUES(10863,511,'URL_INSTAGRAM','https://www.instagram.com/StarsandBitesFursuits/');
 INSERT INTO artisans_urls VALUES(10864,511,'URL_QUEUE','https://trello.com/b/wdNzGMph/stars-and-bites-fursuits');
-INSERT INTO artisans_urls VALUES(10865,512,'URL_WEBSITE','https://www.aussiestudios.com/');
-INSERT INTO artisans_urls VALUES(10866,512,'URL_PRICES','https://www.aussiestudios.com/prices');
 INSERT INTO artisans_urls VALUES(10867,512,'URL_COMMISSIONS','https://twitter.com/aussiestudios');
-INSERT INTO artisans_urls VALUES(10868,512,'URL_FAQ','https://www.aussiestudios.com/faq');
 INSERT INTO artisans_urls VALUES(10869,512,'URL_TWITTER','https://twitter.com/AussieStudios');
 INSERT INTO artisans_urls VALUES(10870,512,'URL_FACEBOOK','https://www.facebook.com/AussieStudios/');
 INSERT INTO artisans_urls VALUES(10871,512,'URL_INSTAGRAM','https://www.instagram.com/aussiestudios/');
@@ -3834,9 +3831,6 @@ INSERT INTO artisans_urls VALUES(11996,600,'URL_OTHER_SHOP','https://fujidove.wi
 INSERT INTO artisans_urls VALUES(11997,600,'URL_SCRITCH','https://scritch.es/akohusky');
 INSERT INTO artisans_urls VALUES(11998,600,'URL_PHOTOS','https://scritch.es/pictures/1e923aec-cd67-42f4-bb8e-ce7804241c2b');
 INSERT INTO artisans_urls VALUES(11999,482,'URL_OTHER','https://www.tiktok.com/@dogwoolowner');
-INSERT INTO artisans_urls VALUES(12000,601,'URL_TWITTER','https://twitter.com/ThatFStudio');
-INSERT INTO artisans_urls VALUES(12001,601,'URL_INSTAGRAM','https://www.instagram.com/thatfursuitstudio/');
-INSERT INTO artisans_urls VALUES(12002,601,'URL_LINKLIST','https://linktr.ee/thatfursuitstudio');
 INSERT INTO artisans_urls VALUES(12005,600,'URL_MINIATURES','https://storage.scritch.es/scritch/298c11160c7dc87b318bc93102a7d3592f905844/thumbnail_19d09eda-278b-4531-9d09-14aacf3873bc.jpeg#r270');
 INSERT INTO artisans_urls VALUES(12006,187,'URL_WEBSITE','http://www.birdkingcreations.com/');
 INSERT INTO artisans_urls VALUES(12007,187,'URL_PRICES','http://www.birdkingcreations.com/prices.html');
@@ -4220,4 +4214,7 @@ INSERT INTO artisans_urls VALUES(12391,636,'URL_FUR_AFFINITY','https://www.furaf
 INSERT INTO artisans_urls VALUES(12392,636,'URL_TWITTER','https://twitter.com/Kiimesca');
 INSERT INTO artisans_urls VALUES(12393,636,'URL_INSTAGRAM','https://www.instagram.com/chaos_cat_creations/');
 INSERT INTO artisans_urls VALUES(12394,636,'URL_QUEUE','https://trello.com/b/d4Ru5swZ/chaos-cat-creations');
+INSERT INTO artisans_urls VALUES(12396,512,'URL_WEBSITE','https://aussiekitten.wixsite.com/aussiestudios');
+INSERT INTO artisans_urls VALUES(12397,512,'URL_PRICES','https://aussiekitten.wixsite.com/aussiestudios/prices');
+INSERT INTO artisans_urls VALUES(12398,512,'URL_FAQ','https://aussiekitten.wixsite.com/aussiestudios/faq');
 COMMIT;
