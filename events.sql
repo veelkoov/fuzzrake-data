@@ -1678,4 +1678,18 @@ INSERT INTO events VALUES(1689,'2023-06-06 00:17:51','CS_UPDATED','Chaoticreatio
 INSERT INTO events VALUES(1690,'2023-06-06 12:17:32','CS_UPDATED','grayREALM Studio',0,0,0,'','https://www.grayrealmstudio.com/commission-status','','','Commissions',0);
 INSERT INTO events VALUES(1691,'2023-06-08 00:17:54','CS_UPDATED','Howlmetal Horrors',0,0,0,'','https://twitter.com/howlmetalhorror','','Commissions','',0);
 INSERT INTO events VALUES(1692,'2023-06-10 00:17:40','CS_UPDATED','Big Snoot Suits',0,0,0,'','https://www.bigsnootsuits.com/quote-form','','',replace('Commissions\nQuotes','\n',char(10)),0);
+INSERT INTO events VALUES(1693,'2023-06-10 18:21:00','DATA_UPDATED','',0,2,0,'464b3b661fc73f14964dc916d9f8baa3f790182c','','','','',0);
+INSERT INTO events VALUES(1694,'2023-06-10 21:24:00','DATA_UPDATED','',1,0,0,'0e9f1202b98bf338f78a862c89347243ccfd24e1','','','','',0);
+INSERT INTO events VALUES(1695,'2023-06-11 00:17:37','CS_UPDATED','Nyxia Creations',0,0,0,'','https://nyxiacreations.co.uk/','','',replace('Commissions\nQuotes','\n',char(10)),1);
+INSERT INTO events VALUES(1696,'2023-06-11 00:17:46','CS_UPDATED','BlankMuttCreations',0,0,0,'','https://blankmuttcreations.carrd.co/#fursuit','','','Quotes',1);
+INSERT INTO events VALUES(1697,'2023-06-11 12:17:22','CS_UPDATED','Chaoticreations',0,0,0,'','https://www.chaoticreations.co.uk/commissions','','','Commissions',0);
+INSERT INTO events VALUES(1698,'2023-06-12 00:17:32','CS_UPDATED','Koshka Fursuits',0,0,0,'','https://twitter.com/koshkafursuits','','Quotes','',1);
+INSERT INTO events VALUES(1699,'2023-06-12 12:17:28','CS_UPDATED','Koshka Fursuits',0,0,0,'','https://twitter.com/koshkafursuits','','','Quotes',0);
+INSERT INTO events VALUES(1700,'2023-06-13 12:17:46','CS_UPDATED','WolfBuck Studios',0,0,0,'','https://wolfbuckstudios.com/','','','Commissions',0);
+INSERT INTO events VALUES(1701,'2023-06-13 17:40:00','DATA_UPDATED','',0,0,2,'e97f8dce3a14c44075742666df807f57c6616110','','','','',0);
+INSERT INTO events VALUES(1702,'2023-06-14 00:17:37','CS_UPDATED','Alligators Always',0,0,0,'','https://twitter.com/AlligatorsAlway','','Commissions','',1);
+INSERT INTO events VALUES(1703,'2023-06-14 12:17:18','CS_UPDATED','Alligators Always',0,0,0,'','https://twitter.com/AlligatorsAlway','','','Commissions',0);
+INSERT INTO events VALUES(1704,'2023-06-14 12:17:31','CS_UPDATED','K-Toons Fursuits',0,0,0,'','https://twitter.com/FrostaPawie','',replace('Commissions\nQuotes','\n',char(10)),'',1);
+INSERT INTO events VALUES(1705,'2023-06-15 00:17:44','CS_UPDATED','K-Toons Fursuits',0,0,0,'','https://twitter.com/FrostaPawie','','',replace('Commissions\nQuotes','\n',char(10)),0);
+INSERT INTO events VALUES(1706,'2023-06-15 12:17:46','CS_UPDATED','Star Field Suits',0,0,0,'','https://starfieldfursuits.wixsite.com/fursuits','','Commissions','',1);
 COMMIT;

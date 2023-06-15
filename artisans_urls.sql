@@ -865,7 +865,6 @@ INSERT INTO artisans_urls VALUES(1002,230,'URL_WEBSITE','https://www.furrytailor
 INSERT INTO artisans_urls VALUES(1003,230,'URL_FACEBOOK','https://www.facebook.com/furrytailor/');
 INSERT INTO artisans_urls VALUES(1004,230,'URL_COMMISSIONS','https://www.furrytailor.co.uk/slots');
 INSERT INTO artisans_urls VALUES(1006,231,'URL_TWITTER','https://twitter.com/Zuri_Studios');
-INSERT INTO artisans_urls VALUES(1007,231,'URL_COMMISSIONS','https://twitter.com/Zuri_Studios');
 INSERT INTO artisans_urls VALUES(1008,232,'URL_WEBSITE','http://www.shingfx.com/');
 INSERT INTO artisans_urls VALUES(1009,232,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/missraptor/');
 INSERT INTO artisans_urls VALUES(1010,232,'URL_DEVIANTART','https://www.deviantart.com/missraptor');
@@ -1526,7 +1525,6 @@ INSERT INTO artisans_urls VALUES(9256,376,'URL_FACEBOOK','https://www.facebook.c
 INSERT INTO artisans_urls VALUES(9257,376,'URL_INSTAGRAM','https://www.instagram.com/nyxia_creations/');
 INSERT INTO artisans_urls VALUES(9258,376,'URL_YOUTUBE','https://www.youtube.com/channel/UCHi--4_jzJevmtZLAb0Snwg');
 INSERT INTO artisans_urls VALUES(9259,376,'URL_QUEUE','https://trello.com/b/nnr4Xws5/nyxia-creations-commission-queue');
-INSERT INTO artisans_urls VALUES(9260,376,'URL_COMMISSIONS','https://astranyxia.wixsite.com/nyxiacreations');
 INSERT INTO artisans_urls VALUES(9261,377,'URL_PRICES','https://www.furaffinity.net/user/brokenstitchessuits/');
 INSERT INTO artisans_urls VALUES(9262,377,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/brokenstitchessuits/');
 INSERT INTO artisans_urls VALUES(9263,377,'URL_TWITTER','https://twitter.com/Val_Stitches');
@@ -4214,6 +4212,7 @@ INSERT INTO artisans_urls VALUES(12391,636,'URL_FUR_AFFINITY','https://www.furaf
 INSERT INTO artisans_urls VALUES(12392,636,'URL_TWITTER','https://twitter.com/Kiimesca');
 INSERT INTO artisans_urls VALUES(12393,636,'URL_INSTAGRAM','https://www.instagram.com/chaos_cat_creations/');
 INSERT INTO artisans_urls VALUES(12394,636,'URL_QUEUE','https://trello.com/b/d4Ru5swZ/chaos-cat-creations');
+INSERT INTO artisans_urls VALUES(12395,376,'URL_COMMISSIONS','https://nyxiacreations.co.uk/');
 INSERT INTO artisans_urls VALUES(12396,512,'URL_WEBSITE','https://aussiekitten.wixsite.com/aussiestudios');
 INSERT INTO artisans_urls VALUES(12397,512,'URL_PRICES','https://aussiekitten.wixsite.com/aussiestudios/prices');
 INSERT INTO artisans_urls VALUES(12398,512,'URL_FAQ','https://aussiekitten.wixsite.com/aussiestudios/faq');
