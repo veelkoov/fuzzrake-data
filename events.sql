@@ -1692,4 +1692,11 @@ INSERT INTO events VALUES(1703,'2023-06-14 12:17:18','CS_UPDATED','Alligators Al
 INSERT INTO events VALUES(1704,'2023-06-14 12:17:31','CS_UPDATED','K-Toons Fursuits',0,0,0,'','https://twitter.com/FrostaPawie','',replace('Commissions\nQuotes','\n',char(10)),'',1);
 INSERT INTO events VALUES(1705,'2023-06-15 00:17:44','CS_UPDATED','K-Toons Fursuits',0,0,0,'','https://twitter.com/FrostaPawie','','',replace('Commissions\nQuotes','\n',char(10)),0);
 INSERT INTO events VALUES(1706,'2023-06-15 12:17:46','CS_UPDATED','Star Field Suits',0,0,0,'','https://starfieldfursuits.wixsite.com/fursuits','','Commissions','',1);
+INSERT INTO events VALUES(1707,'2023-06-15 19:08:00','DATA_UPDATED','',0,2,0,'f42f224f50f46d8dac7d86bc4195f58ba68565ec','','','','',0);
+INSERT INTO events VALUES(1708,'2023-06-16 00:17:33','CS_UPDATED','DarkRainbowDragon Creations',0,0,0,'','https://darkrainbowdragon.wixsite.com/drdcreations/status','','Commissions','',0);
+INSERT INTO events VALUES(1709,'2023-06-16 00:17:45','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandyfursuits.carrd.co/','','','Quotes',0);
+INSERT INTO events VALUES(1710,'2023-06-16 00:17:49','CS_UPDATED','Star Field Suits',0,0,0,'','https://starfieldfursuits.wixsite.com/fursuits','','','Commissions',0);
+INSERT INTO events VALUES(1711,'2023-06-17 12:17:09','CS_UPDATED','Scruff and Tumble Fursuits',0,0,0,'','https://scruffandtumblefursuits.com/','','Commissions','',1);
+INSERT INTO events VALUES(1712,'2023-06-18 00:17:24','CS_UPDATED','Scruff and Tumble Fursuits',0,0,0,'','https://scruffandtumblefursuits.com/','','','Commissions',0);
+INSERT INTO events VALUES(1713,'2023-06-18 00:17:29','CS_UPDATED','Big Snoot Suits',0,0,0,'','https://www.bigsnootsuits.com/quote-form','',replace('Commissions\nQuotes','\n',char(10)),'',0);
 COMMIT;
