@@ -4237,4 +4237,18 @@ INSERT INTO artisans_urls VALUES(12426,639,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(12427,639,'URL_LINKLIST','https://sparklepup.carrd.co/');
 INSERT INTO artisans_urls VALUES(12428,639,'URL_ETSY','https://www.etsy.com/shop/SparklePawsStudios');
 INSERT INTO artisans_urls VALUES(12429,601,'URL_WEBSITE','https://fellowbeasts.carrd.co/');
+INSERT INTO artisans_urls VALUES(12430,640,'URL_PRICES','https://docs.google.com/forms/d/e/1FAIpQLSdFYkgXvNvyU96-NppEHcbciUPtUdK5w0SPsCvkEJR2jIY3Qw/viewform');
+INSERT INTO artisans_urls VALUES(12431,640,'URL_COMMISSIONS','https://t.me/beastmakerstudio');
+INSERT INTO artisans_urls VALUES(12432,640,'URL_TWITTER','https://twitter.com/_beastmaker_');
+INSERT INTO artisans_urls VALUES(12433,640,'URL_INSTAGRAM','https://www.instagram.com/beastmakerstudio/');
+INSERT INTO artisans_urls VALUES(12434,640,'URL_YOUTUBE','https://youtube.com/@BeastmakerStudio');
+INSERT INTO artisans_urls VALUES(12435,640,'URL_QUEUE','https://t.me/beastmakerstudio');
+INSERT INTO artisans_urls VALUES(12436,641,'URL_WEBSITE','https://screamingcrowscreations.weebly.com/#/');
+INSERT INTO artisans_urls VALUES(12437,641,'URL_PRICES','https://screamingcrowscreations.weebly.com/prices.html');
+INSERT INTO artisans_urls VALUES(12438,641,'URL_TWITTER','https://twitter.com/2ScreamingCrows');
+INSERT INTO artisans_urls VALUES(12439,641,'URL_INSTAGRAM','https://www.instagram.com/screamingcrowscreations/');
+INSERT INTO artisans_urls VALUES(12440,641,'URL_LINKLIST','https://t.co/OVu9S1mldh');
+INSERT INTO artisans_urls VALUES(12441,641,'URL_ETSY','https://www.etsy.com/shop/2ScreamingCrows');
+INSERT INTO artisans_urls VALUES(12442,641,'URL_QUEUE','https://trello.com/b/EROBWgsf/queue');
+INSERT INTO artisans_urls VALUES(12443,641,'URL_FURTRACK','https://www.furtrack.com/index/maker:screaming_crows_creations');
 COMMIT;
