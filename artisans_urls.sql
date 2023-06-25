@@ -4236,4 +4236,5 @@ INSERT INTO artisans_urls VALUES(12425,639,'URL_FACEBOOK','https://www.facebook.
 INSERT INTO artisans_urls VALUES(12426,639,'URL_INSTAGRAM','https://www.instagram.com/sparklepawsstudios/');
 INSERT INTO artisans_urls VALUES(12427,639,'URL_LINKLIST','https://sparklepup.carrd.co/');
 INSERT INTO artisans_urls VALUES(12428,639,'URL_ETSY','https://www.etsy.com/shop/SparklePawsStudios');
+INSERT INTO artisans_urls VALUES(12429,601,'URL_WEBSITE','https://fellowbeasts.carrd.co/');
 COMMIT;
