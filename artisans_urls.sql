@@ -4270,4 +4270,6 @@ INSERT INTO artisans_urls VALUES(12460,644,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(12461,644,'URL_YOUTUBE','https://www.youtube.com/@PlatinumBladeStudios');
 INSERT INTO artisans_urls VALUES(12462,644,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/platinumbladestudios');
 INSERT INTO artisans_urls VALUES(12463,644,'URL_OTHER_SHOP','https://www.kleinanzeigen.de/s-bestandsliste.html?userId=122836296');
+INSERT INTO artisans_urls VALUES(12464,642,'URL_PRICES','https://gaygrumpstudios.wixsite.com/website/price-guide');
+INSERT INTO artisans_urls VALUES(12465,642,'URL_FAQ','https://gaygrumpstudios.wixsite.com/website/faq');
 COMMIT;
