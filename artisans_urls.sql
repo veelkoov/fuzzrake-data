@@ -871,8 +871,6 @@ INSERT INTO artisans_urls VALUES(1014,232,'URL_YOUTUBE','https://www.youtube.com
 INSERT INTO artisans_urls VALUES(1015,232,'URL_COMMISSIONS','https://www.furaffinity.net/user/missraptor/');
 INSERT INTO artisans_urls VALUES(1016,233,'URL_FURSUITREVIEW','https://fursuitreview.com/m/eternalskyy/');
 INSERT INTO artisans_urls VALUES(1017,233,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/eternalskyy/');
-INSERT INTO artisans_urls VALUES(1018,233,'URL_DEVIANTART','https://www.deviantart.com/eternalskyy');
-INSERT INTO artisans_urls VALUES(1019,233,'URL_TWITTER','https://twitter.com/eternalskyy');
 INSERT INTO artisans_urls VALUES(1020,233,'URL_FACEBOOK','https://www.facebook.com/profile.php?id=100008812608518');
 INSERT INTO artisans_urls VALUES(1021,233,'URL_YOUTUBE','https://www.youtube.com/channel/UCuA5r5brocuYJGwCcsZqmWg');
 INSERT INTO artisans_urls VALUES(1022,234,'URL_DEVIANTART','https://www.deviantart.com/ivanitko');
@@ -4274,4 +4272,11 @@ INSERT INTO artisans_urls VALUES(12464,642,'URL_PRICES','https://gaygrumpstudios
 INSERT INTO artisans_urls VALUES(12465,642,'URL_FAQ','https://gaygrumpstudios.wixsite.com/website/faq');
 INSERT INTO artisans_urls VALUES(12466,555,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/deadpozzum/');
 INSERT INTO artisans_urls VALUES(12467,555,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/deadpozzum');
+INSERT INTO artisans_urls VALUES(12468,233,'URL_WEBSITE','https://eternalskyy.carrd.co/');
+INSERT INTO artisans_urls VALUES(12469,233,'URL_DEVIANTART','https://eternalskyy.deviantart.com/');
+INSERT INTO artisans_urls VALUES(12470,233,'URL_INSTAGRAM','https://www.instagram.com/eternalskyycostumes/');
+INSERT INTO artisans_urls VALUES(12471,233,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/search/other-items/?username=lugia&user_id=101270');
+INSERT INTO artisans_urls VALUES(12472,233,'URL_OTHER_SHOP','https://www.mercari.com/u/255156787/');
+INSERT INTO artisans_urls VALUES(12473,233,'URL_QUEUE','https://trello.com/b/97RIgBrF/fursuit-and-project-que');
+INSERT INTO artisans_urls VALUES(12474,233,'URL_SCRITCH','https://scritch.es/makers/eternalskyy');
 COMMIT;
