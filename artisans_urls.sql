@@ -4316,13 +4316,13 @@ INSERT INTO artisans_urls VALUES(12508,647,'URL_PHOTOS','https://scritch.es/pict
 INSERT INTO artisans_urls VALUES(12509,647,'URL_PHOTOS','https://scritch.es/pictures/d6aa5944-5b5b-422a-a06e-a5f4afd1b441');
 INSERT INTO artisans_urls VALUES(12510,647,'URL_PHOTOS','https://scritch.es/pictures/89cea09c-9608-44d9-8d94-a3a93c6fa70f');
 INSERT INTO artisans_urls VALUES(12516,645,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/322265-919da524e510e4ca69caadc4fe17a749.jpg');
-INSERT INTO artisans_urls VALUES(12517,645,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/322268-0557abb3854708b511b90ccb2444d2d8.webp');
 INSERT INTO artisans_urls VALUES(12518,645,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/322262-c32efc95a555c9b92e187707738c1338.jpg');
 INSERT INTO artisans_urls VALUES(12519,645,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/322274-9a78c615dce1a240103effe4b2688324.jpg');
-INSERT INTO artisans_urls VALUES(12520,645,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/322278-c9c36914f022ffb6f77637492e554c29.png');
 INSERT INTO artisans_urls VALUES(12522,647,'URL_MINIATURES','https://storage.scritch.es/scritch/ca67b099d3ca1b2e2983cdbdce90c2141fb59fc4/thumbnail_22e2aacb-ecf7-4365-819b-8155bfbfea06.jpeg#r180');
 INSERT INTO artisans_urls VALUES(12524,647,'URL_MINIATURES','https://storage.scritch.es/scritch/d5a361cd9b092a589f4ddd7f37c7acf989f57a2c/thumbnail_f8512e11-2471-4ed8-82ff-c1c002b40445.jpeg#d10');
 INSERT INTO artisans_urls VALUES(12525,647,'URL_MINIATURES','https://storage.scritch.es/scritch/0705024b768232faac0034a7ae660a92226a8c9b/thumbnail_832aa6e5-35ee-4d35-8b5b-d6bc929907aa.jpeg#r90');
 INSERT INTO artisans_urls VALUES(12527,647,'URL_MINIATURES','https://storage.scritch.es/scritch/686b51427f3eff7288198bb570db755b8bfe4755/thumbnail_14d16fd2-d68b-4bba-a98c-8703fa288f32.jpeg#d40');
 INSERT INTO artisans_urls VALUES(12528,647,'URL_MINIATURES','https://storage.scritch.es/scritch/00a5983aca780ad69fd0ef59871b566ab2fa8435/thumbnail_20d1b8d5-3f72-4463-807a-2d9b64678bc7.jpeg#r90d10');
+INSERT INTO artisans_urls VALUES(12529,645,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/322268-0557abb3854708b511b90ccb2444d2d8.jpg');
+INSERT INTO artisans_urls VALUES(12530,645,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/322278-c9c36914f022ffb6f77637492e554c29.jpg');
 COMMIT;
