@@ -3808,9 +3808,7 @@ INSERT INTO artisans_urls VALUES(11986,599,'URL_TWITTER','https://twitter.com/Bu
 INSERT INTO artisans_urls VALUES(11987,599,'URL_QUEUE','https://trello.com/b/lYZI4E5P/creams-workshop');
 INSERT INTO artisans_urls VALUES(11988,600,'URL_WEBSITE','https://fujidove.wixsite.com/akosfurlab');
 INSERT INTO artisans_urls VALUES(11989,600,'URL_PRICES','https://docs.google.com/document/d/19UH_kLXxA6jB-in87oli3Bf1XsOMGVhgTdN7gMc089o/edit');
-INSERT INTO artisans_urls VALUES(11990,600,'URL_COMMISSIONS','https://www.furaffinity.net/user/dragonlovescarrots/');
 INSERT INTO artisans_urls VALUES(11991,600,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/dragonlovescarrots/');
-INSERT INTO artisans_urls VALUES(11993,600,'URL_TWITTER','https://twitter.com/DragonsPatch');
 INSERT INTO artisans_urls VALUES(11994,600,'URL_YOUTUBE','https://www.youtube.com/channel/UCiKH83WVwluh1rOaRBZqO4w');
 INSERT INTO artisans_urls VALUES(11996,600,'URL_OTHER_SHOP','https://fujidove.wixsite.com/akosfurlab');
 INSERT INTO artisans_urls VALUES(11997,600,'URL_SCRITCH','https://scritch.es/akohusky');
@@ -4353,4 +4351,10 @@ INSERT INTO artisans_urls VALUES(12557,648,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(12558,648,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/339050-aa2c25cc96ee6cb03d148fec9173ce97.jpg');
 INSERT INTO artisans_urls VALUES(12561,649,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/342224-f3049d7bfea60e890c93969e2b507910.jpg');
 INSERT INTO artisans_urls VALUES(12562,649,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/342226-9f5aa8413304a5564af6ca32ed7aad50.jpg');
+INSERT INTO artisans_urls VALUES(12563,600,'URL_COMMISSIONS','https://fujidove.wixsite.com/akosfurlab/commission-status');
+INSERT INTO artisans_urls VALUES(12564,600,'URL_TWITTER','https://twitter.com/AkosLab');
+INSERT INTO artisans_urls VALUES(12565,600,'URL_INSTAGRAM','https://www.instagram.com/akohusky/');
+INSERT INTO artisans_urls VALUES(12566,600,'URL_LINKLIST','https://linktr.ee/akohusky');
+INSERT INTO artisans_urls VALUES(12567,217,'URL_INSTAGRAM','https://www.instagram.com/frosti_hada_sundae/');
+INSERT INTO artisans_urls VALUES(12568,217,'URL_OTHER_SHOP','https://www.etsy.com/shop/FrostiHadaSundae?ref=seller-platform-mcnav');
 COMMIT;
