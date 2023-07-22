@@ -4357,4 +4357,6 @@ INSERT INTO artisans_urls VALUES(12565,600,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(12566,600,'URL_LINKLIST','https://linktr.ee/akohusky');
 INSERT INTO artisans_urls VALUES(12567,217,'URL_INSTAGRAM','https://www.instagram.com/frosti_hada_sundae/');
 INSERT INTO artisans_urls VALUES(12568,217,'URL_OTHER_SHOP','https://www.etsy.com/shop/FrostiHadaSundae?ref=seller-platform-mcnav');
+INSERT INTO artisans_urls VALUES(12569,510,'URL_FURSUITREVIEW','https://fursuitreview.com/m/shellsews-fursuits/');
+INSERT INTO artisans_urls VALUES(12570,460,'URL_FURSUITREVIEW','https://fursuitreview.com/m/desert-fizz/');
 COMMIT;
