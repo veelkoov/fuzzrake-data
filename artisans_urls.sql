@@ -4359,4 +4359,13 @@ INSERT INTO artisans_urls VALUES(12567,217,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(12568,217,'URL_OTHER_SHOP','https://www.etsy.com/shop/FrostiHadaSundae?ref=seller-platform-mcnav');
 INSERT INTO artisans_urls VALUES(12569,510,'URL_FURSUITREVIEW','https://fursuitreview.com/m/shellsews-fursuits/');
 INSERT INTO artisans_urls VALUES(12570,460,'URL_FURSUITREVIEW','https://fursuitreview.com/m/desert-fizz/');
+INSERT INTO artisans_urls VALUES(12571,650,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/faithfawn/');
+INSERT INTO artisans_urls VALUES(12572,650,'URL_TWITTER','https://twitter.com/fawn_faith');
+INSERT INTO artisans_urls VALUES(12573,651,'URL_WEBSITE','https://astrissuits.wixsite.com/astris-fursuits');
+INSERT INTO artisans_urls VALUES(12574,651,'URL_PRICES','https://astrissuits.wixsite.com/astris-fursuits/pricing');
+INSERT INTO artisans_urls VALUES(12575,651,'URL_COMMISSIONS','https://www.instagram.com/astris_fursuits/');
+INSERT INTO artisans_urls VALUES(12576,651,'URL_FACEBOOK','https://www.facebook.com/AstrisSuits/');
+INSERT INTO artisans_urls VALUES(12577,651,'URL_INSTAGRAM','https://www.instagram.com/astris_fursuits/');
+INSERT INTO artisans_urls VALUES(12578,651,'URL_LINKLIST','https://linktr.ee/thimblegoatbit');
+INSERT INTO artisans_urls VALUES(12579,651,'URL_QUEUE','https://trello.com/b/ISQUSTU0/fursuit-commission-progress');
 COMMIT;
