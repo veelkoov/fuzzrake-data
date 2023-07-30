@@ -3558,8 +3558,6 @@ INSERT INTO artisans_urls VALUES(11731,373,'URL_ETSY','https://www.etsy.com/shop
 INSERT INTO artisans_urls VALUES(11732,578,'URL_COMMISSIONS','https://twitter.com/tomacats_suits');
 INSERT INTO artisans_urls VALUES(11733,578,'URL_TWITTER','https://twitter.com/tomacats_suits');
 INSERT INTO artisans_urls VALUES(11734,578,'URL_INSTAGRAM','https://www.instagram.com/tomacats_suits/');
-INSERT INTO artisans_urls VALUES(11735,579,'URL_INSTAGRAM','https://www.instagram.com/doubledogcreations/');
-INSERT INTO artisans_urls VALUES(11736,579,'URL_ETSY','https://www.etsy.com/shop/DoubleDogCreations');
 INSERT INTO artisans_urls VALUES(11737,538,'URL_WEBSITE','https://trello.com/b/GSbPtXCV/clown-car-critters-open-for-commissions');
 INSERT INTO artisans_urls VALUES(11738,538,'URL_PRICES','https://trello.com/b/GSbPtXCV/clown-car-critters-open-for-commissions');
 INSERT INTO artisans_urls VALUES(11739,538,'URL_COMMISSIONS','https://trello.com/b/GSbPtXCV/clown-car-critters-open-for-commissions');
@@ -3847,8 +3845,6 @@ INSERT INTO artisans_urls VALUES(12034,604,'URL_WEBSITE','https://www.stitchupfu
 INSERT INTO artisans_urls VALUES(12035,604,'URL_TWITTER','https://twitter.com/stitchupsuits');
 INSERT INTO artisans_urls VALUES(12036,604,'URL_FACEBOOK','https://www.facebook.com/Stitchupfursuits/');
 INSERT INTO artisans_urls VALUES(12037,604,'URL_QUEUE','https://trello.com/b/ZIgYcMsS/stitch-up-fursuit-commissions');
-INSERT INTO artisans_urls VALUES(12038,605,'URL_WEBSITE','https://crittercamp.carrd.co/');
-INSERT INTO artisans_urls VALUES(12039,605,'URL_TWITTER','https://twitter.com/CritterCampsite');
 INSERT INTO artisans_urls VALUES(12040,605,'URL_INSTAGRAM','https://www.instagram.com/crittercampsite/');
 INSERT INTO artisans_urls VALUES(12041,606,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/drakoniccat/');
 INSERT INTO artisans_urls VALUES(12042,606,'URL_TWITTER','https://twitter.com/Unnajynx');
@@ -4368,4 +4364,8 @@ INSERT INTO artisans_urls VALUES(12576,651,'URL_FACEBOOK','https://www.facebook.
 INSERT INTO artisans_urls VALUES(12577,651,'URL_INSTAGRAM','https://www.instagram.com/astris_fursuits/');
 INSERT INTO artisans_urls VALUES(12578,651,'URL_LINKLIST','https://linktr.ee/thimblegoatbit');
 INSERT INTO artisans_urls VALUES(12579,651,'URL_QUEUE','https://trello.com/b/ISQUSTU0/fursuit-commission-progress');
+INSERT INTO artisans_urls VALUES(12580,579,'URL_TWITTER','https://twitter.com/ConeYote');
+INSERT INTO artisans_urls VALUES(12581,579,'URL_INSTAGRAM','https://www.instagram.com/coneyote/');
+INSERT INTO artisans_urls VALUES(12582,605,'URL_WEBSITE','https://theprizecounter.carrd.co/');
+INSERT INTO artisans_urls VALUES(12583,605,'URL_TWITTER','https://twitter.com/ThePrizeCounter');
 COMMIT;
