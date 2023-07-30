@@ -4368,4 +4368,5 @@ INSERT INTO artisans_urls VALUES(12580,579,'URL_TWITTER','https://twitter.com/Co
 INSERT INTO artisans_urls VALUES(12581,579,'URL_INSTAGRAM','https://www.instagram.com/coneyote/');
 INSERT INTO artisans_urls VALUES(12582,605,'URL_WEBSITE','https://theprizecounter.carrd.co/');
 INSERT INTO artisans_urls VALUES(12583,605,'URL_TWITTER','https://twitter.com/ThePrizeCounter');
+INSERT INTO artisans_urls VALUES(12584,291,'URL_FURSUITREVIEW','https://fursuitreview.com/m/schneepardi-creations/');
 COMMIT;
