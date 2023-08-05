@@ -4434,4 +4434,5 @@ INSERT INTO artisans_urls VALUES(12655,655,'URL_MINIATURES','https://storage.scr
 INSERT INTO artisans_urls VALUES(12656,655,'URL_MINIATURES','https://storage.scritch.es/scritch/2c1620307924c16a7c09843a692e5a470a4ec6ea/thumbnail_15bd1e4b-74b4-4051-a299-93756f40c8c0.png');
 INSERT INTO artisans_urls VALUES(12657,655,'URL_MINIATURES','https://storage.scritch.es/scritch/45c2c990ac2fc0781a518c583badb368b873af83/thumbnail_d5354543-a5f2-4cb4-98e6-2c5286bde272.png');
 INSERT INTO artisans_urls VALUES(12659,656,'URL_MINIATURES','https://storage.scritch.es/scritch/f900e6a353024f1679f60bc21d2ff6760fabd535/thumbnail_ca5a74c6-9e00-47e9-8e53-3f0d771224a9.png#d20');
+INSERT INTO artisans_urls VALUES(12660,555,'URL_PRICES','https://docs.google.com/document/d/1KjNxSppRMmCUo1rOUfKWv8EpWY6_V0wCKIRQlIqX8Tk/edit');
 COMMIT;
