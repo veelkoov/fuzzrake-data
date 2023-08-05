@@ -1954,4 +1954,15 @@ INSERT INTO events VALUES(1965,'2023-08-02 00:17:31','CS_UPDATED','EmmaFursuits'
 INSERT INTO events VALUES(1966,'2023-08-02 12:17:25','CS_UPDATED','Sleepy Stag Suits',0,0,0,'','https://twitter.com/thesleepystag','','','Commissions',0);
 INSERT INTO events VALUES(1967,'2023-08-03 12:17:06','CS_UPDATED','TheKareliaFursuits',0,0,0,'','https://www.thekareliafursuits.com/','','','Commissions',0);
 INSERT INTO events VALUES(1968,'2023-08-03 12:17:12','CS_UPDATED','Tulius Costumes',0,0,0,'','https://twitter.com/Tuliusis','','','Commissions',0);
+INSERT INTO events VALUES(1969,'2023-08-03 15:21:00','DATA_UPDATED','',0,4,0,'4169486eb013cabe2c7c521fcbe43eec4b6f30c1','','','','',0);
+INSERT INTO events VALUES(1970,'2023-08-03 15:35:05.604','CS_UPDATED','CinDery',0,0,0,'','https://trello.com/c/vp0jH0aD','','','Commissions',0);
+INSERT INTO events VALUES(1971,'2023-08-03 15:35:05.701','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','',replace('Commissions\nQuotes','\n',char(10)),0);
+INSERT INTO events VALUES(1972,'2023-08-04 00:16:11.873','CS_UPDATED','FoxPupMeow',0,0,0,'','https://twitter.com/FoxPupMeow','','Commissions','',1);
+INSERT INTO events VALUES(1973,'2023-08-04 00:16:11.907','CS_UPDATED','CraftyHusky Workshop',0,0,0,'','https://twitter.com/PixelCraftHusky','','Commissions','',1);
+INSERT INTO events VALUES(1974,'2023-08-04 00:16:12.022','CS_UPDATED','Feely''s Den',0,0,0,'','https://twitter.com/feelysden','','Commissions','',1);
+INSERT INTO events VALUES(1975,'2023-08-04 00:16:12.032','CS_UPDATED','Flowercity Fursuits',0,0,0,'','https://twitter.com/FlowercitySuits','','Commissions','',1);
+INSERT INTO events VALUES(1976,'2023-08-04 00:16:12.056','CS_UPDATED','Koshka Fursuits',0,0,0,'','https://twitter.com/koshkafursuits','','Quotes','',1);
+INSERT INTO events VALUES(1977,'2023-08-04 00:16:12.300','CS_UPDATED','Kiki''s Creations',0,0,0,'','https://twitter.com/kikis_creation','',replace('Quotes\nCommissions','\n',char(10)),'',1);
+INSERT INTO events VALUES(1978,'2023-08-04 12:16:26.252','CS_UPDATED','Koshka Fursuits',0,0,0,'','https://twitter.com/koshkafursuits','','','Quotes',0);
+INSERT INTO events VALUES(1979,'2023-08-04 17:59:00','DATA_UPDATED','',3,0,0,'b6cc6e8bf22d9c4fe3f5f958682f5255644854e9','','','','',0);
 COMMIT;
