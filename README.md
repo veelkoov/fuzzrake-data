@@ -1,1 +1,5 @@
-This repository contains the data gathered for and used by getfursu.it . For more information, please see https://getfursu.it/info.html .
+# Fuzzrake (data)
+
+This repository is part of the Fuzzrake software. See:
+* [getfursu.it/info](https://getfursu.it/info)
+* [Fuzzrake primary repository](https://github.com/veelkoov/fuzzrake)
