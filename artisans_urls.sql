@@ -4434,4 +4434,18 @@ INSERT INTO artisans_urls VALUES(12664,376,'URL_FAQ','https://nyxiacreations.co.
 INSERT INTO artisans_urls VALUES(12665,376,'URL_TWITTER','https://twitter.com/Nyxia_Creations');
 INSERT INTO artisans_urls VALUES(12666,376,'URL_INSTAGRAM','https://www.instagram.com/Astra_Nyxia/');
 INSERT INTO artisans_urls VALUES(12667,376,'URL_LINKLIST','https://linktr.ee/astra.nyxia');
+INSERT INTO artisans_urls VALUES(12668,419,'URL_FURTRACK','https://www.furtrack.com/index/maker:retriever_crafts');
+INSERT INTO artisans_urls VALUES(12669,658,'URL_WEBSITE','https://drowsyseal.com/');
+INSERT INTO artisans_urls VALUES(12670,658,'URL_PRICES','https://drowsyseal.com/pricing');
+INSERT INTO artisans_urls VALUES(12671,658,'URL_COMMISSIONS','https://drowsyseal.com/#commission-status');
+INSERT INTO artisans_urls VALUES(12672,658,'URL_FAQ','https://drowsyseal.com/faq');
+INSERT INTO artisans_urls VALUES(12673,658,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/drowsyseal/');
+INSERT INTO artisans_urls VALUES(12674,658,'URL_MASTODON','https://meow.social/@DrowsySeal');
+INSERT INTO artisans_urls VALUES(12675,658,'URL_TWITTER','https://twitter.com/DrowsySeal');
+INSERT INTO artisans_urls VALUES(12676,658,'URL_TUMBLR','https://www.tumblr.com/drowsyseal');
+INSERT INTO artisans_urls VALUES(12677,658,'URL_INSTAGRAM','https://www.instagram.com/drowsyseal/');
+INSERT INTO artisans_urls VALUES(12678,658,'URL_OTHER_SHOP','https://drowsyseal.bigcartel.com/');
+INSERT INTO artisans_urls VALUES(12679,658,'URL_QUEUE','https://trello.com/b/gonT1G1E/drowsyseal-queue');
+INSERT INTO artisans_urls VALUES(12680,658,'URL_FURTRACK','https://www.furtrack.com/index/maker:drowsyseal');
+INSERT INTO artisans_urls VALUES(12681,658,'URL_OTHER','https://bsky.app/profile/drowsyseal.bsky.social');
 COMMIT;
