@@ -1,0 +1,3547 @@
+[
+  {
+    "id": 1,
+    "artisan_id": 145,
+    "maker_id": "M000145"
+  },
+  {
+    "id": 2,
+    "artisan_id": 203,
+    "maker_id": "2STFURS"
+  },
+  {
+    "id": 3,
+    "artisan_id": 366,
+    "maker_id": "M000366"
+  },
+  {
+    "id": 4,
+    "artisan_id": 365,
+    "maker_id": "M000365"
+  },
+  {
+    "id": 5,
+    "artisan_id": 324,
+    "maker_id": "M000324"
+  },
+  {
+    "id": 6,
+    "artisan_id": 384,
+    "maker_id": "AELUROM"
+  },
+  {
+    "id": 7,
+    "artisan_id": 259,
+    "maker_id": "AETHERW"
+  },
+  {
+    "id": 8,
+    "artisan_id": 201,
+    "maker_id": "M000201"
+  },
+  {
+    "id": 9,
+    "artisan_id": 415,
+    "maker_id": "AIKOFUR"
+  },
+  {
+    "id": 10,
+    "artisan_id": 302,
+    "maker_id": "M000302"
+  },
+  {
+    "id": 11,
+    "artisan_id": 378,
+    "maker_id": "ALPOMEG"
+  },
+  {
+    "id": 12,
+    "artisan_id": 11,
+    "maker_id": "M000011"
+  },
+  {
+    "id": 13,
+    "artisan_id": 380,
+    "maker_id": "ALPHUSK"
+  },
+  {
+    "id": 14,
+    "artisan_id": 99,
+    "maker_id": "M000099"
+  },
+  {
+    "id": 15,
+    "artisan_id": 33,
+    "maker_id": "M000033"
+  },
+  {
+    "id": 16,
+    "artisan_id": 305,
+    "maker_id": "ARVNSLR"
+  },
+  {
+    "id": 17,
+    "artisan_id": 305,
+    "maker_id": "M000305"
+  },
+  {
+    "id": 18,
+    "artisan_id": 244,
+    "maker_id": "M000244"
+  },
+  {
+    "id": 19,
+    "artisan_id": 242,
+    "maker_id": "M000242"
+  },
+  {
+    "id": 20,
+    "artisan_id": 37,
+    "maker_id": "M000037"
+  },
+  {
+    "id": 21,
+    "artisan_id": 123,
+    "maker_id": "M000123"
+  },
+  {
+    "id": 22,
+    "artisan_id": 169,
+    "maker_id": "M000169"
+  },
+  {
+    "id": 23,
+    "artisan_id": 14,
+    "maker_id": "M000014"
+  },
+  {
+    "id": 24,
+    "artisan_id": 294,
+    "maker_id": "M000294"
+  },
+  {
+    "id": 25,
+    "artisan_id": 306,
+    "maker_id": "M000306"
+  },
+  {
+    "id": 26,
+    "artisan_id": 38,
+    "maker_id": "M000038"
+  },
+  {
+    "id": 27,
+    "artisan_id": 237,
+    "maker_id": "BOTBASS"
+  },
+  {
+    "id": 28,
+    "artisan_id": 237,
+    "maker_id": "M000237"
+  },
+  {
+    "id": 29,
+    "artisan_id": 39,
+    "maker_id": "BTLECAT"
+  },
+  {
+    "id": 30,
+    "artisan_id": 189,
+    "maker_id": "M000189"
+  },
+  {
+    "id": 31,
+    "artisan_id": 367,
+    "maker_id": "BETTAFS"
+  },
+  {
+    "id": 32,
+    "artisan_id": 187,
+    "maker_id": "BRDKING"
+  },
+  {
+    "id": 33,
+    "artisan_id": 303,
+    "maker_id": "BLKSTKY"
+  },
+  {
+    "id": 34,
+    "artisan_id": 303,
+    "maker_id": "M000303"
+  },
+  {
+    "id": 35,
+    "artisan_id": 417,
+    "maker_id": "BEBWORK"
+  },
+  {
+    "id": 36,
+    "artisan_id": 28,
+    "maker_id": "M000028"
+  },
+  {
+    "id": 37,
+    "artisan_id": 315,
+    "maker_id": "BLSKYS2"
+  },
+  {
+    "id": 38,
+    "artisan_id": 315,
+    "maker_id": "TOXIC4C"
+  },
+  {
+    "id": 39,
+    "artisan_id": 333,
+    "maker_id": "BLUEWSF"
+  },
+  {
+    "id": 40,
+    "artisan_id": 112,
+    "maker_id": "M000112"
+  },
+  {
+    "id": 41,
+    "artisan_id": 30,
+    "maker_id": "M000030"
+  },
+  {
+    "id": 42,
+    "artisan_id": 377,
+    "maker_id": "BROKESS"
+  },
+  {
+    "id": 43,
+    "artisan_id": 95,
+    "maker_id": "M000095"
+  },
+  {
+    "id": 44,
+    "artisan_id": 241,
+    "maker_id": "EDEBEAR"
+  },
+  {
+    "id": 45,
+    "artisan_id": 386,
+    "maker_id": "BUTTBIS"
+  },
+  {
+    "id": 46,
+    "artisan_id": 40,
+    "maker_id": "M000040"
+  },
+  {
+    "id": 47,
+    "artisan_id": 141,
+    "maker_id": "CCSFRST"
+  },
+  {
+    "id": 48,
+    "artisan_id": 136,
+    "maker_id": "CFSTUDS"
+  },
+  {
+    "id": 49,
+    "artisan_id": 139,
+    "maker_id": "M000139"
+  },
+  {
+    "id": 50,
+    "artisan_id": 269,
+    "maker_id": "CARNIVC"
+  },
+  {
+    "id": 51,
+    "artisan_id": 152,
+    "maker_id": "M000152"
+  },
+  {
+    "id": 52,
+    "artisan_id": 219,
+    "maker_id": "M000219"
+  },
+  {
+    "id": 53,
+    "artisan_id": 282,
+    "maker_id": "CHAOTIC"
+  },
+  {
+    "id": 54,
+    "artisan_id": 282,
+    "maker_id": "FURTAKU"
+  },
+  {
+    "id": 55,
+    "artisan_id": 371,
+    "maker_id": "CHARRED"
+  },
+  {
+    "id": 56,
+    "artisan_id": 283,
+    "maker_id": "CHRYSSI"
+  },
+  {
+    "id": 57,
+    "artisan_id": 180,
+    "maker_id": "CINNABN"
+  },
+  {
+    "id": 58,
+    "artisan_id": 298,
+    "maker_id": "M000298"
+  },
+  {
+    "id": 59,
+    "artisan_id": 41,
+    "maker_id": "M000041"
+  },
+  {
+    "id": 60,
+    "artisan_id": 18,
+    "maker_id": "M000018"
+  },
+  {
+    "id": 61,
+    "artisan_id": 277,
+    "maker_id": "COFFEKS"
+  },
+  {
+    "id": 62,
+    "artisan_id": 296,
+    "maker_id": "M000296"
+  },
+  {
+    "id": 63,
+    "artisan_id": 96,
+    "maker_id": "M000096"
+  },
+  {
+    "id": 64,
+    "artisan_id": 76,
+    "maker_id": "M000076"
+  },
+  {
+    "id": 65,
+    "artisan_id": 281,
+    "maker_id": "CMS2019"
+  },
+  {
+    "id": 66,
+    "artisan_id": 281,
+    "maker_id": "M000110"
+  },
+  {
+    "id": 67,
+    "artisan_id": 161,
+    "maker_id": "CHPIXEL"
+  },
+  {
+    "id": 68,
+    "artisan_id": 23,
+    "maker_id": "CRAFTYV"
+  },
+  {
+    "id": 69,
+    "artisan_id": 23,
+    "maker_id": "M000023"
+  },
+  {
+    "id": 70,
+    "artisan_id": 102,
+    "maker_id": "M000102"
+  },
+  {
+    "id": 71,
+    "artisan_id": 185,
+    "maker_id": "LNLIGHT"
+  },
+  {
+    "id": 72,
+    "artisan_id": 247,
+    "maker_id": "M000247"
+  },
+  {
+    "id": 73,
+    "artisan_id": 289,
+    "maker_id": "CRECOUT"
+  },
+  {
+    "id": 74,
+    "artisan_id": 289,
+    "maker_id": "CKCRATE"
+  },
+  {
+    "id": 75,
+    "artisan_id": 225,
+    "maker_id": "M000225"
+  },
+  {
+    "id": 76,
+    "artisan_id": 327,
+    "maker_id": "CCAKECR"
+  },
+  {
+    "id": 77,
+    "artisan_id": 327,
+    "maker_id": "M000327"
+  },
+  {
+    "id": 78,
+    "artisan_id": 24,
+    "maker_id": "M000024"
+  },
+  {
+    "id": 79,
+    "artisan_id": 137,
+    "maker_id": "CRLWRKS"
+  },
+  {
+    "id": 80,
+    "artisan_id": 409,
+    "maker_id": "CSBPTPT"
+  },
+  {
+    "id": 81,
+    "artisan_id": 198,
+    "maker_id": "DRDCREA"
+  },
+  {
+    "id": 82,
+    "artisan_id": 196,
+    "maker_id": "DEADLYC"
+  },
+  {
+    "id": 83,
+    "artisan_id": 44,
+    "maker_id": "M000044"
+  },
+  {
+    "id": 84,
+    "artisan_id": 104,
+    "maker_id": "M000104"
+  },
+  {
+    "id": 85,
+    "artisan_id": 17,
+    "maker_id": "DIRECRT"
+  },
+  {
+    "id": 86,
+    "artisan_id": 42,
+    "maker_id": "M000042"
+  },
+  {
+    "id": 87,
+    "artisan_id": 285,
+    "maker_id": "DOVTAIL"
+  },
+  {
+    "id": 88,
+    "artisan_id": 285,
+    "maker_id": "BFFWRKS"
+  },
+  {
+    "id": 89,
+    "artisan_id": 297,
+    "maker_id": "M000297"
+  },
+  {
+    "id": 90,
+    "artisan_id": 209,
+    "maker_id": "DRAGRNS"
+  },
+  {
+    "id": 91,
+    "artisan_id": 288,
+    "maker_id": "EELOWYN"
+  },
+  {
+    "id": 92,
+    "artisan_id": 224,
+    "maker_id": "M000224"
+  },
+  {
+    "id": 93,
+    "artisan_id": 234,
+    "maker_id": "DSCZ189"
+  },
+  {
+    "id": 94,
+    "artisan_id": 260,
+    "maker_id": "DCTFURS"
+  },
+  {
+    "id": 95,
+    "artisan_id": 320,
+    "maker_id": "M000320"
+  },
+  {
+    "id": 96,
+    "artisan_id": 328,
+    "maker_id": "M000328"
+  },
+  {
+    "id": 97,
+    "artisan_id": 233,
+    "maker_id": "M000233"
+  },
+  {
+    "id": 98,
+    "artisan_id": 304,
+    "maker_id": "M000304"
+  },
+  {
+    "id": 99,
+    "artisan_id": 181,
+    "maker_id": "M000181"
+  },
+  {
+    "id": 100,
+    "artisan_id": 6,
+    "maker_id": "M000006"
+  },
+  {
+    "id": 101,
+    "artisan_id": 385,
+    "maker_id": "FLUFFY2"
+  },
+  {
+    "id": 102,
+    "artisan_id": 258,
+    "maker_id": "FLYSDEN"
+  },
+  {
+    "id": 103,
+    "artisan_id": 402,
+    "maker_id": "FLISTLR"
+  },
+  {
+    "id": 104,
+    "artisan_id": 295,
+    "maker_id": "M000295"
+  },
+  {
+    "id": 105,
+    "artisan_id": 268,
+    "maker_id": "FERALUN"
+  },
+  {
+    "id": 106,
+    "artisan_id": 236,
+    "maker_id": "FIONKAF"
+  },
+  {
+    "id": 107,
+    "artisan_id": 168,
+    "maker_id": "M000168"
+  },
+  {
+    "id": 108,
+    "artisan_id": 103,
+    "maker_id": "M000103"
+  },
+  {
+    "id": 109,
+    "artisan_id": 408,
+    "maker_id": "FLOOFUN"
+  },
+  {
+    "id": 110,
+    "artisan_id": 261,
+    "maker_id": "FLOWERC"
+  },
+  {
+    "id": 111,
+    "artisan_id": 397,
+    "maker_id": "FLFSTRM"
+  },
+  {
+    "id": 112,
+    "artisan_id": 3,
+    "maker_id": "M000003"
+  },
+  {
+    "id": 113,
+    "artisan_id": 155,
+    "maker_id": "FXPUPMW"
+  },
+  {
+    "id": 114,
+    "artisan_id": 314,
+    "maker_id": "FXARTCZ"
+  },
+  {
+    "id": 115,
+    "artisan_id": 382,
+    "maker_id": "FRILLED"
+  },
+  {
+    "id": 116,
+    "artisan_id": 162,
+    "maker_id": "M000162"
+  },
+  {
+    "id": 117,
+    "artisan_id": 150,
+    "maker_id": "M000150"
+  },
+  {
+    "id": 118,
+    "artisan_id": 271,
+    "maker_id": "FUROCLK"
+  },
+  {
+    "id": 119,
+    "artisan_id": 52,
+    "maker_id": "M000052"
+  },
+  {
+    "id": 120,
+    "artisan_id": 146,
+    "maker_id": "M000146"
+  },
+  {
+    "id": 121,
+    "artisan_id": 47,
+    "maker_id": "M000047"
+  },
+  {
+    "id": 122,
+    "artisan_id": 143,
+    "maker_id": "FURCLUB"
+  },
+  {
+    "id": 123,
+    "artisan_id": 403,
+    "maker_id": "FURSOCK"
+  },
+  {
+    "id": 124,
+    "artisan_id": 46,
+    "maker_id": "M000046"
+  },
+  {
+    "id": 125,
+    "artisan_id": 331,
+    "maker_id": "FGTFLFF"
+  },
+  {
+    "id": 126,
+    "artisan_id": 301,
+    "maker_id": "FURIOUS"
+  },
+  {
+    "id": 127,
+    "artisan_id": 239,
+    "maker_id": "FUROARS"
+  },
+  {
+    "id": 128,
+    "artisan_id": 239,
+    "maker_id": "TBLMBST"
+  },
+  {
+    "id": 129,
+    "artisan_id": 131,
+    "maker_id": "FURRYOK"
+  },
+  {
+    "id": 130,
+    "artisan_id": 4,
+    "maker_id": "M000004"
+  },
+  {
+    "id": 131,
+    "artisan_id": 273,
+    "maker_id": "M000273"
+  },
+  {
+    "id": 132,
+    "artisan_id": 230,
+    "maker_id": "FTAILOR"
+  },
+  {
+    "id": 133,
+    "artisan_id": 230,
+    "maker_id": "M000230"
+  },
+  {
+    "id": 134,
+    "artisan_id": 212,
+    "maker_id": "FURSWNA"
+  },
+  {
+    "id": 135,
+    "artisan_id": 270,
+    "maker_id": "FRSNKTY"
+  },
+  {
+    "id": 136,
+    "artisan_id": 48,
+    "maker_id": "M000048"
+  },
+  {
+    "id": 137,
+    "artisan_id": 50,
+    "maker_id": "M000050"
+  },
+  {
+    "id": 138,
+    "artisan_id": 138,
+    "maker_id": "FSPSUIT"
+  },
+  {
+    "id": 139,
+    "artisan_id": 9,
+    "maker_id": "GRIONFP"
+  },
+  {
+    "id": 140,
+    "artisan_id": 9,
+    "maker_id": "M000009"
+  },
+  {
+    "id": 141,
+    "artisan_id": 51,
+    "maker_id": "LACYFUR"
+  },
+  {
+    "id": 142,
+    "artisan_id": 51,
+    "maker_id": "M000051"
+  },
+  {
+    "id": 143,
+    "artisan_id": 309,
+    "maker_id": "M000309"
+  },
+  {
+    "id": 144,
+    "artisan_id": 211,
+    "maker_id": "M000211"
+  },
+  {
+    "id": 145,
+    "artisan_id": 45,
+    "maker_id": "M000045"
+  },
+  {
+    "id": 146,
+    "artisan_id": 134,
+    "maker_id": "M000134"
+  },
+  {
+    "id": 147,
+    "artisan_id": 353,
+    "maker_id": "GLXCRTN"
+  },
+  {
+    "id": 148,
+    "artisan_id": 165,
+    "maker_id": "M000165"
+  },
+  {
+    "id": 149,
+    "artisan_id": 413,
+    "maker_id": "GCKWRKS"
+  },
+  {
+    "id": 150,
+    "artisan_id": 398,
+    "maker_id": "GLITZYF"
+  },
+  {
+    "id": 151,
+    "artisan_id": 22,
+    "maker_id": "GOFURIT"
+  },
+  {
+    "id": 152,
+    "artisan_id": 22,
+    "maker_id": "M000022"
+  },
+  {
+    "id": 153,
+    "artisan_id": 144,
+    "maker_id": "GRSTDIO"
+  },
+  {
+    "id": 154,
+    "artisan_id": 214,
+    "maker_id": "GLDMOUS"
+  },
+  {
+    "id": 155,
+    "artisan_id": 113,
+    "maker_id": "M000113"
+  },
+  {
+    "id": 156,
+    "artisan_id": 280,
+    "maker_id": "GOLDPAW"
+  },
+  {
+    "id": 157,
+    "artisan_id": 226,
+    "maker_id": "M000226"
+  },
+  {
+    "id": 158,
+    "artisan_id": 54,
+    "maker_id": "M000054"
+  },
+  {
+    "id": 159,
+    "artisan_id": 135,
+    "maker_id": "M000135"
+  },
+  {
+    "id": 160,
+    "artisan_id": 228,
+    "maker_id": "M000228"
+  },
+  {
+    "id": 161,
+    "artisan_id": 55,
+    "maker_id": "M000055"
+  },
+  {
+    "id": 162,
+    "artisan_id": 223,
+    "maker_id": "M000223"
+  },
+  {
+    "id": 163,
+    "artisan_id": 158,
+    "maker_id": "M000158"
+  },
+  {
+    "id": 164,
+    "artisan_id": 220,
+    "maker_id": "M000220"
+  },
+  {
+    "id": 165,
+    "artisan_id": 251,
+    "maker_id": "HECKGEK"
+  },
+  {
+    "id": 166,
+    "artisan_id": 184,
+    "maker_id": "HLCHARM"
+  },
+  {
+    "id": 167,
+    "artisan_id": 163,
+    "maker_id": "M000163"
+  },
+  {
+    "id": 168,
+    "artisan_id": 159,
+    "maker_id": "M000159"
+  },
+  {
+    "id": 169,
+    "artisan_id": 190,
+    "maker_id": "M000190"
+  },
+  {
+    "id": 170,
+    "artisan_id": 56,
+    "maker_id": "M000056"
+  },
+  {
+    "id": 171,
+    "artisan_id": 293,
+    "maker_id": "HUNNIBR"
+  },
+  {
+    "id": 172,
+    "artisan_id": 160,
+    "maker_id": "M000160"
+  },
+  {
+    "id": 173,
+    "artisan_id": 57,
+    "maker_id": "M000057"
+  },
+  {
+    "id": 174,
+    "artisan_id": 124,
+    "maker_id": "M000124"
+  },
+  {
+    "id": 175,
+    "artisan_id": 174,
+    "maker_id": "M000174"
+  },
+  {
+    "id": 176,
+    "artisan_id": 249,
+    "maker_id": "JCOSTMS"
+  },
+  {
+    "id": 177,
+    "artisan_id": 287,
+    "maker_id": "JACKCAT"
+  },
+  {
+    "id": 178,
+    "artisan_id": 387,
+    "maker_id": "JAWNPAW"
+  },
+  {
+    "id": 179,
+    "artisan_id": 177,
+    "maker_id": "M000177"
+  },
+  {
+    "id": 180,
+    "artisan_id": 361,
+    "maker_id": "JUSTDRA"
+  },
+  {
+    "id": 181,
+    "artisan_id": 254,
+    "maker_id": "KAZFURS"
+  },
+  {
+    "id": 182,
+    "artisan_id": 323,
+    "maker_id": "M000323"
+  },
+  {
+    "id": 183,
+    "artisan_id": 61,
+    "maker_id": "M000061"
+  },
+  {
+    "id": 184,
+    "artisan_id": 243,
+    "maker_id": "M000243"
+  },
+  {
+    "id": 185,
+    "artisan_id": 392,
+    "maker_id": "KKREATE"
+  },
+  {
+    "id": 186,
+    "artisan_id": 299,
+    "maker_id": "M000299"
+  },
+  {
+    "id": 187,
+    "artisan_id": 193,
+    "maker_id": "HYACIN9"
+  },
+  {
+    "id": 188,
+    "artisan_id": 370,
+    "maker_id": "KAWCRAF"
+  },
+  {
+    "id": 189,
+    "artisan_id": 164,
+    "maker_id": "M000164"
+  },
+  {
+    "id": 190,
+    "artisan_id": 59,
+    "maker_id": "M000059"
+  },
+  {
+    "id": 191,
+    "artisan_id": 395,
+    "maker_id": "KINGBAY"
+  },
+  {
+    "id": 192,
+    "artisan_id": 410,
+    "maker_id": "KITANU6"
+  },
+  {
+    "id": 193,
+    "artisan_id": 122,
+    "maker_id": "M000122"
+  },
+  {
+    "id": 194,
+    "artisan_id": 325,
+    "maker_id": "M000325"
+  },
+  {
+    "id": 195,
+    "artisan_id": 246,
+    "maker_id": "KITTYFL"
+  },
+  {
+    "id": 196,
+    "artisan_id": 246,
+    "maker_id": "M000246"
+  },
+  {
+    "id": 197,
+    "artisan_id": 359,
+    "maker_id": "KLOOFST"
+  },
+  {
+    "id": 198,
+    "artisan_id": 411,
+    "maker_id": "KGHTLYF"
+  },
+  {
+    "id": 199,
+    "artisan_id": 60,
+    "maker_id": "M000060"
+  },
+  {
+    "id": 200,
+    "artisan_id": 125,
+    "maker_id": "KOMCKRZ"
+  },
+  {
+    "id": 201,
+    "artisan_id": 290,
+    "maker_id": "KOSHKAF"
+  },
+  {
+    "id": 202,
+    "artisan_id": 317,
+    "maker_id": "LLMFURS"
+  },
+  {
+    "id": 203,
+    "artisan_id": 317,
+    "maker_id": "M000065"
+  },
+  {
+    "id": 204,
+    "artisan_id": 62,
+    "maker_id": "M000062"
+  },
+  {
+    "id": 205,
+    "artisan_id": 205,
+    "maker_id": "M000205"
+  },
+  {
+    "id": 206,
+    "artisan_id": 8,
+    "maker_id": "M000008"
+  },
+  {
+    "id": 207,
+    "artisan_id": 167,
+    "maker_id": "M000167"
+  },
+  {
+    "id": 208,
+    "artisan_id": 390,
+    "maker_id": "LILEAF6"
+  },
+  {
+    "id": 209,
+    "artisan_id": 354,
+    "maker_id": "LSDSUIT"
+  },
+  {
+    "id": 210,
+    "artisan_id": 374,
+    "maker_id": "LIVBSTS"
+  },
+  {
+    "id": 211,
+    "artisan_id": 199,
+    "maker_id": "M000199"
+  },
+  {
+    "id": 212,
+    "artisan_id": 109,
+    "maker_id": "LBTWRKS"
+  },
+  {
+    "id": 213,
+    "artisan_id": 326,
+    "maker_id": "M000326"
+  },
+  {
+    "id": 214,
+    "artisan_id": 362,
+    "maker_id": "M000362"
+  },
+  {
+    "id": 215,
+    "artisan_id": 66,
+    "maker_id": "M000066"
+  },
+  {
+    "id": 216,
+    "artisan_id": 127,
+    "maker_id": "M000127"
+  },
+  {
+    "id": 217,
+    "artisan_id": 67,
+    "maker_id": "M000067"
+  },
+  {
+    "id": 218,
+    "artisan_id": 25,
+    "maker_id": "M000025"
+  },
+  {
+    "id": 219,
+    "artisan_id": 68,
+    "maker_id": "M000068"
+  },
+  {
+    "id": 220,
+    "artisan_id": 142,
+    "maker_id": "M000142"
+  },
+  {
+    "id": 221,
+    "artisan_id": 69,
+    "maker_id": "M000069"
+  },
+  {
+    "id": 222,
+    "artisan_id": 178,
+    "maker_id": "M000178"
+  },
+  {
+    "id": 223,
+    "artisan_id": 70,
+    "maker_id": "MATRCES"
+  },
+  {
+    "id": 224,
+    "artisan_id": 345,
+    "maker_id": "MEEPSMM"
+  },
+  {
+    "id": 225,
+    "artisan_id": 191,
+    "maker_id": "M000191"
+  },
+  {
+    "id": 226,
+    "artisan_id": 182,
+    "maker_id": "MMNDLSN"
+  },
+  {
+    "id": 227,
+    "artisan_id": 316,
+    "maker_id": "MLYCR8S"
+  },
+  {
+    "id": 228,
+    "artisan_id": 381,
+    "maker_id": "MIFFYIC"
+  },
+  {
+    "id": 229,
+    "artisan_id": 71,
+    "maker_id": "M000071"
+  },
+  {
+    "id": 230,
+    "artisan_id": 232,
+    "maker_id": "M000232"
+  },
+  {
+    "id": 231,
+    "artisan_id": 72,
+    "maker_id": "M000072"
+  },
+  {
+    "id": 232,
+    "artisan_id": 194,
+    "maker_id": "MIXMONS"
+  },
+  {
+    "id": 233,
+    "artisan_id": 292,
+    "maker_id": "MOCHIDS"
+  },
+  {
+    "id": 234,
+    "artisan_id": 292,
+    "maker_id": "STARLIT"
+  },
+  {
+    "id": 235,
+    "artisan_id": 267,
+    "maker_id": "MCMAKER"
+  },
+  {
+    "id": 236,
+    "artisan_id": 348,
+    "maker_id": "MONSTER"
+  },
+  {
+    "id": 237,
+    "artisan_id": 154,
+    "maker_id": "M000154"
+  },
+  {
+    "id": 238,
+    "artisan_id": 73,
+    "maker_id": "M000073"
+  },
+  {
+    "id": 239,
+    "artisan_id": 74,
+    "maker_id": "M000074"
+  },
+  {
+    "id": 240,
+    "artisan_id": 36,
+    "maker_id": "M000036"
+  },
+  {
+    "id": 241,
+    "artisan_id": 16,
+    "maker_id": "M000016"
+  },
+  {
+    "id": 242,
+    "artisan_id": 34,
+    "maker_id": "M000034"
+  },
+  {
+    "id": 243,
+    "artisan_id": 369,
+    "maker_id": "NAUTICR"
+  },
+  {
+    "id": 244,
+    "artisan_id": 7,
+    "maker_id": "NFS2012"
+  },
+  {
+    "id": 245,
+    "artisan_id": 117,
+    "maker_id": "M000117"
+  },
+  {
+    "id": 246,
+    "artisan_id": 308,
+    "maker_id": "M000308"
+  },
+  {
+    "id": 247,
+    "artisan_id": 173,
+    "maker_id": "M000173"
+  },
+  {
+    "id": 249,
+    "artisan_id": 200,
+    "maker_id": "NORMPNF"
+  },
+  {
+    "id": 250,
+    "artisan_id": 148,
+    "maker_id": "M000148"
+  },
+  {
+    "id": 251,
+    "artisan_id": 257,
+    "maker_id": "NORTHCA"
+  },
+  {
+    "id": 252,
+    "artisan_id": 75,
+    "maker_id": "M000075"
+  },
+  {
+    "id": 253,
+    "artisan_id": 2,
+    "maker_id": "M000002"
+  },
+  {
+    "id": 254,
+    "artisan_id": 376,
+    "maker_id": "NYXIACR"
+  },
+  {
+    "id": 255,
+    "artisan_id": 341,
+    "maker_id": "NYYOTE0"
+  },
+  {
+    "id": 256,
+    "artisan_id": 278,
+    "maker_id": "OBLESTS"
+  },
+  {
+    "id": 257,
+    "artisan_id": 286,
+    "maker_id": "OMEGAPW"
+  },
+  {
+    "id": 258,
+    "artisan_id": 77,
+    "maker_id": "M000077"
+  },
+  {
+    "id": 259,
+    "artisan_id": 404,
+    "maker_id": "1ANDONL"
+  },
+  {
+    "id": 260,
+    "artisan_id": 229,
+    "maker_id": "M000229"
+  },
+  {
+    "id": 261,
+    "artisan_id": 116,
+    "maker_id": "M000116"
+  },
+  {
+    "id": 262,
+    "artisan_id": 93,
+    "maker_id": "M000093"
+  },
+  {
+    "id": 263,
+    "artisan_id": 393,
+    "maker_id": "PTCHWRK"
+  },
+  {
+    "id": 264,
+    "artisan_id": 383,
+    "maker_id": "GUIRLA0"
+  },
+  {
+    "id": 265,
+    "artisan_id": 346,
+    "maker_id": "PWMDDEN"
+  },
+  {
+    "id": 266,
+    "artisan_id": 147,
+    "maker_id": "M000147"
+  },
+  {
+    "id": 267,
+    "artisan_id": 171,
+    "maker_id": "M000171"
+  },
+  {
+    "id": 268,
+    "artisan_id": 197,
+    "maker_id": "PWCR8TN"
+  },
+  {
+    "id": 269,
+    "artisan_id": 414,
+    "maker_id": "PABAFUR"
+  },
+  {
+    "id": 270,
+    "artisan_id": 166,
+    "maker_id": "M000166"
+  },
+  {
+    "id": 271,
+    "artisan_id": 256,
+    "maker_id": "QUEENOY"
+  },
+  {
+    "id": 272,
+    "artisan_id": 172,
+    "maker_id": "M000172"
+  },
+  {
+    "id": 273,
+    "artisan_id": 114,
+    "maker_id": "M000114"
+  },
+  {
+    "id": 274,
+    "artisan_id": 266,
+    "maker_id": "RAANDRO"
+  },
+  {
+    "id": 275,
+    "artisan_id": 334,
+    "maker_id": "RAMBLEZ"
+  },
+  {
+    "id": 276,
+    "artisan_id": 49,
+    "maker_id": "RNDFURS"
+  },
+  {
+    "id": 277,
+    "artisan_id": 49,
+    "maker_id": "M000049"
+  },
+  {
+    "id": 278,
+    "artisan_id": 264,
+    "maker_id": "RATFUR1"
+  },
+  {
+    "id": 279,
+    "artisan_id": 394,
+    "maker_id": "RAVENCC"
+  },
+  {
+    "id": 280,
+    "artisan_id": 195,
+    "maker_id": "M000195"
+  },
+  {
+    "id": 281,
+    "artisan_id": 132,
+    "maker_id": "RHEEEGG"
+  },
+  {
+    "id": 282,
+    "artisan_id": 132,
+    "maker_id": "M000132"
+  },
+  {
+    "id": 283,
+    "artisan_id": 375,
+    "maker_id": "RKEMONO"
+  },
+  {
+    "id": 284,
+    "artisan_id": 379,
+    "maker_id": "ROCKYST"
+  },
+  {
+    "id": 285,
+    "artisan_id": 15,
+    "maker_id": "M000015"
+  },
+  {
+    "id": 286,
+    "artisan_id": 265,
+    "maker_id": "ROSSYKK"
+  },
+  {
+    "id": 287,
+    "artisan_id": 300,
+    "maker_id": "M000300"
+  },
+  {
+    "id": 288,
+    "artisan_id": 80,
+    "maker_id": "M000080"
+  },
+  {
+    "id": 289,
+    "artisan_id": 307,
+    "maker_id": "M000307"
+  },
+  {
+    "id": 290,
+    "artisan_id": 321,
+    "maker_id": "SABIERS"
+  },
+  {
+    "id": 291,
+    "artisan_id": 321,
+    "maker_id": "M000321"
+  },
+  {
+    "id": 292,
+    "artisan_id": 363,
+    "maker_id": "M000363"
+  },
+  {
+    "id": 293,
+    "artisan_id": 206,
+    "maker_id": "M000206"
+  },
+  {
+    "id": 294,
+    "artisan_id": 97,
+    "maker_id": "M000097"
+  },
+  {
+    "id": 295,
+    "artisan_id": 186,
+    "maker_id": "M000186"
+  },
+  {
+    "id": 296,
+    "artisan_id": 340,
+    "maker_id": "SANDCAT"
+  },
+  {
+    "id": 297,
+    "artisan_id": 106,
+    "maker_id": "M000106"
+  },
+  {
+    "id": 298,
+    "artisan_id": 204,
+    "maker_id": "M000204"
+  },
+  {
+    "id": 299,
+    "artisan_id": 291,
+    "maker_id": "M000291"
+  },
+  {
+    "id": 300,
+    "artisan_id": 330,
+    "maker_id": "SCHRSTS"
+  },
+  {
+    "id": 301,
+    "artisan_id": 416,
+    "maker_id": "SECOSKM"
+  },
+  {
+    "id": 302,
+    "artisan_id": 29,
+    "maker_id": "M000029"
+  },
+  {
+    "id": 303,
+    "artisan_id": 153,
+    "maker_id": "SERESTU"
+  },
+  {
+    "id": 304,
+    "artisan_id": 35,
+    "maker_id": "M000035"
+  },
+  {
+    "id": 305,
+    "artisan_id": 217,
+    "maker_id": "SEWNSAS"
+  },
+  {
+    "id": 306,
+    "artisan_id": 217,
+    "maker_id": "M000217"
+  },
+  {
+    "id": 307,
+    "artisan_id": 126,
+    "maker_id": "M000126"
+  },
+  {
+    "id": 308,
+    "artisan_id": 222,
+    "maker_id": "M000222"
+  },
+  {
+    "id": 309,
+    "artisan_id": 405,
+    "maker_id": "SHIRYUD"
+  },
+  {
+    "id": 310,
+    "artisan_id": 1,
+    "maker_id": "SILVENA"
+  },
+  {
+    "id": 311,
+    "artisan_id": 1,
+    "maker_id": "M000001"
+  },
+  {
+    "id": 312,
+    "artisan_id": 389,
+    "maker_id": "SKYEHIG"
+  },
+  {
+    "id": 313,
+    "artisan_id": 355,
+    "maker_id": "SKYSUIT"
+  },
+  {
+    "id": 314,
+    "artisan_id": 81,
+    "maker_id": "M000081"
+  },
+  {
+    "id": 315,
+    "artisan_id": 276,
+    "maker_id": "SLTSLTH"
+  },
+  {
+    "id": 316,
+    "artisan_id": 312,
+    "maker_id": "SMALLFR"
+  },
+  {
+    "id": 317,
+    "artisan_id": 156,
+    "maker_id": "M000156"
+  },
+  {
+    "id": 318,
+    "artisan_id": 170,
+    "maker_id": "M000170"
+  },
+  {
+    "id": 319,
+    "artisan_id": 157,
+    "maker_id": "M000157"
+  },
+  {
+    "id": 320,
+    "artisan_id": 349,
+    "maker_id": "SODACSC"
+  },
+  {
+    "id": 321,
+    "artisan_id": 319,
+    "maker_id": "SCCFURS"
+  },
+  {
+    "id": 322,
+    "artisan_id": 218,
+    "maker_id": "SKSUITS"
+  },
+  {
+    "id": 323,
+    "artisan_id": 128,
+    "maker_id": "M000128"
+  },
+  {
+    "id": 324,
+    "artisan_id": 250,
+    "maker_id": "SPKLDSD"
+  },
+  {
+    "id": 325,
+    "artisan_id": 213,
+    "maker_id": "M000213"
+  },
+  {
+    "id": 326,
+    "artisan_id": 245,
+    "maker_id": "SPUDSTR"
+  },
+  {
+    "id": 327,
+    "artisan_id": 149,
+    "maker_id": "M000149"
+  },
+  {
+    "id": 328,
+    "artisan_id": 140,
+    "maker_id": "M000140"
+  },
+  {
+    "id": 329,
+    "artisan_id": 311,
+    "maker_id": "STCLYNX"
+  },
+  {
+    "id": 330,
+    "artisan_id": 240,
+    "maker_id": "M000240"
+  },
+  {
+    "id": 331,
+    "artisan_id": 255,
+    "maker_id": "STORMY7"
+  },
+  {
+    "id": 332,
+    "artisan_id": 27,
+    "maker_id": "M000027"
+  },
+  {
+    "id": 333,
+    "artisan_id": 216,
+    "maker_id": "M000216"
+  },
+  {
+    "id": 334,
+    "artisan_id": 82,
+    "maker_id": "M000082"
+  },
+  {
+    "id": 335,
+    "artisan_id": 406,
+    "maker_id": "STUFFTA"
+  },
+  {
+    "id": 336,
+    "artisan_id": 10,
+    "maker_id": "M000010"
+  },
+  {
+    "id": 337,
+    "artisan_id": 20,
+    "maker_id": "M000020"
+  },
+  {
+    "id": 338,
+    "artisan_id": 108,
+    "maker_id": "M000108"
+  },
+  {
+    "id": 339,
+    "artisan_id": 105,
+    "maker_id": "M000105"
+  },
+  {
+    "id": 340,
+    "artisan_id": 396,
+    "maker_id": "HORSE74"
+  },
+  {
+    "id": 341,
+    "artisan_id": 83,
+    "maker_id": "M000083"
+  },
+  {
+    "id": 342,
+    "artisan_id": 360,
+    "maker_id": "SUSRPNT"
+  },
+  {
+    "id": 343,
+    "artisan_id": 84,
+    "maker_id": "M000084"
+  },
+  {
+    "id": 344,
+    "artisan_id": 210,
+    "maker_id": "M000210"
+  },
+  {
+    "id": 345,
+    "artisan_id": 19,
+    "maker_id": "M000019"
+  },
+  {
+    "id": 346,
+    "artisan_id": 364,
+    "maker_id": "M000364"
+  },
+  {
+    "id": 347,
+    "artisan_id": 227,
+    "maker_id": "M000227"
+  },
+  {
+    "id": 348,
+    "artisan_id": 221,
+    "maker_id": "TCOLOUR"
+  },
+  {
+    "id": 349,
+    "artisan_id": 5,
+    "maker_id": "M000005"
+  },
+  {
+    "id": 350,
+    "artisan_id": 252,
+    "maker_id": "TESCREA"
+  },
+  {
+    "id": 351,
+    "artisan_id": 339,
+    "maker_id": "TOPNKDS"
+  },
+  {
+    "id": 352,
+    "artisan_id": 85,
+    "maker_id": "M000085"
+  },
+  {
+    "id": 353,
+    "artisan_id": 202,
+    "maker_id": "M000202"
+  },
+  {
+    "id": 354,
+    "artisan_id": 53,
+    "maker_id": "M000053"
+  },
+  {
+    "id": 355,
+    "artisan_id": 107,
+    "maker_id": "M000107"
+  },
+  {
+    "id": 356,
+    "artisan_id": 274,
+    "maker_id": "M000274"
+  },
+  {
+    "id": 357,
+    "artisan_id": 79,
+    "maker_id": "M000079"
+  },
+  {
+    "id": 358,
+    "artisan_id": 26,
+    "maker_id": "M000026"
+  },
+  {
+    "id": 359,
+    "artisan_id": 235,
+    "maker_id": "M000235"
+  },
+  {
+    "id": 360,
+    "artisan_id": 176,
+    "maker_id": "TIGGFUR"
+  },
+  {
+    "id": 361,
+    "artisan_id": 176,
+    "maker_id": "M000176"
+  },
+  {
+    "id": 362,
+    "artisan_id": 350,
+    "maker_id": "TINYDRC"
+  },
+  {
+    "id": 363,
+    "artisan_id": 120,
+    "maker_id": "M000120"
+  },
+  {
+    "id": 364,
+    "artisan_id": 263,
+    "maker_id": "TOKAIFS"
+  },
+  {
+    "id": 365,
+    "artisan_id": 207,
+    "maker_id": "M000207"
+  },
+  {
+    "id": 366,
+    "artisan_id": 400,
+    "maker_id": "THSFEEP"
+  },
+  {
+    "id": 367,
+    "artisan_id": 342,
+    "maker_id": "TTHYHND"
+  },
+  {
+    "id": 368,
+    "artisan_id": 391,
+    "maker_id": "TRANFUR"
+  },
+  {
+    "id": 369,
+    "artisan_id": 318,
+    "maker_id": "TRIBPAW"
+  },
+  {
+    "id": 370,
+    "artisan_id": 86,
+    "maker_id": "M000086"
+  },
+  {
+    "id": 371,
+    "artisan_id": 337,
+    "maker_id": "TULIUCO"
+  },
+  {
+    "id": 372,
+    "artisan_id": 12,
+    "maker_id": "M000012"
+  },
+  {
+    "id": 373,
+    "artisan_id": 332,
+    "maker_id": "TKC2019"
+  },
+  {
+    "id": 374,
+    "artisan_id": 88,
+    "maker_id": "M000088"
+  },
+  {
+    "id": 375,
+    "artisan_id": 313,
+    "maker_id": "RIPERT1"
+  },
+  {
+    "id": 376,
+    "artisan_id": 401,
+    "maker_id": "TWILEOC"
+  },
+  {
+    "id": 377,
+    "artisan_id": 322,
+    "maker_id": "M000322"
+  },
+  {
+    "id": 378,
+    "artisan_id": 208,
+    "maker_id": "M000208"
+  },
+  {
+    "id": 379,
+    "artisan_id": 351,
+    "maker_id": "UNLESHD"
+  },
+  {
+    "id": 380,
+    "artisan_id": 248,
+    "maker_id": "M000248"
+  },
+  {
+    "id": 381,
+    "artisan_id": 192,
+    "maker_id": "M000192"
+  },
+  {
+    "id": 382,
+    "artisan_id": 192,
+    "maker_id": "M000329"
+  },
+  {
+    "id": 383,
+    "artisan_id": 175,
+    "maker_id": "VGSYOTE"
+  },
+  {
+    "id": 384,
+    "artisan_id": 238,
+    "maker_id": "M000238"
+  },
+  {
+    "id": 385,
+    "artisan_id": 373,
+    "maker_id": "VTSTUDS"
+  },
+  {
+    "id": 386,
+    "artisan_id": 372,
+    "maker_id": "VIXENBS"
+  },
+  {
+    "id": 387,
+    "artisan_id": 183,
+    "maker_id": "M000183"
+  },
+  {
+    "id": 388,
+    "artisan_id": 13,
+    "maker_id": "WMW66CZ"
+  },
+  {
+    "id": 390,
+    "artisan_id": 89,
+    "maker_id": "M000089"
+  },
+  {
+    "id": 391,
+    "artisan_id": 21,
+    "maker_id": "M000021"
+  },
+  {
+    "id": 392,
+    "artisan_id": 188,
+    "maker_id": "WEONESL"
+  },
+  {
+    "id": 393,
+    "artisan_id": 188,
+    "maker_id": "M000188"
+  },
+  {
+    "id": 394,
+    "artisan_id": 91,
+    "maker_id": "M000091"
+  },
+  {
+    "id": 395,
+    "artisan_id": 388,
+    "maker_id": "WHWCREA"
+  },
+  {
+    "id": 396,
+    "artisan_id": 90,
+    "maker_id": "M000090"
+  },
+  {
+    "id": 397,
+    "artisan_id": 215,
+    "maker_id": "M000215"
+  },
+  {
+    "id": 398,
+    "artisan_id": 98,
+    "maker_id": "M000098"
+  },
+  {
+    "id": 399,
+    "artisan_id": 253,
+    "maker_id": "WNDSUIT"
+  },
+  {
+    "id": 400,
+    "artisan_id": 407,
+    "maker_id": "WINGSEU"
+  },
+  {
+    "id": 401,
+    "artisan_id": 151,
+    "maker_id": "M000151"
+  },
+  {
+    "id": 402,
+    "artisan_id": 399,
+    "maker_id": "WSTUDIO"
+  },
+  {
+    "id": 403,
+    "artisan_id": 92,
+    "maker_id": "M000092"
+  },
+  {
+    "id": 404,
+    "artisan_id": 356,
+    "maker_id": "YEENBUG"
+  },
+  {
+    "id": 405,
+    "artisan_id": 133,
+    "maker_id": "M000133"
+  },
+  {
+    "id": 406,
+    "artisan_id": 412,
+    "maker_id": "ZIPGRWL"
+  },
+  {
+    "id": 407,
+    "artisan_id": 231,
+    "maker_id": "M000231"
+  },
+  {
+    "id": 408,
+    "artisan_id": 262,
+    "maker_id": "BAHAMUT"
+  },
+  {
+    "id": 409,
+    "artisan_id": 129,
+    "maker_id": "M000129"
+  },
+  {
+    "id": 410,
+    "artisan_id": 101,
+    "maker_id": "M000101"
+  },
+  {
+    "id": 411,
+    "artisan_id": 179,
+    "maker_id": "GRAYREM"
+  },
+  {
+    "id": 412,
+    "artisan_id": 119,
+    "maker_id": "M000119"
+  },
+  {
+    "id": 413,
+    "artisan_id": 343,
+    "maker_id": "MXNCHES"
+  },
+  {
+    "id": 414,
+    "artisan_id": 100,
+    "maker_id": "M000100"
+  },
+  {
+    "id": 415,
+    "artisan_id": 368,
+    "maker_id": "SALTYSS"
+  },
+  {
+    "id": 416,
+    "artisan_id": 418,
+    "maker_id": "WHIZMIC"
+  },
+  {
+    "id": 417,
+    "artisan_id": 107,
+    "maker_id": "GROTTOC"
+  },
+  {
+    "id": 418,
+    "artisan_id": 419,
+    "maker_id": "RCRAFTS"
+  },
+  {
+    "id": 419,
+    "artisan_id": 420,
+    "maker_id": "MASKEDZ"
+  },
+  {
+    "id": 420,
+    "artisan_id": 421,
+    "maker_id": "FREETFS"
+  },
+  {
+    "id": 421,
+    "artisan_id": 422,
+    "maker_id": "WDCRTNS"
+  },
+  {
+    "id": 422,
+    "artisan_id": 423,
+    "maker_id": "SNEAK10"
+  },
+  {
+    "id": 423,
+    "artisan_id": 424,
+    "maker_id": "KRYPTID"
+  },
+  {
+    "id": 424,
+    "artisan_id": 225,
+    "maker_id": "CREATRY"
+  },
+  {
+    "id": 425,
+    "artisan_id": 402,
+    "maker_id": "FELSTEL"
+  },
+  {
+    "id": 426,
+    "artisan_id": 425,
+    "maker_id": "NEONPAW"
+  },
+  {
+    "id": 427,
+    "artisan_id": 315,
+    "maker_id": "NUTFUR7"
+  },
+  {
+    "id": 428,
+    "artisan_id": 426,
+    "maker_id": "TAPAPTC"
+  },
+  {
+    "id": 429,
+    "artisan_id": 427,
+    "maker_id": "METLWUF"
+  },
+  {
+    "id": 430,
+    "artisan_id": 428,
+    "maker_id": "ANGELTI"
+  },
+  {
+    "id": 431,
+    "artisan_id": 429,
+    "maker_id": "BASSPFS"
+  },
+  {
+    "id": 432,
+    "artisan_id": 35,
+    "maker_id": "ARTSLAV"
+  },
+  {
+    "id": 433,
+    "artisan_id": 427,
+    "maker_id": "HLMLHRS"
+  },
+  {
+    "id": 434,
+    "artisan_id": 430,
+    "maker_id": "SUNBLGT"
+  },
+  {
+    "id": 435,
+    "artisan_id": 431,
+    "maker_id": "QUESTFS"
+  },
+  {
+    "id": 436,
+    "artisan_id": 432,
+    "maker_id": "SYMBHOG"
+  },
+  {
+    "id": 437,
+    "artisan_id": 433,
+    "maker_id": "VVVWVVV"
+  },
+  {
+    "id": 438,
+    "artisan_id": 434,
+    "maker_id": "SHRKFIN"
+  },
+  {
+    "id": 439,
+    "artisan_id": 134,
+    "maker_id": "FUZZYCR"
+  },
+  {
+    "id": 440,
+    "artisan_id": 435,
+    "maker_id": "KITKAIW"
+  },
+  {
+    "id": 441,
+    "artisan_id": 436,
+    "maker_id": "STRCANE"
+  },
+  {
+    "id": 442,
+    "artisan_id": 437,
+    "maker_id": "RUNAWAY"
+  },
+  {
+    "id": 443,
+    "artisan_id": 438,
+    "maker_id": "ABYSSAZ"
+  },
+  {
+    "id": 444,
+    "artisan_id": 439,
+    "maker_id": "ARMNLEG"
+  },
+  {
+    "id": 445,
+    "artisan_id": 11,
+    "maker_id": "ALPHADG"
+  },
+  {
+    "id": 446,
+    "artisan_id": 440,
+    "maker_id": "BGSNOOT"
+  },
+  {
+    "id": 447,
+    "artisan_id": 441,
+    "maker_id": "ACARMIM"
+  },
+  {
+    "id": 448,
+    "artisan_id": 442,
+    "maker_id": "MKEAFUR"
+  },
+  {
+    "id": 449,
+    "artisan_id": 443,
+    "maker_id": "SNUGFUR"
+  },
+  {
+    "id": 450,
+    "artisan_id": 444,
+    "maker_id": "PPBMAUS"
+  },
+  {
+    "id": 451,
+    "artisan_id": 445,
+    "maker_id": "DOCKYRD"
+  },
+  {
+    "id": 452,
+    "artisan_id": 446,
+    "maker_id": "KEMOKPI"
+  },
+  {
+    "id": 453,
+    "artisan_id": 447,
+    "maker_id": "RUDEBRD"
+  },
+  {
+    "id": 454,
+    "artisan_id": 448,
+    "maker_id": "FROUZON"
+  },
+  {
+    "id": 455,
+    "artisan_id": 449,
+    "maker_id": "PJAMCAT"
+  },
+  {
+    "id": 456,
+    "artisan_id": 18,
+    "maker_id": "CLCKWRK"
+  },
+  {
+    "id": 457,
+    "artisan_id": 450,
+    "maker_id": "RITZCOS"
+  },
+  {
+    "id": 458,
+    "artisan_id": 451,
+    "maker_id": "CRKENKU"
+  },
+  {
+    "id": 459,
+    "artisan_id": 452,
+    "maker_id": "GTRWAVE"
+  },
+  {
+    "id": 460,
+    "artisan_id": 453,
+    "maker_id": "FRECKCT"
+  },
+  {
+    "id": 461,
+    "artisan_id": 454,
+    "maker_id": "ROXYSWC"
+  },
+  {
+    "id": 462,
+    "artisan_id": 455,
+    "maker_id": "PCKETCR"
+  },
+  {
+    "id": 463,
+    "artisan_id": 456,
+    "maker_id": "CWRKSHP"
+  },
+  {
+    "id": 464,
+    "artisan_id": 457,
+    "maker_id": "EVILMKS"
+  },
+  {
+    "id": 465,
+    "artisan_id": 458,
+    "maker_id": "STYNGER"
+  },
+  {
+    "id": 466,
+    "artisan_id": 459,
+    "maker_id": "ONEGIRI"
+  },
+  {
+    "id": 467,
+    "artisan_id": 460,
+    "maker_id": "DZTFIZZ"
+  },
+  {
+    "id": 468,
+    "artisan_id": 461,
+    "maker_id": "WEARCAT"
+  },
+  {
+    "id": 469,
+    "artisan_id": 279,
+    "maker_id": "MELCAAR"
+  },
+  {
+    "id": 470,
+    "artisan_id": 462,
+    "maker_id": "NARITAH"
+  },
+  {
+    "id": 471,
+    "artisan_id": 463,
+    "maker_id": "FOXNBOX"
+  },
+  {
+    "id": 472,
+    "artisan_id": 464,
+    "maker_id": "FTSUSMN"
+  },
+  {
+    "id": 473,
+    "artisan_id": 279,
+    "maker_id": "KMOYAGI"
+  },
+  {
+    "id": 474,
+    "artisan_id": 465,
+    "maker_id": "FFSUITS"
+  },
+  {
+    "id": 475,
+    "artisan_id": 466,
+    "maker_id": "FFURCRS"
+  },
+  {
+    "id": 476,
+    "artisan_id": 467,
+    "maker_id": "SILVLYX"
+  },
+  {
+    "id": 477,
+    "artisan_id": 468,
+    "maker_id": "HOMBRWD"
+  },
+  {
+    "id": 478,
+    "artisan_id": 469,
+    "maker_id": "AZRASTD"
+  },
+  {
+    "id": 479,
+    "artisan_id": 470,
+    "maker_id": "WNDRWLD"
+  },
+  {
+    "id": 480,
+    "artisan_id": 471,
+    "maker_id": "LISANOT"
+  },
+  {
+    "id": 481,
+    "artisan_id": 472,
+    "maker_id": "SVCFURS"
+  },
+  {
+    "id": 482,
+    "artisan_id": 473,
+    "maker_id": "POMIPAT"
+  },
+  {
+    "id": 483,
+    "artisan_id": 474,
+    "maker_id": "88ITART"
+  },
+  {
+    "id": 484,
+    "artisan_id": 475,
+    "maker_id": "LTTLFNG"
+  },
+  {
+    "id": 485,
+    "artisan_id": 476,
+    "maker_id": "VULCANW"
+  },
+  {
+    "id": 486,
+    "artisan_id": 294,
+    "maker_id": "BFSINTW"
+  },
+  {
+    "id": 487,
+    "artisan_id": 477,
+    "maker_id": "SPIRITP"
+  },
+  {
+    "id": 489,
+    "artisan_id": 279,
+    "maker_id": "NOODLET"
+  },
+  {
+    "id": 490,
+    "artisan_id": 342,
+    "maker_id": "BERMACE"
+  },
+  {
+    "id": 491,
+    "artisan_id": 478,
+    "maker_id": "WILDFOX"
+  },
+  {
+    "id": 492,
+    "artisan_id": 479,
+    "maker_id": "MINGUSM"
+  },
+  {
+    "id": 493,
+    "artisan_id": 480,
+    "maker_id": "MANTACR"
+  },
+  {
+    "id": 494,
+    "artisan_id": 481,
+    "maker_id": "TREEBRK"
+  },
+  {
+    "id": 495,
+    "artisan_id": 482,
+    "maker_id": "DOGWOOL"
+  },
+  {
+    "id": 496,
+    "artisan_id": 483,
+    "maker_id": "ESFCHSN"
+  },
+  {
+    "id": 497,
+    "artisan_id": 484,
+    "maker_id": "GOCAMEC"
+  },
+  {
+    "id": 498,
+    "artisan_id": 323,
+    "maker_id": "KABBERC"
+  },
+  {
+    "id": 499,
+    "artisan_id": 485,
+    "maker_id": "PCKTWLF"
+  },
+  {
+    "id": 500,
+    "artisan_id": 486,
+    "maker_id": "ANTLRWS"
+  },
+  {
+    "id": 501,
+    "artisan_id": 487,
+    "maker_id": "DPYPAWS"
+  },
+  {
+    "id": 502,
+    "artisan_id": 488,
+    "maker_id": "FELIDAE"
+  },
+  {
+    "id": 503,
+    "artisan_id": 411,
+    "maker_id": "HORNEDP"
+  },
+  {
+    "id": 504,
+    "artisan_id": 489,
+    "maker_id": "MOUSETH"
+  },
+  {
+    "id": 505,
+    "artisan_id": 222,
+    "maker_id": "TUNGSTN"
+  },
+  {
+    "id": 506,
+    "artisan_id": 490,
+    "maker_id": "GOATYGD"
+  },
+  {
+    "id": 507,
+    "artisan_id": 491,
+    "maker_id": "FXFLOOF"
+  },
+  {
+    "id": 508,
+    "artisan_id": 492,
+    "maker_id": "DIINOKT"
+  },
+  {
+    "id": 509,
+    "artisan_id": 175,
+    "maker_id": "CALCRTR"
+  },
+  {
+    "id": 510,
+    "artisan_id": 493,
+    "maker_id": "YCHFURS"
+  },
+  {
+    "id": 511,
+    "artisan_id": 494,
+    "maker_id": "SLROSES"
+  },
+  {
+    "id": 512,
+    "artisan_id": 200,
+    "maker_id": "NORMSNW"
+  },
+  {
+    "id": 513,
+    "artisan_id": 495,
+    "maker_id": "BRDSBLD"
+  },
+  {
+    "id": 514,
+    "artisan_id": 496,
+    "maker_id": "BUTRCUP"
+  },
+  {
+    "id": 515,
+    "artisan_id": 497,
+    "maker_id": "KAIDASK"
+  },
+  {
+    "id": 516,
+    "artisan_id": 498,
+    "maker_id": "KLVBUNN"
+  },
+  {
+    "id": 517,
+    "artisan_id": 499,
+    "maker_id": "WOWDRAG"
+  },
+  {
+    "id": 518,
+    "artisan_id": 500,
+    "maker_id": "MNTYDGN"
+  },
+  {
+    "id": 519,
+    "artisan_id": 501,
+    "maker_id": "TSFSUIT"
+  },
+  {
+    "id": 520,
+    "artisan_id": 502,
+    "maker_id": "PHUZZY1"
+  },
+  {
+    "id": 521,
+    "artisan_id": 503,
+    "maker_id": "VAPRWAG"
+  },
+  {
+    "id": 522,
+    "artisan_id": 504,
+    "maker_id": "TLCRTNS"
+  },
+  {
+    "id": 523,
+    "artisan_id": 505,
+    "maker_id": "OCMECRT"
+  },
+  {
+    "id": 524,
+    "artisan_id": 229,
+    "maker_id": "OACREAT"
+  },
+  {
+    "id": 525,
+    "artisan_id": 63,
+    "maker_id": "M000063"
+  },
+  {
+    "id": 526,
+    "artisan_id": 470,
+    "maker_id": "WNDRLST"
+  },
+  {
+    "id": 527,
+    "artisan_id": 217,
+    "maker_id": "FROSTIS"
+  },
+  {
+    "id": 528,
+    "artisan_id": 184,
+    "maker_id": "CHRMCRT"
+  },
+  {
+    "id": 529,
+    "artisan_id": 283,
+    "maker_id": "ALYNCIS"
+  },
+  {
+    "id": 530,
+    "artisan_id": 506,
+    "maker_id": "MLNFURS"
+  },
+  {
+    "id": 531,
+    "artisan_id": 265,
+    "maker_id": "KCSFURS"
+  },
+  {
+    "id": 532,
+    "artisan_id": 235,
+    "maker_id": "THUNDER"
+  },
+  {
+    "id": 533,
+    "artisan_id": 507,
+    "maker_id": "SLPSTAG"
+  },
+  {
+    "id": 534,
+    "artisan_id": 508,
+    "maker_id": "FURZONE"
+  },
+  {
+    "id": 535,
+    "artisan_id": 509,
+    "maker_id": "OBSDIAN"
+  },
+  {
+    "id": 536,
+    "artisan_id": 510,
+    "maker_id": "SHELLSE"
+  },
+  {
+    "id": 537,
+    "artisan_id": 365,
+    "maker_id": "8BITWRX"
+  },
+  {
+    "id": 538,
+    "artisan_id": 511,
+    "maker_id": "STRNBTE"
+  },
+  {
+    "id": 539,
+    "artisan_id": 512,
+    "maker_id": "AUSTUDO"
+  },
+  {
+    "id": 540,
+    "artisan_id": 339,
+    "maker_id": "TOPDOGS"
+  },
+  {
+    "id": 541,
+    "artisan_id": 412,
+    "maker_id": "ZPGROWL"
+  },
+  {
+    "id": 542,
+    "artisan_id": 513,
+    "maker_id": "ESTMAKE"
+  },
+  {
+    "id": 543,
+    "artisan_id": 514,
+    "maker_id": "JESDENA"
+  },
+  {
+    "id": 544,
+    "artisan_id": 515,
+    "maker_id": "LIONPAW"
+  },
+  {
+    "id": 545,
+    "artisan_id": 516,
+    "maker_id": "PINUHFS"
+  },
+  {
+    "id": 546,
+    "artisan_id": 517,
+    "maker_id": "SEWSTUF"
+  },
+  {
+    "id": 547,
+    "artisan_id": 518,
+    "maker_id": "PNWORKS"
+  },
+  {
+    "id": 548,
+    "artisan_id": 519,
+    "maker_id": "ISLAHOG"
+  },
+  {
+    "id": 549,
+    "artisan_id": 520,
+    "maker_id": "NO09117"
+  },
+  {
+    "id": 550,
+    "artisan_id": 521,
+    "maker_id": "HYENAHW"
+  },
+  {
+    "id": 551,
+    "artisan_id": 522,
+    "maker_id": "SLYZKAC"
+  },
+  {
+    "id": 552,
+    "artisan_id": 523,
+    "maker_id": "SCARLET"
+  },
+  {
+    "id": 553,
+    "artisan_id": 524,
+    "maker_id": "SCHMIGG"
+  },
+  {
+    "id": 554,
+    "artisan_id": 525,
+    "maker_id": "BFERRET"
+  },
+  {
+    "id": 555,
+    "artisan_id": 526,
+    "maker_id": "CONIFER"
+  },
+  {
+    "id": 556,
+    "artisan_id": 527,
+    "maker_id": "MEOWWRE"
+  },
+  {
+    "id": 557,
+    "artisan_id": 528,
+    "maker_id": "SCLSUIT"
+  },
+  {
+    "id": 558,
+    "artisan_id": 529,
+    "maker_id": "FURDEAD"
+  },
+  {
+    "id": 559,
+    "artisan_id": 530,
+    "maker_id": "ORBTFLF"
+  },
+  {
+    "id": 560,
+    "artisan_id": 531,
+    "maker_id": "HALLOWM"
+  },
+  {
+    "id": 561,
+    "artisan_id": 532,
+    "maker_id": "HUCKFUR"
+  },
+  {
+    "id": 562,
+    "artisan_id": 533,
+    "maker_id": "BTSUITS"
+  },
+  {
+    "id": 563,
+    "artisan_id": 534,
+    "maker_id": "NCRUXST"
+  },
+  {
+    "id": 564,
+    "artisan_id": 309,
+    "maker_id": "FURTSTU"
+  },
+  {
+    "id": 565,
+    "artisan_id": 535,
+    "maker_id": "KIKICCS"
+  },
+  {
+    "id": 566,
+    "artisan_id": 536,
+    "maker_id": "SABERST"
+  },
+  {
+    "id": 567,
+    "artisan_id": 445,
+    "maker_id": "IBODITY"
+  },
+  {
+    "id": 568,
+    "artisan_id": 537,
+    "maker_id": "LUNA517"
+  },
+  {
+    "id": 569,
+    "artisan_id": 113,
+    "maker_id": "GOLDMAW"
+  },
+  {
+    "id": 570,
+    "artisan_id": 538,
+    "maker_id": "DRKMSTG"
+  },
+  {
+    "id": 571,
+    "artisan_id": 539,
+    "maker_id": "FEDSUIT"
+  },
+  {
+    "id": 572,
+    "artisan_id": 540,
+    "maker_id": "CEATIMG"
+  },
+  {
+    "id": 573,
+    "artisan_id": 541,
+    "maker_id": "SABERPL"
+  },
+  {
+    "id": 574,
+    "artisan_id": 542,
+    "maker_id": "MAYING1"
+  },
+  {
+    "id": 575,
+    "artisan_id": 543,
+    "maker_id": "DRTYPSN"
+  },
+  {
+    "id": 576,
+    "artisan_id": 544,
+    "maker_id": "ANOVERR"
+  },
+  {
+    "id": 577,
+    "artisan_id": 545,
+    "maker_id": "U4ICFUR"
+  },
+  {
+    "id": 578,
+    "artisan_id": 546,
+    "maker_id": "GODGARD"
+  },
+  {
+    "id": 579,
+    "artisan_id": 174,
+    "maker_id": "ITSMARS"
+  },
+  {
+    "id": 580,
+    "artisan_id": 547,
+    "maker_id": "KCREATE"
+  },
+  {
+    "id": 581,
+    "artisan_id": 548,
+    "maker_id": "VIXMANE"
+  },
+  {
+    "id": 582,
+    "artisan_id": 549,
+    "maker_id": "MOONFVC"
+  },
+  {
+    "id": 583,
+    "artisan_id": 550,
+    "maker_id": "TRTCLWS"
+  },
+  {
+    "id": 584,
+    "artisan_id": 551,
+    "maker_id": "FURFR3N"
+  },
+  {
+    "id": 585,
+    "artisan_id": 552,
+    "maker_id": "SASACRT"
+  },
+  {
+    "id": 586,
+    "artisan_id": 553,
+    "maker_id": "TRINKTW"
+  },
+  {
+    "id": 587,
+    "artisan_id": 554,
+    "maker_id": "CINDERY"
+  },
+  {
+    "id": 588,
+    "artisan_id": 555,
+    "maker_id": "DPOZZUM"
+  },
+  {
+    "id": 589,
+    "artisan_id": 556,
+    "maker_id": "BBYAXEL"
+  },
+  {
+    "id": 590,
+    "artisan_id": 557,
+    "maker_id": "LKSUITS"
+  },
+  {
+    "id": 591,
+    "artisan_id": 558,
+    "maker_id": "VXENSCO"
+  },
+  {
+    "id": 592,
+    "artisan_id": 559,
+    "maker_id": "ANWOLST"
+  },
+  {
+    "id": 593,
+    "artisan_id": 560,
+    "maker_id": "BCZFUZZ"
+  },
+  {
+    "id": 594,
+    "artisan_id": 561,
+    "maker_id": "FAROUTF"
+  },
+  {
+    "id": 595,
+    "artisan_id": 216,
+    "maker_id": "SPINALI"
+  },
+  {
+    "id": 596,
+    "artisan_id": 562,
+    "maker_id": "SNRLSQD"
+  },
+  {
+    "id": 597,
+    "artisan_id": 563,
+    "maker_id": "KITUPFS"
+  },
+  {
+    "id": 598,
+    "artisan_id": 564,
+    "maker_id": "WDWORKS"
+  },
+  {
+    "id": 599,
+    "artisan_id": 565,
+    "maker_id": "DRAGDIR"
+  },
+  {
+    "id": 600,
+    "artisan_id": 566,
+    "maker_id": "CLAWEDC"
+  },
+  {
+    "id": 601,
+    "artisan_id": 567,
+    "maker_id": "MUMARTN"
+  },
+  {
+    "id": 602,
+    "artisan_id": 568,
+    "maker_id": "QPENDAS"
+  },
+  {
+    "id": 603,
+    "artisan_id": 569,
+    "maker_id": "GUROIRI"
+  },
+  {
+    "id": 604,
+    "artisan_id": 570,
+    "maker_id": "OZRKFUR"
+  },
+  {
+    "id": 605,
+    "artisan_id": 571,
+    "maker_id": "FYSFIRI"
+  },
+  {
+    "id": 606,
+    "artisan_id": 572,
+    "maker_id": "TEACNDY"
+  },
+  {
+    "id": 607,
+    "artisan_id": 573,
+    "maker_id": "TURSOWS"
+  },
+  {
+    "id": 608,
+    "artisan_id": 276,
+    "maker_id": "SCFNTBL"
+  },
+  {
+    "id": 609,
+    "artisan_id": 26,
+    "maker_id": "KARELIA"
+  },
+  {
+    "id": 610,
+    "artisan_id": 574,
+    "maker_id": "FURFUZZ"
+  },
+  {
+    "id": 611,
+    "artisan_id": 575,
+    "maker_id": "ANIMACT"
+  },
+  {
+    "id": 612,
+    "artisan_id": 576,
+    "maker_id": "HFYLFYC"
+  },
+  {
+    "id": 613,
+    "artisan_id": 577,
+    "maker_id": "RANDOMR"
+  },
+  {
+    "id": 614,
+    "artisan_id": 262,
+    "maker_id": "NTKAIJU"
+  },
+  {
+    "id": 615,
+    "artisan_id": 578,
+    "maker_id": "TOMACAT"
+  },
+  {
+    "id": 616,
+    "artisan_id": 579,
+    "maker_id": "DBLDOGC"
+  },
+  {
+    "id": 617,
+    "artisan_id": 538,
+    "maker_id": "CLOWNCR"
+  },
+  {
+    "id": 618,
+    "artisan_id": 211,
+    "maker_id": "FUZZBFS"
+  },
+  {
+    "id": 619,
+    "artisan_id": 580,
+    "maker_id": "FUR2022"
+  },
+  {
+    "id": 620,
+    "artisan_id": 581,
+    "maker_id": "PAWSPRO"
+  },
+  {
+    "id": 621,
+    "artisan_id": 458,
+    "maker_id": "DDFRSTS"
+  },
+  {
+    "id": 622,
+    "artisan_id": 582,
+    "maker_id": "EMMAACE"
+  },
+  {
+    "id": 623,
+    "artisan_id": 583,
+    "maker_id": "BLMTCRT"
+  },
+  {
+    "id": 624,
+    "artisan_id": 350,
+    "maker_id": "KOBOLDS"
+  },
+  {
+    "id": 625,
+    "artisan_id": 584,
+    "maker_id": "PAWMAWS"
+  },
+  {
+    "id": 626,
+    "artisan_id": 585,
+    "maker_id": "DRMNESA"
+  },
+  {
+    "id": 627,
+    "artisan_id": 586,
+    "maker_id": "SPICY77"
+  },
+  {
+    "id": 628,
+    "artisan_id": 107,
+    "maker_id": "STARFTR"
+  },
+  {
+    "id": 629,
+    "artisan_id": 587,
+    "maker_id": "STXRCNE"
+  },
+  {
+    "id": 630,
+    "artisan_id": 588,
+    "maker_id": "COSMELL"
+  },
+  {
+    "id": 631,
+    "artisan_id": 589,
+    "maker_id": "RITAFOX"
+  },
+  {
+    "id": 632,
+    "artisan_id": 590,
+    "maker_id": "AKELATK"
+  },
+  {
+    "id": 633,
+    "artisan_id": 591,
+    "maker_id": "8675309"
+  },
+  {
+    "id": 634,
+    "artisan_id": 592,
+    "maker_id": "WLFBUCK"
+  },
+  {
+    "id": 635,
+    "artisan_id": 593,
+    "maker_id": "KALUFRS"
+  },
+  {
+    "id": 636,
+    "artisan_id": 594,
+    "maker_id": "WIKKED1"
+  },
+  {
+    "id": 637,
+    "artisan_id": 595,
+    "maker_id": "MUGISCC"
+  },
+  {
+    "id": 638,
+    "artisan_id": 596,
+    "maker_id": "FURNEKK"
+  },
+  {
+    "id": 639,
+    "artisan_id": 597,
+    "maker_id": "AKC3214"
+  },
+  {
+    "id": 640,
+    "artisan_id": 361,
+    "maker_id": "OKLYCRT"
+  },
+  {
+    "id": 641,
+    "artisan_id": 598,
+    "maker_id": "COVENCO"
+  },
+  {
+    "id": 642,
+    "artisan_id": 599,
+    "maker_id": "BNYPAWS"
+  },
+  {
+    "id": 643,
+    "artisan_id": 600,
+    "maker_id": "AKOSLAB"
+  },
+  {
+    "id": 644,
+    "artisan_id": 601,
+    "maker_id": "THATFUR"
+  },
+  {
+    "id": 645,
+    "artisan_id": 602,
+    "maker_id": "LAC2020"
+  },
+  {
+    "id": 646,
+    "artisan_id": 603,
+    "maker_id": "CNXSSTU"
+  },
+  {
+    "id": 647,
+    "artisan_id": 256,
+    "maker_id": "KRAFTY2"
+  },
+  {
+    "id": 648,
+    "artisan_id": 604,
+    "maker_id": "STCHUPF"
+  },
+  {
+    "id": 649,
+    "artisan_id": 605,
+    "maker_id": "CRITTER"
+  },
+  {
+    "id": 650,
+    "artisan_id": 606,
+    "maker_id": "DRAK0N1"
+  },
+  {
+    "id": 651,
+    "artisan_id": 607,
+    "maker_id": "AIKOBOI"
+  },
+  {
+    "id": 652,
+    "artisan_id": 608,
+    "maker_id": "COWSUIT"
+  },
+  {
+    "id": 653,
+    "artisan_id": 609,
+    "maker_id": "FURRYJS"
+  },
+  {
+    "id": 654,
+    "artisan_id": 610,
+    "maker_id": "KRAFICA"
+  },
+  {
+    "id": 655,
+    "artisan_id": 611,
+    "maker_id": "LMAWFUR"
+  },
+  {
+    "id": 656,
+    "artisan_id": 612,
+    "maker_id": "TRSHAWK"
+  },
+  {
+    "id": 657,
+    "artisan_id": 613,
+    "maker_id": "TEZARTS"
+  },
+  {
+    "id": 658,
+    "artisan_id": 614,
+    "maker_id": "RETRONG"
+  },
+  {
+    "id": 659,
+    "artisan_id": 615,
+    "maker_id": "CCSUITS"
+  },
+  {
+    "id": 660,
+    "artisan_id": 616,
+    "maker_id": "SUITREG"
+  },
+  {
+    "id": 661,
+    "artisan_id": 617,
+    "maker_id": "PNTDK9S"
+  },
+  {
+    "id": 662,
+    "artisan_id": 618,
+    "maker_id": "SMOOCHC"
+  },
+  {
+    "id": 663,
+    "artisan_id": 619,
+    "maker_id": "LXYAUFS"
+  },
+  {
+    "id": 664,
+    "artisan_id": 620,
+    "maker_id": "STRFLDS"
+  },
+  {
+    "id": 665,
+    "artisan_id": 621,
+    "maker_id": "MKITKC0"
+  },
+  {
+    "id": 666,
+    "artisan_id": 622,
+    "maker_id": "GENTLEF"
+  },
+  {
+    "id": 667,
+    "artisan_id": 623,
+    "maker_id": "MOONCRL"
+  },
+  {
+    "id": 668,
+    "artisan_id": 624,
+    "maker_id": "KURENJI"
+  },
+  {
+    "id": 669,
+    "artisan_id": 625,
+    "maker_id": "SHRUMIB"
+  },
+  {
+    "id": 670,
+    "artisan_id": 626,
+    "maker_id": "ROBAFUR"
+  },
+  {
+    "id": 671,
+    "artisan_id": 627,
+    "maker_id": "GOATBOY"
+  },
+  {
+    "id": 672,
+    "artisan_id": 484,
+    "maker_id": "LTCREAT"
+  },
+  {
+    "id": 673,
+    "artisan_id": 628,
+    "maker_id": "PSEUDOC"
+  },
+  {
+    "id": 674,
+    "artisan_id": 629,
+    "maker_id": "KTOON23"
+  },
+  {
+    "id": 675,
+    "artisan_id": 630,
+    "maker_id": "S3W3RZZ"
+  },
+  {
+    "id": 676,
+    "artisan_id": 631,
+    "maker_id": "STORMWV"
+  },
+  {
+    "id": 677,
+    "artisan_id": 632,
+    "maker_id": "GOLDFUR"
+  },
+  {
+    "id": 678,
+    "artisan_id": 633,
+    "maker_id": "HUNS3UK"
+  },
+  {
+    "id": 679,
+    "artisan_id": 172,
+    "maker_id": "R5SUITS"
+  },
+  {
+    "id": 680,
+    "artisan_id": 634,
+    "maker_id": "DDOGRYO"
+  },
+  {
+    "id": 681,
+    "artisan_id": 635,
+    "maker_id": "MIDCREA"
+  },
+  {
+    "id": 682,
+    "artisan_id": 636,
+    "maker_id": "CHAOSCT"
+  },
+  {
+    "id": 683,
+    "artisan_id": 550,
+    "maker_id": "CRLCNDY"
+  },
+  {
+    "id": 684,
+    "artisan_id": 637,
+    "maker_id": "FLUFDEM"
+  },
+  {
+    "id": 685,
+    "artisan_id": 638,
+    "maker_id": "UNTAMED"
+  },
+  {
+    "id": 686,
+    "artisan_id": 639,
+    "maker_id": "SPKLPWS"
+  },
+  {
+    "id": 687,
+    "artisan_id": 601,
+    "maker_id": "FELLOWB"
+  },
+  {
+    "id": 688,
+    "artisan_id": 640,
+    "maker_id": "BEASTST"
+  },
+  {
+    "id": 689,
+    "artisan_id": 641,
+    "maker_id": "2SCROWS"
+  },
+  {
+    "id": 690,
+    "artisan_id": 642,
+    "maker_id": "GGRUSTU"
+  },
+  {
+    "id": 691,
+    "artisan_id": 643,
+    "maker_id": "BLOOD03"
+  },
+  {
+    "id": 692,
+    "artisan_id": 644,
+    "maker_id": "PBS1GER"
+  },
+  {
+    "id": 693,
+    "artisan_id": 233,
+    "maker_id": "ESCSKYY"
+  },
+  {
+    "id": 694,
+    "artisan_id": 645,
+    "maker_id": "TETOFOX"
+  },
+  {
+    "id": 695,
+    "artisan_id": 646,
+    "maker_id": "FRTFURS"
+  },
+  {
+    "id": 696,
+    "artisan_id": 647,
+    "maker_id": "HIVEFUR"
+  },
+  {
+    "id": 697,
+    "artisan_id": 648,
+    "maker_id": "SOSTUDI"
+  },
+  {
+    "id": 698,
+    "artisan_id": 649,
+    "maker_id": "STSUITS"
+  },
+  {
+    "id": 699,
+    "artisan_id": 650,
+    "maker_id": "SUGARSH"
+  },
+  {
+    "id": 700,
+    "artisan_id": 651,
+    "maker_id": "ASTRIS7"
+  },
+  {
+    "id": 701,
+    "artisan_id": 579,
+    "maker_id": "CONEYOT"
+  },
+  {
+    "id": 702,
+    "artisan_id": 605,
+    "maker_id": "PRIZECO"
+  },
+  {
+    "id": 703,
+    "artisan_id": 652,
+    "maker_id": "SBCEDAR"
+  },
+  {
+    "id": 704,
+    "artisan_id": 653,
+    "maker_id": "THUNHLY"
+  },
+  {
+    "id": 705,
+    "artisan_id": 654,
+    "maker_id": "FRVRCRT"
+  },
+  {
+    "id": 706,
+    "artisan_id": 655,
+    "maker_id": "KNEADRY"
+  },
+  {
+    "id": 707,
+    "artisan_id": 656,
+    "maker_id": "SOSASTS"
+  },
+  {
+    "id": 708,
+    "artisan_id": 657,
+    "maker_id": "BRCHWKS"
+  },
+  {
+    "id": 709,
+    "artisan_id": 658,
+    "maker_id": "DROWSYS"
+  },
+  {
+    "id": 710,
+    "artisan_id": 659,
+    "maker_id": "BEEARTS"
+  },
+  {
+    "id": 711,
+    "artisan_id": 660,
+    "maker_id": "SHYSALY"
+  },
+  {
+    "id": 712,
+    "artisan_id": 661,
+    "maker_id": "CSYCRE3"
+  }
+]

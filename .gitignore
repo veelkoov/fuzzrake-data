@@ -1,5 +1,4 @@
 *.nocommit.*
 *.nocommit
 /.gitkeep
-/artisans_private_data.sql
-/artisans_private_data-*.sql
+/artisans_private_data*
