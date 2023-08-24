@@ -2066,4 +2066,10 @@ INSERT INTO events VALUES(2077,'2023-08-19 00:09:24.192','CS_UPDATED','Versaka S
 INSERT INTO events VALUES(2078,'2023-08-19 00:09:24.401','CS_UPDATED','GhostsandGoats',0,0,0,'','https://twitter.com/ghostsandgoats','','','Commissions',0);
 INSERT INTO events VALUES(2079,'2023-08-19 00:09:24.418','CS_UPDATED','K-Toons Fursuits',0,0,0,'','https://twitter.com/FrostaPawie','','',replace('Commissions\nQuotes','\n',char(10)),0);
 INSERT INTO events VALUES(2080,'2023-08-19 12:09:30.043','CS_UPDATED','FarOutFursuits',0,0,0,'','https://faroutfursuits.com/','','Commissions','',1);
+INSERT INTO events VALUES(2081,'2023-08-20 16:14:00','DATA_UPDATED','',0,1,0,'0e8aaf4cf531958fd24140516658ba640ab9dce8','','','','',0);
+INSERT INTO events VALUES(2082,'2023-08-20 19:38:00','DATA_UPDATED','',0,1,0,'51ee795dce285c02b3014c5d21072ab434bc22b4','','','','',0);
+INSERT INTO events VALUES(2083,'2023-08-21 00:09:35.199','CS_UPDATED','Anima_Creatures',0,0,0,'','https://www.furaffinity.net/user/animacreatures/','','','Commissions',0);
+INSERT INTO events VALUES(2084,'2023-08-21 12:09:31.041','CS_UPDATED','Vaporwag Studios',0,0,0,'','https://twitter.com/vaporwagstudios','','Commissions','',0);
+INSERT INTO events VALUES(2085,'2023-08-22 19:34:00','DATA_UPDATED','',3,0,0,'b7e928b8b26f3b3dead3909dc5a124afeedadbee','','','','',0);
+INSERT INTO events VALUES(2086,'2023-08-24 12:09:52.799','CS_UPDATED','Komickrazi studios',0,0,0,'','https://twitter.com/Komickrazi','','Commissions','',1);
 COMMIT;
