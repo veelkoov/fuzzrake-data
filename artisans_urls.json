@@ -26962,5 +26962,83 @@
     "artisan_id": 661,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/XRlS87EY/csymons-creations"
+  },
+  {
+    "id": 12735,
+    "artisan_id": 662,
+    "type": "URL_PRICES",
+    "url": "https://docs.google.com/document/d/1oqgvBtx6H3ijCudeEcS75jyClKjYJMmaird_2ednQrs/edit"
+  },
+  {
+    "id": 12736,
+    "artisan_id": 662,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/inyourharestudios/"
+  },
+  {
+    "id": 12737,
+    "artisan_id": 662,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/inyourharestudios/"
+  },
+  {
+    "id": 12738,
+    "artisan_id": 662,
+    "type": "URL_LINKLIST",
+    "url": "https://inyourhare.carrd.co/"
+  },
+  {
+    "id": 12739,
+    "artisan_id": 662,
+    "type": "URL_OTHER_SHOP",
+    "url": "https://ko-fi.com/inyourharestudios#galleryItemView"
+  },
+  {
+    "id": 12740,
+    "artisan_id": 662,
+    "type": "URL_OTHER",
+    "url": "https://www.tiktok.com/@w0rmking_"
+  },
+  {
+    "id": 12741,
+    "artisan_id": 663,
+    "type": "URL_WEBSITE",
+    "url": "https://cheercreativity.wixsite.com/cheercreativity"
+  },
+  {
+    "id": 12742,
+    "artisan_id": 663,
+    "type": "URL_PRICES",
+    "url": "https://cheercreativity.wixsite.com/cheercreativity/fursuits"
+  },
+  {
+    "id": 12743,
+    "artisan_id": 663,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/cheercreativity"
+  },
+  {
+    "id": 12744,
+    "artisan_id": 663,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/cheercreativity/"
+  },
+  {
+    "id": 12745,
+    "artisan_id": 663,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/channel/UC7fFNvPDc1Cq662LsG3RKxA"
+  },
+  {
+    "id": 12746,
+    "artisan_id": 663,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/cheercreativity"
+  },
+  {
+    "id": 12747,
+    "artisan_id": 663,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:cheer_creativity"
   }
 ]

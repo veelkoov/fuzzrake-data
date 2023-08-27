@@ -4495,4 +4495,17 @@ INSERT INTO artisans_urls VALUES(12731,661,'URL_FUR_AFFINITY','https://www.furaf
 INSERT INTO artisans_urls VALUES(12732,661,'URL_INSTAGRAM','https://www.instagram.com/csymonscreations/');
 INSERT INTO artisans_urls VALUES(12733,661,'URL_LINKLIST','http://linktr.ee/csymonscreations');
 INSERT INTO artisans_urls VALUES(12734,661,'URL_QUEUE','https://trello.com/b/XRlS87EY/csymons-creations');
+INSERT INTO artisans_urls VALUES(12735,662,'URL_PRICES','https://docs.google.com/document/d/1oqgvBtx6H3ijCudeEcS75jyClKjYJMmaird_2ednQrs/edit');
+INSERT INTO artisans_urls VALUES(12736,662,'URL_COMMISSIONS','https://www.instagram.com/inyourharestudios/');
+INSERT INTO artisans_urls VALUES(12737,662,'URL_INSTAGRAM','https://www.instagram.com/inyourharestudios/');
+INSERT INTO artisans_urls VALUES(12738,662,'URL_LINKLIST','https://inyourhare.carrd.co/');
+INSERT INTO artisans_urls VALUES(12739,662,'URL_OTHER_SHOP','https://ko-fi.com/inyourharestudios#galleryItemView');
+INSERT INTO artisans_urls VALUES(12740,662,'URL_OTHER','https://www.tiktok.com/@w0rmking_');
+INSERT INTO artisans_urls VALUES(12741,663,'URL_WEBSITE','https://cheercreativity.wixsite.com/cheercreativity');
+INSERT INTO artisans_urls VALUES(12742,663,'URL_PRICES','https://cheercreativity.wixsite.com/cheercreativity/fursuits');
+INSERT INTO artisans_urls VALUES(12743,663,'URL_TWITTER','https://twitter.com/cheercreativity');
+INSERT INTO artisans_urls VALUES(12744,663,'URL_INSTAGRAM','https://www.instagram.com/cheercreativity/');
+INSERT INTO artisans_urls VALUES(12745,663,'URL_YOUTUBE','https://www.youtube.com/channel/UC7fFNvPDc1Cq662LsG3RKxA');
+INSERT INTO artisans_urls VALUES(12746,663,'URL_LINKLIST','https://linktr.ee/cheercreativity');
+INSERT INTO artisans_urls VALUES(12747,663,'URL_FURTRACK','https://www.furtrack.com/index/maker:cheer_creativity');
 COMMIT;
