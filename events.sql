@@ -2072,4 +2072,14 @@ INSERT INTO events VALUES(2083,'2023-08-21 00:09:35.199','CS_UPDATED','Anima_Cre
 INSERT INTO events VALUES(2084,'2023-08-21 12:09:31.041','CS_UPDATED','Vaporwag Studios',0,0,0,'','https://twitter.com/vaporwagstudios','','Commissions','',0);
 INSERT INTO events VALUES(2085,'2023-08-22 19:34:00','DATA_UPDATED','',3,0,0,'b7e928b8b26f3b3dead3909dc5a124afeedadbee','','','','',0);
 INSERT INTO events VALUES(2086,'2023-08-24 12:09:52.799','CS_UPDATED','Komickrazi studios',0,0,0,'','https://twitter.com/Komickrazi','','Commissions','',1);
+INSERT INTO events VALUES(2087,'2023-08-25 00:09:35.404','CS_UPDATED','Komickrazi studios',0,0,0,'','https://twitter.com/Komickrazi','','','Commissions',0);
+INSERT INTO events VALUES(2088,'2023-08-26 00:09:41.576','CS_UPDATED','Kemoyagi',0,0,0,'','https://www.kemoyagi.com/','','',replace('Commissions\nQuotes','\n',char(10)),0);
+INSERT INTO events VALUES(2089,'2023-08-26 12:09:59.638','CS_UPDATED','Foxes In Boxes Fursuits',0,0,0,'','https://foxesinboxes.wixsite.com/foxesinboxes','','Commissions','',1);
+INSERT INTO events VALUES(2090,'2023-08-26 12:09:59.880','CS_UPDATED','Ako''s Fur Lab',0,0,0,'','https://fujidove.wixsite.com/akosfurlab/commission-status','','Quotes','',1);
+INSERT INTO events VALUES(2091,'2023-08-27 00:09:29.751','CS_UPDATED','Foxes In Boxes Fursuits',0,0,0,'','https://foxesinboxes.wixsite.com/foxesinboxes','','','Commissions',0);
+INSERT INTO events VALUES(2092,'2023-08-27 00:09:29.849','CS_UPDATED','Ako''s Fur Lab',0,0,0,'','https://fujidove.wixsite.com/akosfurlab/commission-status','','','Quotes',0);
+INSERT INTO events VALUES(2093,'2023-08-27 12:09:40.708','CS_UPDATED','Kiki''s Creations',0,0,0,'','https://twitter.com/kikis_creation','','',replace('Quotes\nCommissions','\n',char(10)),0);
+INSERT INTO events VALUES(2094,'2023-08-27 12:09:40.721','CS_UPDATED','DeadPozzum',0,0,0,'','https://twitter.com/DeadPozzum','','','Commissions',0);
+INSERT INTO events VALUES(2095,'2023-08-27 12:09:40.786','CS_UPDATED','FureverFuzzyGoods',0,0,0,'','https://twitter.com/HaukNona','','Commissions','',1);
+INSERT INTO events VALUES(2096,'2023-08-27 12:09:40.799','CS_UPDATED','EmmaFursuits',0,0,0,'','https://twitter.com/emmafursuits','','Commissions','',1);
 COMMIT;
