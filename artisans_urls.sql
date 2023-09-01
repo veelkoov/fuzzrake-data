@@ -4508,4 +4508,5 @@ INSERT INTO artisans_urls VALUES(12744,663,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(12745,663,'URL_YOUTUBE','https://www.youtube.com/channel/UC7fFNvPDc1Cq662LsG3RKxA');
 INSERT INTO artisans_urls VALUES(12746,663,'URL_LINKLIST','https://linktr.ee/cheercreativity');
 INSERT INTO artisans_urls VALUES(12747,663,'URL_FURTRACK','https://www.furtrack.com/index/maker:cheer_creativity');
+INSERT INTO artisans_urls VALUES(12748,661,'URL_FURSUITREVIEW','https://fursuitreview.com/m/csymonscreations/');
 COMMIT;
