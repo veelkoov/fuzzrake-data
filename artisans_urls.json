@@ -27046,5 +27046,107 @@
     "artisan_id": 663,
     "type": "URL_FURTRACK",
     "url": "https://www.furtrack.com/index/maker:cheer_creativity"
+  },
+  {
+    "id": 12749,
+    "artisan_id": 664,
+    "type": "URL_COMMISSIONS",
+    "url": "https://twitter.com/OmnidadCreation"
+  },
+  {
+    "id": 12750,
+    "artisan_id": 664,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/OmnidadCreation"
+  },
+  {
+    "id": 12751,
+    "artisan_id": 664,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/channel/UCVSmCU3t1Pk2fV5gDAt91VA"
+  },
+  {
+    "id": 12752,
+    "artisan_id": 664,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/display-feedback/omnidad"
+  },
+  {
+    "id": 12753,
+    "artisan_id": 664,
+    "type": "URL_OTHER_SHOP",
+    "url": "https://ko-fi.com/omnidad"
+  },
+  {
+    "id": 12754,
+    "artisan_id": 664,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/sx7GXZBh/fursuit-commission-queue"
+  },
+  {
+    "id": 12755,
+    "artisan_id": 664,
+    "type": "URL_SCRITCH",
+    "url": "https://scritch.es/omnidad"
+  },
+  {
+    "id": 12756,
+    "artisan_id": 664,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/67f07177-634c-44b3-87e5-d25fe6f09774"
+  },
+  {
+    "id": 12757,
+    "artisan_id": 664,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/67ba8dd9-5265-4d80-a800-c6658bbf3285"
+  },
+  {
+    "id": 12758,
+    "artisan_id": 664,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/d6d8c3d4-8999-4ea7-83ab-a7f6fce0e6bd"
+  },
+  {
+    "id": 12759,
+    "artisan_id": 664,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/8e901d9e-5495-47b2-b610-5811f5974ef4"
+  },
+  {
+    "id": 12760,
+    "artisan_id": 664,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/cc1fcee5-2fbf-4a48-91f7-67d395375fec"
+  },
+  {
+    "id": 12761,
+    "artisan_id": 664,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/8e9faf5c36b23b4370d2ae60b2508169ca34664e/thumbnail_9df98dfd-38ef-42c4-835d-f35f48106146.jpeg"
+  },
+  {
+    "id": 12762,
+    "artisan_id": 664,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/040287194aafda85c8d55dc0a7617de3da4343b1/thumbnail_bd2eacf7-438b-45b0-aa56-520162de2ea3.jpeg"
+  },
+  {
+    "id": 12763,
+    "artisan_id": 664,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/455e799977a52dbb1b3052a7bfd3e65ba0ee313b/thumbnail_1cb85e54-db1b-438a-96e7-914eddf73c8d.jpeg"
+  },
+  {
+    "id": 12764,
+    "artisan_id": 664,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/2eaba0dc786cd67290f0541689c0feda01636df5/thumbnail_025e68f6-8558-43fc-83cc-b1f737a308d6.jpeg"
+  },
+  {
+    "id": 12765,
+    "artisan_id": 664,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/29891d7bf73ee014e2fa06665b43cad0543f3741/thumbnail_1b7f97b1-21b9-4947-8785-9adfc27de4e1.jpeg"
   }
 ]
