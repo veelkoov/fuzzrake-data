@@ -2537,15 +2537,6 @@ INSERT INTO artisans_urls VALUES(10571,363,'URL_TWITTER','https://twitter.com/Sa
 INSERT INTO artisans_urls VALUES(10572,363,'URL_COMMISSIONS','https://twitter.com/SaltyBunnyCos');
 INSERT INTO artisans_urls VALUES(10573,17,'URL_WEBSITE','http://www.direcreatures.com/');
 INSERT INTO artisans_urls VALUES(10580,462,'URL_FURSUITREVIEW','https://fursuitreview.com/m/naritacoree/');
-INSERT INTO artisans_urls VALUES(10581,495,'URL_WEBSITE','https://birdsblood.carrd.co/');
-INSERT INTO artisans_urls VALUES(10582,495,'URL_PRICES','https://birdsblood.carrd.co/');
-INSERT INTO artisans_urls VALUES(10583,495,'URL_COMMISSIONS','https://www.instagram.com/birdsbloodart/');
-INSERT INTO artisans_urls VALUES(10584,495,'URL_DEVIANTART','https://www.deviantart.com/birdsblood');
-INSERT INTO artisans_urls VALUES(10585,495,'URL_TWITTER','https://twitter.com/BirdsBloodArt');
-INSERT INTO artisans_urls VALUES(10586,495,'URL_INSTAGRAM','https://www.instagram.com/birdsbloodart/');
-INSERT INTO artisans_urls VALUES(10587,495,'URL_LINKLIST','https://linktr.ee/Birdsbloodart');
-INSERT INTO artisans_urls VALUES(10588,495,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/birdsblood');
-INSERT INTO artisans_urls VALUES(10589,495,'URL_QUEUE','https://trello.com/b/JvJtKQXd/art-status');
 INSERT INTO artisans_urls VALUES(10590,496,'URL_FURSUITREVIEW','https://fursuitreview.com/m/butter-cup-creations/');
 INSERT INTO artisans_urls VALUES(10591,496,'URL_WEBSITE','https://buttercupcreations2.wixsite.com/my-site');
 INSERT INTO artisans_urls VALUES(10592,496,'URL_PRICES','https://buttercupcreations2.wixsite.com/my-site');
