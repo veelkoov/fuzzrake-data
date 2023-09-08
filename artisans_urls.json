@@ -17472,18 +17472,6 @@
     "url": "https://www.youtube.com/channel/UCZuBWEIjid97XC7TM6-OU-g"
   },
   {
-    "id": 10238,
-    "artisan_id": 474,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/8_8itArtistries"
-  },
-  {
-    "id": 10348,
-    "artisan_id": 474,
-    "type": "URL_COMMISSIONS",
-    "url": "https://twitter.com/8_8itArtistries"
-  },
-  {
     "id": 11680,
     "artisan_id": 474,
     "type": "URL_WEBSITE",
@@ -17506,6 +17494,18 @@
     "artisan_id": 474,
     "type": "URL_INSTAGRAM",
     "url": "https://www.instagram.com/8.8it_/"
+  },
+  {
+    "id": 12768,
+    "artisan_id": 474,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/Malicious_Paws"
+  },
+  {
+    "id": 12769,
+    "artisan_id": 474,
+    "type": "URL_COMMISSIONS",
+    "url": "https://twitter.com/Malicious_Paws"
   },
   {
     "id": 10248,

@@ -2298,7 +2298,6 @@ INSERT INTO artisans_urls VALUES(10234,433,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(10235,433,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/55602-5addacd5604a920c18d175445b69d8a3.jpg');
 INSERT INTO artisans_urls VALUES(10236,433,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/55603-df8f3cfee58b52e42419fe425de81b91.jpg');
 INSERT INTO artisans_urls VALUES(10237,433,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/55601-7e422c9f6f63e010cb88c9397e70ed28.jpg');
-INSERT INTO artisans_urls VALUES(10238,474,'URL_TWITTER','https://twitter.com/8_8itArtistries');
 INSERT INTO artisans_urls VALUES(10239,60,'URL_COMMISSIONS','https://www.kodimade.com/request-quote');
 INSERT INTO artisans_urls VALUES(10240,75,'URL_FACEBOOK','https://www.facebook.com/NorthernLightsCostumes/');
 INSERT INTO artisans_urls VALUES(10241,75,'URL_WEBSITE','http://wolfbird.ca/');
@@ -2388,7 +2387,6 @@ INSERT INTO artisans_urls VALUES(10335,481,'URL_QUEUE','https://trello.com/b/MCh
 INSERT INTO artisans_urls VALUES(10336,481,'URL_FURTRACK','https://www.furtrack.com/index/maker:treebark_creations');
 INSERT INTO artisans_urls VALUES(10341,482,'URL_DEVIANTART','https://www.deviantart.com/dogwool');
 INSERT INTO artisans_urls VALUES(10342,482,'URL_TUMBLR','https://dogwool.tumblr.com/');
-INSERT INTO artisans_urls VALUES(10348,474,'URL_COMMISSIONS','https://twitter.com/8_8itArtistries');
 INSERT INTO artisans_urls VALUES(10349,482,'URL_PRICES','https://dogwool.square.site/fursuits');
 INSERT INTO artisans_urls VALUES(10350,482,'URL_COMMISSIONS','https://dogwool.square.site/fursuits');
 INSERT INTO artisans_urls VALUES(10351,482,'URL_INSTAGRAM','https://www.instagram.com/dogwoolowner/');
@@ -4519,4 +4517,6 @@ INSERT INTO artisans_urls VALUES(12764,664,'URL_MINIATURES','https://storage.scr
 INSERT INTO artisans_urls VALUES(12765,664,'URL_MINIATURES','https://storage.scritch.es/scritch/29891d7bf73ee014e2fa06665b43cad0543f3741/thumbnail_1b7f97b1-21b9-4947-8785-9adfc27de4e1.jpeg');
 INSERT INTO artisans_urls VALUES(12766,194,'URL_FURSUITREVIEW','https://fursuitreview.com/m/mixed-monsters/');
 INSERT INTO artisans_urls VALUES(12767,643,'URL_FURSUITREVIEW','https://fursuitreview.com/m/bloodng0re/');
+INSERT INTO artisans_urls VALUES(12768,474,'URL_TWITTER','https://twitter.com/Malicious_Paws');
+INSERT INTO artisans_urls VALUES(12769,474,'URL_COMMISSIONS','https://twitter.com/Malicious_Paws');
 COMMIT;
