@@ -32083,5 +32083,35 @@
     "no_longer_open_for": "Commissions",
     "now_open_for": "",
     "tracking_issues": 1
+  },
+  {
+    "id": 2156,
+    "timestamp": "2023-09-07 20:09:00",
+    "type": "DATA_UPDATED",
+    "artisan_name": "",
+    "new_makers_count": 0,
+    "updated_makers_count": 1,
+    "reported_updated_makers_count": 0,
+    "git_commits": "a3d6cc31c18ddb73a9bac9db2b4f47ed3fa51e0e\nb2c80f43247dae8cec8425d557ab60f793c02108",
+    "checked_urls": "",
+    "description": "",
+    "no_longer_open_for": "",
+    "now_open_for": "",
+    "tracking_issues": 0
+  },
+  {
+    "id": 2157,
+    "timestamp": "2023-09-08 00:09:40.006",
+    "type": "CS_UPDATED",
+    "artisan_name": "Laughing Maw Fursuits",
+    "new_makers_count": 0,
+    "updated_makers_count": 0,
+    "reported_updated_makers_count": 0,
+    "git_commits": "",
+    "checked_urls": "https://laughingmaw.wixsite.com/fursuits",
+    "description": "",
+    "no_longer_open_for": "Commissions",
+    "now_open_for": "",
+    "tracking_issues": 1
   }
 ]

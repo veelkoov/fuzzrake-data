@@ -2141,4 +2141,6 @@ INSERT INTO events VALUES(2152,'2023-09-06 00:09:36.851','CS_UPDATED','Raven''s 
 INSERT INTO events VALUES(2153,'2023-09-06 00:09:36.957','CS_UPDATED','Miggs Creations',0,0,0,'','https://miggscreations.carrd.co/#comms','','','Quotes',0);
 INSERT INTO events VALUES(2154,'2023-09-06 00:09:36.998','CS_UPDATED','Kiki''s Creations',0,0,0,'','https://twitter.com/kikis_creation','',replace('Quotes\nCommissions','\n',char(10)),'',1);
 INSERT INTO events VALUES(2155,'2023-09-06 00:09:37.011','CS_UPDATED','DeadPozzum',0,0,0,'','https://twitter.com/DeadPozzum','','Commissions','',1);
+INSERT INTO events VALUES(2156,'2023-09-07 20:09:00','DATA_UPDATED','',0,1,0,replace('a3d6cc31c18ddb73a9bac9db2b4f47ed3fa51e0e\nb2c80f43247dae8cec8425d557ab60f793c02108','\n',char(10)),'','','','',0);
+INSERT INTO events VALUES(2157,'2023-09-08 00:09:40.006','CS_UPDATED','Laughing Maw Fursuits',0,0,0,'','https://laughingmaw.wixsite.com/fursuits','','Commissions','',1);
 COMMIT;
