@@ -4517,4 +4517,6 @@ INSERT INTO artisans_urls VALUES(12762,664,'URL_MINIATURES','https://storage.scr
 INSERT INTO artisans_urls VALUES(12763,664,'URL_MINIATURES','https://storage.scritch.es/scritch/455e799977a52dbb1b3052a7bfd3e65ba0ee313b/thumbnail_1cb85e54-db1b-438a-96e7-914eddf73c8d.jpeg');
 INSERT INTO artisans_urls VALUES(12764,664,'URL_MINIATURES','https://storage.scritch.es/scritch/2eaba0dc786cd67290f0541689c0feda01636df5/thumbnail_025e68f6-8558-43fc-83cc-b1f737a308d6.jpeg');
 INSERT INTO artisans_urls VALUES(12765,664,'URL_MINIATURES','https://storage.scritch.es/scritch/29891d7bf73ee014e2fa06665b43cad0543f3741/thumbnail_1b7f97b1-21b9-4947-8785-9adfc27de4e1.jpeg');
+INSERT INTO artisans_urls VALUES(12766,194,'URL_FURSUITREVIEW','https://fursuitreview.com/m/mixed-monsters/');
+INSERT INTO artisans_urls VALUES(12767,643,'URL_FURSUITREVIEW','https://fursuitreview.com/m/bloodng0re/');
 COMMIT;

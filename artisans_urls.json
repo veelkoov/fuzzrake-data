@@ -5730,6 +5730,12 @@
     "url": "https://twitter.com/MixedMonsters"
   },
   {
+    "id": 12766,
+    "artisan_id": 194,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/mixed-monsters/"
+  },
+  {
     "id": 825,
     "artisan_id": 196,
     "type": "URL_WEBSITE",
@@ -25684,6 +25690,12 @@
     "artisan_id": 643,
     "type": "URL_INSTAGRAM",
     "url": "https://www.instagram.com/bloodng0re/"
+  },
+  {
+    "id": 12767,
+    "artisan_id": 643,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/bloodng0re/"
   },
   {
     "id": 12456,
