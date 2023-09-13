@@ -1500,6 +1500,12 @@
     "value": "True"
   },
   {
+    "id": 2569,
+    "artisan_id": 321,
+    "field_name": "DATE_UPDATED",
+    "value": "2023-09-13 17:33:18"
+  },
+  {
     "id": 917,
     "artisan_id": 323,
     "field_name": "IS_MINOR",
@@ -9195,7 +9201,7 @@
     "id": 2434,
     "artisan_id": 642,
     "field_name": "DATE_UPDATED",
-    "value": "2023-07-04 19:10:21"
+    "value": "2023-09-13 17:32:48"
   },
   {
     "id": 2422,

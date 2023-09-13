@@ -4211,7 +4211,6 @@ INSERT INTO artisans_urls VALUES(12441,641,'URL_ETSY','https://www.etsy.com/shop
 INSERT INTO artisans_urls VALUES(12442,641,'URL_QUEUE','https://trello.com/b/EROBWgsf/queue');
 INSERT INTO artisans_urls VALUES(12443,641,'URL_FURTRACK','https://www.furtrack.com/index/maker:screaming_crows_creations');
 INSERT INTO artisans_urls VALUES(12444,642,'URL_WEBSITE','https://gaygrumpstudios.wixsite.com/website');
-INSERT INTO artisans_urls VALUES(12445,642,'URL_COMMISSIONS','https://www.instagram.com/gaygrumpstudios/');
 INSERT INTO artisans_urls VALUES(12446,642,'URL_TUMBLR','https://www.tumblr.com/confusedpike');
 INSERT INTO artisans_urls VALUES(12447,642,'URL_INSTAGRAM','https://www.instagram.com/gaygrumpstudios/');
 INSERT INTO artisans_urls VALUES(12448,642,'URL_YOUTUBE','https://www.youtube.com/@gaygrumpstudios');
@@ -4519,4 +4518,7 @@ INSERT INTO artisans_urls VALUES(12766,194,'URL_FURSUITREVIEW','https://fursuitr
 INSERT INTO artisans_urls VALUES(12767,643,'URL_FURSUITREVIEW','https://fursuitreview.com/m/bloodng0re/');
 INSERT INTO artisans_urls VALUES(12768,474,'URL_TWITTER','https://twitter.com/Malicious_Paws');
 INSERT INTO artisans_urls VALUES(12769,474,'URL_COMMISSIONS','https://twitter.com/Malicious_Paws');
+INSERT INTO artisans_urls VALUES(12770,642,'URL_COMMISSIONS','https://gaygrumpstudios.carrd.co/');
+INSERT INTO artisans_urls VALUES(12771,642,'URL_FURTRACK','https://www.furtrack.com/index/maker:gaygrumpstudios');
+INSERT INTO artisans_urls VALUES(12772,321,'URL_FURTRACK','https://www.furtrack.com/index/maker:sab!er_studios');
 COMMIT;

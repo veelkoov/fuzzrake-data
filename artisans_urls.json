@@ -10560,6 +10560,12 @@
     "url": "https://linktr.ee/aspexofsalt"
   },
   {
+    "id": 12772,
+    "artisan_id": 321,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:sab!er_studios"
+  },
+  {
     "id": 1491,
     "artisan_id": 322,
     "type": "URL_WEBSITE",
@@ -25614,12 +25620,6 @@
     "url": "https://gaygrumpstudios.wixsite.com/website"
   },
   {
-    "id": 12445,
-    "artisan_id": 642,
-    "type": "URL_COMMISSIONS",
-    "url": "https://www.instagram.com/gaygrumpstudios/"
-  },
-  {
     "id": 12446,
     "artisan_id": 642,
     "type": "URL_TUMBLR",
@@ -25666,6 +25666,18 @@
     "artisan_id": 642,
     "type": "URL_FAQ",
     "url": "https://gaygrumpstudios.wixsite.com/website/faq"
+  },
+  {
+    "id": 12770,
+    "artisan_id": 642,
+    "type": "URL_COMMISSIONS",
+    "url": "https://gaygrumpstudios.carrd.co/"
+  },
+  {
+    "id": 12771,
+    "artisan_id": 642,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:gaygrumpstudios"
   },
   {
     "id": 12452,
