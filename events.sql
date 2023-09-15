@@ -2169,4 +2169,10 @@ INSERT INTO events VALUES(2180,'2023-09-12 12:09:50.044','CS_UPDATED','KingBayAr
 INSERT INTO events VALUES(2181,'2023-09-13 00:09:46.838','CS_UPDATED','KingBayArt',0,0,0,'','https://kingbayler.wixsite.com/28ghostiez','','','Quotes',0);
 INSERT INTO events VALUES(2182,'2023-09-13 00:09:47.067','CS_UPDATED','WolfBuck Studios',0,0,0,'','https://wolfbuckstudios.com/','','','Commissions',0);
 INSERT INTO events VALUES(2183,'2023-09-13 12:09:55.798','CS_UPDATED','R.W.C.',0,0,0,'','https://roxyswonderfulcreations8.webnode.cz/price-list/','','Commissions','',1);
+INSERT INTO events VALUES(2184,'2023-09-13 17:34:00','DATA_UPDATED','',0,2,0,'5254ceab7f65e16d277711c5d6f77a9b5995df90','','','','',0);
+INSERT INTO events VALUES(2185,'2023-09-13 19:09:00','DATA_UPDATED','',3,0,0,'bc9a9c778e3d35c01c73f722ecc5e92bd14d83a4','','','','',0);
+INSERT INTO events VALUES(2186,'2023-09-14 00:09:32.339','CS_UPDATED','R.W.C.',0,0,0,'','https://roxyswonderfulcreations8.webnode.cz/price-list/','','','Commissions',1);
+INSERT INTO events VALUES(2187,'2023-09-14 00:09:32.696','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','Commissions','',0);
+INSERT INTO events VALUES(2188,'2023-09-15 00:09:36.901','CS_UPDATED','Komickrazi studios',0,0,0,'','https://twitter.com/Komickrazi','','Commissions','',1);
+INSERT INTO events VALUES(2189,'2023-09-15 12:09:46.627','CS_UPDATED','Komickrazi studios',0,0,0,'','https://twitter.com/Komickrazi','','','Commissions',0);
 COMMIT;
