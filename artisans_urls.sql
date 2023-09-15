@@ -4551,4 +4551,18 @@ INSERT INTO artisans_urls VALUES(12799,667,'URL_FURTRACK','https://www.furtrack.
 INSERT INTO artisans_urls VALUES(12800,667,'URL_OTHER','https://tiktok.com/@angel.the.dutchie');
 INSERT INTO artisans_urls VALUES(12801,666,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/312866-4ce1bf9a71b7f88c1ec5e7aa24e44ebd.jpg');
 INSERT INTO artisans_urls VALUES(12802,666,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/312883-2614a1874544db02a6c042a2873dd84a.jpg');
+INSERT INTO artisans_urls VALUES(12803,668,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/synthfaecreations/');
+INSERT INTO artisans_urls VALUES(12804,668,'URL_TWITTER','https://twitter.com/synthfae');
+INSERT INTO artisans_urls VALUES(12805,668,'URL_ETSY','https://www.etsy.com/shop/SynthFaeCreations');
+INSERT INTO artisans_urls VALUES(12806,668,'URL_FURTRACK','https://www.furtrack.com/index/maker:synthfae_creations');
+INSERT INTO artisans_urls VALUES(12808,668,'URL_PHOTOS','https://www.furtrack.com/p/386167');
+INSERT INTO artisans_urls VALUES(12809,668,'URL_PHOTOS','https://www.furtrack.com/p/386168');
+INSERT INTO artisans_urls VALUES(12810,668,'URL_PHOTOS','https://www.furtrack.com/p/386165');
+INSERT INTO artisans_urls VALUES(12811,668,'URL_PHOTOS','https://www.furtrack.com/p/386163');
+INSERT INTO artisans_urls VALUES(12812,668,'URL_PHOTOS','https://www.furtrack.com/p/386164');
+INSERT INTO artisans_urls VALUES(12814,668,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/386167-13fb02f6b356bed1715055486da92f25.jpg');
+INSERT INTO artisans_urls VALUES(12815,668,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/386168-6d4000525998acb10c2f31456e315a4f.jpg');
+INSERT INTO artisans_urls VALUES(12816,668,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/386165-19e7ee9b0164b07ba364bac83a2aa0c7.jpg');
+INSERT INTO artisans_urls VALUES(12817,668,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/386163-848625290b63b4de1dfed699bf77da21.jpg');
+INSERT INTO artisans_urls VALUES(12818,668,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/386164-dc03e974f8e000c3eec36d98c1c90476.jpg');
 COMMIT;

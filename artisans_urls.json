@@ -27298,5 +27298,89 @@
     "artisan_id": 667,
     "type": "URL_OTHER",
     "url": "https://tiktok.com/@angel.the.dutchie"
+  },
+  {
+    "id": 12803,
+    "artisan_id": 668,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/synthfaecreations/"
+  },
+  {
+    "id": 12804,
+    "artisan_id": 668,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/synthfae"
+  },
+  {
+    "id": 12805,
+    "artisan_id": 668,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/SynthFaeCreations"
+  },
+  {
+    "id": 12806,
+    "artisan_id": 668,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:synthfae_creations"
+  },
+  {
+    "id": 12808,
+    "artisan_id": 668,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/386167"
+  },
+  {
+    "id": 12809,
+    "artisan_id": 668,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/386168"
+  },
+  {
+    "id": 12810,
+    "artisan_id": 668,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/386165"
+  },
+  {
+    "id": 12811,
+    "artisan_id": 668,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/386163"
+  },
+  {
+    "id": 12812,
+    "artisan_id": 668,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/386164"
+  },
+  {
+    "id": 12814,
+    "artisan_id": 668,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/386167-13fb02f6b356bed1715055486da92f25.jpg"
+  },
+  {
+    "id": 12815,
+    "artisan_id": 668,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/386168-6d4000525998acb10c2f31456e315a4f.jpg"
+  },
+  {
+    "id": 12816,
+    "artisan_id": 668,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/386165-19e7ee9b0164b07ba364bac83a2aa0c7.jpg"
+  },
+  {
+    "id": 12817,
+    "artisan_id": 668,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/386163-848625290b63b4de1dfed699bf77da21.jpg"
+  },
+  {
+    "id": 12818,
+    "artisan_id": 668,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/386164-dc03e974f8e000c3eec36d98c1c90476.jpg"
   }
 ]
