@@ -4565,4 +4565,6 @@ INSERT INTO artisans_urls VALUES(12815,668,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(12816,668,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/386165-19e7ee9b0164b07ba364bac83a2aa0c7.jpg');
 INSERT INTO artisans_urls VALUES(12817,668,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/386163-848625290b63b4de1dfed699bf77da21.jpg');
 INSERT INTO artisans_urls VALUES(12818,668,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/386164-dc03e974f8e000c3eec36d98c1c90476.jpg');
+INSERT INTO artisans_urls VALUES(12819,669,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/moondeitycrafts/');
+INSERT INTO artisans_urls VALUES(12820,669,'URL_ETSY','https://www.etsy.com/shop/MoonDeityCrafts');
 COMMIT;

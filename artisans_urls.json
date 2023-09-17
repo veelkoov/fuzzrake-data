@@ -27382,5 +27382,17 @@
     "artisan_id": 668,
     "type": "URL_MINIATURES",
     "url": "https://orca.furtrack.com/gallery/thumb/386164-dc03e974f8e000c3eec36d98c1c90476.jpg"
+  },
+  {
+    "id": 12819,
+    "artisan_id": 669,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/moondeitycrafts/"
+  },
+  {
+    "id": 12820,
+    "artisan_id": 669,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/MoonDeityCrafts"
   }
 ]
