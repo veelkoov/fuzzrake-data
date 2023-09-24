@@ -4567,4 +4567,12 @@ INSERT INTO artisans_urls VALUES(12817,668,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(12818,668,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/386164-dc03e974f8e000c3eec36d98c1c90476.jpg');
 INSERT INTO artisans_urls VALUES(12819,669,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/moondeitycrafts/');
 INSERT INTO artisans_urls VALUES(12820,669,'URL_ETSY','https://www.etsy.com/shop/MoonDeityCrafts');
+INSERT INTO artisans_urls VALUES(12821,670,'URL_WEBSITE','https://vinostudios.areksim.de/');
+INSERT INTO artisans_urls VALUES(12822,670,'URL_PRICES','https://vinostudios.areksim.de/commissions/');
+INSERT INTO artisans_urls VALUES(12823,670,'URL_DEVIANTART','https://www.deviantart.com/areksim');
+INSERT INTO artisans_urls VALUES(12824,670,'URL_MASTODON','https://meow.social/@Areksim');
+INSERT INTO artisans_urls VALUES(12825,670,'URL_TWITTER','https://twitter.com/vino_studios');
+INSERT INTO artisans_urls VALUES(12826,670,'URL_INSTAGRAM','https://www.instagram.com/vinostudiosfur/');
+INSERT INTO artisans_urls VALUES(12827,670,'URL_LINKLIST','https://linktr.ee/vinostudios');
+INSERT INTO artisans_urls VALUES(12828,670,'URL_OTHER','TikTok: https://www.tiktok.com/@vinostudios_fur');
 COMMIT;

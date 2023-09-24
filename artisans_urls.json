@@ -27394,5 +27394,53 @@
     "artisan_id": 669,
     "type": "URL_ETSY",
     "url": "https://www.etsy.com/shop/MoonDeityCrafts"
+  },
+  {
+    "id": 12821,
+    "artisan_id": 670,
+    "type": "URL_WEBSITE",
+    "url": "https://vinostudios.areksim.de/"
+  },
+  {
+    "id": 12822,
+    "artisan_id": 670,
+    "type": "URL_PRICES",
+    "url": "https://vinostudios.areksim.de/commissions/"
+  },
+  {
+    "id": 12823,
+    "artisan_id": 670,
+    "type": "URL_DEVIANTART",
+    "url": "https://www.deviantart.com/areksim"
+  },
+  {
+    "id": 12824,
+    "artisan_id": 670,
+    "type": "URL_MASTODON",
+    "url": "https://meow.social/@Areksim"
+  },
+  {
+    "id": 12825,
+    "artisan_id": 670,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/vino_studios"
+  },
+  {
+    "id": 12826,
+    "artisan_id": 670,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/vinostudiosfur/"
+  },
+  {
+    "id": 12827,
+    "artisan_id": 670,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/vinostudios"
+  },
+  {
+    "id": 12828,
+    "artisan_id": 670,
+    "type": "URL_OTHER",
+    "url": "TikTok: https://www.tiktok.com/@vinostudios_fur"
   }
 ]
