@@ -27448,5 +27448,671 @@
     "artisan_id": 670,
     "type": "URL_OTHER",
     "url": "TikTok: https://www.tiktok.com/@vinostudios_fur"
+  },
+  {
+    "id": 12830,
+    "artisan_id": 671,
+    "type": "URL_WEBSITE",
+    "url": "http://www.soulenterprise.net/"
+  },
+  {
+    "id": 12831,
+    "artisan_id": 671,
+    "type": "URL_PRICES",
+    "url": "http://www.soulenterprise.net/prices-and-details.html"
+  },
+  {
+    "id": 12832,
+    "artisan_id": 671,
+    "type": "URL_COMMISSIONS",
+    "url": "http://www.soulenterprise.net/"
+  },
+  {
+    "id": 12833,
+    "artisan_id": 671,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/sheenitude"
+  },
+  {
+    "id": 12834,
+    "artisan_id": 671,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/sheenitude/"
+  },
+  {
+    "id": 12835,
+    "artisan_id": 671,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/Sheenitude"
+  },
+  {
+    "id": 12836,
+    "artisan_id": 671,
+    "type": "URL_ETSY",
+    "url": "https://soulenterprise.etsy.com/"
+  },
+  {
+    "id": 12837,
+    "artisan_id": 671,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/0caDziI1/commissions"
+  },
+  {
+    "id": 12838,
+    "artisan_id": 671,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:sheenitude"
+  },
+  {
+    "id": 12839,
+    "artisan_id": 671,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/395352"
+  },
+  {
+    "id": 12840,
+    "artisan_id": 671,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/395351"
+  },
+  {
+    "id": 12841,
+    "artisan_id": 671,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/395355"
+  },
+  {
+    "id": 12842,
+    "artisan_id": 671,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/395350"
+  },
+  {
+    "id": 12843,
+    "artisan_id": 671,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/395352"
+  },
+  {
+    "id": 12844,
+    "artisan_id": 671,
+    "type": "URL_OTHER",
+    "url": "Patreon: https://patreon.com/SoulEnterprise?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link"
+  },
+  {
+    "id": 12927,
+    "artisan_id": 671,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/395352-4ab45661d6be150c66ff74920e086f87.jpg"
+  },
+  {
+    "id": 12928,
+    "artisan_id": 671,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/395351-c5ec89641785af579a1a20f7c7f95e97.jpg"
+  },
+  {
+    "id": 12929,
+    "artisan_id": 671,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/395355-04e777a20f7bb30f37331e4d2c977f33.jpg"
+  },
+  {
+    "id": 12930,
+    "artisan_id": 671,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/395350-7d2bffc2e695c7b143d6b2c37b4386a8.jpg"
+  },
+  {
+    "id": 12931,
+    "artisan_id": 671,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/395352-4ab45661d6be150c66ff74920e086f87.jpg"
+  },
+  {
+    "id": 12845,
+    "artisan_id": 672,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/bubblegums_bakery/"
+  },
+  {
+    "id": 12846,
+    "artisan_id": 672,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/m1OgW6hx/fursuit-queue"
+  },
+  {
+    "id": 12847,
+    "artisan_id": 673,
+    "type": "URL_WEBSITE",
+    "url": "https://thistlecrux.com/"
+  },
+  {
+    "id": 12848,
+    "artisan_id": 673,
+    "type": "URL_PRICES",
+    "url": "https://www.thistlecrux.com/price-guide"
+  },
+  {
+    "id": 12849,
+    "artisan_id": 673,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/thistlecrux/"
+  },
+  {
+    "id": 12850,
+    "artisan_id": 673,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/thistlecrux/"
+  },
+  {
+    "id": 12851,
+    "artisan_id": 673,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/display-feedback/thistlecrux"
+  },
+  {
+    "id": 12852,
+    "artisan_id": 673,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/3Zh601Ee/thistlecrux-commissions"
+  },
+  {
+    "id": 12853,
+    "artisan_id": 673,
+    "type": "URL_OTHER",
+    "url": "Telegram"
+  },
+  {
+    "id": 12854,
+    "artisan_id": 674,
+    "type": "URL_WEBSITE",
+    "url": "https://sites.google.com/view/kiafursuits/home"
+  },
+  {
+    "id": 12855,
+    "artisan_id": 674,
+    "type": "URL_PRICES",
+    "url": "https://sites.google.com/view/kiafursuits/pricing/custom-costumes"
+  },
+  {
+    "id": 12856,
+    "artisan_id": 674,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/kiafursuits/"
+  },
+  {
+    "id": 12857,
+    "artisan_id": 674,
+    "type": "URL_FAQ",
+    "url": "https://sites.google.com/view/kiafursuits/terms-of-service"
+  },
+  {
+    "id": 12858,
+    "artisan_id": 674,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/kiafursuits"
+  },
+  {
+    "id": 12859,
+    "artisan_id": 674,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/kiafursuits/"
+  },
+  {
+    "id": 12860,
+    "artisan_id": 674,
+    "type": "URL_YOUTUBE",
+    "url": "https://youtube.com/@KiaFursuits"
+  },
+  {
+    "id": 12861,
+    "artisan_id": 674,
+    "type": "URL_LINKLIST",
+    "url": "https://kiafursuits.carrd.co/"
+  },
+  {
+    "id": 12862,
+    "artisan_id": 674,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:kiafursuits"
+  },
+  {
+    "id": 12863,
+    "artisan_id": 674,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/395699"
+  },
+  {
+    "id": 12864,
+    "artisan_id": 674,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/395698"
+  },
+  {
+    "id": 12865,
+    "artisan_id": 674,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/395696"
+  },
+  {
+    "id": 12866,
+    "artisan_id": 674,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/395695"
+  },
+  {
+    "id": 12867,
+    "artisan_id": 674,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/395690"
+  },
+  {
+    "id": 12868,
+    "artisan_id": 674,
+    "type": "URL_OTHER",
+    "url": "https://www.patreon.com/KiaFursuits"
+  },
+  {
+    "id": 12869,
+    "artisan_id": 675,
+    "type": "URL_WEBSITE",
+    "url": "https://thatoneyellowcat.wixsite.com/yellowcatcreations"
+  },
+  {
+    "id": 12870,
+    "artisan_id": 675,
+    "type": "URL_PRICES",
+    "url": "https://thatoneyellowcat.wixsite.com/yellowcatcreations/fursuit-commissions"
+  },
+  {
+    "id": 12871,
+    "artisan_id": 675,
+    "type": "URL_COMMISSIONS",
+    "url": "https://thatoneyellowcat.wixsite.com/yellowcatcreations/fursuit-commissions"
+  },
+  {
+    "id": 12872,
+    "artisan_id": 675,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/that1yellowcat"
+  },
+  {
+    "id": 12873,
+    "artisan_id": 675,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/thatoneyellowcat/"
+  },
+  {
+    "id": 12874,
+    "artisan_id": 675,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/channel/UClyfTQcRitNyU5osHzvxQyA"
+  },
+  {
+    "id": 12875,
+    "artisan_id": 675,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/display-feedback/thatoneyellowcat"
+  },
+  {
+    "id": 12876,
+    "artisan_id": 675,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/3ZMCy8CE/yellowcatcreations-fursuit-queue"
+  },
+  {
+    "id": 12877,
+    "artisan_id": 675,
+    "type": "URL_SCRITCH",
+    "url": "https://scritch.es/yellowcatcreations"
+  },
+  {
+    "id": 12878,
+    "artisan_id": 675,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/fe55b4f4-e8f1-459d-be8f-6d3d67d6a955"
+  },
+  {
+    "id": 12879,
+    "artisan_id": 675,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/81b1231f-faf1-4876-bdf6-3d4516551661"
+  },
+  {
+    "id": 12880,
+    "artisan_id": 675,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/fd5b99f8-90a7-47b0-b0c9-2e38717f95f0"
+  },
+  {
+    "id": 12881,
+    "artisan_id": 675,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/75e6f075-d4b7-4c48-8652-6023d044f6a5"
+  },
+  {
+    "id": 12882,
+    "artisan_id": 675,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/c816917d-bfdb-4b9f-b6b1-cbe086906061"
+  },
+  {
+    "id": 12883,
+    "artisan_id": 675,
+    "type": "URL_OTHER",
+    "url": "https://www.tiktok.com/@that_one_yellow_cat?lang=en"
+  },
+  {
+    "id": 12932,
+    "artisan_id": 675,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/4a65a5eb7711f92bc4e2b92ce08fa342c068d3fe/thumbnail_35f0807b-4368-4ba9-bdfd-514b8d19c5b5.jpeg"
+  },
+  {
+    "id": 12933,
+    "artisan_id": 675,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/bb4b6798934f61518be7bca4fc4a9c959224ba0e/thumbnail_5923d21d-1861-4197-a45c-1f9b9f3de9f3.jpeg"
+  },
+  {
+    "id": 12934,
+    "artisan_id": 675,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/f277682bf0e42977dc5c9cc66a32a8a9b478d6d1/thumbnail_109cb935-c6b0-4823-9d53-d0edc5b20970.png"
+  },
+  {
+    "id": 12935,
+    "artisan_id": 675,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/ff69b1fbe214ffd61b67a00bed3b5bb61321e879/thumbnail_eed4d262-1e1d-4eca-a6ef-ec9f730b760c.jpeg"
+  },
+  {
+    "id": 12936,
+    "artisan_id": 675,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/185fd845b2545ac9893b8fa7808f3a69efa69079/thumbnail_10f1eeed-5b12-43c4-925a-42dc1b00b23e.png"
+  },
+  {
+    "id": 12884,
+    "artisan_id": 676,
+    "type": "URL_WEBSITE",
+    "url": "https://fruitclub.carrd.co/"
+  },
+  {
+    "id": 12885,
+    "artisan_id": 676,
+    "type": "URL_PRICES",
+    "url": "https://fruitclub.carrd.co/#prices"
+  },
+  {
+    "id": 12886,
+    "artisan_id": 676,
+    "type": "URL_COMMISSIONS",
+    "url": "https://twitter.com/fruitclubc"
+  },
+  {
+    "id": 12887,
+    "artisan_id": 676,
+    "type": "URL_FAQ",
+    "url": "https://fruitclub.carrd.co/#faq"
+  },
+  {
+    "id": 12888,
+    "artisan_id": 676,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/fruitclubc"
+  },
+  {
+    "id": 12889,
+    "artisan_id": 676,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/5wOG8RWZ/fruit-club-fursuit-queue"
+  },
+  {
+    "id": 12890,
+    "artisan_id": 676,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:fruitclub"
+  },
+  {
+    "id": 12891,
+    "artisan_id": 676,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/286776"
+  },
+  {
+    "id": 12892,
+    "artisan_id": 676,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/287049"
+  },
+  {
+    "id": 12893,
+    "artisan_id": 676,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/310348"
+  },
+  {
+    "id": 12894,
+    "artisan_id": 676,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/243953"
+  },
+  {
+    "id": 12937,
+    "artisan_id": 676,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/286776-2ba9eaa2a4b39b9d2ce52a8a33462212.jpg"
+  },
+  {
+    "id": 12938,
+    "artisan_id": 676,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/287049-23052526765b32564fe10506e00d4a4e.jpg"
+  },
+  {
+    "id": 12939,
+    "artisan_id": 676,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/310348-842dc0d4cc3223e2786bccd292235ef8.jpg"
+  },
+  {
+    "id": 12940,
+    "artisan_id": 676,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/243953-d2c518e48fb9b2a526d196b745be93c8.jpg"
+  },
+  {
+    "id": 12895,
+    "artisan_id": 677,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/ursidae-suits/"
+  },
+  {
+    "id": 12896,
+    "artisan_id": 677,
+    "type": "URL_WEBSITE",
+    "url": "https://ursidaesuits.com/"
+  },
+  {
+    "id": 12897,
+    "artisan_id": 677,
+    "type": "URL_PRICES",
+    "url": "https://ursidaesuits.com/#commissions"
+  },
+  {
+    "id": 12898,
+    "artisan_id": 677,
+    "type": "URL_FAQ",
+    "url": "https://ursidaesuits.com/#faq"
+  },
+  {
+    "id": 12899,
+    "artisan_id": 677,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/evoredbear/"
+  },
+  {
+    "id": 12900,
+    "artisan_id": 677,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/UrsidaeSuits"
+  },
+  {
+    "id": 12901,
+    "artisan_id": 677,
+    "type": "URL_SCRITCH",
+    "url": "https://scritch.es/makers/evorazzo"
+  },
+  {
+    "id": 12902,
+    "artisan_id": 677,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:ursidae_suits"
+  },
+  {
+    "id": 12903,
+    "artisan_id": 677,
+    "type": "URL_OTHER",
+    "url": "https://t.me/Ursidaesuits"
+  },
+  {
+    "id": 12904,
+    "artisan_id": 677,
+    "type": "URL_OTHER",
+    "url": "https://www.twitch.tv/evoburr"
+  },
+  {
+    "id": 12905,
+    "artisan_id": 677,
+    "type": "URL_OTHER",
+    "url": "https://bsky.app/profile/ursidaesuits.com"
+  },
+  {
+    "id": 12906,
+    "artisan_id": 678,
+    "type": "URL_PRICES",
+    "url": "https://scaredycatstudios.carrd.co/#prices"
+  },
+  {
+    "id": 12907,
+    "artisan_id": 678,
+    "type": "URL_COMMISSIONS",
+    "url": "https://twitter.com/scaredycatsuits"
+  },
+  {
+    "id": 12908,
+    "artisan_id": 678,
+    "type": "URL_FAQ",
+    "url": "https://scaredycatstudios.carrd.co/#faq"
+  },
+  {
+    "id": 12909,
+    "artisan_id": 678,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/scaredycatsuits"
+  },
+  {
+    "id": 12910,
+    "artisan_id": 678,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/jj_jackk_/"
+  },
+  {
+    "id": 12911,
+    "artisan_id": 678,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@apollion_4750"
+  },
+  {
+    "id": 12912,
+    "artisan_id": 678,
+    "type": "URL_LINKLIST",
+    "url": "https://scaredycatstudios.carrd.co/"
+  },
+  {
+    "id": 12913,
+    "artisan_id": 678,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/6jeYNft0/comm-queue"
+  },
+  {
+    "id": 12914,
+    "artisan_id": 678,
+    "type": "URL_OTHER",
+    "url": "https://scaredycatstudios.carrd.co/"
+  },
+  {
+    "id": 12915,
+    "artisan_id": 679,
+    "type": "URL_COMMISSIONS",
+    "url": "https://trello.com/b/KlxhUIo9/snowkat-fursuits"
+  },
+  {
+    "id": 12916,
+    "artisan_id": 679,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/snowkatark/"
+  },
+  {
+    "id": 12917,
+    "artisan_id": 679,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/AlexArkoss"
+  },
+  {
+    "id": 12918,
+    "artisan_id": 679,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/SnowkatArk/"
+  },
+  {
+    "id": 12919,
+    "artisan_id": 679,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/snowkatark/"
+  },
+  {
+    "id": 12920,
+    "artisan_id": 679,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/KlxhUIo9/snowkat-fursuits"
+  },
+  {
+    "id": 12921,
+    "artisan_id": 679,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:snowkat"
+  },
+  {
+    "id": 12922,
+    "artisan_id": 679,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/395788"
+  },
+  {
+    "id": 12923,
+    "artisan_id": 679,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/395801"
+  },
+  {
+    "id": 12924,
+    "artisan_id": 679,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/395805"
+  },
+  {
+    "id": 12925,
+    "artisan_id": 679,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/395821"
+  },
+  {
+    "id": 12926,
+    "artisan_id": 679,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/395789"
   }
 ]
