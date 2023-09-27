@@ -4575,4 +4575,5 @@ INSERT INTO artisans_urls VALUES(12825,670,'URL_TWITTER','https://twitter.com/vi
 INSERT INTO artisans_urls VALUES(12826,670,'URL_INSTAGRAM','https://www.instagram.com/vinostudiosfur/');
 INSERT INTO artisans_urls VALUES(12827,670,'URL_LINKLIST','https://linktr.ee/vinostudios');
 INSERT INTO artisans_urls VALUES(12828,670,'URL_OTHER','TikTok: https://www.tiktok.com/@vinostudios_fur');
+INSERT INTO artisans_urls VALUES(12829,321,'URL_FURSUITREVIEW','https://fursuitreview.com/m/aspexofsalt/');
 COMMIT;

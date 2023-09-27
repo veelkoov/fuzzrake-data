@@ -10566,6 +10566,12 @@
     "url": "https://www.furtrack.com/index/maker:sab!er_studios"
   },
   {
+    "id": 12829,
+    "artisan_id": 321,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/aspexofsalt/"
+  },
+  {
     "id": 1491,
     "artisan_id": 322,
     "type": "URL_WEBSITE",
