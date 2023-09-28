@@ -4687,4 +4687,5 @@ INSERT INTO artisans_urls VALUES(12937,676,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(12938,676,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/287049-23052526765b32564fe10506e00d4a4e.jpg');
 INSERT INTO artisans_urls VALUES(12939,676,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/310348-842dc0d4cc3223e2786bccd292235ef8.jpg');
 INSERT INTO artisans_urls VALUES(12940,676,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/243953-d2c518e48fb9b2a526d196b745be93c8.jpg');
+INSERT INTO artisans_urls VALUES(12941,673,'URL_FURSUITREVIEW','https://fursuitreview.com/m/thistlecrux/');
 COMMIT;

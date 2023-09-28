@@ -27624,6 +27624,12 @@
     "url": "Telegram"
   },
   {
+    "id": 12941,
+    "artisan_id": 673,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/thistlecrux/"
+  },
+  {
     "id": 12854,
     "artisan_id": 674,
     "type": "URL_WEBSITE",
