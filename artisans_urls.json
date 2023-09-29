@@ -19362,6 +19362,48 @@
     "url": "https://fursuitreview.com/m/shellsews-fursuits/"
   },
   {
+    "id": 12942,
+    "artisan_id": 510,
+    "type": "URL_TUMBLR",
+    "url": "https://shellsews.tumblr.com/"
+  },
+  {
+    "id": 12943,
+    "artisan_id": 510,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@shellsewsfursuits245"
+  },
+  {
+    "id": 12944,
+    "artisan_id": 510,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:shellsews"
+  },
+  {
+    "id": 12945,
+    "artisan_id": 510,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/373689"
+  },
+  {
+    "id": 12946,
+    "artisan_id": 510,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/327025"
+  },
+  {
+    "id": 12957,
+    "artisan_id": 510,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/373689-efa0e5c963b0838ec7dec245664dda3f.jpg"
+  },
+  {
+    "id": 12958,
+    "artisan_id": 510,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/327025-8658dd4fd9b296d2bda4ae90ed173fea.jpg"
+  },
+  {
     "id": 10859,
     "artisan_id": 511,
     "type": "URL_PRICES",

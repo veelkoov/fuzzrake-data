@@ -4688,4 +4688,9 @@ INSERT INTO artisans_urls VALUES(12938,676,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(12939,676,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/310348-842dc0d4cc3223e2786bccd292235ef8.jpg');
 INSERT INTO artisans_urls VALUES(12940,676,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/243953-d2c518e48fb9b2a526d196b745be93c8.jpg');
 INSERT INTO artisans_urls VALUES(12941,673,'URL_FURSUITREVIEW','https://fursuitreview.com/m/thistlecrux/');
+INSERT INTO artisans_urls VALUES(12942,510,'URL_TUMBLR','https://shellsews.tumblr.com/');
+INSERT INTO artisans_urls VALUES(12943,510,'URL_YOUTUBE','https://www.youtube.com/@shellsewsfursuits245');
+INSERT INTO artisans_urls VALUES(12944,510,'URL_FURTRACK','https://www.furtrack.com/index/maker:shellsews');
+INSERT INTO artisans_urls VALUES(12945,510,'URL_PHOTOS','https://www.furtrack.com/p/373689');
+INSERT INTO artisans_urls VALUES(12946,510,'URL_PHOTOS','https://www.furtrack.com/p/327025');
 COMMIT;

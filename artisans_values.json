@@ -4740,6 +4740,12 @@
     "value": "2022-01-27 20:01:38"
   },
   {
+    "id": 2655,
+    "artisan_id": 510,
+    "field_name": "DATE_UPDATED",
+    "value": "2023-09-29 18:38:08"
+  },
+  {
     "id": 1232,
     "artisan_id": 511,
     "field_name": "AGES",
