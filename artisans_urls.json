@@ -27762,6 +27762,36 @@
     "url": "https://www.patreon.com/KiaFursuits"
   },
   {
+    "id": 12947,
+    "artisan_id": 674,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/395699-83e0d8434cfdb8ccf9b148db9489c324.jpg"
+  },
+  {
+    "id": 12948,
+    "artisan_id": 674,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/395698-274e787c9d0c165b414f926a4b2c435c.jpg"
+  },
+  {
+    "id": 12949,
+    "artisan_id": 674,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/395696-ba34e659943451596aa71be73f50be15.jpg"
+  },
+  {
+    "id": 12950,
+    "artisan_id": 674,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/395695-aa3b2bfbb7c89a6fa9e9b346d80f59a0.jpg"
+  },
+  {
+    "id": 12951,
+    "artisan_id": 674,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/395690-65a981150c55c3bdca7319ecaa597785.jpg"
+  },
+  {
     "id": 12869,
     "artisan_id": 675,
     "type": "URL_WEBSITE",
@@ -28162,5 +28192,35 @@
     "artisan_id": 679,
     "type": "URL_PHOTOS",
     "url": "https://www.furtrack.com/p/395789"
+  },
+  {
+    "id": 12952,
+    "artisan_id": 679,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/395788-07b07908e1fba7f74f85fe6a96073561.jpg"
+  },
+  {
+    "id": 12953,
+    "artisan_id": 679,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/395801-a34a09f13e1a21391ca695999f813064.jpg"
+  },
+  {
+    "id": 12954,
+    "artisan_id": 679,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/395805-caeaee524e8c62025f3f0858981bb979.jpg"
+  },
+  {
+    "id": 12955,
+    "artisan_id": 679,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/395821-b66b4dea453da26e850e7bdd4370cfba.jpg"
+  },
+  {
+    "id": 12956,
+    "artisan_id": 679,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/395789-be155e07452fd76935fa0a99fa50ab81.jpg"
   }
 ]
