@@ -4705,4 +4705,5 @@ INSERT INTO artisans_urls VALUES(12955,679,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(12956,679,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/395789-be155e07452fd76935fa0a99fa50ab81.jpg');
 INSERT INTO artisans_urls VALUES(12957,510,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/373689-efa0e5c963b0838ec7dec245664dda3f.jpg');
 INSERT INTO artisans_urls VALUES(12958,510,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/327025-8658dd4fd9b296d2bda4ae90ed173fea.jpg');
+INSERT INTO artisans_urls VALUES(12959,674,'URL_FURSUITREVIEW','https://fursuitreview.com/m/kia-fursuits/');
 COMMIT;
