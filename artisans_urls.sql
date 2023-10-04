@@ -471,7 +471,6 @@ INSERT INTO artisans_urls VALUES(539,142,'URL_TUMBLR','https://magpiebones.tumbl
 INSERT INTO artisans_urls VALUES(540,142,'URL_INSTAGRAM','https://www.instagram.com/magpiebones/');
 INSERT INTO artisans_urls VALUES(541,143,'URL_WEBSITE','http://furr.club/');
 INSERT INTO artisans_urls VALUES(542,143,'URL_PRICES','http://furr.club/en/price.html');
-INSERT INTO artisans_urls VALUES(543,143,'URL_FAQ','http://furr.club/en/price.html#Our_design');
 INSERT INTO artisans_urls VALUES(544,143,'URL_FACEBOOK','https://www.facebook.com/FurR.CluB/');
 INSERT INTO artisans_urls VALUES(545,143,'URL_INSTAGRAM','https://www.instagram.com/furr.club/');
 INSERT INTO artisans_urls VALUES(546,143,'URL_YOUTUBE','https://www.youtube.com/channel/UCCCHcScm7Katy8sKjSCXyxg');
@@ -2682,7 +2681,6 @@ INSERT INTO artisans_urls VALUES(10763,467,'URL_COMMISSIONS','https://www.instag
 INSERT INTO artisans_urls VALUES(10764,138,'URL_COMMISSIONS','http://www.furaffinity.net/user/fursuitparade/#profile');
 INSERT INTO artisans_urls VALUES(10765,138,'URL_LINKLIST','https://allmylinks.com/fursuitparade');
 INSERT INTO artisans_urls VALUES(10766,138,'URL_QUEUE','https://t.co/MWp9Z2jdlq');
-INSERT INTO artisans_urls VALUES(10767,143,'URL_OTHER','https://vk.com/furr.club');
 INSERT INTO artisans_urls VALUES(10768,212,'URL_FURSUITREVIEW','https://fursuitreview.com/m/fursewna-studios/');
 INSERT INTO artisans_urls VALUES(10769,212,'URL_PRICES','http://fursewnastudios.weebly.com/custom-fursuits.html');
 INSERT INTO artisans_urls VALUES(10770,212,'URL_LINKLIST','https://linktr.ee/fursewnastudios');
@@ -2927,9 +2925,6 @@ INSERT INTO artisans_urls VALUES(11035,521,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(11036,521,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/68718-2411b4e1c005fbf02cc794ef1b7cf2b9.jpg');
 INSERT INTO artisans_urls VALUES(11037,521,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/68726-0273c42d0db8e2779e0d1b396af20a98.jpg');
 INSERT INTO artisans_urls VALUES(11038,521,'URL_MINIATURES','https://orca.furtrack.com/gallery/sample/68731-3a4c5da79224be1a1316fa1c2550a210.jpg');
-INSERT INTO artisans_urls VALUES(11039,524,'URL_WEBSITE','https://miggscreations.carrd.co/');
-INSERT INTO artisans_urls VALUES(11040,524,'URL_PRICES','https://miggscreations.carrd.co/#prices');
-INSERT INTO artisans_urls VALUES(11041,524,'URL_COMMISSIONS','https://miggscreations.carrd.co/#comms');
 INSERT INTO artisans_urls VALUES(11042,524,'URL_INSTAGRAM','https://www.instagram.com/Schmiggot/');
 INSERT INTO artisans_urls VALUES(11043,524,'URL_ETSY','https://www.etsy.com/shop/MiggsCreations');
 INSERT INTO artisans_urls VALUES(11044,524,'URL_QUEUE','https://trello.com/b/4hj63msu/fursuit-queue');
@@ -4706,4 +4701,11 @@ INSERT INTO artisans_urls VALUES(12956,679,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(12957,510,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/373689-efa0e5c963b0838ec7dec245664dda3f.jpg');
 INSERT INTO artisans_urls VALUES(12958,510,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/327025-8658dd4fd9b296d2bda4ae90ed173fea.jpg');
 INSERT INTO artisans_urls VALUES(12959,674,'URL_FURSUITREVIEW','https://fursuitreview.com/m/kia-fursuits/');
+INSERT INTO artisans_urls VALUES(12960,143,'URL_FAQ','http://furr.club/en/rules.html');
+INSERT INTO artisans_urls VALUES(12961,143,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/furr.club/');
+INSERT INTO artisans_urls VALUES(12962,143,'URL_TWITTER','https://twitter.com/spacealienfox');
+INSERT INTO artisans_urls VALUES(12963,524,'URL_WEBSITE','https://miggscreations.com/');
+INSERT INTO artisans_urls VALUES(12964,524,'URL_PRICES','https://miggscreations.com/');
+INSERT INTO artisans_urls VALUES(12965,524,'URL_COMMISSIONS','https://miggscreations.com/#comms');
+INSERT INTO artisans_urls VALUES(12966,561,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/search/other-items/?username=caraline__shmaraline&user_id=128027');
 COMMIT;

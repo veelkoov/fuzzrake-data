@@ -3780,12 +3780,6 @@
     "url": "http://furr.club/en/price.html"
   },
   {
-    "id": 543,
-    "artisan_id": 143,
-    "type": "URL_FAQ",
-    "url": "http://furr.club/en/price.html#Our_design"
-  },
-  {
     "id": 544,
     "artisan_id": 143,
     "type": "URL_FACEBOOK",
@@ -3810,10 +3804,22 @@
     "url": "http://furr.club/"
   },
   {
-    "id": 10767,
+    "id": 12960,
     "artisan_id": 143,
-    "type": "URL_OTHER",
-    "url": "https://vk.com/furr.club"
+    "type": "URL_FAQ",
+    "url": "http://furr.club/en/rules.html"
+  },
+  {
+    "id": 12961,
+    "artisan_id": 143,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/furr.club/"
+  },
+  {
+    "id": 12962,
+    "artisan_id": 143,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/spacealienfox"
   },
   {
     "id": 548,
@@ -20172,24 +20178,6 @@
     "url": "https://orca.furtrack.com/gallery/thumb/68923-232f9b0e1e63bd16e6f752c3dcba24e7.jpg"
   },
   {
-    "id": 11039,
-    "artisan_id": 524,
-    "type": "URL_WEBSITE",
-    "url": "https://miggscreations.carrd.co/"
-  },
-  {
-    "id": 11040,
-    "artisan_id": 524,
-    "type": "URL_PRICES",
-    "url": "https://miggscreations.carrd.co/#prices"
-  },
-  {
-    "id": 11041,
-    "artisan_id": 524,
-    "type": "URL_COMMISSIONS",
-    "url": "https://miggscreations.carrd.co/#comms"
-  },
-  {
     "id": 11042,
     "artisan_id": 524,
     "type": "URL_INSTAGRAM",
@@ -20260,6 +20248,24 @@
     "artisan_id": 524,
     "type": "URL_TWITTER",
     "url": "https://twitter.com/Schmiggot"
+  },
+  {
+    "id": 12963,
+    "artisan_id": 524,
+    "type": "URL_WEBSITE",
+    "url": "https://miggscreations.com/"
+  },
+  {
+    "id": 12964,
+    "artisan_id": 524,
+    "type": "URL_PRICES",
+    "url": "https://miggscreations.com/"
+  },
+  {
+    "id": 12965,
+    "artisan_id": 524,
+    "type": "URL_COMMISSIONS",
+    "url": "https://miggscreations.com/#comms"
   },
   {
     "id": 11069,
@@ -22006,6 +22012,12 @@
     "artisan_id": 561,
     "type": "URL_FURSUITREVIEW",
     "url": "https://fursuitreview.com/m/far-out-fursuits/"
+  },
+  {
+    "id": 12966,
+    "artisan_id": 561,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/search/other-items/?username=caraline__shmaraline&user_id=128027"
   },
   {
     "id": 11504,
