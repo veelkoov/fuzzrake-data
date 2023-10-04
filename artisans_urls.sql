@@ -4708,4 +4708,5 @@ INSERT INTO artisans_urls VALUES(12963,524,'URL_WEBSITE','https://miggscreations
 INSERT INTO artisans_urls VALUES(12964,524,'URL_PRICES','https://miggscreations.com/');
 INSERT INTO artisans_urls VALUES(12965,524,'URL_COMMISSIONS','https://miggscreations.com/#comms');
 INSERT INTO artisans_urls VALUES(12966,561,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/search/other-items/?username=caraline__shmaraline&user_id=128027');
+INSERT INTO artisans_urls VALUES(12967,511,'URL_FURSUITREVIEW','https://fursuitreview.com/m/stars-and-bites-fursuits/');
 COMMIT;
