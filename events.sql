@@ -2220,4 +2220,18 @@ INSERT INTO events VALUES(2231,'2023-10-04 12:10:14.537','CS_UPDATED','Gatorwave
 INSERT INTO events VALUES(2232,'2023-10-04 12:10:14.567','CS_UPDATED','Komickrazi studios',0,0,0,'','https://twitter.com/Komickrazi','','','Commissions',0);
 INSERT INTO events VALUES(2233,'2023-10-04 12:10:14.746','CS_UPDATED','Star Feather Atelier',0,0,0,'','https://twitter.com/starfeathersuit','','Commissions','',1);
 INSERT INTO events VALUES(2234,'2023-10-04 19:49:00','DATA_UPDATED','',0,2,0,'e111a2d79e9dd6b7cca1d5a014ee329a1b92ec35','','','','',0);
+INSERT INTO events VALUES(2235,'2023-10-05 00:10:46.348','CS_UPDATED','Howlmetal Horrors',0,0,0,'','https://twitter.com/howlmetalhorror','','Commissions','',1);
+INSERT INTO events VALUES(2236,'2023-10-05 00:10:46.351','CS_UPDATED','KittyKaijuWorks',0,0,0,'','https://twitter.com/achookitty','','','Commissions',0);
+INSERT INTO events VALUES(2237,'2023-10-05 00:10:46.609','CS_UPDATED','Oakley''s Creations',0,0,0,'','https://www.oakleyscreations.com/','','','Quotes',0);
+INSERT INTO events VALUES(2238,'2023-10-05 00:10:46.695','CS_UPDATED','Miggs Creations',0,0,0,'','https://miggscreations.com/#comms','','','Commissions',0);
+INSERT INTO events VALUES(2239,'2023-10-05 12:10:34.656','CS_UPDATED','Howlmetal Horrors',0,0,0,'','https://twitter.com/howlmetalhorror','','','Commissions',0);
+INSERT INTO events VALUES(2240,'2023-10-05 12:10:34.818','CS_UPDATED','Star Feather Atelier',0,0,0,'','https://twitter.com/starfeathersuit','','','Commissions',0);
+INSERT INTO events VALUES(2241,'2023-10-06 12:10:16.372','CS_UPDATED','BlankMuttCreations',0,0,0,'','https://blankmuttcreations.carrd.co/#fursuit','','Quotes','',1);
+INSERT INTO events VALUES(2242,'2023-10-06 12:10:16.406','CS_UPDATED','KoboldCraftings',0,0,0,'','https://koboldcraftings.carrd.co/','','Commissions','',1);
+INSERT INTO events VALUES(2243,'2023-10-07 00:10:04.431','CS_UPDATED','Howlmetal Horrors',0,0,0,'','https://twitter.com/howlmetalhorror','','Commissions','',1);
+INSERT INTO events VALUES(2244,'2023-10-07 00:10:04.612','CS_UPDATED','BlankMuttCreations',0,0,0,'','https://blankmuttcreations.carrd.co/#fursuit','','','Quotes',1);
+INSERT INTO events VALUES(2245,'2023-10-07 00:10:04.632','CS_UPDATED','KoboldCraftings',0,0,0,'','https://koboldcraftings.carrd.co/','','','Commissions',0);
+INSERT INTO events VALUES(2246,'2023-10-08 00:10:29.086','CS_UPDATED','Studio Pinali',0,0,0,'','https://www.pinali.net/home','',replace('Commissions\nProjects','\n',char(10)),'',0);
+INSERT INTO events VALUES(2247,'2023-10-08 00:10:29.264','CS_UPDATED','Miggs Creations',0,0,0,'','https://miggscreations.com/#comms','','Commissions','',1);
+INSERT INTO events VALUES(2248,'2023-10-08 19:01:00','DATA_UPDATED','',0,1,0,'4b2143b827f2febc6fb8b846262a2e4797fa36c6','','','','',0);
 COMMIT;
