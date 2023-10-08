@@ -4711,4 +4711,8 @@ INSERT INTO artisans_urls VALUES(12969,398,'URL_COMMISSIONS','https://glitzyfoxs
 INSERT INTO artisans_urls VALUES(12970,319,'URL_COMMISSIONS','https://trello.com/b/DFOyybWi/current-list');
 INSERT INTO artisans_urls VALUES(12971,319,'URL_OTHER_SHOP','https://ko-fi.com/spacecatcreations/shop');
 INSERT INTO artisans_urls VALUES(12972,319,'URL_OTHER','https://bsky.app/profile/spacecatcreations.bsky.social');
+INSERT INTO artisans_urls VALUES(12973,680,'URL_COMMISSIONS','https://trello.com/b/9X0Ea2o0/fursuits-cosplay-and-craft-by-anemone');
+INSERT INTO artisans_urls VALUES(12974,680,'URL_TWITTER','https://twitter.com/AnemoneFursuits');
+INSERT INTO artisans_urls VALUES(12975,680,'URL_INSTAGRAM','https://www.instagram.com/anemonefursuits/');
+INSERT INTO artisans_urls VALUES(12976,680,'URL_QUEUE','https://trello.com/b/9X0Ea2o0/fursuits-cosplay-and-craft-by-anemone');
 COMMIT;

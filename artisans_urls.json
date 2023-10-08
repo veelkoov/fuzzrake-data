@@ -28258,5 +28258,29 @@
     "artisan_id": 679,
     "type": "URL_MINIATURES",
     "url": "https://orca.furtrack.com/gallery/thumb/395789-be155e07452fd76935fa0a99fa50ab81.jpg"
+  },
+  {
+    "id": 12973,
+    "artisan_id": 680,
+    "type": "URL_COMMISSIONS",
+    "url": "https://trello.com/b/9X0Ea2o0/fursuits-cosplay-and-craft-by-anemone"
+  },
+  {
+    "id": 12974,
+    "artisan_id": 680,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/AnemoneFursuits"
+  },
+  {
+    "id": 12975,
+    "artisan_id": 680,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/anemonefursuits/"
+  },
+  {
+    "id": 12976,
+    "artisan_id": 680,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/9X0Ea2o0/fursuits-cosplay-and-craft-by-anemone"
   }
 ]
