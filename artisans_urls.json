@@ -10464,16 +10464,28 @@
     "url": "https://www.instagram.com/spacecatcreations/"
   },
   {
-    "id": 9896,
-    "artisan_id": 319,
-    "type": "URL_ETSY",
-    "url": "https://www.etsy.com/shop/SpaceyCatCreations"
-  },
-  {
     "id": 9897,
     "artisan_id": 319,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/DFOyybWi/current-list"
+  },
+  {
+    "id": 12970,
+    "artisan_id": 319,
+    "type": "URL_COMMISSIONS",
+    "url": "https://trello.com/b/DFOyybWi/current-list"
+  },
+  {
+    "id": 12971,
+    "artisan_id": 319,
+    "type": "URL_OTHER_SHOP",
+    "url": "https://ko-fi.com/spacecatcreations/shop"
+  },
+  {
+    "id": 12972,
+    "artisan_id": 319,
+    "type": "URL_OTHER",
+    "url": "https://bsky.app/profile/spacecatcreations.bsky.social"
   },
   {
     "id": 1476,

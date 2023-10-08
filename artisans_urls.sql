@@ -2022,7 +2022,6 @@ INSERT INTO artisans_urls VALUES(9892,446,'URL_INSTAGRAM','https://www.instagram
 INSERT INTO artisans_urls VALUES(9893,446,'URL_YOUTUBE','https://www.youtube.com/channel/UCZl0pYJxE95ujk58jLqL0lA');
 INSERT INTO artisans_urls VALUES(9894,446,'URL_QUEUE','https://trello.com/b/jcooluOK/current-projects');
 INSERT INTO artisans_urls VALUES(9895,446,'URL_COMMISSIONS','https://www.kemonokapi.com/');
-INSERT INTO artisans_urls VALUES(9896,319,'URL_ETSY','https://www.etsy.com/shop/SpaceyCatCreations');
 INSERT INTO artisans_urls VALUES(9897,319,'URL_QUEUE','https://trello.com/b/DFOyybWi/current-list');
 INSERT INTO artisans_urls VALUES(9899,447,'URL_PRICES','https://docs.google.com/spreadsheets/d/1PqCIyna2MQGOqSmc8F7M5S8OSjiijTMhMu2iqo6_kQI/edit?usp=sharing');
 INSERT INTO artisans_urls VALUES(9900,447,'URL_TWITTER','https://twitter.com/rudebirdstudios');
@@ -4709,4 +4708,7 @@ INSERT INTO artisans_urls VALUES(12964,524,'URL_PRICES','https://miggscreations.
 INSERT INTO artisans_urls VALUES(12965,524,'URL_COMMISSIONS','https://miggscreations.com/#comms');
 INSERT INTO artisans_urls VALUES(12966,561,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/search/other-items/?username=caraline__shmaraline&user_id=128027');
 INSERT INTO artisans_urls VALUES(12967,511,'URL_FURSUITREVIEW','https://fursuitreview.com/m/stars-and-bites-fursuits/');
+INSERT INTO artisans_urls VALUES(12970,319,'URL_COMMISSIONS','https://trello.com/b/DFOyybWi/current-list');
+INSERT INTO artisans_urls VALUES(12971,319,'URL_OTHER_SHOP','https://ko-fi.com/spacecatcreations/shop');
+INSERT INTO artisans_urls VALUES(12972,319,'URL_OTHER','https://bsky.app/profile/spacecatcreations.bsky.social');
 COMMIT;
