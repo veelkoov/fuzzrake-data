@@ -13746,12 +13746,6 @@
     "url": "https://trello.com/b/jLvzthNt/glitzyfox-commissions"
   },
   {
-    "id": 9446,
-    "artisan_id": 398,
-    "type": "URL_COMMISSIONS",
-    "url": "https://www.glitzyfoxcostumes.com/"
-  },
-  {
     "id": 10749,
     "artisan_id": 398,
     "type": "URL_WEBSITE",
@@ -13764,12 +13758,6 @@
     "url": "https://glitzyfoxstudios.com/pricing"
   },
   {
-    "id": 10751,
-    "artisan_id": 398,
-    "type": "URL_FAQ",
-    "url": "https://www.glitzyfoxcostumes.com/faq"
-  },
-  {
     "id": 10752,
     "artisan_id": 398,
     "type": "URL_OTHER",
@@ -13780,6 +13768,18 @@
     "artisan_id": 398,
     "type": "URL_FURSUITREVIEW",
     "url": "https://fursuitreview.com/m/glitzy-fox-studios/"
+  },
+  {
+    "id": 12968,
+    "artisan_id": 398,
+    "type": "URL_FAQ",
+    "url": "https://glitzyfoxstudios.com/faqs"
+  },
+  {
+    "id": 12969,
+    "artisan_id": 398,
+    "type": "URL_COMMISSIONS",
+    "url": "https://glitzyfoxstudios.com/pricing"
   },
   {
     "id": 9447,

@@ -1649,7 +1649,6 @@ INSERT INTO artisans_urls VALUES(9442,398,'URL_TWITTER','https://twitter.com/Gli
 INSERT INTO artisans_urls VALUES(9443,398,'URL_INSTAGRAM','https://www.instagram.com/glitzy_fox/');
 INSERT INTO artisans_urls VALUES(9444,398,'URL_YOUTUBE','https://www.youtube.com/channel/UCDTN8St3GeQ9I78pEcSaXEw');
 INSERT INTO artisans_urls VALUES(9445,398,'URL_QUEUE','https://trello.com/b/jLvzthNt/glitzyfox-commissions');
-INSERT INTO artisans_urls VALUES(9446,398,'URL_COMMISSIONS','https://www.glitzyfoxcostumes.com/');
 INSERT INTO artisans_urls VALUES(9447,399,'URL_FURSUITREVIEW','https://fursuitreview.com/m/wolfskin-suiting/');
 INSERT INTO artisans_urls VALUES(9448,399,'URL_WEBSITE','https://www.wolfskinstudios.com/');
 INSERT INTO artisans_urls VALUES(9449,399,'URL_PRICES','https://www.wolfskinstudios.com/commissions-info-quotes');
@@ -2664,7 +2663,6 @@ INSERT INTO artisans_urls VALUES(10747,506,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(10748,490,'URL_COMMISSIONS','https://twitter.com/goatygoods');
 INSERT INTO artisans_urls VALUES(10749,398,'URL_WEBSITE','https://www.glitzyfoxstudios.com/');
 INSERT INTO artisans_urls VALUES(10750,398,'URL_PRICES','https://glitzyfoxstudios.com/pricing');
-INSERT INTO artisans_urls VALUES(10751,398,'URL_FAQ','https://www.glitzyfoxcostumes.com/faq');
 INSERT INTO artisans_urls VALUES(10752,398,'URL_OTHER','Patreon: https://www.patreon.com/glitzyfox');
 INSERT INTO artisans_urls VALUES(10753,265,'URL_WEBSITE','http://kittencafestudios.com/');
 INSERT INTO artisans_urls VALUES(10754,265,'URL_PRICES','http://www.kittencafestudios.com/prices.html');
@@ -4708,6 +4706,8 @@ INSERT INTO artisans_urls VALUES(12964,524,'URL_PRICES','https://miggscreations.
 INSERT INTO artisans_urls VALUES(12965,524,'URL_COMMISSIONS','https://miggscreations.com/#comms');
 INSERT INTO artisans_urls VALUES(12966,561,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/search/other-items/?username=caraline__shmaraline&user_id=128027');
 INSERT INTO artisans_urls VALUES(12967,511,'URL_FURSUITREVIEW','https://fursuitreview.com/m/stars-and-bites-fursuits/');
+INSERT INTO artisans_urls VALUES(12968,398,'URL_FAQ','https://glitzyfoxstudios.com/faqs');
+INSERT INTO artisans_urls VALUES(12969,398,'URL_COMMISSIONS','https://glitzyfoxstudios.com/pricing');
 INSERT INTO artisans_urls VALUES(12970,319,'URL_COMMISSIONS','https://trello.com/b/DFOyybWi/current-list');
 INSERT INTO artisans_urls VALUES(12971,319,'URL_OTHER_SHOP','https://ko-fi.com/spacecatcreations/shop');
 INSERT INTO artisans_urls VALUES(12972,319,'URL_OTHER','https://bsky.app/profile/spacecatcreations.bsky.social');
