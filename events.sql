@@ -2234,4 +2234,14 @@ INSERT INTO events VALUES(2245,'2023-10-07 00:10:04.632','CS_UPDATED','KoboldCra
 INSERT INTO events VALUES(2246,'2023-10-08 00:10:29.086','CS_UPDATED','Studio Pinali',0,0,0,'','https://www.pinali.net/home','',replace('Commissions\nProjects','\n',char(10)),'',0);
 INSERT INTO events VALUES(2247,'2023-10-08 00:10:29.264','CS_UPDATED','Miggs Creations',0,0,0,'','https://miggscreations.com/#comms','','Commissions','',1);
 INSERT INTO events VALUES(2248,'2023-10-08 19:01:00','DATA_UPDATED','',0,1,0,'4b2143b827f2febc6fb8b846262a2e4797fa36c6','','','','',0);
+INSERT INTO events VALUES(2249,'2023-10-09 00:10:16.149','CS_UPDATED','FureverFuzzyGoods',0,0,0,'','https://twitter.com/HaukNona','','Commissions','',1);
+INSERT INTO events VALUES(2250,'2023-10-09 00:10:16.287','CS_UPDATED','Miggs Creations',0,0,0,'','https://miggscreations.com/#comms','','','Commissions',0);
+INSERT INTO events VALUES(2251,'2023-10-09 12:11:01.324','CS_UPDATED','Miggs Creations',0,0,0,'','https://miggscreations.com/#comms','','Commissions','',1);
+INSERT INTO events VALUES(2252,'2023-10-10 00:10:18.732','CS_UPDATED','Foxes In Boxes Fursuits',0,0,0,'','https://foxesinboxes.wixsite.com/foxesinboxes','','Commissions','',0);
+INSERT INTO events VALUES(2253,'2023-10-10 00:10:19.075','CS_UPDATED','Miggs Creations',0,0,0,'','https://miggscreations.com/#comms','','','Commissions',0);
+INSERT INTO events VALUES(2254,'2023-10-10 12:10:32.757','CS_UPDATED','Gatorwave',0,0,0,'','https://www.gatorwavesuits.com/','','Commissions','',0);
+INSERT INTO events VALUES(2255,'2023-10-10 12:10:32.822','CS_UPDATED','Tulius Costumes',0,0,0,'','https://trello.com/c/sBtiQxNz/2-prices-and-commission-status','','Commissions','',0);
+INSERT INTO events VALUES(2256,'2023-10-11 12:10:38.683','CS_UPDATED','Miggs Creations',0,0,0,'','https://miggscreations.com/#comms','','Commissions','',1);
+INSERT INTO events VALUES(2257,'2023-10-12 00:09:44.467','CS_UPDATED','Kitty Up Fursuits',0,0,0,'','https://www.kittyupfursuits.com/home','','','Commissions',0);
+INSERT INTO events VALUES(2258,'2023-10-12 00:09:44.587','CS_UPDATED','Miggs Creations',0,0,0,'','https://miggscreations.com/#comms','','','Commissions',0);
 COMMIT;
