@@ -570,10 +570,10 @@
     "url": "https://twitter.com/roofur"
   },
   {
-    "id": 78,
+    "id": 12978,
     "artisan_id": 15,
     "type": "URL_COMMISSIONS",
-    "url": "http://www.roofur.com/commission/?status"
+    "url": "https://www.roofur.com/commission/next_opening"
   },
   {
     "id": 79,
@@ -16842,12 +16842,6 @@
     "url": "https://docs.google.com/document/d/1d3tCi1N7durXbK8CVwHOxKOpr-zdQXS0L5ceLv4KsHU/edit"
   },
   {
-    "id": 10014,
-    "artisan_id": 458,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/StyngerC"
-  },
-  {
     "id": 10016,
     "artisan_id": 458,
     "type": "URL_ETSY",
@@ -16864,12 +16858,6 @@
     "artisan_id": 458,
     "type": "URL_SCRITCH",
     "url": "https://scritch.es/styngerskies"
-  },
-  {
-    "id": 10020,
-    "artisan_id": 458,
-    "type": "URL_COMMISSIONS",
-    "url": "https://twitter.com/StyngerC"
   },
   {
     "id": 10316,
@@ -16906,6 +16894,12 @@
     "artisan_id": 458,
     "type": "URL_INSTAGRAM",
     "url": "https://www.instagram.com/ddfursuits/"
+  },
+  {
+    "id": 12977,
+    "artisan_id": 458,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/DDFursuits"
   },
   {
     "id": 10021,

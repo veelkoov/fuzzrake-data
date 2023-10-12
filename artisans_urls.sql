@@ -72,7 +72,6 @@ INSERT INTO artisans_urls VALUES(72,14,'URL_FUR_AFFINITY','https://www.furaffini
 INSERT INTO artisans_urls VALUES(75,15,'URL_FURSUITREVIEW','https://fursuitreview.com/m/roofur/');
 INSERT INTO artisans_urls VALUES(76,15,'URL_WEBSITE','http://roofur.com/');
 INSERT INTO artisans_urls VALUES(77,15,'URL_TWITTER','https://twitter.com/roofur');
-INSERT INTO artisans_urls VALUES(78,15,'URL_COMMISSIONS','http://www.roofur.com/commission/?status');
 INSERT INTO artisans_urls VALUES(79,16,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/mut-mut-furcostumes/');
 INSERT INTO artisans_urls VALUES(80,16,'URL_FACEBOOK','https://www.facebook.com/mutmutfur/');
 INSERT INTO artisans_urls VALUES(83,17,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/direcreatures/');
@@ -2132,11 +2131,9 @@ INSERT INTO artisans_urls VALUES(10007,457,'URL_THE_DEALERS_DEN','https://www.th
 INSERT INTO artisans_urls VALUES(10008,457,'URL_QUEUE','https://trello.com/b/REt8ArwD/evilmakers-fursuits');
 INSERT INTO artisans_urls VALUES(10009,457,'URL_SCRITCH','https://scritch.es/makers/evil-makers');
 INSERT INTO artisans_urls VALUES(10010,457,'URL_COMMISSIONS','https://twitter.com/Evi1Makers');
-INSERT INTO artisans_urls VALUES(10014,458,'URL_TWITTER','https://twitter.com/StyngerC');
 INSERT INTO artisans_urls VALUES(10016,458,'URL_ETSY','https://www.etsy.com/shop/StyngerSkies');
 INSERT INTO artisans_urls VALUES(10017,458,'URL_QUEUE','https://trello.com/b/wClChmLz/current-work-cycle');
 INSERT INTO artisans_urls VALUES(10018,458,'URL_SCRITCH','https://scritch.es/styngerskies');
-INSERT INTO artisans_urls VALUES(10020,458,'URL_COMMISSIONS','https://twitter.com/StyngerC');
 INSERT INTO artisans_urls VALUES(10021,459,'URL_WEBSITE','https://oneggiri.uwu.ai/#');
 INSERT INTO artisans_urls VALUES(10022,459,'URL_PRICES','https://oneggiri.uwu.ai/#fursuits');
 INSERT INTO artisans_urls VALUES(10023,459,'URL_TWITTER','https://twitter.com/oneggiri');
@@ -4715,4 +4712,6 @@ INSERT INTO artisans_urls VALUES(12973,680,'URL_COMMISSIONS','https://trello.com
 INSERT INTO artisans_urls VALUES(12974,680,'URL_TWITTER','https://twitter.com/AnemoneFursuits');
 INSERT INTO artisans_urls VALUES(12975,680,'URL_INSTAGRAM','https://www.instagram.com/anemonefursuits/');
 INSERT INTO artisans_urls VALUES(12976,680,'URL_QUEUE','https://trello.com/b/9X0Ea2o0/fursuits-cosplay-and-craft-by-anemone');
+INSERT INTO artisans_urls VALUES(12977,458,'URL_TWITTER','https://twitter.com/DDFursuits');
+INSERT INTO artisans_urls VALUES(12978,15,'URL_COMMISSIONS','https://www.roofur.com/commission/next_opening');
 COMMIT;
