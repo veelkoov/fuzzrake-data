@@ -3643,5 +3643,25 @@
     "id": 732,
     "artisan_id": 680,
     "maker_id": "ANEMONE"
+  },
+  {
+    "id": 733,
+    "artisan_id": 681,
+    "maker_id": "AUBURIA"
+  },
+  {
+    "id": 734,
+    "artisan_id": 682,
+    "maker_id": "DSUIT23"
+  },
+  {
+    "id": 735,
+    "artisan_id": 683,
+    "maker_id": "FRCTSEE"
+  },
+  {
+    "id": 736,
+    "artisan_id": 684,
+    "maker_id": "MILESFS"
   }
 ]

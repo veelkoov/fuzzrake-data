@@ -28276,5 +28276,137 @@
     "artisan_id": 680,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/9X0Ea2o0/fursuits-cosplay-and-craft-by-anemone"
+  },
+  {
+    "id": 12979,
+    "artisan_id": 681,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/auburiaworkshop"
+  },
+  {
+    "id": 12980,
+    "artisan_id": 681,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/_auburia_/"
+  },
+  {
+    "id": 12981,
+    "artisan_id": 681,
+    "type": "URL_ETSY",
+    "url": "https://auburiasworkshop.etsy.com/"
+  },
+  {
+    "id": 12982,
+    "artisan_id": 681,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/store/auburias-workshop"
+  },
+  {
+    "id": 12983,
+    "artisan_id": 682,
+    "type": "URL_WEBSITE",
+    "url": "https://decembersuits.weebly.com/"
+  },
+  {
+    "id": 12984,
+    "artisan_id": 682,
+    "type": "URL_PRICES",
+    "url": "https://decembersuits.weebly.com/services.html"
+  },
+  {
+    "id": 12985,
+    "artisan_id": 682,
+    "type": "URL_COMMISSIONS",
+    "url": "https://twitter.com/decembersuits"
+  },
+  {
+    "id": 12986,
+    "artisan_id": 682,
+    "type": "URL_FAQ",
+    "url": "https://decembersuits.weebly.com/qa.html"
+  },
+  {
+    "id": 12987,
+    "artisan_id": 682,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/decembersuits/"
+  },
+  {
+    "id": 12988,
+    "artisan_id": 682,
+    "type": "URL_DEVIANTART",
+    "url": "https://www.deviantart.com/december-suits"
+  },
+  {
+    "id": 12989,
+    "artisan_id": 682,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/decembersuits"
+  },
+  {
+    "id": 12990,
+    "artisan_id": 682,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/happimonsuta/"
+  },
+  {
+    "id": 12991,
+    "artisan_id": 682,
+    "type": "URL_YOUTUBE",
+    "url": "https://youtube.com/@decembersuits8638"
+  },
+  {
+    "id": 12992,
+    "artisan_id": 682,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/Happimonsuta"
+  },
+  {
+    "id": 12993,
+    "artisan_id": 682,
+    "type": "URL_FURRY_AMINO",
+    "url": "https://aminoapps.com/c/furry-amino/page/user/happi-monsuta/L2Wq_D8kiYfG65XbVRjBj3PQj1rn6xqWzoqcP"
+  },
+  {
+    "id": 12994,
+    "artisan_id": 682,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/DPpDagAX/fursuit-commissions"
+  },
+  {
+    "id": 12995,
+    "artisan_id": 683,
+    "type": "URL_WEBSITE",
+    "url": "https://fructosee.wixsite.com/work-and-art"
+  },
+  {
+    "id": 12996,
+    "artisan_id": 683,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/sweet_tea_fursuits/"
+  },
+  {
+    "id": 12997,
+    "artisan_id": 683,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/fructosee"
+  },
+  {
+    "id": 12998,
+    "artisan_id": 683,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/user/fructosee"
+  },
+  {
+    "id": 12999,
+    "artisan_id": 684,
+    "type": "URL_WEBSITE",
+    "url": "https://milesfurstudios.com/"
+  },
+  {
+    "id": 13000,
+    "artisan_id": 684,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/MilesFurStudios"
   }
 ]
