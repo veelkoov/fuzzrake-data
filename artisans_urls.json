@@ -1380,10 +1380,40 @@
     "url": "https://www.furaffinity.net/user/DeliciousDisguises/"
   },
   {
-    "id": 186,
+    "id": 13015,
     "artisan_id": 44,
     "type": "URL_COMMISSIONS",
-    "url": "https://www.furaffinity.net/user/DeliciousDisguises/"
+    "url": "https://deliciousdisguises.com/"
+  },
+  {
+    "id": 13016,
+    "artisan_id": 44,
+    "type": "URL_MASTODON",
+    "url": "https://meow.social/@Deliciousdisguises"
+  },
+  {
+    "id": 13017,
+    "artisan_id": 44,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/delishdisguises"
+  },
+  {
+    "id": 13018,
+    "artisan_id": 44,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/deliciousdisguises/"
+  },
+  {
+    "id": 13019,
+    "artisan_id": 44,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/FgMs4HBG/delicious-disguises-queue"
+  },
+  {
+    "id": 13020,
+    "artisan_id": 44,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:delicious_disguises"
   },
   {
     "id": 187,

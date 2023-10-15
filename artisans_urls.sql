@@ -170,7 +170,6 @@ INSERT INTO artisans_urls VALUES(182,42,'URL_COMMISSIONS','https://donthugcacti.
 INSERT INTO artisans_urls VALUES(183,44,'URL_FURSUITREVIEW','https://fursuitreview.com/m/delicious-disguises/');
 INSERT INTO artisans_urls VALUES(184,44,'URL_WEBSITE','https://www.deliciousdisguises.com/');
 INSERT INTO artisans_urls VALUES(185,44,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/DeliciousDisguises/');
-INSERT INTO artisans_urls VALUES(186,44,'URL_COMMISSIONS','https://www.furaffinity.net/user/DeliciousDisguises/');
 INSERT INTO artisans_urls VALUES(187,45,'URL_FURSUITREVIEW','https://fursuitreview.com/m/farisbatwan/');
 INSERT INTO artisans_urls VALUES(191,46,'URL_FURSUITREVIEW','https://fursuitreview.com/m/furfancy-costumes/');
 INSERT INTO artisans_urls VALUES(193,46,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/furfancycostumes/');
@@ -4743,4 +4742,10 @@ INSERT INTO artisans_urls VALUES(13011,153,'URL_PHOTOS','https://www.furtrack.co
 INSERT INTO artisans_urls VALUES(13012,153,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/327143-6f9fee1243ac9fcafe0c4fdaa9e6051b.png');
 INSERT INTO artisans_urls VALUES(13013,153,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/327141-46a8ded8b8ea104b415f6bf42c469ea1.png');
 INSERT INTO artisans_urls VALUES(13014,153,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/327132-247359f21db3f33b68ddcbca6f90a487.png');
+INSERT INTO artisans_urls VALUES(13015,44,'URL_COMMISSIONS','https://deliciousdisguises.com/');
+INSERT INTO artisans_urls VALUES(13016,44,'URL_MASTODON','https://meow.social/@Deliciousdisguises');
+INSERT INTO artisans_urls VALUES(13017,44,'URL_TWITTER','https://twitter.com/delishdisguises');
+INSERT INTO artisans_urls VALUES(13018,44,'URL_INSTAGRAM','https://www.instagram.com/deliciousdisguises/');
+INSERT INTO artisans_urls VALUES(13019,44,'URL_QUEUE','https://trello.com/b/FgMs4HBG/delicious-disguises-queue');
+INSERT INTO artisans_urls VALUES(13020,44,'URL_FURTRACK','https://www.furtrack.com/index/maker:delicious_disguises');
 COMMIT;
