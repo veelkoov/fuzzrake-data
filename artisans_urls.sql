@@ -4732,4 +4732,12 @@ INSERT INTO artisans_urls VALUES(13000,684,'URL_TWITTER','https://twitter.com/Mi
 INSERT INTO artisans_urls VALUES(13001,431,'URL_WEBSITE','https://elfinstray.weebly.com/');
 INSERT INTO artisans_urls VALUES(13002,431,'URL_PRICES','https://elfinstray.weebly.com/commission.html');
 INSERT INTO artisans_urls VALUES(13003,431,'URL_QUEUE','https://elfinstray.weebly.com/commission.html');
+INSERT INTO artisans_urls VALUES(13004,153,'URL_TUMBLR','https://www.tumblr.com/serestudios');
+INSERT INTO artisans_urls VALUES(13005,153,'URL_INSTAGRAM','https://www.instagram.com/serestudiosfursuits/');
+INSERT INTO artisans_urls VALUES(13006,153,'URL_ETSY','https://www.etsy.com/shop/SereStudios');
+INSERT INTO artisans_urls VALUES(13007,153,'URL_OTHER_SHOP','https://ko-fi.com/serestudios/shop');
+INSERT INTO artisans_urls VALUES(13008,153,'URL_FURTRACK','https://www.furtrack.com/index/maker:sere_studios');
+INSERT INTO artisans_urls VALUES(13009,153,'URL_PHOTOS','https://www.furtrack.com/p/327143');
+INSERT INTO artisans_urls VALUES(13010,153,'URL_PHOTOS','https://www.furtrack.com/p/327141');
+INSERT INTO artisans_urls VALUES(13011,153,'URL_PHOTOS','https://www.furtrack.com/p/327132');
 COMMIT;

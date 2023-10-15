@@ -4218,6 +4218,54 @@
     "url": "https://fursuitreview.com/m/sere-studios/"
   },
   {
+    "id": 13004,
+    "artisan_id": 153,
+    "type": "URL_TUMBLR",
+    "url": "https://www.tumblr.com/serestudios"
+  },
+  {
+    "id": 13005,
+    "artisan_id": 153,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/serestudiosfursuits/"
+  },
+  {
+    "id": 13006,
+    "artisan_id": 153,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/SereStudios"
+  },
+  {
+    "id": 13007,
+    "artisan_id": 153,
+    "type": "URL_OTHER_SHOP",
+    "url": "https://ko-fi.com/serestudios/shop"
+  },
+  {
+    "id": 13008,
+    "artisan_id": 153,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:sere_studios"
+  },
+  {
+    "id": 13009,
+    "artisan_id": 153,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/327143"
+  },
+  {
+    "id": 13010,
+    "artisan_id": 153,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/327141"
+  },
+  {
+    "id": 13011,
+    "artisan_id": 153,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/327132"
+  },
+  {
     "id": 600,
     "artisan_id": 154,
     "type": "URL_FUR_AFFINITY",

@@ -4669,11 +4669,11 @@
     "city": "Alger",
     "production_models": "Artistic liberty commissions\nPremades\nStandard commissions",
     "styles": "Toony",
-    "order_types": "Bodysuits (as parts/separate)\nFeetpaws (as parts/separate)\nFull digitigrade\nFull plantigrade\nHandpaws (as parts/separate)\nHead (as parts/separate)\nMini partial (head + handpaws + tail)\nPartial (head + handpaws + tail + feetpaws)\nTails (as parts/separate)\nThree-fourth (head + handpaws + tail + legs/pants + feetpaws)",
-    "features": "Adjustable/wiggle ears\nAttached tail\nExchangeable hairs\nExchangeable tongues\nFollow-me eyes\nOutdoor feet\nRemovable eyelids",
+    "order_types": "Full digitigrade\nFull plantigrade\nHead (as parts/separate)\nMini partial (head + handpaws + tail)\nPartial (head + handpaws + tail + feetpaws)",
+    "features": "Adjustable/wiggle ears\nAttached handpaws and feetpaws\nAttached tail\nExchangeable hairs\nExchangeable tongues\nFollow-me eyes\nOutdoor feet\nRemovable eyelids",
     "other_features": "",
-    "payment_plans": "30% upfront to reserve slot",
-    "species_does": "Most species",
+    "payment_plans": "30% upfront to reserve slot, remaining payment within 4mos",
+    "species_does": "Most species\nDeer\nDragons\nBirds\nRabbits\nEquines\nUnique",
     "species_doesnt": "",
     "languages": "English",
     "notes": "",
@@ -4687,9 +4687,9 @@
     "styles_comment": "",
     "order_types_comment": "",
     "features_comment": "",
-    "payment_methods": "",
-    "currencies_accepted": "",
-    "species_comment": ""
+    "payment_methods": "Square\nPayPal",
+    "currencies_accepted": "USD",
+    "species_comment": "Especially interested in something I haven't made before! Favorites would be deer, dragons, birds, rabbits, equine and unique species!"
   },
   {
     "id": 154,
