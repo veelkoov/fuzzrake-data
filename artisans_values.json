@@ -2697,13 +2697,13 @@
     "id": 1623,
     "artisan_id": 431,
     "field_name": "DATE_UPDATED",
-    "value": "2022-05-03 14:46:15"
+    "value": "2023-10-15 18:14:15"
   },
   {
     "id": 1624,
     "artisan_id": 431,
     "field_name": "AGES",
-    "value": "MIXED"
+    "value": "ADULTS"
   },
   {
     "id": 1625,
@@ -2716,6 +2716,12 @@
     "artisan_id": 431,
     "field_name": "NSFW_SOCIAL",
     "value": "True"
+  },
+  {
+    "id": 2687,
+    "artisan_id": 431,
+    "field_name": "DOES_NSFW",
+    "value": "False"
   },
   {
     "id": 1383,

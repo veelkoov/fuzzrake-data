@@ -15468,28 +15468,10 @@
     "url": "https://storage.scritch.es/scritch/5740d7de1b70ce5c00eb7f42098816b4734681f5/thumbnail_363d2262-e15d-4306-af0b-16d845b578a7.jpeg"
   },
   {
-    "id": 9777,
-    "artisan_id": 431,
-    "type": "URL_WEBSITE",
-    "url": "https://questfursaplings.weebly.com/"
-  },
-  {
     "id": 9780,
     "artisan_id": 431,
     "type": "URL_FUR_AFFINITY",
     "url": "https://www.furaffinity.net/user/elfinstray/"
-  },
-  {
-    "id": 9781,
-    "artisan_id": 431,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/ElfinStray"
-  },
-  {
-    "id": 9782,
-    "artisan_id": 431,
-    "type": "URL_FACEBOOK",
-    "url": "https://www.facebook.com/QuestFurSaplings/"
   },
   {
     "id": 9783,
@@ -15498,40 +15480,34 @@
     "url": "https://www.youtube.com/channel/UCan4n3ggyQkIQvmxOe2oa2w"
   },
   {
-    "id": 11241,
-    "artisan_id": 431,
-    "type": "URL_PRICES",
-    "url": "https://questfursaplings.weebly.com/fursuits.html"
-  },
-  {
-    "id": 11242,
-    "artisan_id": 431,
-    "type": "URL_COMMISSIONS",
-    "url": "https://questfursaplings.weebly.com/fursuits.html"
-  },
-  {
-    "id": 11243,
-    "artisan_id": 431,
-    "type": "URL_FAQ",
-    "url": "https://questfursaplings.weebly.com/fursuits.html"
-  },
-  {
     "id": 11244,
     "artisan_id": 431,
     "type": "URL_DEVIANTART",
     "url": "https://www.deviantart.com/elfinstray"
   },
   {
-    "id": 11245,
-    "artisan_id": 431,
-    "type": "URL_QUEUE",
-    "url": "https://questfursaplings.weebly.com/queue.html"
-  },
-  {
     "id": 11246,
     "artisan_id": 431,
     "type": "URL_OTHER",
     "url": "https://toyhou.se/ElfinStray"
+  },
+  {
+    "id": 13001,
+    "artisan_id": 431,
+    "type": "URL_WEBSITE",
+    "url": "https://elfinstray.weebly.com/"
+  },
+  {
+    "id": 13002,
+    "artisan_id": 431,
+    "type": "URL_PRICES",
+    "url": "https://elfinstray.weebly.com/commission.html"
+  },
+  {
+    "id": 13003,
+    "artisan_id": 431,
+    "type": "URL_QUEUE",
+    "url": "https://elfinstray.weebly.com/commission.html"
   },
   {
     "id": 9788,

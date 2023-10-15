@@ -1917,10 +1917,7 @@ INSERT INTO artisans_urls VALUES(9771,430,'URL_TWITTER','https://twitter.com/Kog
 INSERT INTO artisans_urls VALUES(9772,430,'URL_INSTAGRAM','https://www.instagram.com/sunblight_studios/');
 INSERT INTO artisans_urls VALUES(9773,430,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/sun-blight-studios');
 INSERT INTO artisans_urls VALUES(9774,430,'URL_SCRITCH','https://scritch.es/Sunblightstudios');
-INSERT INTO artisans_urls VALUES(9777,431,'URL_WEBSITE','https://questfursaplings.weebly.com/');
 INSERT INTO artisans_urls VALUES(9780,431,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/elfinstray/');
-INSERT INTO artisans_urls VALUES(9781,431,'URL_TWITTER','https://twitter.com/ElfinStray');
-INSERT INTO artisans_urls VALUES(9782,431,'URL_FACEBOOK','https://www.facebook.com/QuestFurSaplings/');
 INSERT INTO artisans_urls VALUES(9783,431,'URL_YOUTUBE','https://www.youtube.com/channel/UCan4n3ggyQkIQvmxOe2oa2w');
 INSERT INTO artisans_urls VALUES(9786,236,'URL_PRICES','https://www.furaffinity.net/commissions/fionkafursuits/');
 INSERT INTO artisans_urls VALUES(9787,236,'URL_SCRITCH','https://scritch.es/makers/fionka-fursuits');
@@ -3085,11 +3082,7 @@ INSERT INTO artisans_urls VALUES(11237,308,'URL_FAQ','https://www.furaffinity.ne
 INSERT INTO artisans_urls VALUES(11238,308,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/nevfurmore/');
 INSERT INTO artisans_urls VALUES(11239,203,'URL_FURSUITREVIEW','https://fursuitreview.com/m/2-stupid-furs/');
 INSERT INTO artisans_urls VALUES(11240,398,'URL_FURSUITREVIEW','https://fursuitreview.com/m/glitzy-fox-studios/');
-INSERT INTO artisans_urls VALUES(11241,431,'URL_PRICES','https://questfursaplings.weebly.com/fursuits.html');
-INSERT INTO artisans_urls VALUES(11242,431,'URL_COMMISSIONS','https://questfursaplings.weebly.com/fursuits.html');
-INSERT INTO artisans_urls VALUES(11243,431,'URL_FAQ','https://questfursaplings.weebly.com/fursuits.html');
 INSERT INTO artisans_urls VALUES(11244,431,'URL_DEVIANTART','https://www.deviantart.com/elfinstray');
-INSERT INTO artisans_urls VALUES(11245,431,'URL_QUEUE','https://questfursaplings.weebly.com/queue.html');
 INSERT INTO artisans_urls VALUES(11246,431,'URL_OTHER','https://toyhou.se/ElfinStray');
 INSERT INTO artisans_urls VALUES(11247,388,'URL_PHOTOS','https://scritch.es/pictures/ba884031-5b9a-4ddb-aa29-109690a47b7f');
 INSERT INTO artisans_urls VALUES(11248,388,'URL_PHOTOS','https://scritch.es/pictures/558932af-64ec-47d0-a3e5-0fba52931637');
@@ -4736,4 +4729,7 @@ INSERT INTO artisans_urls VALUES(12997,683,'URL_LINKLIST','https://linktr.ee/fru
 INSERT INTO artisans_urls VALUES(12998,683,'URL_FURTRACK','https://www.furtrack.com/user/fructosee');
 INSERT INTO artisans_urls VALUES(12999,684,'URL_WEBSITE','https://milesfurstudios.com/');
 INSERT INTO artisans_urls VALUES(13000,684,'URL_TWITTER','https://twitter.com/MilesFurStudios');
+INSERT INTO artisans_urls VALUES(13001,431,'URL_WEBSITE','https://elfinstray.weebly.com/');
+INSERT INTO artisans_urls VALUES(13002,431,'URL_PRICES','https://elfinstray.weebly.com/commission.html');
+INSERT INTO artisans_urls VALUES(13003,431,'URL_QUEUE','https://elfinstray.weebly.com/commission.html');
 COMMIT;
