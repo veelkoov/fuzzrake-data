@@ -4739,9 +4739,9 @@ INSERT INTO artisans_urls VALUES(13008,153,'URL_FURTRACK','https://www.furtrack.
 INSERT INTO artisans_urls VALUES(13009,153,'URL_PHOTOS','https://www.furtrack.com/p/327143');
 INSERT INTO artisans_urls VALUES(13010,153,'URL_PHOTOS','https://www.furtrack.com/p/327141');
 INSERT INTO artisans_urls VALUES(13011,153,'URL_PHOTOS','https://www.furtrack.com/p/327132');
-INSERT INTO artisans_urls VALUES(13012,153,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/327143-6f9fee1243ac9fcafe0c4fdaa9e6051b.png');
-INSERT INTO artisans_urls VALUES(13013,153,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/327141-46a8ded8b8ea104b415f6bf42c469ea1.png');
-INSERT INTO artisans_urls VALUES(13014,153,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/327132-247359f21db3f33b68ddcbca6f90a487.png');
+INSERT INTO artisans_urls VALUES(13012,153,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/327143-6f9fee1243ac9fcafe0c4fdaa9e6051b.jpg');
+INSERT INTO artisans_urls VALUES(13013,153,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/327141-46a8ded8b8ea104b415f6bf42c469ea1.jpg');
+INSERT INTO artisans_urls VALUES(13014,153,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/327132-247359f21db3f33b68ddcbca6f90a487.jpg');
 INSERT INTO artisans_urls VALUES(13015,44,'URL_COMMISSIONS','https://deliciousdisguises.com/');
 INSERT INTO artisans_urls VALUES(13016,44,'URL_MASTODON','https://meow.social/@Deliciousdisguises');
 INSERT INTO artisans_urls VALUES(13017,44,'URL_TWITTER','https://twitter.com/delishdisguises');
