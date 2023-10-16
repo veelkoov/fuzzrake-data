@@ -4752,10 +4752,112 @@
     "url": "https://www.facebook.com/SnowGryphonSuits/"
   },
   {
-    "id": 679,
+    "id": 13021,
+    "artisan_id": 170,
+    "type": "URL_WEBSITE",
+    "url": "https://snowgryphonsuits.com/"
+  },
+  {
+    "id": 13022,
+    "artisan_id": 170,
+    "type": "URL_PRICES",
+    "url": "https://snowgryphonsuits.com/2023/04/01/prices/"
+  },
+  {
+    "id": 13023,
     "artisan_id": 170,
     "type": "URL_COMMISSIONS",
-    "url": "https://www.furaffinity.net/user/snowgryphonsuits/"
+    "url": "https://snowgryphonsuits.com/2023/04/01/prices/"
+  },
+  {
+    "id": 13024,
+    "artisan_id": 170,
+    "type": "URL_MASTODON",
+    "url": "https://meow.social/@SnowGryphonSuits"
+  },
+  {
+    "id": 13025,
+    "artisan_id": 170,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/snowgryphonsuits/"
+  },
+  {
+    "id": 13026,
+    "artisan_id": 170,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/snowgryphonsuits"
+  },
+  {
+    "id": 13027,
+    "artisan_id": 170,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/7dmBKncF/snow-gryphon-suits"
+  },
+  {
+    "id": 13028,
+    "artisan_id": 170,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:snow_gryphon_suits"
+  },
+  {
+    "id": 13029,
+    "artisan_id": 170,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/350898"
+  },
+  {
+    "id": 13030,
+    "artisan_id": 170,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/367989"
+  },
+  {
+    "id": 13031,
+    "artisan_id": 170,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/381809"
+  },
+  {
+    "id": 13032,
+    "artisan_id": 170,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/243805"
+  },
+  {
+    "id": 13033,
+    "artisan_id": 170,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/309848"
+  },
+  {
+    "id": 13034,
+    "artisan_id": 170,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/350898-aefce2e8a6c75d4ce28946fd31852006.jpg"
+  },
+  {
+    "id": 13035,
+    "artisan_id": 170,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/367989-1f4c69660ec5b3fd976fb5492ea28bb9.jpg"
+  },
+  {
+    "id": 13036,
+    "artisan_id": 170,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/381809-ef92b2b0e48f379e36fcecf6d09251a3.jpg"
+  },
+  {
+    "id": 13037,
+    "artisan_id": 170,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/243805-9caa0902aaa1ed54c6c77d266b9a8cf0.jpg"
+  },
+  {
+    "id": 13038,
+    "artisan_id": 170,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/309848-e7dfe0f79eafeb67f73a68ae3cf9385f.jpg"
   },
   {
     "id": 680,
