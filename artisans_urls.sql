@@ -2032,7 +2032,6 @@ INSERT INTO artisans_urls VALUES(9911,449,'URL_SCRITCH','https://scritch.es/make
 INSERT INTO artisans_urls VALUES(9912,18,'URL_PRICES','https://www.furaffinity.net/commissions/clockworkcarousel/');
 INSERT INTO artisans_urls VALUES(9913,18,'URL_QUEUE','https://trello.com/b/QlrV2m4z/queue-and-work-list');
 INSERT INTO artisans_urls VALUES(9914,302,'URL_FURSUITREVIEW','https://fursuitreview.com/m/alligators-always/');
-INSERT INTO artisans_urls VALUES(9915,38,'URL_FURSUITREVIEW','https://fursuitreview.com/m/beastcub/');
 INSERT INTO artisans_urls VALUES(9916,237,'URL_FURSUITREVIEW','https://fursuitreview.com/m/beauty-of-the-bass/');
 INSERT INTO artisans_urls VALUES(9917,189,'URL_FURSUITREVIEW','https://fursuitreview.com/m/beta-raptor/');
 INSERT INTO artisans_urls VALUES(9918,333,'URL_FURSUITREVIEW','https://fursuitreview.com/m/blue-wolf-studio/');
@@ -4765,4 +4764,6 @@ INSERT INTO artisans_urls VALUES(13035,170,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(13036,170,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/381809-ef92b2b0e48f379e36fcecf6d09251a3.jpg');
 INSERT INTO artisans_urls VALUES(13037,170,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/243805-9caa0902aaa1ed54c6c77d266b9a8cf0.jpg');
 INSERT INTO artisans_urls VALUES(13038,170,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/309848-e7dfe0f79eafeb67f73a68ae3cf9385f.jpg');
+INSERT INTO artisans_urls VALUES(13039,453,'URL_FURSUITREVIEW','https://fursuitreview.com/m/freckled-cat-creations/');
+INSERT INTO artisans_urls VALUES(13040,38,'URL_FURSUITREVIEW','https://fursuitreview.com/m/beastcub-creations/');
 COMMIT;

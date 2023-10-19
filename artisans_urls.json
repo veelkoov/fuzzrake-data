@@ -1236,10 +1236,10 @@
     "url": "http://www.beastcub.com/"
   },
   {
-    "id": 9915,
+    "id": 13040,
     "artisan_id": 38,
     "type": "URL_FURSUITREVIEW",
-    "url": "https://fursuitreview.com/m/beastcub/"
+    "url": "https://fursuitreview.com/m/beastcub-creations/"
   },
   {
     "id": 165,
@@ -16822,6 +16822,12 @@
     "artisan_id": 453,
     "type": "URL_TUMBLR",
     "url": "https://freckledcatcreations.tumblr.com/"
+  },
+  {
+    "id": 13039,
+    "artisan_id": 453,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/freckled-cat-creations/"
   },
   {
     "id": 9981,
