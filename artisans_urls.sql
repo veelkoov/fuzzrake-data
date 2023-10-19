@@ -4766,4 +4766,10 @@ INSERT INTO artisans_urls VALUES(13037,170,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(13038,170,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/309848-e7dfe0f79eafeb67f73a68ae3cf9385f.jpg');
 INSERT INTO artisans_urls VALUES(13039,453,'URL_FURSUITREVIEW','https://fursuitreview.com/m/freckled-cat-creations/');
 INSERT INTO artisans_urls VALUES(13040,38,'URL_FURSUITREVIEW','https://fursuitreview.com/m/beastcub-creations/');
+INSERT INTO artisans_urls VALUES(13041,684,'URL_PHOTOS','https://www.furtrack.com/p/191136');
+INSERT INTO artisans_urls VALUES(13042,684,'URL_PHOTOS','https://www.furtrack.com/p/319472');
+INSERT INTO artisans_urls VALUES(13043,684,'URL_PHOTOS','https://www.furtrack.com/p/316263');
+INSERT INTO artisans_urls VALUES(13044,684,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/191136-b95de309907cd26005a287389f8a3d0b.jpg');
+INSERT INTO artisans_urls VALUES(13045,684,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/319472-622feb7e7a507993e1c82d12977b0848.jpg');
+INSERT INTO artisans_urls VALUES(13046,684,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/316263-ccc3e059db176379890ecad99a334c58.jpg');
 COMMIT;

@@ -10714,5 +10714,11 @@
     "artisan_id": 684,
     "field_name": "WORKS_WITH_MINORS",
     "value": "False"
+  },
+  {
+    "id": 2704,
+    "artisan_id": 684,
+    "field_name": "DATE_UPDATED",
+    "value": "2023-10-19 18:14:51"
   }
 ]
