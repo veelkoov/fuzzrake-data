@@ -28624,5 +28624,155 @@
     "artisan_id": 684,
     "type": "URL_MINIATURES",
     "url": "https://orca.furtrack.com/gallery/thumb/316263-ccc3e059db176379890ecad99a334c58.jpg"
+  },
+  {
+    "id": 13047,
+    "artisan_id": 685,
+    "type": "URL_WEBSITE",
+    "url": "https://www.tumblr.com/partyanim4ls"
+  },
+  {
+    "id": 13048,
+    "artisan_id": 685,
+    "type": "URL_PRICES",
+    "url": "https://t.me/PARTYANIM4LS"
+  },
+  {
+    "id": 13049,
+    "artisan_id": 685,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/partyanim4ls/"
+  },
+  {
+    "id": 13050,
+    "artisan_id": 685,
+    "type": "URL_DEVIANTART",
+    "url": "https://www.deviantart.com/partyanim4ls"
+  },
+  {
+    "id": 13051,
+    "artisan_id": 685,
+    "type": "URL_TUMBLR",
+    "url": "https://www.tumblr.com/partyanim4ls"
+  },
+  {
+    "id": 13052,
+    "artisan_id": 685,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/partyanim4ls/"
+  },
+  {
+    "id": 13053,
+    "artisan_id": 685,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/channel/UCfc_8Yu8FhUcqLUuE9J_Ynw"
+  },
+  {
+    "id": 13054,
+    "artisan_id": 685,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/store/partyanim4ls"
+  },
+  {
+    "id": 13055,
+    "artisan_id": 685,
+    "type": "URL_QUEUE",
+    "url": "https://t.me/PARTYANIM4LS"
+  },
+  {
+    "id": 13056,
+    "artisan_id": 685,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/user/partyanim4ls"
+  },
+  {
+    "id": 13057,
+    "artisan_id": 686,
+    "type": "URL_WEBSITE",
+    "url": "http://www.bodozo.com/"
+  },
+  {
+    "id": 13058,
+    "artisan_id": 686,
+    "type": "URL_PRICES",
+    "url": "http://www.bodozo.com/fursuit-prices.html"
+  },
+  {
+    "id": 13059,
+    "artisan_id": 686,
+    "type": "URL_FAQ",
+    "url": "http://www.bodozo.com/terms-of-service.html"
+  },
+  {
+    "id": 13060,
+    "artisan_id": 686,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://sfw.furaffinity.net/user/bodozo/"
+  },
+  {
+    "id": 13061,
+    "artisan_id": 686,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/bodoz0"
+  },
+  {
+    "id": 13062,
+    "artisan_id": 686,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/bodoz0/"
+  },
+  {
+    "id": 13063,
+    "artisan_id": 686,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/Bodozo"
+  },
+  {
+    "id": 13064,
+    "artisan_id": 686,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/MZPHjoVA/bodozo-creations-fursuit-commissions"
+  },
+  {
+    "id": 13065,
+    "artisan_id": 687,
+    "type": "URL_WEBSITE",
+    "url": "https://minispawsomecreations.weebly.com/"
+  },
+  {
+    "id": 13066,
+    "artisan_id": 687,
+    "type": "URL_PRICES",
+    "url": "https://minispawsomecreations.weebly.com/quote.html"
+  },
+  {
+    "id": 13067,
+    "artisan_id": 687,
+    "type": "URL_COMMISSIONS",
+    "url": "https://minispawsomecreations.weebly.com/"
+  },
+  {
+    "id": 13068,
+    "artisan_id": 687,
+    "type": "URL_FAQ",
+    "url": "https://minispawsomecreations.weebly.com/faq.html"
+  },
+  {
+    "id": 13069,
+    "artisan_id": 687,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/minispawsomecreations/"
+  },
+  {
+    "id": 13070,
+    "artisan_id": 687,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/channel/UCjqbv1xtzgV5QgidKInGVMQ"
+  },
+  {
+    "id": 13071,
+    "artisan_id": 687,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/la3gQazg/minis-pawsome-creations-commission-queue"
   }
 ]
