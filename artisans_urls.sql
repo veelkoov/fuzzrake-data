@@ -614,13 +614,6 @@ INSERT INTO artisans_urls VALUES(709,176,'URL_TWITTER','https://twitter.com/Tigg
 INSERT INTO artisans_urls VALUES(710,176,'URL_YOUTUBE','https://www.youtube.com/channel/UCC3TF4S7CAaxxa4JGYyxJgQ');
 INSERT INTO artisans_urls VALUES(711,176,'URL_COMMISSIONS','https://tiggcreations.de.tl/');
 INSERT INTO artisans_urls VALUES(712,177,'URL_FACEBOOK','https://www.facebook.com/JenetixxCreations/');
-INSERT INTO artisans_urls VALUES(713,178,'URL_WEBSITE','http://mcreativecorner.com/');
-INSERT INTO artisans_urls VALUES(714,178,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/dorago/');
-INSERT INTO artisans_urls VALUES(715,178,'URL_DEVIANTART','https://www.deviantart.com/maria-m--aka--bakura');
-INSERT INTO artisans_urls VALUES(716,178,'URL_TWITTER','https://twitter.com/MariasCreative1');
-INSERT INTO artisans_urls VALUES(717,178,'URL_FACEBOOK','https://www.facebook.com/marias.creative.corner/');
-INSERT INTO artisans_urls VALUES(718,178,'URL_YOUTUBE','https://www.youtube.com/channel/UC2XZqeLFkLnyvI4CJkOnjeg');
-INSERT INTO artisans_urls VALUES(719,178,'URL_COMMISSIONS','http://mcreativecorner.com/');
 INSERT INTO artisans_urls VALUES(720,179,'URL_WEBSITE','https://www.grayrealmstudio.com/');
 INSERT INTO artisans_urls VALUES(721,179,'URL_PRICES','https://www.grayrealmstudio.com/fursuit-commissions');
 INSERT INTO artisans_urls VALUES(722,179,'URL_FAQ','https://www.grayrealmstudio.com/policies-faq');
@@ -3525,8 +3518,6 @@ INSERT INTO artisans_urls VALUES(11748,211,'URL_OTHER','Discord Server: http://w
 INSERT INTO artisans_urls VALUES(11749,440,'URL_FAQ','https://www.bigsnootsuits.com/f-a-q');
 INSERT INTO artisans_urls VALUES(11750,579,'URL_FURSUITREVIEW','https://fursuitreview.com/m/double-dog-creations/');
 INSERT INTO artisans_urls VALUES(11751,481,'URL_FURSUITREVIEW','https://fursuitreview.com/m/treebark-creations-llc/');
-INSERT INTO artisans_urls VALUES(11753,580,'URL_INSTAGRAM','https://www.instagram.com/sskydoe/');
-INSERT INTO artisans_urls VALUES(11754,580,'URL_QUEUE','https://trello.com/b/CORWAmM3/suits');
 INSERT INTO artisans_urls VALUES(11755,581,'URL_WEBSITE','https://sites.google.com/view/copper-works/home');
 INSERT INTO artisans_urls VALUES(11756,581,'URL_PRICES','https://sites.google.com/view/copper-works/price-guide');
 INSERT INTO artisans_urls VALUES(11757,581,'URL_COMMISSIONS','https://www.instagram.com/paws.n.needles.pro/');
