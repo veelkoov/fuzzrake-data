@@ -9870,6 +9870,12 @@
     "value": "True"
   },
   {
+    "id": 2721,
+    "artisan_id": 659,
+    "field_name": "DATE_UPDATED",
+    "value": "2023-10-29 15:58:38"
+  },
+  {
     "id": 2540,
     "artisan_id": 660,
     "field_name": "DATE_ADDED",
