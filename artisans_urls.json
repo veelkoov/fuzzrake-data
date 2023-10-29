@@ -28774,5 +28774,143 @@
     "artisan_id": 687,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/la3gQazg/minis-pawsome-creations-commission-queue"
+  },
+  {
+    "id": 13072,
+    "artisan_id": 688,
+    "type": "URL_WEBSITE",
+    "url": "https://prismafursuits.wixsite.com/prismafursuits"
+  },
+  {
+    "id": 13073,
+    "artisan_id": 688,
+    "type": "URL_COMMISSIONS",
+    "url": "https://t.me/PrismaFursuits"
+  },
+  {
+    "id": 13074,
+    "artisan_id": 688,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/prismafursuits/"
+  },
+  {
+    "id": 13075,
+    "artisan_id": 688,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/furrySM/"
+  },
+  {
+    "id": 13076,
+    "artisan_id": 688,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/prismafursuits/"
+  },
+  {
+    "id": 13077,
+    "artisan_id": 688,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/QAYNrrtC/prisma-fursuits"
+  },
+  {
+    "id": 13078,
+    "artisan_id": 688,
+    "type": "URL_OTHER",
+    "url": "https://t.me/PrismaFursuits"
+  },
+  {
+    "id": 13079,
+    "artisan_id": 689,
+    "type": "URL_PRICES",
+    "url": "https://trello.com/b/Ty9Q9Rks/lazuli-arget-making"
+  },
+  {
+    "id": 13080,
+    "artisan_id": 689,
+    "type": "URL_COMMISSIONS",
+    "url": "https://trello.com/b/Ty9Q9Rks/lazuli-arget-making"
+  },
+  {
+    "id": 13081,
+    "artisan_id": 689,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/ArgetandLazuli"
+  },
+  {
+    "id": 13082,
+    "artisan_id": 689,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/confused_arget/"
+  },
+  {
+    "id": 13083,
+    "artisan_id": 689,
+    "type": "URL_LINKLIST",
+    "url": "http://linktr.ee/argetandlazuli"
+  },
+  {
+    "id": 13084,
+    "artisan_id": 689,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/user/ArgetAndLazuli"
+  },
+  {
+    "id": 13085,
+    "artisan_id": 689,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/413327"
+  },
+  {
+    "id": 13086,
+    "artisan_id": 689,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/413325"
+  },
+  {
+    "id": 13087,
+    "artisan_id": 689,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/413328"
+  },
+  {
+    "id": 13088,
+    "artisan_id": 689,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/413329"
+  },
+  {
+    "id": 13089,
+    "artisan_id": 689,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/413326"
+  },
+  {
+    "id": 13090,
+    "artisan_id": 689,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/413327-5e7b89cffa419ce74fdd543378abf5fc.jpg"
+  },
+  {
+    "id": 13091,
+    "artisan_id": 689,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/413325-0096334de3748b84f4bcb632ecc55e55.jpg"
+  },
+  {
+    "id": 13092,
+    "artisan_id": 689,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/413328-9b922a9210417ed64727b22e25ceb15f.jpg"
+  },
+  {
+    "id": 13093,
+    "artisan_id": 689,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/413329-5a8403197f31e80ddef6a74170d85247.jpg"
+  },
+  {
+    "id": 13094,
+    "artisan_id": 689,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/413326-eccc7b7e7c7742f3ba6a2a7a384fcaa1.jpg"
   }
 ]

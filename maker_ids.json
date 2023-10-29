@@ -3693,5 +3693,15 @@
     "id": 742,
     "artisan_id": 687,
     "maker_id": "MINISCR"
+  },
+  {
+    "id": 743,
+    "artisan_id": 688,
+    "maker_id": "PRISMAF"
+  },
+  {
+    "id": 744,
+    "artisan_id": 689,
+    "maker_id": "ARGET46"
   }
 ]

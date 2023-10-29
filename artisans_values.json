@@ -10822,5 +10822,59 @@
     "artisan_id": 687,
     "field_name": "WORKS_WITH_MINORS",
     "value": "True"
+  },
+  {
+    "id": 2722,
+    "artisan_id": 688,
+    "field_name": "DATE_ADDED",
+    "value": "2023-10-29 16:05:54"
+  },
+  {
+    "id": 2723,
+    "artisan_id": 688,
+    "field_name": "AGES",
+    "value": "MIXED"
+  },
+  {
+    "id": 2724,
+    "artisan_id": 688,
+    "field_name": "NSFW_WEBSITE",
+    "value": "True"
+  },
+  {
+    "id": 2725,
+    "artisan_id": 688,
+    "field_name": "NSFW_SOCIAL",
+    "value": "True"
+  },
+  {
+    "id": 2726,
+    "artisan_id": 689,
+    "field_name": "DATE_ADDED",
+    "value": "2023-10-29 16:13:32"
+  },
+  {
+    "id": 2727,
+    "artisan_id": 689,
+    "field_name": "AGES",
+    "value": "MIXED"
+  },
+  {
+    "id": 2728,
+    "artisan_id": 689,
+    "field_name": "NSFW_WEBSITE",
+    "value": "False"
+  },
+  {
+    "id": 2729,
+    "artisan_id": 689,
+    "field_name": "NSFW_SOCIAL",
+    "value": "False"
+  },
+  {
+    "id": 2730,
+    "artisan_id": 689,
+    "field_name": "WORKS_WITH_MINORS",
+    "value": "True"
   }
 ]
