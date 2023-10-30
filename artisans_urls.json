@@ -12372,112 +12372,52 @@
     "url": "https://twitter.com/bettaguy"
   },
   {
-    "id": 9174,
-    "artisan_id": 368,
-    "type": "URL_DEVIANTART",
-    "url": "https://www.deviantart.com/saltyseasadness"
-  },
-  {
-    "id": 9175,
-    "artisan_id": 368,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/saltyseasadness"
-  },
-  {
-    "id": 9176,
-    "artisan_id": 368,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/saltyseasadness/"
-  },
-  {
-    "id": 9177,
-    "artisan_id": 368,
-    "type": "URL_YOUTUBE",
-    "url": "https://www.youtube.com/c/saltyseasadness"
-  },
-  {
-    "id": 9178,
-    "artisan_id": 368,
-    "type": "URL_QUEUE",
-    "url": "https://trello.com/b/QkdlOLY7/fursuit-queue"
-  },
-  {
-    "id": 9179,
-    "artisan_id": 368,
-    "type": "URL_SCRITCH",
-    "url": "https://scritch.es/makers/saltyseasadness"
-  },
-  {
-    "id": 9180,
-    "artisan_id": 368,
-    "type": "URL_COMMISSIONS",
-    "url": "https://saltyseasadness.carrd.co/"
-  },
-  {
-    "id": 9679,
-    "artisan_id": 368,
-    "type": "URL_FURSUITREVIEW",
-    "url": "https://fursuitreview.com/m/saltyseasadness/"
-  },
-  {
-    "id": 9680,
-    "artisan_id": 368,
-    "type": "URL_WEBSITE",
-    "url": "https://saltyseasadness.carrd.co/"
-  },
-  {
-    "id": 9681,
-    "artisan_id": 368,
-    "type": "URL_PRICES",
-    "url": "https://saltyseasadness.carrd.co/#prices"
-  },
-  {
     "id": 9682,
     "artisan_id": 368,
     "type": "URL_FUR_AFFINITY",
     "url": "https://www.furaffinity.net/user/saltyseasadness/"
   },
   {
-    "id": 9683,
+    "id": 13095,
     "artisan_id": 368,
-    "type": "URL_TUMBLR",
-    "url": "https://saltyseasadness.tumblr.com/"
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/the-goth-bear/"
   },
   {
-    "id": 9684,
+    "id": 13096,
     "artisan_id": 368,
-    "type": "URL_LINKLIST",
-    "url": "https://linktr.ee/saltyseasadness"
+    "type": "URL_WEBSITE",
+    "url": "https://gothbear.carrd.co/"
   },
   {
-    "id": 9685,
+    "id": 13097,
     "artisan_id": 368,
-    "type": "URL_FURRY_AMINO",
-    "url": "http://aminoapps.com/p/4c9jv3"
+    "type": "URL_PRICES",
+    "url": "https://gothbear.carrd.co/#fursuit"
   },
   {
-    "id": 10168,
+    "id": 13098,
     "artisan_id": 368,
-    "type": "URL_PHOTOS",
-    "url": "https://scritch.es/pictures/4b6d2b92-2d95-47f9-ab62-a15aa340462d"
+    "type": "URL_COMMISSIONS",
+    "url": "https://gothbear.carrd.co/"
   },
   {
-    "id": 10169,
+    "id": 13099,
     "artisan_id": 368,
-    "type": "URL_PHOTOS",
-    "url": "https://scritch.es/pictures/196342be-f160-47a4-8d93-3e049cb706b5"
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/TheGothBear"
   },
   {
-    "id": 10170,
+    "id": 13100,
     "artisan_id": 368,
-    "type": "URL_MINIATURES",
-    "url": "https://storage.scritch.es/scritch/17fb358c5c0c1a9bbe70614c3a1899bd210105c7/thumbnail_9d2ca435-5fde-4884-baa7-9ccbc98c6be3.jpeg"
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/thegothbear/"
   },
   {
-    "id": 10171,
+    "id": 13101,
     "artisan_id": 368,
-    "type": "URL_MINIATURES",
-    "url": "https://storage.scritch.es/scritch/08c7437578a85dc7ad02d5f65a06a43f62406ecb/thumbnail_2fe1b0d3-be81-4ed6-a8e7-20c4e3b627ea.jpeg"
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/QkdlOLY7/tgb-queue"
   },
   {
     "id": 9184,
