@@ -4814,4 +4814,6 @@ INSERT INTO artisans_urls VALUES(13111,691,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(13112,691,'URL_YOUTUBE','https://youtube.com/@LIRYSBIBI');
 INSERT INTO artisans_urls VALUES(13113,691,'URL_LINKLIST','https://linktr.ee/Lirysbibi');
 INSERT INTO artisans_urls VALUES(13114,691,'URL_ETSY','https://www.etsy.com/shop/LirysbibiArtShop');
+INSERT INTO artisans_urls VALUES(13115,231,'URL_FURSUITREVIEW','https://fursuitreview.com/m/zuri-studios/');
+INSERT INTO artisans_urls VALUES(13116,231,'URL_WEBSITE','https://www.zuristudios.info/');
 COMMIT;

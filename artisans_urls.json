@@ -7248,6 +7248,18 @@
     "url": "https://twitter.com/Zuri_Studios"
   },
   {
+    "id": 13115,
+    "artisan_id": 231,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/zuri-studios/"
+  },
+  {
+    "id": 13116,
+    "artisan_id": 231,
+    "type": "URL_WEBSITE",
+    "url": "https://www.zuristudios.info/"
+  },
+  {
     "id": 1008,
     "artisan_id": 232,
     "type": "URL_WEBSITE",
