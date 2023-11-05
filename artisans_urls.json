@@ -28798,5 +28798,83 @@
     "artisan_id": 689,
     "type": "URL_MINIATURES",
     "url": "https://orca.furtrack.com/gallery/thumb/413326-eccc7b7e7c7742f3ba6a2a7a384fcaa1.jpg"
+  },
+  {
+    "id": 13102,
+    "artisan_id": 690,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/zaqlen-ring/"
+  },
+  {
+    "id": 13103,
+    "artisan_id": 690,
+    "type": "URL_PRICES",
+    "url": "https://docs.google.com/document/d/1rvh2lkJgWWsPBGLhYdLDbVsjslr72O4v31SnRZ9tSHo/edit?usp=sharing"
+  },
+  {
+    "id": 13104,
+    "artisan_id": 690,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.facebook.com/ZaqlenFursuits/"
+  },
+  {
+    "id": 13105,
+    "artisan_id": 690,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/ZaqlenFursuits/"
+  },
+  {
+    "id": 13106,
+    "artisan_id": 690,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/ZaqlenRing"
+  },
+  {
+    "id": 13107,
+    "artisan_id": 690,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/other-items/zaqlen/137557"
+  },
+  {
+    "id": 13108,
+    "artisan_id": 690,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/TnKulf3X/zaqlenring"
+  },
+  {
+    "id": 13109,
+    "artisan_id": 690,
+    "type": "URL_SCRITCH",
+    "url": "https://scritch.es/makers/zaqlen-ring"
+  },
+  {
+    "id": 13110,
+    "artisan_id": 691,
+    "type": "URL_WEBSITE",
+    "url": "https://www.etsy.com/shop/LirysbibiArtShop"
+  },
+  {
+    "id": 13111,
+    "artisan_id": 691,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/lirysbibi_fursart/"
+  },
+  {
+    "id": 13112,
+    "artisan_id": 691,
+    "type": "URL_YOUTUBE",
+    "url": "https://youtube.com/@LIRYSBIBI"
+  },
+  {
+    "id": 13113,
+    "artisan_id": 691,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/Lirysbibi"
+  },
+  {
+    "id": 13114,
+    "artisan_id": 691,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/LirysbibiArtShop"
   }
 ]

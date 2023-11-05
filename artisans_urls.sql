@@ -4801,4 +4801,17 @@ INSERT INTO artisans_urls VALUES(13098,368,'URL_COMMISSIONS','https://gothbear.c
 INSERT INTO artisans_urls VALUES(13099,368,'URL_TWITTER','https://twitter.com/TheGothBear');
 INSERT INTO artisans_urls VALUES(13100,368,'URL_INSTAGRAM','https://www.instagram.com/thegothbear/');
 INSERT INTO artisans_urls VALUES(13101,368,'URL_QUEUE','https://trello.com/b/QkdlOLY7/tgb-queue');
+INSERT INTO artisans_urls VALUES(13102,690,'URL_FURSUITREVIEW','https://fursuitreview.com/m/zaqlen-ring/');
+INSERT INTO artisans_urls VALUES(13103,690,'URL_PRICES','https://docs.google.com/document/d/1rvh2lkJgWWsPBGLhYdLDbVsjslr72O4v31SnRZ9tSHo/edit?usp=sharing');
+INSERT INTO artisans_urls VALUES(13104,690,'URL_COMMISSIONS','https://www.facebook.com/ZaqlenFursuits/');
+INSERT INTO artisans_urls VALUES(13105,690,'URL_FACEBOOK','https://www.facebook.com/ZaqlenFursuits/');
+INSERT INTO artisans_urls VALUES(13106,690,'URL_ETSY','https://www.etsy.com/shop/ZaqlenRing');
+INSERT INTO artisans_urls VALUES(13107,690,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/other-items/zaqlen/137557');
+INSERT INTO artisans_urls VALUES(13108,690,'URL_QUEUE','https://trello.com/b/TnKulf3X/zaqlenring');
+INSERT INTO artisans_urls VALUES(13109,690,'URL_SCRITCH','https://scritch.es/makers/zaqlen-ring');
+INSERT INTO artisans_urls VALUES(13110,691,'URL_WEBSITE','https://www.etsy.com/shop/LirysbibiArtShop');
+INSERT INTO artisans_urls VALUES(13111,691,'URL_INSTAGRAM','https://www.instagram.com/lirysbibi_fursart/');
+INSERT INTO artisans_urls VALUES(13112,691,'URL_YOUTUBE','https://youtube.com/@LIRYSBIBI');
+INSERT INTO artisans_urls VALUES(13113,691,'URL_LINKLIST','https://linktr.ee/Lirysbibi');
+INSERT INTO artisans_urls VALUES(13114,691,'URL_ETSY','https://www.etsy.com/shop/LirysbibiArtShop');
 COMMIT;
