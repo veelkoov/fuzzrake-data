@@ -4374,28 +4374,22 @@
     "url": "https://twitter.com/SmolShepSuits"
   },
   {
-    "id": 610,
-    "artisan_id": 157,
-    "type": "URL_WEBSITE",
-    "url": "https://www.snowleopardcreations.com/"
-  },
-  {
     "id": 611,
     "artisan_id": 157,
     "type": "URL_FUR_AFFINITY",
     "url": "https://www.furaffinity.net/user/snowleopardcreations/"
   },
   {
-    "id": 612,
-    "artisan_id": 157,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/SnepCreations"
-  },
-  {
     "id": 613,
     "artisan_id": 157,
     "type": "URL_INSTAGRAM",
     "url": "https://www.instagram.com/sanuraleopard/"
+  },
+  {
+    "id": 13117,
+    "artisan_id": 157,
+    "type": "URL_WEBSITE",
+    "url": "https://www.blackcatatelier.com/"
   },
   {
     "id": 614,
@@ -12352,36 +12346,6 @@
     "artisan_id": 366,
     "type": "URL_INSTAGRAM",
     "url": "https://www.instagram.com/golden_cat22/"
-  },
-  {
-    "id": 9170,
-    "artisan_id": 367,
-    "type": "URL_WEBSITE",
-    "url": "https://bettasfursuitstudios.wixsite.com/fursuits"
-  },
-  {
-    "id": 9171,
-    "artisan_id": 367,
-    "type": "URL_PRICES",
-    "url": "https://bettasfursuitstudios.wixsite.com/mysite/pricing"
-  },
-  {
-    "id": 9172,
-    "artisan_id": 367,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/bettas.fursuit.studios/"
-  },
-  {
-    "id": 9173,
-    "artisan_id": 367,
-    "type": "URL_COMMISSIONS",
-    "url": "https://bettasfursuitstudios.wixsite.com/mysite/commissions"
-  },
-  {
-    "id": 9199,
-    "artisan_id": 367,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/bettaguy"
   },
   {
     "id": 9682,
@@ -20754,24 +20718,6 @@
     "url": "https://www.etsy.com/shop/NaughtyCruxStudios"
   },
   {
-    "id": 11185,
-    "artisan_id": 535,
-    "type": "URL_WEBSITE",
-    "url": "https://www.kikichaoscreations.com/"
-  },
-  {
-    "id": 11186,
-    "artisan_id": 535,
-    "type": "URL_PRICES",
-    "url": "https://www.kikichaoscreations.com/prices"
-  },
-  {
-    "id": 11187,
-    "artisan_id": 535,
-    "type": "URL_COMMISSIONS",
-    "url": "https://www.kikichaoscreations.com/"
-  },
-  {
     "id": 11188,
     "artisan_id": 535,
     "type": "URL_TWITTER",
@@ -20800,6 +20746,12 @@
     "artisan_id": 535,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/68tSmFqj/kiki-chaos-creations-queue"
+  },
+  {
+    "id": 13118,
+    "artisan_id": 535,
+    "type": "URL_COMMISSIONS",
+    "url": "https://twitter.com/KikiChaosC"
   },
   {
     "id": 11194,
