@@ -4138,7 +4138,6 @@ INSERT INTO artisans_urls VALUES(12425,639,'URL_FACEBOOK','https://www.facebook.
 INSERT INTO artisans_urls VALUES(12426,639,'URL_INSTAGRAM','https://www.instagram.com/sparklepawsstudios/');
 INSERT INTO artisans_urls VALUES(12427,639,'URL_LINKLIST','https://sparklepup.carrd.co/');
 INSERT INTO artisans_urls VALUES(12428,639,'URL_ETSY','https://www.etsy.com/shop/SparklePawsStudios');
-INSERT INTO artisans_urls VALUES(12429,601,'URL_WEBSITE','https://fellowbeasts.carrd.co/');
 INSERT INTO artisans_urls VALUES(12430,640,'URL_PRICES','https://docs.google.com/forms/d/e/1FAIpQLSdFYkgXvNvyU96-NppEHcbciUPtUdK5w0SPsCvkEJR2jIY3Qw/viewform');
 INSERT INTO artisans_urls VALUES(12431,640,'URL_COMMISSIONS','https://t.me/beastmakerstudio');
 INSERT INTO artisans_urls VALUES(12432,640,'URL_TWITTER','https://twitter.com/_beastmaker_');
@@ -4808,4 +4807,5 @@ INSERT INTO artisans_urls VALUES(13115,231,'URL_FURSUITREVIEW','https://fursuitr
 INSERT INTO artisans_urls VALUES(13116,231,'URL_WEBSITE','https://www.zuristudios.info/');
 INSERT INTO artisans_urls VALUES(13117,157,'URL_WEBSITE','https://www.blackcatatelier.com/');
 INSERT INTO artisans_urls VALUES(13118,535,'URL_COMMISSIONS','https://twitter.com/KikiChaosC');
+INSERT INTO artisans_urls VALUES(13119,601,'URL_WEBSITE','https://fellowbeasts.de/');
 COMMIT;
