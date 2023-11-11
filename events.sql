@@ -2438,4 +2438,13 @@ INSERT INTO events VALUES(2449,'2023-11-10 00:10:16.909','CS_UPDATED','DeadPozzu
 INSERT INTO events VALUES(2450,'2023-11-10 00:10:17.101','CS_UPDATED','Miggs Creations',0,0,0,'','https://miggscreations.com/#comms','','','Commissions',0);
 INSERT INTO events VALUES(2451,'2023-11-10 12:09:08.445','CS_UPDATED','fancyfishfursuits',0,0,0,'','https://twitter.com/fancyfishfurs','','','Commissions',0);
 INSERT INTO events VALUES(2452,'2023-11-10 12:09:08.855','CS_UPDATED','Kiki''s Creations',0,0,0,'','https://twitter.com/kikis_creation','',replace('Quotes\nCommissions','\n',char(10)),'',1);
+INSERT INTO events VALUES(2453,'2023-11-10 19:34:00','DATA_UPDATED','',0,0,3,'2e3b267884be0e0ef71bdebdfb3da2de1596c7bd','','','','',0);
+INSERT INTO events VALUES(2454,'2023-11-10 19:52:00','DATA_UPDATED','',0,1,0,'e7b31897ec0f5d48abdefe7556833b75b03aa742','','','','',0);
+INSERT INTO events VALUES(2455,'2023-11-11 00:10:24.580','CS_UPDATED','fancyfishfursuits',0,0,0,'','https://twitter.com/fancyfishfurs','','Commissions','',1);
+INSERT INTO events VALUES(2456,'2023-11-11 00:10:24.909','CS_UPDATED','Kiki''s Creations',0,0,0,'','https://twitter.com/kikis_creation','','',replace('Quotes\nCommissions','\n',char(10)),0);
+INSERT INTO events VALUES(2457,'2023-11-11 00:10:24.961','CS_UPDATED','DeadPozzum',0,0,0,'','https://twitter.com/DeadPozzum','','Commissions','',1);
+INSERT INTO events VALUES(2458,'2023-11-11 00:10:25.125','CS_UPDATED','Miggs Creations',0,0,0,'','https://miggscreations.com/#comms','','Commissions','',1);
+INSERT INTO events VALUES(2459,'2023-11-11 12:09:28.591','CS_UPDATED','fancyfishfursuits',0,0,0,'','https://twitter.com/fancyfishfurs','','','Commissions',0);
+INSERT INTO events VALUES(2460,'2023-11-11 12:09:28.980','CS_UPDATED','DeadPozzum',0,0,0,'','https://twitter.com/DeadPozzum','','','Commissions',0);
+INSERT INTO events VALUES(2461,'2023-11-11 12:09:29.093','CS_UPDATED','Miggs Creations',0,0,0,'','https://miggscreations.com/#comms','','','Commissions',0);
 COMMIT;
