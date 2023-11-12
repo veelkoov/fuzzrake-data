@@ -3738,6 +3738,12 @@
     "value": "2021-07-11 14:48:54"
   },
   {
+    "id": 2749,
+    "artisan_id": 469,
+    "field_name": "DATE_UPDATED",
+    "value": "2023-11-12 12:27:50"
+  },
+  {
     "id": 1421,
     "artisan_id": 470,
     "field_name": "DATE_ADDED",

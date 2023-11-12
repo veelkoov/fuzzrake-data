@@ -17394,70 +17394,64 @@
     "url": "https://trello.com/b/3sgiYAkT/homebrewed-suits-commissions"
   },
   {
-    "id": 10092,
-    "artisan_id": 469,
-    "type": "URL_WEBSITE",
-    "url": "https://artzorastudios.weebly.com/"
-  },
-  {
-    "id": 10093,
-    "artisan_id": 469,
-    "type": "URL_PRICES",
-    "url": "https://artzorastudios.weebly.com/fursuit-commissions.html"
-  },
-  {
-    "id": 10094,
-    "artisan_id": 469,
-    "type": "URL_FAQ",
-    "url": "https://artzorastudios.weebly.com/faq.html"
-  },
-  {
     "id": 10095,
     "artisan_id": 469,
     "type": "URL_FUR_AFFINITY",
     "url": "https://www.furaffinity.net/user/corkiedog/"
   },
   {
-    "id": 10096,
-    "artisan_id": 469,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/ArtzoraStudios"
-  },
-  {
-    "id": 10097,
-    "artisan_id": 469,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/corkiedog1/"
-  },
-  {
-    "id": 10098,
-    "artisan_id": 469,
-    "type": "URL_ETSY",
-    "url": "https://www.etsy.com/shop/ArtZoraStudios"
-  },
-  {
-    "id": 10099,
-    "artisan_id": 469,
-    "type": "URL_OTHER_SHOP",
-    "url": "https://artzorastudios.weebly.com/premades-for-sale.html"
-  },
-  {
-    "id": 10100,
-    "artisan_id": 469,
-    "type": "URL_QUEUE",
-    "url": "https://trello.com/b/NJskTkot/artzora-fursuit-queue"
-  },
-  {
-    "id": 10101,
-    "artisan_id": 469,
-    "type": "URL_COMMISSIONS",
-    "url": "https://artzorastudios.weebly.com/fursuit-commissions.html"
-  },
-  {
     "id": 10555,
     "artisan_id": 469,
     "type": "URL_FURSUITREVIEW",
     "url": "https://fursuitreview.com/m/artzora-studios/"
+  },
+  {
+    "id": 13120,
+    "artisan_id": 469,
+    "type": "URL_WEBSITE",
+    "url": "https://www.sourcitrussuits.com/"
+  },
+  {
+    "id": 13121,
+    "artisan_id": 469,
+    "type": "URL_PRICES",
+    "url": "https://www.sourcitrussuits.com/fursuit-pricing.html"
+  },
+  {
+    "id": 13122,
+    "artisan_id": 469,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.sourcitrussuits.com/fursuit-pricing.html"
+  },
+  {
+    "id": 13123,
+    "artisan_id": 469,
+    "type": "URL_FAQ",
+    "url": "https://www.sourcitrussuits.com/faq.html"
+  },
+  {
+    "id": 13124,
+    "artisan_id": 469,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/SourCitrusSuits"
+  },
+  {
+    "id": 13125,
+    "artisan_id": 469,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/sourcitrussuits/"
+  },
+  {
+    "id": 13126,
+    "artisan_id": 469,
+    "type": "URL_OTHER_SHOP",
+    "url": "https://www.sourcitrussuits.com/premades-for-sale.html"
+  },
+  {
+    "id": 13127,
+    "artisan_id": 469,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/NJskTkot/sour-citrus-suits-queue"
   },
   {
     "id": 10108,
