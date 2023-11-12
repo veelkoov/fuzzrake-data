@@ -4807,4 +4807,8 @@ INSERT INTO artisans_urls VALUES(13124,469,'URL_TWITTER','https://twitter.com/So
 INSERT INTO artisans_urls VALUES(13125,469,'URL_INSTAGRAM','https://www.instagram.com/sourcitrussuits/');
 INSERT INTO artisans_urls VALUES(13126,469,'URL_OTHER_SHOP','https://www.sourcitrussuits.com/premades-for-sale.html');
 INSERT INTO artisans_urls VALUES(13127,469,'URL_QUEUE','https://trello.com/b/NJskTkot/sour-citrus-suits-queue');
+INSERT INTO artisans_urls VALUES(13128,692,'URL_WEBSITE','https://docs.google.com/presentation/d/1ovB9OBP1kjKWcblB_WCDGN-3egXPxF3rVh_DgkTXnCg/edit');
+INSERT INTO artisans_urls VALUES(13129,692,'URL_TWITTER','https://twitter.com/sunhallowsuits');
+INSERT INTO artisans_urls VALUES(13130,692,'URL_YOUTUBE','https://www.youtube.com/@Sunhallowsuits');
+INSERT INTO artisans_urls VALUES(13131,692,'URL_LINKLIST','https://sunhallow.carrd.co/');
 COMMIT;

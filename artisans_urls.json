@@ -28834,5 +28834,29 @@
     "artisan_id": 691,
     "type": "URL_ETSY",
     "url": "https://www.etsy.com/shop/LirysbibiArtShop"
+  },
+  {
+    "id": 13128,
+    "artisan_id": 692,
+    "type": "URL_WEBSITE",
+    "url": "https://docs.google.com/presentation/d/1ovB9OBP1kjKWcblB_WCDGN-3egXPxF3rVh_DgkTXnCg/edit"
+  },
+  {
+    "id": 13129,
+    "artisan_id": 692,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/sunhallowsuits"
+  },
+  {
+    "id": 13130,
+    "artisan_id": 692,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@Sunhallowsuits"
+  },
+  {
+    "id": 13131,
+    "artisan_id": 692,
+    "type": "URL_LINKLIST",
+    "url": "https://sunhallow.carrd.co/"
   }
 ]
