@@ -2465,7 +2465,6 @@ INSERT INTO artisans_urls VALUES(10551,494,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(10552,494,'URL_LINKLIST','https://linktr.ee/starslikeroses');
 INSERT INTO artisans_urls VALUES(10553,494,'URL_ETSY','https://www.etsy.com/shop/ukstarslikeroses');
 INSERT INTO artisans_urls VALUES(10554,494,'URL_QUEUE','https://trello.com/b/IzuwtoPO/starslikeroses');
-INSERT INTO artisans_urls VALUES(10555,469,'URL_FURSUITREVIEW','https://fursuitreview.com/m/artzora-studios/');
 INSERT INTO artisans_urls VALUES(10556,200,'URL_INSTAGRAM','https://www.instagram.com/normans_needleworks/');
 INSERT INTO artisans_urls VALUES(10557,374,'URL_WEBSITE','https://livingbeasts.net/');
 INSERT INTO artisans_urls VALUES(10558,374,'URL_PRICES','https://livingbeasts.net/#prices');
@@ -4811,4 +4810,5 @@ INSERT INTO artisans_urls VALUES(13128,692,'URL_WEBSITE','https://docs.google.co
 INSERT INTO artisans_urls VALUES(13129,692,'URL_TWITTER','https://twitter.com/sunhallowsuits');
 INSERT INTO artisans_urls VALUES(13130,692,'URL_YOUTUBE','https://www.youtube.com/@Sunhallowsuits');
 INSERT INTO artisans_urls VALUES(13131,692,'URL_LINKLIST','https://sunhallow.carrd.co/');
+INSERT INTO artisans_urls VALUES(13132,469,'URL_FURSUITREVIEW','https://fursuitreview.com/m/sour-citrus-suits/');
 COMMIT;

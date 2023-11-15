@@ -17400,12 +17400,6 @@
     "url": "https://www.furaffinity.net/user/corkiedog/"
   },
   {
-    "id": 10555,
-    "artisan_id": 469,
-    "type": "URL_FURSUITREVIEW",
-    "url": "https://fursuitreview.com/m/artzora-studios/"
-  },
-  {
     "id": 13120,
     "artisan_id": 469,
     "type": "URL_WEBSITE",
@@ -17452,6 +17446,12 @@
     "artisan_id": 469,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/NJskTkot/sour-citrus-suits-queue"
+  },
+  {
+    "id": 13132,
+    "artisan_id": 469,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/sour-citrus-suits/"
   },
   {
     "id": 10108,
