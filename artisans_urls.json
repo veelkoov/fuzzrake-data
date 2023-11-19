@@ -7014,10 +7014,28 @@
     "url": "https://twitter.com/tay__bee"
   },
   {
-    "id": 993,
+    "id": 13148,
     "artisan_id": 228,
-    "type": "URL_FACEBOOK",
-    "url": "https://www.facebook.com/alteredcreatures/"
+    "type": "URL_PRICES",
+    "url": "https://halfbloodcreatures.carrd.co/"
+  },
+  {
+    "id": 13149,
+    "artisan_id": 228,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/CreaturesHalf"
+  },
+  {
+    "id": 13150,
+    "artisan_id": 228,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/halfbloodcreatures/"
+  },
+  {
+    "id": 13151,
+    "artisan_id": 228,
+    "type": "URL_LINKLIST",
+    "url": "https://halfbloodcreatures.carrd.co/"
   },
   {
     "id": 994,
@@ -28858,5 +28876,113 @@
     "artisan_id": 692,
     "type": "URL_LINKLIST",
     "url": "https://sunhallow.carrd.co/"
+  },
+  {
+    "id": 13133,
+    "artisan_id": 693,
+    "type": "URL_WEBSITE",
+    "url": "https://chibeasts.com/"
+  },
+  {
+    "id": 13134,
+    "artisan_id": 693,
+    "type": "URL_PRICES",
+    "url": "https://chibeasts.com/#prices"
+  },
+  {
+    "id": 13135,
+    "artisan_id": 693,
+    "type": "URL_COMMISSIONS",
+    "url": "https://chibeasts.com/"
+  },
+  {
+    "id": 13136,
+    "artisan_id": 693,
+    "type": "URL_FAQ",
+    "url": "https://chibeasts.com/#faq"
+  },
+  {
+    "id": 13137,
+    "artisan_id": 693,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/chibeasts/"
+  },
+  {
+    "id": 13138,
+    "artisan_id": 693,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/chibeasts"
+  },
+  {
+    "id": 13139,
+    "artisan_id": 693,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/chibeasts/"
+  },
+  {
+    "id": 13140,
+    "artisan_id": 693,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/chibeasts/"
+  },
+  {
+    "id": 13141,
+    "artisan_id": 693,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/y6Wmc2Jm/chibeasts-trello"
+  },
+  {
+    "id": 13142,
+    "artisan_id": 693,
+    "type": "URL_SCRITCH",
+    "url": "https://scritch.es/makers/chibeasts"
+  },
+  {
+    "id": 13143,
+    "artisan_id": 693,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:starcane_arts"
+  },
+  {
+    "id": 13144,
+    "artisan_id": 693,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/0647c8dc-b1e0-402e-a5bb-ac418eb04812"
+  },
+  {
+    "id": 13145,
+    "artisan_id": 693,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/386732"
+  },
+  {
+    "id": 13146,
+    "artisan_id": 693,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/244907"
+  },
+  {
+    "id": 13153,
+    "artisan_id": 693,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/386732-451e57092d4c80eab40152ba1aa7fff1.jpg"
+  },
+  {
+    "id": 13154,
+    "artisan_id": 693,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/244907-56ffa0c495885953bb04d984de78f834.jpg"
+  },
+  {
+    "id": 13155,
+    "artisan_id": 693,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/9e65e2f9a68846f2d4f8fe00b970cc6fb6f6c3f6/thumbnail_8627b15f-ebeb-4682-bdeb-691da6841ced.jpeg#r90"
+  },
+  {
+    "id": 13147,
+    "artisan_id": 694,
+    "type": "URL_WEBSITE",
+    "url": "https://celestialbeastsstudios.carrd.co/"
   }
 ]

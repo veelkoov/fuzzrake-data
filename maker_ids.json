@@ -1220,6 +1220,11 @@
     "maker_id": "M000228"
   },
   {
+    "id": 752,
+    "artisan_id": 228,
+    "maker_id": "HALFBLD"
+  },
+  {
     "id": 260,
     "artisan_id": 229,
     "maker_id": "M000229"
@@ -3728,5 +3733,15 @@
     "id": 749,
     "artisan_id": 692,
     "maker_id": "SHSUITS"
+  },
+  {
+    "id": 750,
+    "artisan_id": 693,
+    "maker_id": "CHIBSTS"
+  },
+  {
+    "id": 751,
+    "artisan_id": 694,
+    "maker_id": "SLUGGSS"
   }
 ]
