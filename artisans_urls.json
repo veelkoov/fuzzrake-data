@@ -28824,22 +28824,10 @@
     "url": "https://scritch.es/makers/zaqlen-ring"
   },
   {
-    "id": 13110,
-    "artisan_id": 691,
-    "type": "URL_WEBSITE",
-    "url": "https://www.etsy.com/shop/LirysbibiArtShop"
-  },
-  {
     "id": 13111,
     "artisan_id": 691,
     "type": "URL_INSTAGRAM",
     "url": "https://www.instagram.com/lirysbibi_fursart/"
-  },
-  {
-    "id": 13112,
-    "artisan_id": 691,
-    "type": "URL_YOUTUBE",
-    "url": "https://youtube.com/@LIRYSBIBI"
   },
   {
     "id": 13113,
@@ -28852,6 +28840,18 @@
     "artisan_id": 691,
     "type": "URL_ETSY",
     "url": "https://www.etsy.com/shop/LirysbibiArtShop"
+  },
+  {
+    "id": 13179,
+    "artisan_id": 691,
+    "type": "URL_WEBSITE",
+    "url": "http://lirysbibiartshop.com/"
+  },
+  {
+    "id": 13180,
+    "artisan_id": 691,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@LIRYSBIB"
   },
   {
     "id": 13128,

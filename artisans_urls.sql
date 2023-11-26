@@ -4787,9 +4787,7 @@ INSERT INTO artisans_urls VALUES(13106,690,'URL_ETSY','https://www.etsy.com/shop
 INSERT INTO artisans_urls VALUES(13107,690,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/other-items/zaqlen/137557');
 INSERT INTO artisans_urls VALUES(13108,690,'URL_QUEUE','https://trello.com/b/TnKulf3X/zaqlenring');
 INSERT INTO artisans_urls VALUES(13109,690,'URL_SCRITCH','https://scritch.es/makers/zaqlen-ring');
-INSERT INTO artisans_urls VALUES(13110,691,'URL_WEBSITE','https://www.etsy.com/shop/LirysbibiArtShop');
 INSERT INTO artisans_urls VALUES(13111,691,'URL_INSTAGRAM','https://www.instagram.com/lirysbibi_fursart/');
-INSERT INTO artisans_urls VALUES(13112,691,'URL_YOUTUBE','https://youtube.com/@LIRYSBIBI');
 INSERT INTO artisans_urls VALUES(13113,691,'URL_LINKLIST','https://linktr.ee/Lirysbibi');
 INSERT INTO artisans_urls VALUES(13114,691,'URL_ETSY','https://www.etsy.com/shop/LirysbibiArtShop');
 INSERT INTO artisans_urls VALUES(13115,231,'URL_FURSUITREVIEW','https://fursuitreview.com/m/zuri-studios/');
@@ -4854,4 +4852,6 @@ INSERT INTO artisans_urls VALUES(13175,695,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(13176,695,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/300082-c391b1896b9b3c54f59c72c02281431a.jpg');
 INSERT INTO artisans_urls VALUES(13177,695,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/361768-37891aa247431c934a77006d38434d7a.jpg');
 INSERT INTO artisans_urls VALUES(13178,695,'URL_FURSUITREVIEW','https://fursuitreview.com/m/midnight-makers/');
+INSERT INTO artisans_urls VALUES(13179,691,'URL_WEBSITE','http://lirysbibiartshop.com/');
+INSERT INTO artisans_urls VALUES(13180,691,'URL_YOUTUBE','https://www.youtube.com/@LIRYSBIB');
 COMMIT;

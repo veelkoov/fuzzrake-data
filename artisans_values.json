@@ -11028,6 +11028,12 @@
     "value": "False"
   },
   {
+    "id": 2782,
+    "artisan_id": 691,
+    "field_name": "DATE_UPDATED",
+    "value": "2023-11-26 16:49:25"
+  },
+  {
     "id": 2750,
     "artisan_id": 692,
     "field_name": "DATE_ADDED",
