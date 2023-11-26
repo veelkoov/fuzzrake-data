@@ -20928,40 +20928,46 @@
     "url": "https://trello.com/b/OP2soPlx/fedoras-fursuits"
   },
   {
-    "id": 11220,
-    "artisan_id": 540,
-    "type": "URL_WEBSITE",
-    "url": "https://cetaceanimagination.wixsite.com/home"
-  },
-  {
-    "id": 11221,
-    "artisan_id": 540,
-    "type": "URL_PRICES",
-    "url": "https://cetaceanimagination.wixsite.com/home/prices"
-  },
-  {
-    "id": 11222,
-    "artisan_id": 540,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/CetaceanSuits"
-  },
-  {
     "id": 11223,
     "artisan_id": 540,
     "type": "URL_LINKLIST",
     "url": "https://linkr.bio/32l9r"
   },
   {
-    "id": 11224,
+    "id": 13181,
     "artisan_id": 540,
-    "type": "URL_QUEUE",
-    "url": "https://trello.com/b/VkS1bxOl/cetacean-imagination"
+    "type": "URL_WEBSITE",
+    "url": "https://www.cownosecovestudios.com/"
   },
   {
-    "id": 11327,
+    "id": 13182,
+    "artisan_id": 540,
+    "type": "URL_PRICES",
+    "url": "https://www.cownosecovestudios.com/prices"
+  },
+  {
+    "id": 13183,
+    "artisan_id": 540,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/CownoseCove"
+  },
+  {
+    "id": 13184,
     "artisan_id": 540,
     "type": "URL_OTHER_SHOP",
-    "url": "https://cetaceanimagination.wixsite.com/home/shop-1"
+    "url": "https://cownose-cove.myshopify.com/"
+  },
+  {
+    "id": 13185,
+    "artisan_id": 540,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/VkS1bxOl/cownose-cove"
+  },
+  {
+    "id": 13186,
+    "artisan_id": 540,
+    "type": "URL_OTHER",
+    "url": "Telegram Channel: https://t.me/ForeverChakra"
   },
   {
     "id": 11225,

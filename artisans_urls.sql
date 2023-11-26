@@ -3012,11 +3012,7 @@ INSERT INTO artisans_urls VALUES(11212,538,'URL_LINKLIST','http://Linktr.ee/Dark
 INSERT INTO artisans_urls VALUES(11213,538,'URL_ETSY','https://www.etsy.com/shop/DarkmustangCreations');
 INSERT INTO artisans_urls VALUES(11215,539,'URL_COMMISSIONS','https://www.furaffinity.net/user/fedorafursuits/');
 INSERT INTO artisans_urls VALUES(11216,539,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/fedorafursuits/');
-INSERT INTO artisans_urls VALUES(11220,540,'URL_WEBSITE','https://cetaceanimagination.wixsite.com/home');
-INSERT INTO artisans_urls VALUES(11221,540,'URL_PRICES','https://cetaceanimagination.wixsite.com/home/prices');
-INSERT INTO artisans_urls VALUES(11222,540,'URL_TWITTER','https://twitter.com/CetaceanSuits');
 INSERT INTO artisans_urls VALUES(11223,540,'URL_LINKLIST','https://linkr.bio/32l9r');
-INSERT INTO artisans_urls VALUES(11224,540,'URL_QUEUE','https://trello.com/b/VkS1bxOl/cetacean-imagination');
 INSERT INTO artisans_urls VALUES(11225,541,'URL_INSTAGRAM','https://www.instagram.com/saberfang/');
 INSERT INTO artisans_urls VALUES(11226,541,'URL_LINKLIST','https://linktr.ee/LichiSaber');
 INSERT INTO artisans_urls VALUES(11227,541,'URL_QUEUE','https://trello.com/b/ipdmhK3v/saberfang-costumes');
@@ -3103,7 +3099,6 @@ INSERT INTO artisans_urls VALUES(11323,547,'URL_SCRITCH','https://scritch.es/kik
 INSERT INTO artisans_urls VALUES(11324,547,'URL_FURTRACK','https://www.furtrack.com/user/kikiscreations');
 INSERT INTO artisans_urls VALUES(11325,395,'URL_TWITTER','https://twitter.com/28ghostiez');
 INSERT INTO artisans_urls VALUES(11326,395,'URL_INSTAGRAM','https://www.instagram.com/28ghostiez/');
-INSERT INTO artisans_urls VALUES(11327,540,'URL_OTHER_SHOP','https://cetaceanimagination.wixsite.com/home/shop-1');
 INSERT INTO artisans_urls VALUES(11328,512,'URL_FURSUITREVIEW','https://fursuitreview.com/m/aussiestudios/');
 INSERT INTO artisans_urls VALUES(11329,441,'URL_PHOTOS','https://www.furtrack.com/p/88334');
 INSERT INTO artisans_urls VALUES(11330,441,'URL_PHOTOS','https://www.furtrack.com/p/88331');
@@ -4853,4 +4848,10 @@ INSERT INTO artisans_urls VALUES(13177,695,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(13178,695,'URL_FURSUITREVIEW','https://fursuitreview.com/m/midnight-makers/');
 INSERT INTO artisans_urls VALUES(13179,691,'URL_WEBSITE','http://lirysbibiartshop.com/');
 INSERT INTO artisans_urls VALUES(13180,691,'URL_YOUTUBE','https://www.youtube.com/@LIRYSBIB');
+INSERT INTO artisans_urls VALUES(13181,540,'URL_WEBSITE','https://www.cownosecovestudios.com/');
+INSERT INTO artisans_urls VALUES(13182,540,'URL_PRICES','https://www.cownosecovestudios.com/prices');
+INSERT INTO artisans_urls VALUES(13183,540,'URL_TWITTER','https://twitter.com/CownoseCove');
+INSERT INTO artisans_urls VALUES(13184,540,'URL_OTHER_SHOP','https://cownose-cove.myshopify.com/');
+INSERT INTO artisans_urls VALUES(13185,540,'URL_QUEUE','https://trello.com/b/VkS1bxOl/cownose-cove');
+INSERT INTO artisans_urls VALUES(13186,540,'URL_OTHER','Telegram Channel: https://t.me/ForeverChakra');
 COMMIT;
