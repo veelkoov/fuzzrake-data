@@ -28984,5 +28984,137 @@
     "artisan_id": 694,
     "type": "URL_WEBSITE",
     "url": "https://celestialbeastsstudios.carrd.co/"
+  },
+  {
+    "id": 13157,
+    "artisan_id": 695,
+    "type": "URL_WEBSITE",
+    "url": "https://www.midnightmakers.ca/"
+  },
+  {
+    "id": 13158,
+    "artisan_id": 695,
+    "type": "URL_PRICES",
+    "url": "https://www.midnightmakers.ca/prices"
+  },
+  {
+    "id": 13159,
+    "artisan_id": 695,
+    "type": "URL_FAQ",
+    "url": "https://www.midnightmakers.ca/faq"
+  },
+  {
+    "id": 13160,
+    "artisan_id": 695,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/midnightmakers/"
+  },
+  {
+    "id": 13161,
+    "artisan_id": 695,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/MidnightMkrs"
+  },
+  {
+    "id": 13162,
+    "artisan_id": 695,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/profile.php?id=61553509394083"
+  },
+  {
+    "id": 13163,
+    "artisan_id": 695,
+    "type": "URL_TUMBLR",
+    "url": "https://www.tumblr.com/midnightmakers"
+  },
+  {
+    "id": 13164,
+    "artisan_id": 695,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/midnightmkrs/"
+  },
+  {
+    "id": 13165,
+    "artisan_id": 695,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:midnightmakers"
+  },
+  {
+    "id": 13166,
+    "artisan_id": 695,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/314645"
+  },
+  {
+    "id": 13167,
+    "artisan_id": 695,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/426790"
+  },
+  {
+    "id": 13168,
+    "artisan_id": 695,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/415989"
+  },
+  {
+    "id": 13169,
+    "artisan_id": 695,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/300082"
+  },
+  {
+    "id": 13170,
+    "artisan_id": 695,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/361768"
+  },
+  {
+    "id": 13171,
+    "artisan_id": 695,
+    "type": "URL_OTHER",
+    "url": "https://bsky.app/profile/midnightmakers.ca"
+  },
+  {
+    "id": 13173,
+    "artisan_id": 695,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/314645-6e126d08a2d509ed1577fa4690c1ac26.jpg"
+  },
+  {
+    "id": 13174,
+    "artisan_id": 695,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/426790-77f1fdc67d6961c5e96d8695f84dc73d.jpg"
+  },
+  {
+    "id": 13175,
+    "artisan_id": 695,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/415989-b16467ed807c72d91794767cfe0a49e5.jpg"
+  },
+  {
+    "id": 13176,
+    "artisan_id": 695,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/300082-c391b1896b9b3c54f59c72c02281431a.jpg"
+  },
+  {
+    "id": 13177,
+    "artisan_id": 695,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/361768-37891aa247431c934a77006d38434d7a.jpg"
+  },
+  {
+    "id": 13178,
+    "artisan_id": 695,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/midnight-makers/"
+  },
+  {
+    "id": 13172,
+    "artisan_id": 696,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/profile.php?id=100087420243911"
   }
 ]
