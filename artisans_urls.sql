@@ -1414,7 +1414,6 @@ INSERT INTO artisans_urls VALUES(9157,365,'URL_INSTAGRAM','https://www.instagram
 INSERT INTO artisans_urls VALUES(9158,365,'URL_YOUTUBE','https://www.youtube.com/channel/UC6mOWtyqtkWfrwkw0Ilz0wA');
 INSERT INTO artisans_urls VALUES(9159,365,'URL_QUEUE','https://trello.com/b/ISHoveAj/8bit-works-suit-queue');
 INSERT INTO artisans_urls VALUES(9161,366,'URL_FURSUITREVIEW','https://fursuitreview.com/m/79th-element/');
-INSERT INTO artisans_urls VALUES(9164,366,'URL_INSTAGRAM','https://www.instagram.com/golden_cat22/');
 INSERT INTO artisans_urls VALUES(9165,365,'URL_FURSUITREVIEW','https://fursuitreview.com/m/8bit-works/');
 INSERT INTO artisans_urls VALUES(9166,9,'URL_INSTAGRAM','https://www.instagram.com/fursuitup/');
 INSERT INTO artisans_urls VALUES(9167,9,'URL_YOUTUBE','https://www.youtube.com/channel/UCK5AacLRtSQttu2JmQEqtDQ');
