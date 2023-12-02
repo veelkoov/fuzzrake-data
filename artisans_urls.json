@@ -18972,34 +18972,10 @@
     "url": "https://trello.com/b/VAbg0Up2/montydragon-fursuits"
   },
   {
-    "id": 10642,
-    "artisan_id": 501,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/OshamyFurry"
-  },
-  {
     "id": 10643,
     "artisan_id": 501,
     "type": "URL_INSTAGRAM",
     "url": "https://www.instagram.com/thesoftestfursuits_creations/"
-  },
-  {
-    "id": 10644,
-    "artisan_id": 501,
-    "type": "URL_YOUTUBE",
-    "url": "https://www.youtube.com/oshamythefurry"
-  },
-  {
-    "id": 10645,
-    "artisan_id": 501,
-    "type": "URL_LINKLIST",
-    "url": "https://linktr.ee/Oshamy"
-  },
-  {
-    "id": 11361,
-    "artisan_id": 501,
-    "type": "URL_QUEUE",
-    "url": "https://t.me/OshamyArt"
   },
   {
     "id": 11419,
@@ -29116,5 +29092,101 @@
     "artisan_id": 696,
     "type": "URL_FACEBOOK",
     "url": "https://www.facebook.com/profile.php?id=100087420243911"
+  },
+  {
+    "id": 13187,
+    "artisan_id": 697,
+    "type": "URL_WEBSITE",
+    "url": "https://melinakilida.wixsite.com/website-1"
+  },
+  {
+    "id": 13188,
+    "artisan_id": 697,
+    "type": "URL_PRICES",
+    "url": "https://melinakilida.wixsite.com/website-1/projekte"
+  },
+  {
+    "id": 13189,
+    "artisan_id": 697,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/MelisDragonpets"
+  },
+  {
+    "id": 13190,
+    "artisan_id": 697,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/melinas_dragonpets/"
+  },
+  {
+    "id": 13191,
+    "artisan_id": 697,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@melinasdragonpets"
+  },
+  {
+    "id": 13192,
+    "artisan_id": 697,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/MelinasDragonpets"
+  },
+  {
+    "id": 13193,
+    "artisan_id": 698,
+    "type": "URL_WEBSITE",
+    "url": "https://www.twilightknightscosplay.ca/"
+  },
+  {
+    "id": 13194,
+    "artisan_id": 698,
+    "type": "URL_PRICES",
+    "url": "https://www.twilightknightscosplay.ca/commission-info"
+  },
+  {
+    "id": 13195,
+    "artisan_id": 698,
+    "type": "URL_PRICES",
+    "url": "https://form.jotform.com/231697679233267"
+  },
+  {
+    "id": 13196,
+    "artisan_id": 698,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/TwilightKnightsCosplay/"
+  },
+  {
+    "id": 13197,
+    "artisan_id": 698,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/twilight_knights_cosplay/"
+  },
+  {
+    "id": 13198,
+    "artisan_id": 698,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/TKC_Suits"
+  },
+  {
+    "id": 13199,
+    "artisan_id": 698,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/TwilightKnights"
+  },
+  {
+    "id": 13200,
+    "artisan_id": 698,
+    "type": "URL_QUEUE",
+    "url": "https://docs.google.com/document/d/1TLpqQQ6nZslQj7hmhFLASry00-SLMpxh8PwynQbZcg8/edit?usp=sharing"
+  },
+  {
+    "id": 13201,
+    "artisan_id": 698,
+    "type": "URL_OTHER",
+    "url": "https://www.patreon.com/TwilightKnightsCosplay (wips)"
+  },
+  {
+    "id": 13202,
+    "artisan_id": 698,
+    "type": "URL_OTHER",
+    "url": "https://www.canfur.ca/  (faux fur)"
   }
 ]
