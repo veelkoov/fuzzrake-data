@@ -7038,6 +7038,12 @@
     "url": "https://halfbloodcreatures.carrd.co/"
   },
   {
+    "id": 13203,
+    "artisan_id": 228,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/halfblood-creatures/"
+  },
+  {
     "id": 994,
     "artisan_id": 229,
     "type": "URL_FURSUITREVIEW",
@@ -8716,6 +8722,12 @@
     "artisan_id": 266,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/KP1yvZbW/rage-roar-customs-que"
+  },
+  {
+    "id": 13204,
+    "artisan_id": 266,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/rage-and-roar-customs/"
   },
   {
     "id": 1207,

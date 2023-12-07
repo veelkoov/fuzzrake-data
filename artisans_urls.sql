@@ -4866,4 +4866,6 @@ INSERT INTO artisans_urls VALUES(13199,698,'URL_ETSY','https://www.etsy.com/shop
 INSERT INTO artisans_urls VALUES(13200,698,'URL_QUEUE','https://docs.google.com/document/d/1TLpqQQ6nZslQj7hmhFLASry00-SLMpxh8PwynQbZcg8/edit?usp=sharing');
 INSERT INTO artisans_urls VALUES(13201,698,'URL_OTHER','https://www.patreon.com/TwilightKnightsCosplay (wips)');
 INSERT INTO artisans_urls VALUES(13202,698,'URL_OTHER','https://www.canfur.ca/  (faux fur)');
+INSERT INTO artisans_urls VALUES(13203,228,'URL_FURSUITREVIEW','https://fursuitreview.com/m/halfblood-creatures/');
+INSERT INTO artisans_urls VALUES(13204,266,'URL_FURSUITREVIEW','https://fursuitreview.com/m/rage-and-roar-customs/');
 COMMIT;
