@@ -3825,13 +3825,7 @@ INSERT INTO artisans_urls VALUES(12130,615,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(12131,615,'URL_QUEUE','https://trello.com/b/MC3e4RIj/crittercreaturesuits-fursuit-queue');
 INSERT INTO artisans_urls VALUES(12132,615,'URL_SCRITCH','https://scritch.es/makers/critter-creature-suits');
 INSERT INTO artisans_urls VALUES(12133,615,'URL_OTHER','Telegram channel: @CritterCreatureSuits');
-INSERT INTO artisans_urls VALUES(12134,616,'URL_PRICES','https://docs.google.com/document/d/1FrWViVNcCpwZoLNxl18ZhJEOndDj2v-UpkQhVPJMqec/edit?usp=sharing');
-INSERT INTO artisans_urls VALUES(12135,616,'URL_COMMISSIONS','https://trello.com/b/60rZ8iWj/suits-by-reggie');
 INSERT INTO artisans_urls VALUES(12136,616,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/reggiethecat/');
-INSERT INTO artisans_urls VALUES(12137,616,'URL_TWITTER','https://twitter.com/suitsbyreggie');
-INSERT INTO artisans_urls VALUES(12138,616,'URL_INSTAGRAM','https://www.instagram.com/suitsbyreggie/');
-INSERT INTO artisans_urls VALUES(12139,616,'URL_LINKLIST','https://linktr.ee/reggiefelis');
-INSERT INTO artisans_urls VALUES(12140,616,'URL_QUEUE','https://trello.com/b/60rZ8iWj/suits-by-reggie');
 INSERT INTO artisans_urls VALUES(12141,617,'URL_PRICES','https://docs.google.com/document/d/1dIcYGMjLtsiRGS9C-9vOtD_bC95W_MCcvBXK4M_NpEY/edit?usp=sharing');
 INSERT INTO artisans_urls VALUES(12142,617,'URL_COMMISSIONS','https://twitter.com/PaintedCanine');
 INSERT INTO artisans_urls VALUES(12143,617,'URL_FAQ','https://docs.google.com/document/d/1PM_UHv3LNKJ_X-PjEzBNuYQecZRPlXkykY1kwXKg5tM/edit?usp=sharing');
@@ -4864,4 +4858,9 @@ INSERT INTO artisans_urls VALUES(13206,600,'URL_FUR_AFFINITY','https://www.furaf
 INSERT INTO artisans_urls VALUES(13207,600,'URL_TUMBLR','https://www.tumblr.com/akohusky');
 INSERT INTO artisans_urls VALUES(13208,600,'URL_OTHER_SHOP','https://ko-fi.com/akohusky');
 INSERT INTO artisans_urls VALUES(13209,600,'URL_QUEUE','https://trello.com/b/n81SvUvI/commissions');
+INSERT INTO artisans_urls VALUES(13210,616,'URL_COMMISSIONS','https://trello.com/b/60rZ8iWj/suit-furself');
+INSERT INTO artisans_urls VALUES(13211,616,'URL_TWITTER','https://twitter.com/suitfurself');
+INSERT INTO artisans_urls VALUES(13212,616,'URL_INSTAGRAM','https://www.instagram.com/suitfurself/');
+INSERT INTO artisans_urls VALUES(13213,616,'URL_LINKLIST','https://linktr.ee/suitfurself');
+INSERT INTO artisans_urls VALUES(13214,616,'URL_QUEUE','https://trello.com/b/60rZ8iWj/suit-furself');
 COMMIT;

@@ -24606,46 +24606,40 @@
     "url": "Telegram channel: @CritterCreatureSuits"
   },
   {
-    "id": 12134,
-    "artisan_id": 616,
-    "type": "URL_PRICES",
-    "url": "https://docs.google.com/document/d/1FrWViVNcCpwZoLNxl18ZhJEOndDj2v-UpkQhVPJMqec/edit?usp=sharing"
-  },
-  {
-    "id": 12135,
-    "artisan_id": 616,
-    "type": "URL_COMMISSIONS",
-    "url": "https://trello.com/b/60rZ8iWj/suits-by-reggie"
-  },
-  {
     "id": 12136,
     "artisan_id": 616,
     "type": "URL_FUR_AFFINITY",
     "url": "https://www.furaffinity.net/user/reggiethecat/"
   },
   {
-    "id": 12137,
+    "id": 13210,
+    "artisan_id": 616,
+    "type": "URL_COMMISSIONS",
+    "url": "https://trello.com/b/60rZ8iWj/suit-furself"
+  },
+  {
+    "id": 13211,
     "artisan_id": 616,
     "type": "URL_TWITTER",
-    "url": "https://twitter.com/suitsbyreggie"
+    "url": "https://twitter.com/suitfurself"
   },
   {
-    "id": 12138,
+    "id": 13212,
     "artisan_id": 616,
     "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/suitsbyreggie/"
+    "url": "https://www.instagram.com/suitfurself/"
   },
   {
-    "id": 12139,
+    "id": 13213,
     "artisan_id": 616,
     "type": "URL_LINKLIST",
-    "url": "https://linktr.ee/reggiefelis"
+    "url": "https://linktr.ee/suitfurself"
   },
   {
-    "id": 12140,
+    "id": 13214,
     "artisan_id": 616,
     "type": "URL_QUEUE",
-    "url": "https://trello.com/b/60rZ8iWj/suits-by-reggie"
+    "url": "https://trello.com/b/60rZ8iWj/suit-furself"
   },
   {
     "id": 12141,

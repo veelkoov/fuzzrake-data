@@ -8517,7 +8517,7 @@
     "id": 2237,
     "artisan_id": 616,
     "field_name": "AGES",
-    "value": "MIXED"
+    "value": "ADULTS"
   },
   {
     "id": 2238,
@@ -8535,6 +8535,18 @@
     "id": 2240,
     "artisan_id": 616,
     "field_name": "WORKS_WITH_MINORS",
+    "value": "False"
+  },
+  {
+    "id": 2795,
+    "artisan_id": 616,
+    "field_name": "DATE_UPDATED",
+    "value": "2023-12-10 19:12:31"
+  },
+  {
+    "id": 2796,
+    "artisan_id": 616,
+    "field_name": "DOES_NSFW",
     "value": "False"
   },
   {
