@@ -23832,34 +23832,16 @@
     "url": "https://trello.com/b/lYZI4E5P/creams-workshop"
   },
   {
-    "id": 11988,
-    "artisan_id": 600,
-    "type": "URL_WEBSITE",
-    "url": "https://fujidove.wixsite.com/akosfurlab"
-  },
-  {
     "id": 11989,
     "artisan_id": 600,
     "type": "URL_PRICES",
     "url": "https://docs.google.com/document/d/19UH_kLXxA6jB-in87oli3Bf1XsOMGVhgTdN7gMc089o/edit"
   },
   {
-    "id": 11991,
-    "artisan_id": 600,
-    "type": "URL_FUR_AFFINITY",
-    "url": "https://www.furaffinity.net/user/dragonlovescarrots/"
-  },
-  {
     "id": 11994,
     "artisan_id": 600,
     "type": "URL_YOUTUBE",
     "url": "https://www.youtube.com/channel/UCiKH83WVwluh1rOaRBZqO4w"
-  },
-  {
-    "id": 11996,
-    "artisan_id": 600,
-    "type": "URL_OTHER_SHOP",
-    "url": "https://fujidove.wixsite.com/akosfurlab"
   },
   {
     "id": 11997,
@@ -23880,12 +23862,6 @@
     "url": "https://storage.scritch.es/scritch/298c11160c7dc87b318bc93102a7d3592f905844/thumbnail_19d09eda-278b-4531-9d09-14aacf3873bc.jpeg#r270"
   },
   {
-    "id": 12563,
-    "artisan_id": 600,
-    "type": "URL_COMMISSIONS",
-    "url": "https://fujidove.wixsite.com/akosfurlab/commission-status"
-  },
-  {
     "id": 12564,
     "artisan_id": 600,
     "type": "URL_TWITTER",
@@ -23902,6 +23878,36 @@
     "artisan_id": 600,
     "type": "URL_LINKLIST",
     "url": "https://linktr.ee/akohusky"
+  },
+  {
+    "id": 13205,
+    "artisan_id": 600,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.furaffinity.net/user/akohusky/"
+  },
+  {
+    "id": 13206,
+    "artisan_id": 600,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/akohusky/"
+  },
+  {
+    "id": 13207,
+    "artisan_id": 600,
+    "type": "URL_TUMBLR",
+    "url": "https://www.tumblr.com/akohusky"
+  },
+  {
+    "id": 13208,
+    "artisan_id": 600,
+    "type": "URL_OTHER_SHOP",
+    "url": "https://ko-fi.com/akohusky"
+  },
+  {
+    "id": 13209,
+    "artisan_id": 600,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/n81SvUvI/commissions"
   },
   {
     "id": 13119,

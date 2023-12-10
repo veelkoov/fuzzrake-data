@@ -3694,11 +3694,8 @@ INSERT INTO artisans_urls VALUES(11984,598,'URL_QUEUE','https://trello.com/b/LM5
 INSERT INTO artisans_urls VALUES(11985,599,'URL_PRICES','https://trello.com/c/V7fVsWT2/31-fursuit-pricing');
 INSERT INTO artisans_urls VALUES(11986,599,'URL_TWITTER','https://twitter.com/BunnypawsFur');
 INSERT INTO artisans_urls VALUES(11987,599,'URL_QUEUE','https://trello.com/b/lYZI4E5P/creams-workshop');
-INSERT INTO artisans_urls VALUES(11988,600,'URL_WEBSITE','https://fujidove.wixsite.com/akosfurlab');
 INSERT INTO artisans_urls VALUES(11989,600,'URL_PRICES','https://docs.google.com/document/d/19UH_kLXxA6jB-in87oli3Bf1XsOMGVhgTdN7gMc089o/edit');
-INSERT INTO artisans_urls VALUES(11991,600,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/dragonlovescarrots/');
 INSERT INTO artisans_urls VALUES(11994,600,'URL_YOUTUBE','https://www.youtube.com/channel/UCiKH83WVwluh1rOaRBZqO4w');
-INSERT INTO artisans_urls VALUES(11996,600,'URL_OTHER_SHOP','https://fujidove.wixsite.com/akosfurlab');
 INSERT INTO artisans_urls VALUES(11997,600,'URL_SCRITCH','https://scritch.es/akohusky');
 INSERT INTO artisans_urls VALUES(11998,600,'URL_PHOTOS','https://scritch.es/pictures/1e923aec-cd67-42f4-bb8e-ce7804241c2b');
 INSERT INTO artisans_urls VALUES(11999,482,'URL_OTHER','https://www.tiktok.com/@dogwoolowner');
@@ -4230,7 +4227,6 @@ INSERT INTO artisans_urls VALUES(12557,648,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(12558,648,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/339050-aa2c25cc96ee6cb03d148fec9173ce97.jpg');
 INSERT INTO artisans_urls VALUES(12561,649,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/342224-f3049d7bfea60e890c93969e2b507910.jpg');
 INSERT INTO artisans_urls VALUES(12562,649,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/342226-9f5aa8413304a5564af6ca32ed7aad50.jpg');
-INSERT INTO artisans_urls VALUES(12563,600,'URL_COMMISSIONS','https://fujidove.wixsite.com/akosfurlab/commission-status');
 INSERT INTO artisans_urls VALUES(12564,600,'URL_TWITTER','https://twitter.com/AkosLab');
 INSERT INTO artisans_urls VALUES(12565,600,'URL_INSTAGRAM','https://www.instagram.com/akohusky/');
 INSERT INTO artisans_urls VALUES(12566,600,'URL_LINKLIST','https://linktr.ee/akohusky');
@@ -4863,4 +4859,9 @@ INSERT INTO artisans_urls VALUES(13201,698,'URL_OTHER','https://www.patreon.com/
 INSERT INTO artisans_urls VALUES(13202,698,'URL_OTHER','https://www.canfur.ca/  (faux fur)');
 INSERT INTO artisans_urls VALUES(13203,228,'URL_FURSUITREVIEW','https://fursuitreview.com/m/halfblood-creatures/');
 INSERT INTO artisans_urls VALUES(13204,266,'URL_FURSUITREVIEW','https://fursuitreview.com/m/rage-and-roar-customs/');
+INSERT INTO artisans_urls VALUES(13205,600,'URL_COMMISSIONS','https://www.furaffinity.net/user/akohusky/');
+INSERT INTO artisans_urls VALUES(13206,600,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/akohusky/');
+INSERT INTO artisans_urls VALUES(13207,600,'URL_TUMBLR','https://www.tumblr.com/akohusky');
+INSERT INTO artisans_urls VALUES(13208,600,'URL_OTHER_SHOP','https://ko-fi.com/akohusky');
+INSERT INTO artisans_urls VALUES(13209,600,'URL_QUEUE','https://trello.com/b/n81SvUvI/commissions');
 COMMIT;
