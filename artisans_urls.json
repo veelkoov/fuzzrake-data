@@ -29170,5 +29170,41 @@
     "artisan_id": 698,
     "type": "URL_OTHER",
     "url": "https://www.canfur.ca/  (faux fur)"
+  },
+  {
+    "id": 13215,
+    "artisan_id": 699,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/muzzlepuzzl"
+  },
+  {
+    "id": 13216,
+    "artisan_id": 699,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/muzzle_puzzle_workshop/"
+  },
+  {
+    "id": 13217,
+    "artisan_id": 699,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/MuzzlePuzzle"
+  },
+  {
+    "id": 13218,
+    "artisan_id": 699,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/store/muzzle-puzzle-workshop"
+  },
+  {
+    "id": 13219,
+    "artisan_id": 699,
+    "type": "URL_OTHER_SHOP",
+    "url": "https://ko-fi.com/muzzlepuzzle"
+  },
+  {
+    "id": 13220,
+    "artisan_id": 699,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/Wbl0VKNZ/muzzle-puzzle-project-board"
   }
 ]

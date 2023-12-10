@@ -4863,4 +4863,10 @@ INSERT INTO artisans_urls VALUES(13211,616,'URL_TWITTER','https://twitter.com/su
 INSERT INTO artisans_urls VALUES(13212,616,'URL_INSTAGRAM','https://www.instagram.com/suitfurself/');
 INSERT INTO artisans_urls VALUES(13213,616,'URL_LINKLIST','https://linktr.ee/suitfurself');
 INSERT INTO artisans_urls VALUES(13214,616,'URL_QUEUE','https://trello.com/b/60rZ8iWj/suit-furself');
+INSERT INTO artisans_urls VALUES(13215,699,'URL_TWITTER','https://twitter.com/muzzlepuzzl');
+INSERT INTO artisans_urls VALUES(13216,699,'URL_INSTAGRAM','https://www.instagram.com/muzzle_puzzle_workshop/');
+INSERT INTO artisans_urls VALUES(13217,699,'URL_LINKLIST','https://linktr.ee/MuzzlePuzzle');
+INSERT INTO artisans_urls VALUES(13218,699,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/muzzle-puzzle-workshop');
+INSERT INTO artisans_urls VALUES(13219,699,'URL_OTHER_SHOP','https://ko-fi.com/muzzlepuzzle');
+INSERT INTO artisans_urls VALUES(13220,699,'URL_QUEUE','https://trello.com/b/Wbl0VKNZ/muzzle-puzzle-project-board');
 COMMIT;
