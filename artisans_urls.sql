@@ -4869,4 +4869,17 @@ INSERT INTO artisans_urls VALUES(13217,699,'URL_LINKLIST','https://linktr.ee/Muz
 INSERT INTO artisans_urls VALUES(13218,699,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/muzzle-puzzle-workshop');
 INSERT INTO artisans_urls VALUES(13219,699,'URL_OTHER_SHOP','https://ko-fi.com/muzzlepuzzle');
 INSERT INTO artisans_urls VALUES(13220,699,'URL_QUEUE','https://trello.com/b/Wbl0VKNZ/muzzle-puzzle-project-board');
+INSERT INTO artisans_urls VALUES(13221,26,'URL_MASTODON','https://mastodon.social/@TheKareliaFursuits');
+INSERT INTO artisans_urls VALUES(13222,26,'URL_LINKLIST','https://linktr.ee/thekareliafursuits');
+INSERT INTO artisans_urls VALUES(13223,26,'URL_FURTRACK','https://www.furtrack.com/user/TheKareliaFursuits');
+INSERT INTO artisans_urls VALUES(13224,26,'URL_PHOTOS','https://www.furtrack.com/p/377496');
+INSERT INTO artisans_urls VALUES(13225,26,'URL_PHOTOS','https://www.furtrack.com/p/439990');
+INSERT INTO artisans_urls VALUES(13226,26,'URL_PHOTOS','https://www.furtrack.com/p/407741');
+INSERT INTO artisans_urls VALUES(13227,26,'URL_PHOTOS','https://www.furtrack.com/p/260259');
+INSERT INTO artisans_urls VALUES(13228,26,'URL_PHOTOS','https://www.furtrack.com/p/197817');
+INSERT INTO artisans_urls VALUES(13229,26,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/377496-ec3b9e093717b35f42e930683380d694.jpg');
+INSERT INTO artisans_urls VALUES(13230,26,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/439990-b6e17bf3e427327d1fcd6a8c21659ef7.jpg');
+INSERT INTO artisans_urls VALUES(13231,26,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/407741-4457cbb2a518fde447f09bd10d0c5830.jpg');
+INSERT INTO artisans_urls VALUES(13232,26,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/260259-4f44d4a2b7e1e28e9bbb08ce50650081.jpg');
+INSERT INTO artisans_urls VALUES(13233,26,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/197817-08e3a7bacb54f65bd14a5bf9128cfac4.jpg');
 COMMIT;

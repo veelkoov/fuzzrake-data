@@ -978,6 +978,84 @@
     "url": "https://www.patreon.com/thekareliafursuits"
   },
   {
+    "id": 13221,
+    "artisan_id": 26,
+    "type": "URL_MASTODON",
+    "url": "https://mastodon.social/@TheKareliaFursuits"
+  },
+  {
+    "id": 13222,
+    "artisan_id": 26,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/thekareliafursuits"
+  },
+  {
+    "id": 13223,
+    "artisan_id": 26,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/user/TheKareliaFursuits"
+  },
+  {
+    "id": 13224,
+    "artisan_id": 26,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/377496"
+  },
+  {
+    "id": 13225,
+    "artisan_id": 26,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/439990"
+  },
+  {
+    "id": 13226,
+    "artisan_id": 26,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/407741"
+  },
+  {
+    "id": 13227,
+    "artisan_id": 26,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/260259"
+  },
+  {
+    "id": 13228,
+    "artisan_id": 26,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/197817"
+  },
+  {
+    "id": 13229,
+    "artisan_id": 26,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/377496-ec3b9e093717b35f42e930683380d694.jpg"
+  },
+  {
+    "id": 13230,
+    "artisan_id": 26,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/439990-b6e17bf3e427327d1fcd6a8c21659ef7.jpg"
+  },
+  {
+    "id": 13231,
+    "artisan_id": 26,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/407741-4457cbb2a518fde447f09bd10d0c5830.jpg"
+  },
+  {
+    "id": 13232,
+    "artisan_id": 26,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/260259-4f44d4a2b7e1e28e9bbb08ce50650081.jpg"
+  },
+  {
+    "id": 13233,
+    "artisan_id": 26,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/197817-08e3a7bacb54f65bd14a5bf9128cfac4.jpg"
+  },
+  {
     "id": 129,
     "artisan_id": 27,
     "type": "URL_FUR_AFFINITY",
