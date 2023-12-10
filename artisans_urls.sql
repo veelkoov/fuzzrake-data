@@ -3313,10 +3313,6 @@ INSERT INTO artisans_urls VALUES(11564,565,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(11565,565,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/135520-d8615f96e87554117129869742b20fd6.jpg');
 INSERT INTO artisans_urls VALUES(11566,565,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/135517-722e0f9d62534066e215c314a260f16e.jpg');
 INSERT INTO artisans_urls VALUES(11567,565,'URL_FURSUITREVIEW','https://fursuitreview.com/m/snyder-dragdire/');
-INSERT INTO artisans_urls VALUES(11571,566,'URL_WEBSITE','https://clawedcreaturescreations.weebly.com/');
-INSERT INTO artisans_urls VALUES(11572,566,'URL_COMMISSIONS','https://clawedcreaturescreations.weebly.com/');
-INSERT INTO artisans_urls VALUES(11573,566,'URL_INSTAGRAM','https://www.instagram.com/clawedcreaturescreations/');
-INSERT INTO artisans_urls VALUES(11574,566,'URL_QUEUE','https://trello.com/b/KPsSetxN/fursuit-queue');
 INSERT INTO artisans_urls VALUES(11575,279,'URL_PRICES','https://www.kemoyagi.com/prices.html');
 INSERT INTO artisans_urls VALUES(11576,279,'URL_PHOTOS','https://www.furtrack.com/p/86664');
 INSERT INTO artisans_urls VALUES(11579,528,'URL_WEBSITE','http://succulentsuits.carrd.co/');
@@ -3339,7 +3335,6 @@ INSERT INTO artisans_urls VALUES(11599,523,'URL_MINIATURES','https://orca.furtra
 INSERT INTO artisans_urls VALUES(11600,523,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/68922-4d36602b98fb3bc433efab8b6e98d0e4.jpg');
 INSERT INTO artisans_urls VALUES(11601,523,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/68924-25c90c810d34963a64748ff27ef26a25.jpg');
 INSERT INTO artisans_urls VALUES(11602,523,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/68923-232f9b0e1e63bd16e6f752c3dcba24e7.jpg');
-INSERT INTO artisans_urls VALUES(11603,566,'URL_PRICES','https://clawedcreaturescreations.weebly.com/prices.html');
 INSERT INTO artisans_urls VALUES(11604,568,'URL_COMMISSIONS','https://www.instagram.com/queen_pendas/');
 INSERT INTO artisans_urls VALUES(11605,568,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/queenpendas/');
 INSERT INTO artisans_urls VALUES(11606,568,'URL_TWITTER','https://twitter.com/QueenPendas');
