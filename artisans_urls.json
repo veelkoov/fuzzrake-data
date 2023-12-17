@@ -11958,16 +11958,22 @@
     "url": "https://twitter.com/UnleashedSTU"
   },
   {
-    "id": 10773,
-    "artisan_id": 351,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/Nova_Yote/"
-  },
-  {
     "id": 10774,
     "artisan_id": 351,
     "type": "URL_THE_DEALERS_DEN",
     "url": "https://www.thedealersden.com/display-feedback/unleashedstudios"
+  },
+  {
+    "id": 13234,
+    "artisan_id": 351,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/UnleashedSuits/"
+  },
+  {
+    "id": 13235,
+    "artisan_id": 351,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/UnleashedStudios"
   },
   {
     "id": 9071,
@@ -17058,18 +17064,6 @@
     "url": "https://twitter.com/DDFursuits"
   },
   {
-    "id": 10021,
-    "artisan_id": 459,
-    "type": "URL_WEBSITE",
-    "url": "https://oneggiri.uwu.ai/#"
-  },
-  {
-    "id": 10022,
-    "artisan_id": 459,
-    "type": "URL_PRICES",
-    "url": "https://oneggiri.uwu.ai/#fursuits"
-  },
-  {
     "id": 10023,
     "artisan_id": 459,
     "type": "URL_TWITTER",
@@ -17088,16 +17082,34 @@
     "url": "https://www.youtube.com/channel/UCoGUEY7qiMKZpBRgn2lqKMQ"
   },
   {
-    "id": 10026,
-    "artisan_id": 459,
-    "type": "URL_ETSY",
-    "url": "https://www.etsy.com/shop/OneggiriShop?"
-  },
-  {
     "id": 10027,
     "artisan_id": 459,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/2SwmBvvI/oneggiri"
+  },
+  {
+    "id": 13236,
+    "artisan_id": 459,
+    "type": "URL_WEBSITE",
+    "url": "https://oneggiri.com"
+  },
+  {
+    "id": 13237,
+    "artisan_id": 459,
+    "type": "URL_PRICES",
+    "url": "https://oneggiri.com/#fursuits"
+  },
+  {
+    "id": 13238,
+    "artisan_id": 459,
+    "type": "URL_COMMISSIONS",
+    "url": "https://oneggiri.com/#fursuits"
+  },
+  {
+    "id": 13239,
+    "artisan_id": 459,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/OneggiriShop"
   },
   {
     "id": 10028,
@@ -25818,16 +25830,22 @@
     "url": "https://gaygrumpstudios.wixsite.com/website/faq"
   },
   {
-    "id": 12770,
-    "artisan_id": 642,
-    "type": "URL_COMMISSIONS",
-    "url": "https://gaygrumpstudios.carrd.co/"
-  },
-  {
     "id": 12771,
     "artisan_id": 642,
     "type": "URL_FURTRACK",
     "url": "https://www.furtrack.com/index/maker:gaygrumpstudios"
+  },
+  {
+    "id": 13240,
+    "artisan_id": 642,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.furaffinity.net/user/confused.pike/"
+  },
+  {
+    "id": 13241,
+    "artisan_id": 642,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/confused.pike/"
   },
   {
     "id": 12452,

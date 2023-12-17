@@ -2099,12 +2099,9 @@ INSERT INTO artisans_urls VALUES(10010,457,'URL_COMMISSIONS','https://twitter.co
 INSERT INTO artisans_urls VALUES(10016,458,'URL_ETSY','https://www.etsy.com/shop/StyngerSkies');
 INSERT INTO artisans_urls VALUES(10017,458,'URL_QUEUE','https://trello.com/b/wClChmLz/current-work-cycle');
 INSERT INTO artisans_urls VALUES(10018,458,'URL_SCRITCH','https://scritch.es/styngerskies');
-INSERT INTO artisans_urls VALUES(10021,459,'URL_WEBSITE','https://oneggiri.uwu.ai/#');
-INSERT INTO artisans_urls VALUES(10022,459,'URL_PRICES','https://oneggiri.uwu.ai/#fursuits');
 INSERT INTO artisans_urls VALUES(10023,459,'URL_TWITTER','https://twitter.com/oneggiri');
 INSERT INTO artisans_urls VALUES(10024,459,'URL_INSTAGRAM','https://www.instagram.com/oneggiri/');
 INSERT INTO artisans_urls VALUES(10025,459,'URL_YOUTUBE','https://www.youtube.com/channel/UCoGUEY7qiMKZpBRgn2lqKMQ');
-INSERT INTO artisans_urls VALUES(10026,459,'URL_ETSY','https://www.etsy.com/shop/OneggiriShop?');
 INSERT INTO artisans_urls VALUES(10027,459,'URL_QUEUE','https://trello.com/b/2SwmBvvI/oneggiri');
 INSERT INTO artisans_urls VALUES(10028,460,'URL_WEBSITE','https://desertfizz.wixsite.com/home');
 INSERT INTO artisans_urls VALUES(10029,460,'URL_PRICES','https://desertfizz.wixsite.com/home/pricing');
@@ -2628,7 +2625,6 @@ INSERT INTO artisans_urls VALUES(10769,212,'URL_PRICES','http://fursewnastudios.
 INSERT INTO artisans_urls VALUES(10770,212,'URL_LINKLIST','https://linktr.ee/fursewnastudios');
 INSERT INTO artisans_urls VALUES(10771,212,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/fursewna-studios');
 INSERT INTO artisans_urls VALUES(10772,153,'URL_FURSUITREVIEW','https://fursuitreview.com/m/sere-studios/');
-INSERT INTO artisans_urls VALUES(10773,351,'URL_INSTAGRAM','https://www.instagram.com/Nova_Yote/');
 INSERT INTO artisans_urls VALUES(10774,351,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/display-feedback/unleashedstudios');
 INSERT INTO artisans_urls VALUES(10775,22,'URL_COMMISSIONS','https://twitter.com/GoFurItstudios');
 INSERT INTO artisans_urls VALUES(10776,125,'URL_PRICES','https://www.komickrazi.com/pricing.php');
@@ -4424,7 +4420,6 @@ INSERT INTO artisans_urls VALUES(12766,194,'URL_FURSUITREVIEW','https://fursuitr
 INSERT INTO artisans_urls VALUES(12767,643,'URL_FURSUITREVIEW','https://fursuitreview.com/m/bloodng0re/');
 INSERT INTO artisans_urls VALUES(12768,474,'URL_TWITTER','https://twitter.com/Malicious_Paws');
 INSERT INTO artisans_urls VALUES(12769,474,'URL_COMMISSIONS','https://twitter.com/Malicious_Paws');
-INSERT INTO artisans_urls VALUES(12770,642,'URL_COMMISSIONS','https://gaygrumpstudios.carrd.co/');
 INSERT INTO artisans_urls VALUES(12771,642,'URL_FURTRACK','https://www.furtrack.com/index/maker:gaygrumpstudios');
 INSERT INTO artisans_urls VALUES(12772,321,'URL_FURTRACK','https://www.furtrack.com/index/maker:sab!er_studios');
 INSERT INTO artisans_urls VALUES(12773,665,'URL_FURSUITREVIEW','https://fursuitreview.com/m/onetoken/');
@@ -4882,4 +4877,12 @@ INSERT INTO artisans_urls VALUES(13230,26,'URL_MINIATURES','https://orca.furtrac
 INSERT INTO artisans_urls VALUES(13231,26,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/407741-4457cbb2a518fde447f09bd10d0c5830.jpg');
 INSERT INTO artisans_urls VALUES(13232,26,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/260259-4f44d4a2b7e1e28e9bbb08ce50650081.jpg');
 INSERT INTO artisans_urls VALUES(13233,26,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/197817-08e3a7bacb54f65bd14a5bf9128cfac4.jpg');
+INSERT INTO artisans_urls VALUES(13234,351,'URL_INSTAGRAM','https://www.instagram.com/UnleashedSuits/');
+INSERT INTO artisans_urls VALUES(13235,351,'URL_LINKLIST','https://linktr.ee/UnleashedStudios');
+INSERT INTO artisans_urls VALUES(13236,459,'URL_WEBSITE','https://oneggiri.com');
+INSERT INTO artisans_urls VALUES(13237,459,'URL_PRICES','https://oneggiri.com/#fursuits');
+INSERT INTO artisans_urls VALUES(13238,459,'URL_COMMISSIONS','https://oneggiri.com/#fursuits');
+INSERT INTO artisans_urls VALUES(13239,459,'URL_ETSY','https://www.etsy.com/shop/OneggiriShop');
+INSERT INTO artisans_urls VALUES(13240,642,'URL_COMMISSIONS','https://www.furaffinity.net/user/confused.pike/');
+INSERT INTO artisans_urls VALUES(13241,642,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/confused.pike/');
 COMMIT;
