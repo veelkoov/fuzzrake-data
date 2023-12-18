@@ -1056,11 +1056,8 @@ INSERT INTO artisans_urls VALUES(1266,278,'URL_TWITTER','https://twitter.com/obl
 INSERT INTO artisans_urls VALUES(1267,278,'URL_INSTAGRAM','https://www.instagram.com/oble_studios/');
 INSERT INTO artisans_urls VALUES(1268,278,'URL_YOUTUBE','https://www.youtube.com/channel/UCY-7zJXaUv9xsgtAGXLXR8g');
 INSERT INTO artisans_urls VALUES(1269,278,'URL_QUEUE','http://aminoapps.com/p/80z4u4');
-INSERT INTO artisans_urls VALUES(1279,280,'URL_WEBSITE','https://www.goldenpawstudio.ca/#/');
 INSERT INTO artisans_urls VALUES(1280,280,'URL_PRICES','https://www.goldenpawstudio.ca/fursuit-quotes.html#/');
 INSERT INTO artisans_urls VALUES(1281,280,'URL_TWITTER','https://twitter.com/goldenpawstudio');
-INSERT INTO artisans_urls VALUES(1282,280,'URL_QUEUE','https://t.me/GoldenpawStudio');
-INSERT INTO artisans_urls VALUES(1283,280,'URL_OTHER','https://t.me/GoldenpawStudio');
 INSERT INTO artisans_urls VALUES(1284,280,'URL_COMMISSIONS','https://twitter.com/GoldenpawStudio');
 INSERT INTO artisans_urls VALUES(1285,281,'URL_FURSUITREVIEW','https://fursuitreview.com/m/northshore-mascots/');
 INSERT INTO artisans_urls VALUES(1286,281,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/Wildpup11/');
@@ -4885,4 +4882,10 @@ INSERT INTO artisans_urls VALUES(13238,459,'URL_COMMISSIONS','https://oneggiri.c
 INSERT INTO artisans_urls VALUES(13239,459,'URL_ETSY','https://www.etsy.com/shop/OneggiriShop');
 INSERT INTO artisans_urls VALUES(13240,642,'URL_COMMISSIONS','https://www.furaffinity.net/user/confused.pike/');
 INSERT INTO artisans_urls VALUES(13241,642,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/confused.pike/');
+INSERT INTO artisans_urls VALUES(13242,280,'URL_WEBSITE','https://www.goldenpawstudio.ca/');
+INSERT INTO artisans_urls VALUES(13243,280,'URL_FACEBOOK','https://www.facebook.com/goldenpawstudio/');
+INSERT INTO artisans_urls VALUES(13244,280,'URL_INSTAGRAM','https://www.instagram.com/goldenpawstudio/');
+INSERT INTO artisans_urls VALUES(13245,280,'URL_OTHER_SHOP','https://ko-fi.com/gpawstudio');
+INSERT INTO artisans_urls VALUES(13246,280,'URL_QUEUE','https://t.me/GpawStudio');
+INSERT INTO artisans_urls VALUES(13247,280,'URL_OTHER','https://t.me/GpawStudio');
 COMMIT;

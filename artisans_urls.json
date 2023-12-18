@@ -9318,12 +9318,6 @@
     "url": "https://orca.furtrack.com/gallery/thumb/160505-db1483d538d4946fef1527af0c8a0e4f.jpg"
   },
   {
-    "id": 1279,
-    "artisan_id": 280,
-    "type": "URL_WEBSITE",
-    "url": "https://www.goldenpawstudio.ca/#/"
-  },
-  {
     "id": 1280,
     "artisan_id": 280,
     "type": "URL_PRICES",
@@ -9336,22 +9330,46 @@
     "url": "https://twitter.com/goldenpawstudio"
   },
   {
-    "id": 1282,
-    "artisan_id": 280,
-    "type": "URL_QUEUE",
-    "url": "https://t.me/GoldenpawStudio"
-  },
-  {
-    "id": 1283,
-    "artisan_id": 280,
-    "type": "URL_OTHER",
-    "url": "https://t.me/GoldenpawStudio"
-  },
-  {
     "id": 1284,
     "artisan_id": 280,
     "type": "URL_COMMISSIONS",
     "url": "https://twitter.com/GoldenpawStudio"
+  },
+  {
+    "id": 13242,
+    "artisan_id": 280,
+    "type": "URL_WEBSITE",
+    "url": "https://www.goldenpawstudio.ca/"
+  },
+  {
+    "id": 13243,
+    "artisan_id": 280,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/goldenpawstudio/"
+  },
+  {
+    "id": 13244,
+    "artisan_id": 280,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/goldenpawstudio/"
+  },
+  {
+    "id": 13245,
+    "artisan_id": 280,
+    "type": "URL_OTHER_SHOP",
+    "url": "https://ko-fi.com/gpawstudio"
+  },
+  {
+    "id": 13246,
+    "artisan_id": 280,
+    "type": "URL_QUEUE",
+    "url": "https://t.me/GpawStudio"
+  },
+  {
+    "id": 13247,
+    "artisan_id": 280,
+    "type": "URL_OTHER",
+    "url": "https://t.me/GpawStudio"
   },
   {
     "id": 1285,

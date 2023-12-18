@@ -8918,9 +8918,9 @@
     "state": "Ontario",
     "city": "Leamington",
     "production_models": "Artistic liberty commissions\nPremades\nStandard commissions",
-    "styles": "Kigurumi\nSemi Toony\nToony",
-    "order_types": "Feetpaws (as parts/separate)\nFull plantigrade\nHandpaws (as parts/separate)\nHead (as parts/separate)\nMini partial (head + handpaws + tail)\nPartial (head + handpaws + tail + feetpaws)\nTails (as parts/separate)\nThree-fourth (head + handpaws + tail + legs/pants + feetpaws)",
-    "features": "Exchangeable tongues\nFollow-me eyes\nMovable jaw",
+    "styles": "Semi Toony\nToony",
+    "order_types": "Feetpaws (as parts/separate)\nFull digitigrade\nFull plantigrade\nHandpaws (as parts/separate)\nHead (as parts/separate)\nMini partial (head + handpaws + tail)\nPartial (head + handpaws + tail + feetpaws)\nTails (as parts/separate)\nThree-fourth (head + handpaws + tail + legs/pants + feetpaws)",
+    "features": "Attached handpaws and feetpaws\nAttached tail\nExchangeable hairs\nExchangeable tongues\nFollow-me eyes\nIndoor feet\nMovable jaw\nOutdoor feet\nRemovable eyelids",
     "other_features": "",
     "payment_plans": "35% non refundable slot reservation, 65% remaining negotiated payments until fully paid",
     "species_does": "Most species\nAny animal and most mysticals (dragons*, serials, gryphons)",
@@ -8937,8 +8937,8 @@
     "styles_comment": "",
     "order_types_comment": "",
     "features_comment": "",
-    "payment_methods": "",
-    "currencies_accepted": "",
+    "payment_methods": "PayPal\nInterac E-Transfer\nCash\nPostal Money Order",
+    "currencies_accepted": "CAD",
     "species_comment": ""
   },
   {

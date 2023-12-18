@@ -1380,6 +1380,36 @@
     "value": "2023-01-15 13:08:04"
   },
   {
+    "id": 2809,
+    "artisan_id": 280,
+    "field_name": "DATE_UPDATED",
+    "value": "2023-12-18 20:03:40"
+  },
+  {
+    "id": 2810,
+    "artisan_id": 280,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 2811,
+    "artisan_id": 280,
+    "field_name": "NSFW_WEBSITE",
+    "value": "True"
+  },
+  {
+    "id": 2812,
+    "artisan_id": 280,
+    "field_name": "NSFW_SOCIAL",
+    "value": "True"
+  },
+  {
+    "id": 2813,
+    "artisan_id": 280,
+    "field_name": "DOES_NSFW",
+    "value": "True"
+  },
+  {
     "id": 939,
     "artisan_id": 282,
     "field_name": "IS_MINOR",
