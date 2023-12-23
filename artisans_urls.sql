@@ -1596,8 +1596,6 @@ INSERT INTO artisans_urls VALUES(9407,393,'URL_QUEUE','https://trello.com/b/X3bY
 INSERT INTO artisans_urls VALUES(9408,394,'URL_WEBSITE','https://ravenscreaturecreations.godaddysites.com/');
 INSERT INTO artisans_urls VALUES(9409,394,'URL_PRICES','https://ravenscreaturecreations.godaddysites.com/commissions');
 INSERT INTO artisans_urls VALUES(9410,394,'URL_COMMISSIONS','https://ravenscreaturecreations.godaddysites.com/');
-INSERT INTO artisans_urls VALUES(9411,395,'URL_WEBSITE','https://kingbayler.wixsite.com/28ghostiez');
-INSERT INTO artisans_urls VALUES(9412,395,'URL_PRICES','https://kingbayler.wixsite.com/28ghostiez/prices');
 INSERT INTO artisans_urls VALUES(9416,396,'URL_WEBSITE','https://www.facebook.com/suitsfurthesoul/');
 INSERT INTO artisans_urls VALUES(9417,396,'URL_PRICES','https://www.facebook.com/pg/suitsfurthesoul/services/');
 INSERT INTO artisans_urls VALUES(9418,23,'URL_PRICES','https://craftyvulpine.com/pricing');
@@ -1787,7 +1785,6 @@ INSERT INTO artisans_urls VALUES(9661,258,'URL_SCRITCH','https://scritch.es/make
 INSERT INTO artisans_urls VALUES(9662,403,'URL_PRICES','https://sites.google.com/view/fursocksstudios/commissions');
 INSERT INTO artisans_urls VALUES(9663,403,'URL_TWITTER','https://twitter.com/MetroKitty_OW');
 INSERT INTO artisans_urls VALUES(9664,403,'URL_ETSY','https://www.etsy.com/people/5fb7vvmp');
-INSERT INTO artisans_urls VALUES(9665,395,'URL_COMMISSIONS','https://kingbayler.wixsite.com/28ghostiez');
 INSERT INTO artisans_urls VALUES(9666,419,'URL_TWITTER','https://twitter.com/RetrieverCrafts');
 INSERT INTO artisans_urls VALUES(9667,419,'URL_INSTAGRAM','https://www.instagram.com/honey_retrieverr/');
 INSERT INTO artisans_urls VALUES(9668,419,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/other-items/retrievercrafts/125478');
@@ -4888,4 +4885,17 @@ INSERT INTO artisans_urls VALUES(13244,280,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(13245,280,'URL_OTHER_SHOP','https://ko-fi.com/gpawstudio');
 INSERT INTO artisans_urls VALUES(13246,280,'URL_QUEUE','https://t.me/GpawStudio');
 INSERT INTO artisans_urls VALUES(13247,280,'URL_OTHER','https://t.me/GpawStudio');
+INSERT INTO artisans_urls VALUES(13248,395,'URL_WEBSITE','https://28ghostiez.com/');
+INSERT INTO artisans_urls VALUES(13249,395,'URL_PRICES','https://28ghostiez.com/#pricing');
+INSERT INTO artisans_urls VALUES(13250,395,'URL_COMMISSIONS','https://28ghostiez.com/#');
+INSERT INTO artisans_urls VALUES(13251,395,'URL_FAQ','https://28ghostiez.com/#faq');
+INSERT INTO artisans_urls VALUES(13252,395,'URL_QUEUE','https://trello.com/b/8G8Rd7ga/28ghostiez');
+INSERT INTO artisans_urls VALUES(13253,395,'URL_FURTRACK','https://www.furtrack.com/index/maker:28ghostiez');
+INSERT INTO artisans_urls VALUES(13255,395,'URL_PHOTOS','https://www.furtrack.com/p/206635');
+INSERT INTO artisans_urls VALUES(13256,395,'URL_PHOTOS','https://www.furtrack.com/p/118405');
+INSERT INTO artisans_urls VALUES(13257,395,'URL_OTHER','https://www.furtrack.com/index/maker:28ghostiez');
+INSERT INTO artisans_urls VALUES(13258,395,'URL_PHOTOS','https://www.furtrack.com/p/66785');
+INSERT INTO artisans_urls VALUES(13259,395,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/206635-531ec4bc35900467dd44e9f17010dd66.jpg');
+INSERT INTO artisans_urls VALUES(13260,395,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/118405-d1aad01e3aef7f52b89839c55393d4ff.jpg');
+INSERT INTO artisans_urls VALUES(13261,395,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/66785-9437725bc01a13d2c4017975c03a5078.jpg');
 COMMIT;

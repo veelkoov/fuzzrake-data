@@ -13848,24 +13848,6 @@
     "url": "https://ravenscreaturecreations.godaddysites.com/"
   },
   {
-    "id": 9411,
-    "artisan_id": 395,
-    "type": "URL_WEBSITE",
-    "url": "https://kingbayler.wixsite.com/28ghostiez"
-  },
-  {
-    "id": 9412,
-    "artisan_id": 395,
-    "type": "URL_PRICES",
-    "url": "https://kingbayler.wixsite.com/28ghostiez/prices"
-  },
-  {
-    "id": 9665,
-    "artisan_id": 395,
-    "type": "URL_COMMISSIONS",
-    "url": "https://kingbayler.wixsite.com/28ghostiez"
-  },
-  {
     "id": 11325,
     "artisan_id": 395,
     "type": "URL_TWITTER",
@@ -13876,6 +13858,84 @@
     "artisan_id": 395,
     "type": "URL_INSTAGRAM",
     "url": "https://www.instagram.com/28ghostiez/"
+  },
+  {
+    "id": 13248,
+    "artisan_id": 395,
+    "type": "URL_WEBSITE",
+    "url": "https://28ghostiez.com/"
+  },
+  {
+    "id": 13249,
+    "artisan_id": 395,
+    "type": "URL_PRICES",
+    "url": "https://28ghostiez.com/#pricing"
+  },
+  {
+    "id": 13250,
+    "artisan_id": 395,
+    "type": "URL_COMMISSIONS",
+    "url": "https://28ghostiez.com/#"
+  },
+  {
+    "id": 13251,
+    "artisan_id": 395,
+    "type": "URL_FAQ",
+    "url": "https://28ghostiez.com/#faq"
+  },
+  {
+    "id": 13252,
+    "artisan_id": 395,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/8G8Rd7ga/28ghostiez"
+  },
+  {
+    "id": 13253,
+    "artisan_id": 395,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:28ghostiez"
+  },
+  {
+    "id": 13255,
+    "artisan_id": 395,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/206635"
+  },
+  {
+    "id": 13256,
+    "artisan_id": 395,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/118405"
+  },
+  {
+    "id": 13257,
+    "artisan_id": 395,
+    "type": "URL_OTHER",
+    "url": "https://www.furtrack.com/index/maker:28ghostiez"
+  },
+  {
+    "id": 13258,
+    "artisan_id": 395,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/66785"
+  },
+  {
+    "id": 13259,
+    "artisan_id": 395,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/206635-531ec4bc35900467dd44e9f17010dd66.jpg"
+  },
+  {
+    "id": 13260,
+    "artisan_id": 395,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/118405-d1aad01e3aef7f52b89839c55393d4ff.jpg"
+  },
+  {
+    "id": 13261,
+    "artisan_id": 395,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/66785-9437725bc01a13d2c4017975c03a5078.jpg"
   },
   {
     "id": 9416,
