@@ -29380,5 +29380,71 @@
     "artisan_id": 699,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/Wbl0VKNZ/muzzle-puzzle-project-board"
+  },
+  {
+    "id": 13262,
+    "artisan_id": 700,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/rex-magnus-designs/"
+  },
+  {
+    "id": 13263,
+    "artisan_id": 700,
+    "type": "URL_WEBSITE",
+    "url": "https://rex-magnus-designs.square.site/"
+  },
+  {
+    "id": 13264,
+    "artisan_id": 700,
+    "type": "URL_PRICES",
+    "url": "https://rex-magnus-designs.square.site/prices"
+  },
+  {
+    "id": 13265,
+    "artisan_id": 700,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/rexmagnusdesigns/"
+  },
+  {
+    "id": 13266,
+    "artisan_id": 700,
+    "type": "URL_ETSY",
+    "url": "https://rexmagnusdesigns.etsy.com/"
+  },
+  {
+    "id": 13267,
+    "artisan_id": 700,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/98iTfSqo/rex-magnus-designs-fursuit-queue"
+  },
+  {
+    "id": 13268,
+    "artisan_id": 701,
+    "type": "URL_WEBSITE",
+    "url": "https://www.seventhmooncoyote.com/"
+  },
+  {
+    "id": 13269,
+    "artisan_id": 701,
+    "type": "URL_FAQ",
+    "url": "https://www.seventhmooncoyote.com/"
+  },
+  {
+    "id": 13270,
+    "artisan_id": 701,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/SMCfursuits"
+  },
+  {
+    "id": 13271,
+    "artisan_id": 701,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/seventh_moon_coyote/"
+  },
+  {
+    "id": 13272,
+    "artisan_id": 701,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:seventh_moon_coyote"
   }
 ]

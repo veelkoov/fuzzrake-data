@@ -4898,4 +4898,15 @@ INSERT INTO artisans_urls VALUES(13258,395,'URL_PHOTOS','https://www.furtrack.co
 INSERT INTO artisans_urls VALUES(13259,395,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/206635-531ec4bc35900467dd44e9f17010dd66.jpg');
 INSERT INTO artisans_urls VALUES(13260,395,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/118405-d1aad01e3aef7f52b89839c55393d4ff.jpg');
 INSERT INTO artisans_urls VALUES(13261,395,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/66785-9437725bc01a13d2c4017975c03a5078.jpg');
+INSERT INTO artisans_urls VALUES(13262,700,'URL_FURSUITREVIEW','https://fursuitreview.com/m/rex-magnus-designs/');
+INSERT INTO artisans_urls VALUES(13263,700,'URL_WEBSITE','https://rex-magnus-designs.square.site/');
+INSERT INTO artisans_urls VALUES(13264,700,'URL_PRICES','https://rex-magnus-designs.square.site/prices');
+INSERT INTO artisans_urls VALUES(13265,700,'URL_INSTAGRAM','https://www.instagram.com/rexmagnusdesigns/');
+INSERT INTO artisans_urls VALUES(13266,700,'URL_ETSY','https://rexmagnusdesigns.etsy.com/');
+INSERT INTO artisans_urls VALUES(13267,700,'URL_QUEUE','https://trello.com/b/98iTfSqo/rex-magnus-designs-fursuit-queue');
+INSERT INTO artisans_urls VALUES(13268,701,'URL_WEBSITE','https://www.seventhmooncoyote.com/');
+INSERT INTO artisans_urls VALUES(13269,701,'URL_FAQ','https://www.seventhmooncoyote.com/');
+INSERT INTO artisans_urls VALUES(13270,701,'URL_TWITTER','https://twitter.com/SMCfursuits');
+INSERT INTO artisans_urls VALUES(13271,701,'URL_INSTAGRAM','https://www.instagram.com/seventh_moon_coyote/');
+INSERT INTO artisans_urls VALUES(13272,701,'URL_FURTRACK','https://www.furtrack.com/index/maker:seventh_moon_coyote');
 COMMIT;
