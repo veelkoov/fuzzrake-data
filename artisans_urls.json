@@ -25854,64 +25854,16 @@
     "url": "https://www.furtrack.com/index/maker:screaming_crows_creations"
   },
   {
-    "id": 12444,
-    "artisan_id": 642,
-    "type": "URL_WEBSITE",
-    "url": "https://gaygrumpstudios.wixsite.com/website"
-  },
-  {
     "id": 12446,
     "artisan_id": 642,
     "type": "URL_TUMBLR",
     "url": "https://www.tumblr.com/confusedpike"
   },
   {
-    "id": 12447,
-    "artisan_id": 642,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/gaygrumpstudios/"
-  },
-  {
-    "id": 12448,
-    "artisan_id": 642,
-    "type": "URL_YOUTUBE",
-    "url": "https://www.youtube.com/@gaygrumpstudios"
-  },
-  {
-    "id": 12449,
-    "artisan_id": 642,
-    "type": "URL_LINKLIST",
-    "url": "https://gaygrumpstudios.carrd.co"
-  },
-  {
-    "id": 12450,
-    "artisan_id": 642,
-    "type": "URL_THE_DEALERS_DEN",
-    "url": "https://www.thedealersden.com/store/gay-grump-studios"
-  },
-  {
     "id": 12451,
     "artisan_id": 642,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/fCKUZnfh/fursuit-progress"
-  },
-  {
-    "id": 12464,
-    "artisan_id": 642,
-    "type": "URL_PRICES",
-    "url": "https://gaygrumpstudios.wixsite.com/website/price-guide"
-  },
-  {
-    "id": 12465,
-    "artisan_id": 642,
-    "type": "URL_FAQ",
-    "url": "https://gaygrumpstudios.wixsite.com/website/faq"
-  },
-  {
-    "id": 12771,
-    "artisan_id": 642,
-    "type": "URL_FURTRACK",
-    "url": "https://www.furtrack.com/index/maker:gaygrumpstudios"
   },
   {
     "id": 13240,
@@ -25924,6 +25876,48 @@
     "artisan_id": 642,
     "type": "URL_FUR_AFFINITY",
     "url": "https://www.furaffinity.net/user/confused.pike/"
+  },
+  {
+    "id": 13273,
+    "artisan_id": 642,
+    "type": "URL_WEBSITE",
+    "url": "https://goldkoicreations.wixsite.com/website"
+  },
+  {
+    "id": 13274,
+    "artisan_id": 642,
+    "type": "URL_PRICES",
+    "url": "https://goldkoicreations.wixsite.com/website/price-guide"
+  },
+  {
+    "id": 13275,
+    "artisan_id": 642,
+    "type": "URL_FAQ",
+    "url": "https://goldkoicreations.wixsite.com/website/faq"
+  },
+  {
+    "id": 13276,
+    "artisan_id": 642,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/goldkoicreations/"
+  },
+  {
+    "id": 13277,
+    "artisan_id": 642,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@goldkoicreations"
+  },
+  {
+    "id": 13278,
+    "artisan_id": 642,
+    "type": "URL_LINKLIST",
+    "url": "https://goldkoicreations.carrd.co/"
+  },
+  {
+    "id": 13279,
+    "artisan_id": 642,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/store/gold-koi-creations"
   },
   {
     "id": 12452,

@@ -4107,12 +4107,7 @@ INSERT INTO artisans_urls VALUES(12440,641,'URL_LINKLIST','https://t.co/OVu9S1ml
 INSERT INTO artisans_urls VALUES(12441,641,'URL_ETSY','https://www.etsy.com/shop/2ScreamingCrows');
 INSERT INTO artisans_urls VALUES(12442,641,'URL_QUEUE','https://trello.com/b/EROBWgsf/queue');
 INSERT INTO artisans_urls VALUES(12443,641,'URL_FURTRACK','https://www.furtrack.com/index/maker:screaming_crows_creations');
-INSERT INTO artisans_urls VALUES(12444,642,'URL_WEBSITE','https://gaygrumpstudios.wixsite.com/website');
 INSERT INTO artisans_urls VALUES(12446,642,'URL_TUMBLR','https://www.tumblr.com/confusedpike');
-INSERT INTO artisans_urls VALUES(12447,642,'URL_INSTAGRAM','https://www.instagram.com/gaygrumpstudios/');
-INSERT INTO artisans_urls VALUES(12448,642,'URL_YOUTUBE','https://www.youtube.com/@gaygrumpstudios');
-INSERT INTO artisans_urls VALUES(12449,642,'URL_LINKLIST','https://gaygrumpstudios.carrd.co');
-INSERT INTO artisans_urls VALUES(12450,642,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/gay-grump-studios');
 INSERT INTO artisans_urls VALUES(12451,642,'URL_QUEUE','https://trello.com/b/fCKUZnfh/fursuit-progress');
 INSERT INTO artisans_urls VALUES(12452,643,'URL_WEBSITE','https://bloodng0re.carrd.co/');
 INSERT INTO artisans_urls VALUES(12453,643,'URL_PRICES','https://bloodng0re.carrd.co/#fursuit');
@@ -4126,8 +4121,6 @@ INSERT INTO artisans_urls VALUES(12460,644,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(12461,644,'URL_YOUTUBE','https://www.youtube.com/@PlatinumBladeStudios');
 INSERT INTO artisans_urls VALUES(12462,644,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/platinumbladestudios');
 INSERT INTO artisans_urls VALUES(12463,644,'URL_OTHER_SHOP','https://www.kleinanzeigen.de/s-bestandsliste.html?userId=122836296');
-INSERT INTO artisans_urls VALUES(12464,642,'URL_PRICES','https://gaygrumpstudios.wixsite.com/website/price-guide');
-INSERT INTO artisans_urls VALUES(12465,642,'URL_FAQ','https://gaygrumpstudios.wixsite.com/website/faq');
 INSERT INTO artisans_urls VALUES(12466,555,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/deadpozzum/');
 INSERT INTO artisans_urls VALUES(12467,555,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/deadpozzum');
 INSERT INTO artisans_urls VALUES(12468,233,'URL_WEBSITE','https://eternalskyy.carrd.co/');
@@ -4414,7 +4407,6 @@ INSERT INTO artisans_urls VALUES(12766,194,'URL_FURSUITREVIEW','https://fursuitr
 INSERT INTO artisans_urls VALUES(12767,643,'URL_FURSUITREVIEW','https://fursuitreview.com/m/bloodng0re/');
 INSERT INTO artisans_urls VALUES(12768,474,'URL_TWITTER','https://twitter.com/Malicious_Paws');
 INSERT INTO artisans_urls VALUES(12769,474,'URL_COMMISSIONS','https://twitter.com/Malicious_Paws');
-INSERT INTO artisans_urls VALUES(12771,642,'URL_FURTRACK','https://www.furtrack.com/index/maker:gaygrumpstudios');
 INSERT INTO artisans_urls VALUES(12772,321,'URL_FURTRACK','https://www.furtrack.com/index/maker:sab!er_studios');
 INSERT INTO artisans_urls VALUES(12773,665,'URL_FURSUITREVIEW','https://fursuitreview.com/m/onetoken/');
 INSERT INTO artisans_urls VALUES(12774,665,'URL_WEBSITE','https://onetoken.carrd.co/');
@@ -4909,4 +4901,11 @@ INSERT INTO artisans_urls VALUES(13269,701,'URL_FAQ','https://www.seventhmooncoy
 INSERT INTO artisans_urls VALUES(13270,701,'URL_TWITTER','https://twitter.com/SMCfursuits');
 INSERT INTO artisans_urls VALUES(13271,701,'URL_INSTAGRAM','https://www.instagram.com/seventh_moon_coyote/');
 INSERT INTO artisans_urls VALUES(13272,701,'URL_FURTRACK','https://www.furtrack.com/index/maker:seventh_moon_coyote');
+INSERT INTO artisans_urls VALUES(13273,642,'URL_WEBSITE','https://goldkoicreations.wixsite.com/website');
+INSERT INTO artisans_urls VALUES(13274,642,'URL_PRICES','https://goldkoicreations.wixsite.com/website/price-guide');
+INSERT INTO artisans_urls VALUES(13275,642,'URL_FAQ','https://goldkoicreations.wixsite.com/website/faq');
+INSERT INTO artisans_urls VALUES(13276,642,'URL_INSTAGRAM','https://www.instagram.com/goldkoicreations/');
+INSERT INTO artisans_urls VALUES(13277,642,'URL_YOUTUBE','https://www.youtube.com/@goldkoicreations');
+INSERT INTO artisans_urls VALUES(13278,642,'URL_LINKLIST','https://goldkoicreations.carrd.co/');
+INSERT INTO artisans_urls VALUES(13279,642,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/gold-koi-creations');
 COMMIT;
