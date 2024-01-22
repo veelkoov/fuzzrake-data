@@ -4908,4 +4908,5 @@ INSERT INTO artisans_urls VALUES(13276,642,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(13277,642,'URL_YOUTUBE','https://www.youtube.com/@goldkoicreations');
 INSERT INTO artisans_urls VALUES(13278,642,'URL_LINKLIST','https://goldkoicreations.carrd.co/');
 INSERT INTO artisans_urls VALUES(13279,642,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/gold-koi-creations');
+INSERT INTO artisans_urls VALUES(13280,590,'URL_FURSUITREVIEW','https://fursuitreview.com/m/akela-takas-fursuits-and-cosplay/');
 COMMIT;
