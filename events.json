@@ -41503,5 +41503,35 @@
     "no_longer_open_for": "Commissions",
     "now_open_for": "",
     "tracking_issues": 1
+  },
+  {
+    "id": 2784,
+    "timestamp": "2024-02-07 18:44:00",
+    "type": "DATA_UPDATED",
+    "artisan_name": "",
+    "new_makers_count": 0,
+    "updated_makers_count": 1,
+    "reported_updated_makers_count": 0,
+    "git_commits": "2965b7801b9a61d1c62b25c2b68bcba0a0237c31",
+    "checked_urls": "",
+    "description": "",
+    "no_longer_open_for": "",
+    "now_open_for": "",
+    "tracking_issues": 0
+  },
+  {
+    "id": 2785,
+    "timestamp": "2024-02-07 18:57:00",
+    "type": "DATA_UPDATED",
+    "artisan_name": "",
+    "new_makers_count": 1,
+    "updated_makers_count": 0,
+    "reported_updated_makers_count": 0,
+    "git_commits": "fe6c13470973b6530447f406c0427e7990b0b658",
+    "checked_urls": "",
+    "description": "",
+    "no_longer_open_for": "",
+    "now_open_for": "",
+    "tracking_issues": 0
   }
 ]

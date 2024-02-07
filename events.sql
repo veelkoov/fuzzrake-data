@@ -2769,4 +2769,6 @@ INSERT INTO events VALUES(2780,'2024-02-06 00:08:36.120','CS_UPDATED','Critter C
 INSERT INTO events VALUES(2781,'2024-02-06 12:08:40.726','CS_UPDATED','VioletTrench',0,0,0,'','https://www.etsy.com/shop/violettrenchstudios','','Commissions','',1);
 INSERT INTO events VALUES(2782,'2024-02-07 00:08:32.186','CS_UPDATED','VioletTrench',0,0,0,'','https://www.etsy.com/shop/violettrenchstudios','','','Commissions',1);
 INSERT INTO events VALUES(2783,'2024-02-07 12:09:02.228','CS_UPDATED','VioletTrench',0,0,0,'','https://www.etsy.com/shop/violettrenchstudios','','Commissions','',1);
+INSERT INTO events VALUES(2784,'2024-02-07 18:44:00','DATA_UPDATED','',0,1,0,'2965b7801b9a61d1c62b25c2b68bcba0a0237c31','','','','',0);
+INSERT INTO events VALUES(2785,'2024-02-07 18:57:00','DATA_UPDATED','',1,0,0,'fe6c13470973b6530447f406c0427e7990b0b658','','','','',0);
 COMMIT;

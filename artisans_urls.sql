@@ -4913,4 +4913,5 @@ INSERT INTO artisans_urls VALUES(13281,702,'URL_COMMISSIONS','https://www.instag
 INSERT INTO artisans_urls VALUES(13282,702,'URL_TWITTER','https://twitter.com/ruffmadesuits');
 INSERT INTO artisans_urls VALUES(13283,702,'URL_INSTAGRAM','https://www.instagram.com/ruff.made.suits/');
 INSERT INTO artisans_urls VALUES(13284,702,'URL_LINKLIST','https://linktr.ee/ruffmadesuits');
+INSERT INTO artisans_urls VALUES(13285,671,'URL_FURSUITREVIEW','https://fursuitreview.com/m/soul-enterprise/');
 COMMIT;
