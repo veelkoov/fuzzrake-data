@@ -4909,4 +4909,8 @@ INSERT INTO artisans_urls VALUES(13277,642,'URL_YOUTUBE','https://www.youtube.co
 INSERT INTO artisans_urls VALUES(13278,642,'URL_LINKLIST','https://goldkoicreations.carrd.co/');
 INSERT INTO artisans_urls VALUES(13279,642,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/gold-koi-creations');
 INSERT INTO artisans_urls VALUES(13280,590,'URL_FURSUITREVIEW','https://fursuitreview.com/m/akela-takas-fursuits-and-cosplay/');
+INSERT INTO artisans_urls VALUES(13281,702,'URL_COMMISSIONS','https://www.instagram.com/ruff.made.suits/');
+INSERT INTO artisans_urls VALUES(13282,702,'URL_TWITTER','https://twitter.com/ruffmadesuits');
+INSERT INTO artisans_urls VALUES(13283,702,'URL_INSTAGRAM','https://www.instagram.com/ruff.made.suits/');
+INSERT INTO artisans_urls VALUES(13284,702,'URL_LINKLIST','https://linktr.ee/ruffmadesuits');
 COMMIT;

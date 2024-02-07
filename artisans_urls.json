@@ -29446,5 +29446,29 @@
     "artisan_id": 701,
     "type": "URL_FURTRACK",
     "url": "https://www.furtrack.com/index/maker:seventh_moon_coyote"
+  },
+  {
+    "id": 13281,
+    "artisan_id": 702,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/ruff.made.suits/"
+  },
+  {
+    "id": 13282,
+    "artisan_id": 702,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/ruffmadesuits"
+  },
+  {
+    "id": 13283,
+    "artisan_id": 702,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/ruff.made.suits/"
+  },
+  {
+    "id": 13284,
+    "artisan_id": 702,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/ruffmadesuits"
   }
 ]
