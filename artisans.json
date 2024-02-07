@@ -19425,9 +19425,9 @@
     "city": "Johnson City",
     "production_models": "Premades\nStandard commissions",
     "styles": "Toony",
-    "order_types": "Full digitigrade\nHandpaws (as parts/separate)\nHead (as parts/separate)\nMini partial (head + handpaws + tail)\nPartial (head + handpaws + tail + feetpaws)",
-    "features": "Exchangeable tongues\nFollow-me eyes\nIndoor feet\nOutdoor feet\nRemovable eyelids\nWashable heads",
-    "other_features": "",
+    "order_types": "Full digitigrade\nHandpaws (as parts/separate)\nHead (as parts/separate)\nMini partial (head + handpaws + tail)\nPartial (head + handpaws + tail + feetpaws)\nThree-fourth (head + handpaws + tail + legs/pants + feetpaws)",
+    "features": "Exchangeable hairs\nExchangeable tongues\nFollow-me eyes\nIndoor feet\nOutdoor feet\nRemovable eyelids",
+    "other_features": "Sandals for indoor feet paws\nPickable noses",
     "payment_plans": "Cost of materials + a 25% deposit to secure a slot",
     "species_does": "Most species",
     "species_doesnt": "Skulldogs\nScalies\nAvians\nProtogens",
@@ -19442,10 +19442,10 @@
     "production_models_comment": "I usually work with pre-made ref sheets for a design, but I'm willing to try out artistic liberty designs with a small amount of input from the commissioner. (ex: the commissioner sends a color palette or a set of emojis to inspire the design)",
     "styles_comment": "",
     "order_types_comment": "Very excited to do digigrades because I love the look of them.",
-    "features_comment": "Some heads aren't washable, as they are 3D printed. I will send info with your suit if the head isn't washable.",
+    "features_comment": "Most, if not all of my eyes are 3D printed.\nHeads, hand, and feet paws are always lined. Hands and feet are made with my own pattern.\nHeads will err on the small side, to ensure that they don't slip down as you wear them, but they shouldn't be tight.",
     "payment_methods": "PayPal",
     "currencies_accepted": "USD",
-    "species_comment": "Most experience with canines"
+    "species_comment": "Most experience with canines. Willing to try any species at least once."
   },
   {
     "id": 601,
