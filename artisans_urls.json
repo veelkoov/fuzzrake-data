@@ -19620,16 +19620,34 @@
     "url": "https://www.furtrack.com/p/327025"
   },
   {
-    "id": 12957,
+    "id": 13286,
+    "artisan_id": 510,
+    "type": "URL_COMMISSIONS",
+    "url": "https://shellsews.com/"
+  },
+  {
+    "id": 13287,
+    "artisan_id": 510,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/437794"
+  },
+  {
+    "id": 13292,
     "artisan_id": 510,
     "type": "URL_MINIATURES",
     "url": "https://orca.furtrack.com/gallery/thumb/373689-efa0e5c963b0838ec7dec245664dda3f.jpg"
   },
   {
-    "id": 12958,
+    "id": 13293,
     "artisan_id": 510,
     "type": "URL_MINIATURES",
     "url": "https://orca.furtrack.com/gallery/thumb/327025-8658dd4fd9b296d2bda4ae90ed173fea.jpg"
+  },
+  {
+    "id": 13294,
+    "artisan_id": 510,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/437794-4dfa07421cbe2525049c97ad94f184a4.jpg"
   },
   {
     "id": 10859,
@@ -26676,18 +26694,6 @@
     "url": "https://storage.scritch.es/scritch/d9a36133c9350c58f05c6763670ff34cb32ac9c0/thumbnail_4a5930bd-42f5-4e70-ae1e-d8c4b306fb44.jpeg#d20"
   },
   {
-    "id": 12625,
-    "artisan_id": 655,
-    "type": "URL_WEBSITE",
-    "url": "https://www.madebyaginger.com/"
-  },
-  {
-    "id": 12626,
-    "artisan_id": 655,
-    "type": "URL_PRICES",
-    "url": "https://www.madebyaginger.com/prices.html"
-  },
-  {
     "id": 12627,
     "artisan_id": 655,
     "type": "URL_COMMISSIONS",
@@ -26770,6 +26776,30 @@
     "artisan_id": 655,
     "type": "URL_MINIATURES",
     "url": "https://storage.scritch.es/scritch/45c2c990ac2fc0781a518c583badb368b873af83/thumbnail_d5354543-a5f2-4cb4-98e6-2c5286bde272.png"
+  },
+  {
+    "id": 13288,
+    "artisan_id": 655,
+    "type": "URL_PRICES",
+    "url": "https://kneadingprices.carrd.co/"
+  },
+  {
+    "id": 13289,
+    "artisan_id": 655,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/thekneadery/"
+  },
+  {
+    "id": 13290,
+    "artisan_id": 655,
+    "type": "URL_OTHER",
+    "url": "http://tiktok.com/@felixthecalico"
+  },
+  {
+    "id": 13291,
+    "artisan_id": 655,
+    "type": "URL_OTHER",
+    "url": "https://bsky.app/profile/thekneadery.bsky.social"
   },
   {
     "id": 12637,

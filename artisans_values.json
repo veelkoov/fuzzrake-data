@@ -4995,7 +4995,7 @@
     "id": 2655,
     "artisan_id": 510,
     "field_name": "DATE_UPDATED",
-    "value": "2023-09-29 18:38:08"
+    "value": "2024-02-11 18:39:48"
   },
   {
     "id": 1232,
@@ -9904,6 +9904,12 @@
     "artisan_id": 655,
     "field_name": "DOES_NSFW",
     "value": "True"
+  },
+  {
+    "id": 2830,
+    "artisan_id": 655,
+    "field_name": "DATE_UPDATED",
+    "value": "2024-02-11 18:40:32"
   },
   {
     "id": 2508,
