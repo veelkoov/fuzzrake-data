@@ -2771,4 +2771,15 @@ INSERT INTO events VALUES(2782,'2024-02-07 00:08:32.186','CS_UPDATED','VioletTre
 INSERT INTO events VALUES(2783,'2024-02-07 12:09:02.228','CS_UPDATED','VioletTrench',0,0,0,'','https://www.etsy.com/shop/violettrenchstudios','','Commissions','',1);
 INSERT INTO events VALUES(2784,'2024-02-07 18:44:00','DATA_UPDATED','',0,1,0,'2965b7801b9a61d1c62b25c2b68bcba0a0237c31','','','','',0);
 INSERT INTO events VALUES(2785,'2024-02-07 18:57:00','DATA_UPDATED','',1,0,0,'fe6c13470973b6530447f406c0427e7990b0b658','','','','',0);
+INSERT INTO events VALUES(2786,'2024-02-08 00:08:39.355','CS_UPDATED','Charred Fursuits',0,0,0,'','https://twitter.com/CharredFursuits','','Commissions','',0);
+INSERT INTO events VALUES(2787,'2024-02-08 00:08:39.355','CS_UPDATED','VioletTrench',0,0,0,'','https://www.etsy.com/shop/violettrenchstudios','','','Commissions',1);
+INSERT INTO events VALUES(2788,'2024-02-08 00:08:39.589','CS_UPDATED','BlankMuttCreations',0,0,0,'','https://blankmuttcreations.carrd.co/#fursuit','','Quotes','',1);
+INSERT INTO events VALUES(2789,'2024-02-08 00:08:39.658','CS_UPDATED','OMNIDAD Creations',0,0,0,'','https://twitter.com/OmnidadCreation','','','Commissions',0);
+INSERT INTO events VALUES(2790,'2024-02-08 12:08:42.685','CS_UPDATED','VioletTrench',0,0,0,'','https://www.etsy.com/shop/violettrenchstudios','','Commissions','',1);
+INSERT INTO events VALUES(2791,'2024-02-08 12:08:42.917','CS_UPDATED','BlankMuttCreations',0,0,0,'','https://blankmuttcreations.carrd.co/#fursuit','','','Quotes',1);
+INSERT INTO events VALUES(2792,'2024-02-09 12:08:51.185','CS_UPDATED','Galaxy Creations',0,0,0,'','https://galaxycreations.co.uk/','','','Quotes',0);
+INSERT INTO events VALUES(2793,'2024-02-10 00:08:50.252','CS_UPDATED','Golden Maw',0,0,0,'','https://www.goldenmaw.com/how-to-commission','','','Commissions',0);
+INSERT INTO events VALUES(2794,'2024-02-10 00:08:50.307','CS_UPDATED','VioletTrench',0,0,0,'','https://www.etsy.com/shop/violettrenchstudios','','','Commissions',1);
+INSERT INTO events VALUES(2795,'2024-02-11 00:08:48.016','CS_UPDATED','VioletTrench',0,0,0,'','https://www.etsy.com/shop/violettrenchstudios','','Commissions','',1);
+INSERT INTO events VALUES(2796,'2024-02-11 12:08:39.180','CS_UPDATED','BlankMuttCreations',0,0,0,'','https://blankmuttcreations.carrd.co/#fursuit','','Quotes','',1);
 COMMIT;
