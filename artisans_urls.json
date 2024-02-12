@@ -4764,10 +4764,46 @@
     "url": "https://www.furaffinity.net/user/kazutokurama/"
   },
   {
-    "id": 669,
+    "id": 13295,
+    "artisan_id": 168,
+    "type": "URL_WEBSITE",
+    "url": "https://www.firewolfstudio.com"
+  },
+  {
+    "id": 13296,
+    "artisan_id": 168,
+    "type": "URL_PRICES",
+    "url": "https://www.firewolfstudio.com/prices"
+  },
+  {
+    "id": 13297,
     "artisan_id": 168,
     "type": "URL_COMMISSIONS",
-    "url": "http://www.furaffinity.net/journal/7337932/"
+    "url": "https://www.firewolfstudio.com/commission-status"
+  },
+  {
+    "id": 13298,
+    "artisan_id": 168,
+    "type": "URL_FAQ",
+    "url": "https://www.firewolfstudio.com/tos"
+  },
+  {
+    "id": 13299,
+    "artisan_id": 168,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/FireWolfStudio1"
+  },
+  {
+    "id": 13300,
+    "artisan_id": 168,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/FireWolfStudio"
+  },
+  {
+    "id": 13301,
+    "artisan_id": 168,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/ti2QcSQy/fire-wolf-studio-queue"
   },
   {
     "id": 670,

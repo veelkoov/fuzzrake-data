@@ -580,7 +580,6 @@ INSERT INTO artisans_urls VALUES(665,167,'URL_INSTAGRAM','https://www.instagram.
 INSERT INTO artisans_urls VALUES(666,167,'URL_COMMISSIONS','https://www.furaffinity.net/user/-narrow-/');
 INSERT INTO artisans_urls VALUES(667,168,'URL_FURSUITREVIEW','https://fursuitreview.com/m/natsuro-suits/');
 INSERT INTO artisans_urls VALUES(668,168,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/kazutokurama/');
-INSERT INTO artisans_urls VALUES(669,168,'URL_COMMISSIONS','http://www.furaffinity.net/journal/7337932/');
 INSERT INTO artisans_urls VALUES(670,169,'URL_WEBSITE','https://batcatsuits.wixsite.com/batcatsuits');
 INSERT INTO artisans_urls VALUES(671,169,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/cosmicthelynx/');
 INSERT INTO artisans_urls VALUES(672,169,'URL_TWITTER','https://twitter.com/CosmicTheLynx');
@@ -4919,4 +4918,11 @@ INSERT INTO artisans_urls VALUES(13291,655,'URL_OTHER','https://bsky.app/profile
 INSERT INTO artisans_urls VALUES(13292,510,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/373689-efa0e5c963b0838ec7dec245664dda3f.jpg');
 INSERT INTO artisans_urls VALUES(13293,510,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/327025-8658dd4fd9b296d2bda4ae90ed173fea.jpg');
 INSERT INTO artisans_urls VALUES(13294,510,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/437794-4dfa07421cbe2525049c97ad94f184a4.jpg');
+INSERT INTO artisans_urls VALUES(13295,168,'URL_WEBSITE','https://www.firewolfstudio.com');
+INSERT INTO artisans_urls VALUES(13296,168,'URL_PRICES','https://www.firewolfstudio.com/prices');
+INSERT INTO artisans_urls VALUES(13297,168,'URL_COMMISSIONS','https://www.firewolfstudio.com/commission-status');
+INSERT INTO artisans_urls VALUES(13298,168,'URL_FAQ','https://www.firewolfstudio.com/tos');
+INSERT INTO artisans_urls VALUES(13299,168,'URL_TWITTER','https://twitter.com/FireWolfStudio1');
+INSERT INTO artisans_urls VALUES(13300,168,'URL_ETSY','https://www.etsy.com/shop/FireWolfStudio');
+INSERT INTO artisans_urls VALUES(13301,168,'URL_QUEUE','https://trello.com/b/ti2QcSQy/fire-wolf-studio-queue');
 COMMIT;

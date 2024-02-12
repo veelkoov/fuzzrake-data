@@ -420,6 +420,36 @@
     "value": "False"
   },
   {
+    "id": 2831,
+    "artisan_id": 168,
+    "field_name": "DATE_UPDATED",
+    "value": "2024-02-12 18:12:47"
+  },
+  {
+    "id": 2832,
+    "artisan_id": 168,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 2833,
+    "artisan_id": 168,
+    "field_name": "NSFW_WEBSITE",
+    "value": "False"
+  },
+  {
+    "id": 2834,
+    "artisan_id": 168,
+    "field_name": "NSFW_SOCIAL",
+    "value": "True"
+  },
+  {
+    "id": 2835,
+    "artisan_id": 168,
+    "field_name": "DOES_NSFW",
+    "value": "True"
+  },
+  {
     "id": 2699,
     "artisan_id": 170,
     "field_name": "DATE_UPDATED",
