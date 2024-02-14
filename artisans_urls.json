@@ -3468,58 +3468,10 @@
     "url": "https://twitter.com/GGCostumes"
   },
   {
-    "id": 479,
-    "artisan_id": 136,
-    "type": "URL_FURSUITREVIEW",
-    "url": "https://fursuitreview.com/m/cfstudios/"
-  },
-  {
-    "id": 480,
-    "artisan_id": 136,
-    "type": "URL_WEBSITE",
-    "url": "http://www.cfstudiosonline.com/"
-  },
-  {
-    "id": 481,
-    "artisan_id": 136,
-    "type": "URL_PRICES",
-    "url": "http://www.cfstudiosonline.com/fursuit-price"
-  },
-  {
-    "id": 482,
-    "artisan_id": 136,
-    "type": "URL_FAQ",
-    "url": "http://www.cfstudiosonline.com/faq"
-  },
-  {
     "id": 483,
     "artisan_id": 136,
     "type": "URL_FUR_AFFINITY",
     "url": "https://www.furaffinity.net/user/cfstudios/"
-  },
-  {
-    "id": 484,
-    "artisan_id": 136,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/C_F_Studios"
-  },
-  {
-    "id": 485,
-    "artisan_id": 136,
-    "type": "URL_FACEBOOK",
-    "url": "https://www.facebook.com/cfstudiospage/"
-  },
-  {
-    "id": 486,
-    "artisan_id": 136,
-    "type": "URL_TUMBLR",
-    "url": "https://cfstudios.tumblr.com/"
-  },
-  {
-    "id": 487,
-    "artisan_id": 136,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/c_f_studios/"
   },
   {
     "id": 488,
@@ -3528,16 +3480,64 @@
     "url": "https://www.youtube.com/channel/UCjiavstONxAtUi_0W6skTJA"
   },
   {
-    "id": 489,
+    "id": 13302,
     "artisan_id": 136,
-    "type": "URL_QUEUE",
-    "url": "http://www.cfstudiosonline.com/commission-status"
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/poeproductions/"
   },
   {
-    "id": 490,
+    "id": 13303,
+    "artisan_id": 136,
+    "type": "URL_WEBSITE",
+    "url": "https://poeproductions.org"
+  },
+  {
+    "id": 13304,
+    "artisan_id": 136,
+    "type": "URL_PRICES",
+    "url": "https://poeproductions.org/prices/"
+  },
+  {
+    "id": 13305,
+    "artisan_id": 136,
+    "type": "URL_FAQ",
+    "url": "https://poeproductions.org/faq/"
+  },
+  {
+    "id": 13306,
+    "artisan_id": 136,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/P0Eproductions"
+  },
+  {
+    "id": 13307,
+    "artisan_id": 136,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/PoeProductionsFB"
+  },
+  {
+    "id": 13308,
+    "artisan_id": 136,
+    "type": "URL_TUMBLR",
+    "url": "https://poeproductions.tumblr.com"
+  },
+  {
+    "id": 13309,
+    "artisan_id": 136,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/p0e_productions/"
+  },
+  {
+    "id": 13310,
+    "artisan_id": 136,
+    "type": "URL_QUEUE",
+    "url": "https://poeproductions.org/queue/"
+  },
+  {
+    "id": 13311,
     "artisan_id": 136,
     "type": "URL_COMMISSIONS",
-    "url": "https://twitter.com/C_F_Studios"
+    "url": "https://twitter.com/P0Eproductions"
   },
   {
     "id": 491,
