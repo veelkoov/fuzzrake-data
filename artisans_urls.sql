@@ -407,7 +407,6 @@ INSERT INTO artisans_urls VALUES(475,135,'URL_TWITTER','https://twitter.com/GGCo
 INSERT INTO artisans_urls VALUES(476,135,'URL_INSTAGRAM','https://www.instagram.com/groovygoat_costumes/');
 INSERT INTO artisans_urls VALUES(477,135,'URL_YOUTUBE','https://www.youtube.com/channel/UC2ifCTmdzAX9CVwhkiaJr-A');
 INSERT INTO artisans_urls VALUES(478,135,'URL_COMMISSIONS','https://twitter.com/GGCostumes');
-INSERT INTO artisans_urls VALUES(483,136,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/cfstudios/');
 INSERT INTO artisans_urls VALUES(488,136,'URL_YOUTUBE','https://www.youtube.com/channel/UCjiavstONxAtUi_0W6skTJA');
 INSERT INTO artisans_urls VALUES(491,137,'URL_FURSUITREVIEW','https://fursuitreview.com/m/curlworks/');
 INSERT INTO artisans_urls VALUES(492,137,'URL_WEBSITE','https://www.curlworks.net/');
