@@ -4931,4 +4931,16 @@ INSERT INTO artisans_urls VALUES(13317,587,'URL_ETSY','https://stxrcane.etsy.com
 INSERT INTO artisans_urls VALUES(13318,236,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/484690-6fa49062980cd31a63627a0ec1f90ff8.jpg');
 INSERT INTO artisans_urls VALUES(13319,236,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/386224-2c9bbc1100ecb12a7f3d933e8293410e.jpg');
 INSERT INTO artisans_urls VALUES(13320,236,'URL_MINIATURES','https://orca.furtrack.com/gallery/thumb/410191-7641b3ffde76c2f8101b7a48179d2f82.jpg');
+INSERT INTO artisans_urls VALUES(13321,703,'URL_WEBSITE','http://www.saikafurlab.com/');
+INSERT INTO artisans_urls VALUES(13322,703,'URL_PRICES','https://www.saikafurlab.com/pricelist/');
+INSERT INTO artisans_urls VALUES(13323,703,'URL_COMMISSIONS','https://www.instagram.com/saikozza/');
+INSERT INTO artisans_urls VALUES(13324,703,'URL_COMMISSIONS','http://www.saikafurlab.com/');
+INSERT INTO artisans_urls VALUES(13325,703,'URL_FAQ','http://www.saikafurlab.com/faq/');
+INSERT INTO artisans_urls VALUES(13326,703,'URL_TWITTER','https://twitter.com/saikozza');
+INSERT INTO artisans_urls VALUES(13327,703,'URL_FACEBOOK','https://www.facebook.com/saikozza/');
+INSERT INTO artisans_urls VALUES(13328,703,'URL_INSTAGRAM','https://www.instagram.com/saikozza/');
+INSERT INTO artisans_urls VALUES(13329,703,'URL_YOUTUBE','https://www.youtube.com/@saikozza');
+INSERT INTO artisans_urls VALUES(13330,703,'URL_LINKLIST','https://linktr.ee/Saikozza');
+INSERT INTO artisans_urls VALUES(13331,703,'URL_QUEUE','http://trello.com/b/eElWH3j1/saikafurlab-queue');
+INSERT INTO artisans_urls VALUES(13332,703,'URL_OTHER','https://t.me/SaikaAtWork');
 COMMIT;

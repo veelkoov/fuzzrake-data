@@ -29578,5 +29578,77 @@
     "artisan_id": 702,
     "type": "URL_LINKLIST",
     "url": "https://linktr.ee/ruffmadesuits"
+  },
+  {
+    "id": 13321,
+    "artisan_id": 703,
+    "type": "URL_WEBSITE",
+    "url": "http://www.saikafurlab.com/"
+  },
+  {
+    "id": 13322,
+    "artisan_id": 703,
+    "type": "URL_PRICES",
+    "url": "https://www.saikafurlab.com/pricelist/"
+  },
+  {
+    "id": 13323,
+    "artisan_id": 703,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/saikozza/"
+  },
+  {
+    "id": 13324,
+    "artisan_id": 703,
+    "type": "URL_COMMISSIONS",
+    "url": "http://www.saikafurlab.com/"
+  },
+  {
+    "id": 13325,
+    "artisan_id": 703,
+    "type": "URL_FAQ",
+    "url": "http://www.saikafurlab.com/faq/"
+  },
+  {
+    "id": 13326,
+    "artisan_id": 703,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/saikozza"
+  },
+  {
+    "id": 13327,
+    "artisan_id": 703,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/saikozza/"
+  },
+  {
+    "id": 13328,
+    "artisan_id": 703,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/saikozza/"
+  },
+  {
+    "id": 13329,
+    "artisan_id": 703,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@saikozza"
+  },
+  {
+    "id": 13330,
+    "artisan_id": 703,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/Saikozza"
+  },
+  {
+    "id": 13331,
+    "artisan_id": 703,
+    "type": "URL_QUEUE",
+    "url": "http://trello.com/b/eElWH3j1/saikafurlab-queue"
+  },
+  {
+    "id": 13332,
+    "artisan_id": 703,
+    "type": "URL_OTHER",
+    "url": "https://t.me/SaikaAtWork"
   }
 ]
