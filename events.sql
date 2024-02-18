@@ -2782,4 +2782,18 @@ INSERT INTO events VALUES(2793,'2024-02-10 00:08:50.252','CS_UPDATED','Golden Ma
 INSERT INTO events VALUES(2794,'2024-02-10 00:08:50.307','CS_UPDATED','VioletTrench',0,0,0,'','https://www.etsy.com/shop/violettrenchstudios','','','Commissions',1);
 INSERT INTO events VALUES(2795,'2024-02-11 00:08:48.016','CS_UPDATED','VioletTrench',0,0,0,'','https://www.etsy.com/shop/violettrenchstudios','','Commissions','',1);
 INSERT INTO events VALUES(2796,'2024-02-11 12:08:39.180','CS_UPDATED','BlankMuttCreations',0,0,0,'','https://blankmuttcreations.carrd.co/#fursuit','','Quotes','',1);
+INSERT INTO events VALUES(2797,'2024-02-11 18:43:00','DATA_UPDATED','',0,2,0,'43b56623c2f3e89af6c467a97bcb4baf8c532cb5','','','','',0);
+INSERT INTO events VALUES(2798,'2024-02-11 18:45:16.517','CS_UPDATED','Shellsews Fursuits',0,0,0,'','https://shellsews.com/','','','Commissions',1);
+INSERT INTO events VALUES(2799,'2024-02-12 00:08:44.531','CS_UPDATED','DeadPozzum',0,0,0,'','https://twitter.com/DeadPozzum','','Commissions','',1);
+INSERT INTO events VALUES(2800,'2024-02-12 12:08:39.472','CS_UPDATED','VioletTrench',0,0,0,'','https://www.etsy.com/shop/violettrenchstudios','','','Commissions',1);
+INSERT INTO events VALUES(2801,'2024-02-12 18:13:00','DATA_UPDATED','',0,1,0,'454a8b60eeef53093535afb3800030834ea0f89e','','','','',0);
+INSERT INTO events VALUES(2802,'2024-02-13 00:08:36.358','CS_UPDATED','VioletTrench',0,0,0,'','https://www.etsy.com/shop/violettrenchstudios','','Commissions','',1);
+INSERT INTO events VALUES(2803,'2024-02-13 12:09:26.362','CS_UPDATED','VioletTrench',0,0,0,'','https://www.etsy.com/shop/violettrenchstudios','','','Commissions',1);
+INSERT INTO events VALUES(2804,'2024-02-14 00:08:27.433','CS_UPDATED','VioletTrench',0,0,0,'','https://www.etsy.com/shop/violettrenchstudios','','Commissions','',1);
+INSERT INTO events VALUES(2805,'2024-02-14 12:08:35.367','CS_UPDATED','Unleashed Studios',0,0,0,'','https://twitter.com/UnleashedSTU','','','Commissions',0);
+INSERT INTO events VALUES(2806,'2024-02-15 00:08:36.914','CS_UPDATED','Unleashed Studios',0,0,0,'','https://twitter.com/UnleashedSTU','','Commissions','',0);
+INSERT INTO events VALUES(2807,'2024-02-17 00:08:48.980','CS_UPDATED','CCS Mascots',0,0,0,'','http://ccsmascots.com/commission-pricing-2/','',replace('Quotes\nCommissions','\n',char(10)),'',1);
+INSERT INTO events VALUES(2808,'2024-02-17 12:09:07.494','CS_UPDATED','CCS Mascots',0,0,0,'','http://ccsmascots.com/commission-pricing-2/','','',replace('Quotes\nCommissions','\n',char(10)),0);
+INSERT INTO events VALUES(2809,'2024-02-18 00:08:37.754','CS_UPDATED','Curlworks',0,0,0,'','https://www.curlworks.net/','','Orders','',1);
+INSERT INTO events VALUES(2810,'2024-02-18 12:08:29.659','CS_UPDATED','Miggs Creations',0,0,0,'','https://miggscreations.com/#comms','','Commissions','',0);
 COMMIT;
