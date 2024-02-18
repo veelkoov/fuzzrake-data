@@ -7674,6 +7674,48 @@
     "url": "https://www.patreon.com/Fionka_Fursuits"
   },
   {
+    "id": 13312,
+    "artisan_id": 236,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:fionka_fursuits"
+  },
+  {
+    "id": 13313,
+    "artisan_id": 236,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/484690"
+  },
+  {
+    "id": 13314,
+    "artisan_id": 236,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/386224"
+  },
+  {
+    "id": 13315,
+    "artisan_id": 236,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/410191"
+  },
+  {
+    "id": 13318,
+    "artisan_id": 236,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/484690-6fa49062980cd31a63627a0ec1f90ff8.jpg"
+  },
+  {
+    "id": 13319,
+    "artisan_id": 236,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/386224-2c9bbc1100ecb12a7f3d933e8293410e.jpg"
+  },
+  {
+    "id": 13320,
+    "artisan_id": 236,
+    "type": "URL_MINIATURES",
+    "url": "https://orca.furtrack.com/gallery/thumb/410191-7641b3ffde76c2f8101b7a48179d2f82.jpg"
+  },
+  {
     "id": 1038,
     "artisan_id": 237,
     "type": "URL_WEBSITE",
@@ -23394,22 +23436,22 @@
     "url": "https://www.facebook.com/spicydragonstudio/"
   },
   {
-    "id": 11846,
-    "artisan_id": 587,
-    "type": "URL_WEBSITE",
-    "url": "https://stxrcane.art/"
-  },
-  {
-    "id": 11849,
-    "artisan_id": 587,
-    "type": "URL_ETSY",
-    "url": "https://www.etsy.com/shop/stxrcane"
-  },
-  {
     "id": 11850,
     "artisan_id": 587,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/dgsfZi8P/stxrcane-commission-queue-%F0%9F%94%AE"
+  },
+  {
+    "id": 13316,
+    "artisan_id": 587,
+    "type": "URL_WEBSITE",
+    "url": "https://stxrcane.carrd.co/"
+  },
+  {
+    "id": 13317,
+    "artisan_id": 587,
+    "type": "URL_ETSY",
+    "url": "https://stxrcane.etsy.com/"
   },
   {
     "id": 11853,
