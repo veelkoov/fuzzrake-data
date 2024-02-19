@@ -4943,4 +4943,5 @@ INSERT INTO artisans_urls VALUES(13329,703,'URL_YOUTUBE','https://www.youtube.co
 INSERT INTO artisans_urls VALUES(13330,703,'URL_LINKLIST','https://linktr.ee/Saikozza');
 INSERT INTO artisans_urls VALUES(13331,703,'URL_QUEUE','http://trello.com/b/eElWH3j1/saikafurlab-queue');
 INSERT INTO artisans_urls VALUES(13332,703,'URL_OTHER','https://t.me/SaikaAtWork');
+INSERT INTO artisans_urls VALUES(13333,666,'URL_OTHER','https://www.flickr.com/photos/transformtiger/albums');
 COMMIT;
