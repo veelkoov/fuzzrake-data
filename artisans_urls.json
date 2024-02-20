@@ -17514,24 +17514,6 @@
     "url": "https://orca.furtrack.com/gallery/thumb/88379-10ff3226e8298de3ccb91270faa93c96.jpg"
   },
   {
-    "id": 10062,
-    "artisan_id": 463,
-    "type": "URL_WEBSITE",
-    "url": "https://foxesinboxes.wixsite.com/foxesinboxes"
-  },
-  {
-    "id": 10063,
-    "artisan_id": 463,
-    "type": "URL_PRICES",
-    "url": "https://foxesinboxes.wixsite.com/foxesinboxes/pricing"
-  },
-  {
-    "id": 10064,
-    "artisan_id": 463,
-    "type": "URL_FAQ",
-    "url": "https://foxesinboxes.wixsite.com/foxesinboxes/faq"
-  },
-  {
     "id": 10065,
     "artisan_id": 463,
     "type": "URL_FUR_AFFINITY",
@@ -17556,16 +17538,34 @@
     "url": "https://trello.com/b/Y6kaQSmv/foxes-in-boxes"
   },
   {
-    "id": 10069,
-    "artisan_id": 463,
-    "type": "URL_COMMISSIONS",
-    "url": "https://foxesinboxes.wixsite.com/foxesinboxes"
-  },
-  {
     "id": 11669,
     "artisan_id": 463,
     "type": "URL_FURTRACK",
     "url": "https://www.furtrack.com/index/maker:foxes_in_boxes"
+  },
+  {
+    "id": 13336,
+    "artisan_id": 463,
+    "type": "URL_WEBSITE",
+    "url": "https://www.foxesinboxesfursuits.com/"
+  },
+  {
+    "id": 13337,
+    "artisan_id": 463,
+    "type": "URL_PRICES",
+    "url": "https://www.foxesinboxesfursuits.com/pricing"
+  },
+  {
+    "id": 13338,
+    "artisan_id": 463,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.foxesinboxesfursuits.com/"
+  },
+  {
+    "id": 13339,
+    "artisan_id": 463,
+    "type": "URL_FAQ",
+    "url": "https://www.foxesinboxesfursuits.com/faqs"
   },
   {
     "id": 10070,
@@ -23454,10 +23454,22 @@
     "url": "https://stxrcane.carrd.co/"
   },
   {
-    "id": 13317,
+    "id": 13340,
+    "artisan_id": 587,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/arcanesorcery_"
+  },
+  {
+    "id": 13341,
+    "artisan_id": 587,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/stxrcane/"
+  },
+  {
+    "id": 13342,
     "artisan_id": 587,
     "type": "URL_ETSY",
-    "url": "https://stxrcane.etsy.com/"
+    "url": "https://arcanesorcery.etsy.com/"
   },
   {
     "id": 11853,
