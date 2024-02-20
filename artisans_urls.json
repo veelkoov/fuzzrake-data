@@ -9714,6 +9714,12 @@
     "url": "https://www.etsy.com/shop/DragonsDenFursuits"
   },
   {
+    "id": 13334,
+    "artisan_id": 288,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/dragons-den-fursuits/"
+  },
+  {
     "id": 1324,
     "artisan_id": 289,
     "type": "URL_WEBSITE",
@@ -29656,5 +29662,11 @@
     "artisan_id": 703,
     "type": "URL_OTHER",
     "url": "https://t.me/SaikaAtWork"
+  },
+  {
+    "id": 13335,
+    "artisan_id": 703,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/saika/"
   }
 ]

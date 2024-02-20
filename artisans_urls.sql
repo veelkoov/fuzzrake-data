@@ -4944,4 +4944,6 @@ INSERT INTO artisans_urls VALUES(13330,703,'URL_LINKLIST','https://linktr.ee/Sai
 INSERT INTO artisans_urls VALUES(13331,703,'URL_QUEUE','http://trello.com/b/eElWH3j1/saikafurlab-queue');
 INSERT INTO artisans_urls VALUES(13332,703,'URL_OTHER','https://t.me/SaikaAtWork');
 INSERT INTO artisans_urls VALUES(13333,666,'URL_OTHER','https://www.flickr.com/photos/transformtiger/albums');
+INSERT INTO artisans_urls VALUES(13334,288,'URL_FURSUITREVIEW','https://fursuitreview.com/m/dragons-den-fursuits/');
+INSERT INTO artisans_urls VALUES(13335,703,'URL_FURSUITREVIEW','https://fursuitreview.com/m/saika/');
 COMMIT;
