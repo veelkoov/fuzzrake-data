@@ -132,10 +132,100 @@
     "url": "https://www.youtube.com/channel/UCV0ZPqtfMQEXk2MlIfj0a-Q"
   },
   {
-    "id": 20,
+    "id": 13350,
+    "artisan_id": 4,
+    "type": "URL_WEBSITE",
+    "url": "https://www.furry-factory.com/"
+  },
+  {
+    "id": 13351,
+    "artisan_id": 4,
+    "type": "URL_PRICES",
+    "url": "https://www.furry-factory.com/pages/base-prices"
+  },
+  {
+    "id": 13352,
     "artisan_id": 4,
     "type": "URL_COMMISSIONS",
-    "url": "http://www.furaffinity.net/user/furry-factory/#profile"
+    "url": "https://www.furry-factory.com/pages/commissions"
+  },
+  {
+    "id": 13353,
+    "artisan_id": 4,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/display-feedback/kayru"
+  },
+  {
+    "id": 13354,
+    "artisan_id": 4,
+    "type": "URL_OTHER_SHOP",
+    "url": "https://furryfactoryshop.etsy.com/"
+  },
+  {
+    "id": 13355,
+    "artisan_id": 4,
+    "type": "URL_SCRITCH",
+    "url": "https://scritch.es/seth-silver"
+  },
+  {
+    "id": 13356,
+    "artisan_id": 4,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/a48a16ff-de69-44d2-88f0-833425a70041"
+  },
+  {
+    "id": 13357,
+    "artisan_id": 4,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/55f1cbed-08a2-48ec-92bb-1051bb807e28"
+  },
+  {
+    "id": 13358,
+    "artisan_id": 4,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/23df71cb-5a4c-4581-b6a7-76becb6faf2a"
+  },
+  {
+    "id": 13359,
+    "artisan_id": 4,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/421a270e-89c6-45e0-b8c7-4bae8cb40f49"
+  },
+  {
+    "id": 13360,
+    "artisan_id": 4,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/418b674d-9de1-4c0d-ad2f-1d2f74a080a4"
+  },
+  {
+    "id": 13361,
+    "artisan_id": 4,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/9dfdd5e29f84e0730801c0439b2b36b71cee5358/thumbnail_89523959-20e3-489b-94cb-c5984c561a25.jpeg"
+  },
+  {
+    "id": 13362,
+    "artisan_id": 4,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/cc59423f02d76c22fef60defde7426e5ec292594/thumbnail_398095fa-13a1-4afd-bbac-e9e2e22ac307.jpeg"
+  },
+  {
+    "id": 13363,
+    "artisan_id": 4,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/2ce77af89a1dccf82b8a9b139bc6d57f626ed9eb/thumbnail_28903f09-ea6c-49ed-94ed-9ac1a3c42c4e.jpeg"
+  },
+  {
+    "id": 13364,
+    "artisan_id": 4,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/3fceb162da61c8cc98ede5034eab9b08c958453f/thumbnail_13e37f46-3dae-49fc-bb8d-d91e9fcb081f.jpeg"
+  },
+  {
+    "id": 13365,
+    "artisan_id": 4,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/50a45076bd17b4580b8702c562175f2921789895/thumbnail_6ce6d597-743a-41cc-86e2-ccb444d2decb.jpeg"
   },
   {
     "id": 21,
@@ -16434,6 +16524,18 @@
     "url": "https://orca.furtrack.com/gallery/sample/88331-a18a95b3868b98394b420831b9d2ee90.jpg"
   },
   {
+    "id": 13348,
+    "artisan_id": 441,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@alecrimcarmim"
+  },
+  {
+    "id": 13349,
+    "artisan_id": 441,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/other-items/alecrimcarmim/121606"
+  },
+  {
     "id": 9867,
     "artisan_id": 442,
     "type": "URL_TWITTER",
@@ -29680,5 +29782,35 @@
     "artisan_id": 703,
     "type": "URL_FURSUITREVIEW",
     "url": "https://fursuitreview.com/m/saika/"
+  },
+  {
+    "id": 13343,
+    "artisan_id": 704,
+    "type": "URL_WEBSITE",
+    "url": "https://mysticsdesigns.wixsite.com/website"
+  },
+  {
+    "id": 13344,
+    "artisan_id": 704,
+    "type": "URL_PRICES",
+    "url": "https://mysticsdesigns.wixsite.com/website/price-guide-and-quote-form"
+  },
+  {
+    "id": 13345,
+    "artisan_id": 704,
+    "type": "URL_FAQ",
+    "url": "https://mysticsdesigns.wixsite.com/website/faq-and-tos"
+  },
+  {
+    "id": 13346,
+    "artisan_id": 704,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/mystic_snow_creations/"
+  },
+  {
+    "id": 13347,
+    "artisan_id": 704,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/MysticMalamute"
   }
 ]
