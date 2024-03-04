@@ -1616,7 +1616,6 @@ INSERT INTO artisans_urls VALUES(9454,399,'URL_YOUTUBE','https://www.youtube.com
 INSERT INTO artisans_urls VALUES(9455,399,'URL_QUEUE','https://trello.com/b/qOTNPoIo/wolfskin-studio');
 INSERT INTO artisans_urls VALUES(9457,39,'URL_OTHER_SHOP','https://www.artfire.com/ext/shop/home/Beetlecat');
 INSERT INTO artisans_urls VALUES(9458,137,'URL_ETSY','https://www.etsy.com/shop/curlworks');
-INSERT INTO artisans_urls VALUES(9459,264,'URL_FURRY_AMINO','https://aminoapps.com/c/furry-amino/page/user/taffy-the-rat/BQkR_B7Jhbf5268z5aoDD3aJ56wQaY8a7dE');
 INSERT INTO artisans_urls VALUES(9460,269,'URL_LINKLIST','https://linktr.ee/carnivcreations');
 INSERT INTO artisans_urls VALUES(9461,271,'URL_FURRY_AMINO','https://aminoapps.com/c/furry-amino/page/item/fur-oclock-creations/RrZ2_X3qFvIW58QJDKVXroG7Bx81z8RNVJW');
 INSERT INTO artisans_urls VALUES(9462,278,'URL_FURRY_AMINO','https://aminoapps.com/p/xiwyam/');
