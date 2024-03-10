@@ -29268,12 +29268,6 @@
     "url": "https://scritch.es/makers/chibeasts"
   },
   {
-    "id": 13143,
-    "artisan_id": 693,
-    "type": "URL_FURTRACK",
-    "url": "https://www.furtrack.com/index/maker:starcane_arts"
-  },
-  {
     "id": 13144,
     "artisan_id": 693,
     "type": "URL_PHOTOS",
@@ -29308,6 +29302,12 @@
     "artisan_id": 693,
     "type": "URL_MINIATURES",
     "url": "https://storage.scritch.es/scritch/9e65e2f9a68846f2d4f8fe00b970cc6fb6f6c3f6/thumbnail_8627b15f-ebeb-4682-bdeb-691da6841ced.jpeg#r90"
+  },
+  {
+    "id": 13393,
+    "artisan_id": 693,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:chibeasts"
   },
   {
     "id": 13147,
