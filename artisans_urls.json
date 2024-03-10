@@ -23418,24 +23418,6 @@
     "url": "https://orca.furtrack.com/gallery/thumb/184047-630c888a64edb534f7006d152ddb3082.jpg"
   },
   {
-    "id": 11778,
-    "artisan_id": 583,
-    "type": "URL_WEBSITE",
-    "url": "https://blankmuttcreations.carrd.co/"
-  },
-  {
-    "id": 11779,
-    "artisan_id": 583,
-    "type": "URL_PRICES",
-    "url": "https://blankmuttcreations.carrd.co/#fursuit"
-  },
-  {
-    "id": 11780,
-    "artisan_id": 583,
-    "type": "URL_COMMISSIONS",
-    "url": "https://blankmuttcreations.carrd.co/#fursuit"
-  },
-  {
     "id": 11781,
     "artisan_id": 583,
     "type": "URL_TWITTER",
@@ -28048,18 +28030,6 @@
     "artisan_id": 672,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/m1OgW6hx/fursuit-queue"
-  },
-  {
-    "id": 12847,
-    "artisan_id": 673,
-    "type": "URL_WEBSITE",
-    "url": "https://thistlecrux.com/"
-  },
-  {
-    "id": 12848,
-    "artisan_id": 673,
-    "type": "URL_PRICES",
-    "url": "https://www.thistlecrux.com/price-guide"
   },
   {
     "id": 12849,

@@ -3460,9 +3460,6 @@ INSERT INTO artisans_urls VALUES(11774,582,'URL_FURTRACK','https://www.furtrack.
 INSERT INTO artisans_urls VALUES(11775,582,'URL_PHOTOS','https://www.furtrack.com/p/184051');
 INSERT INTO artisans_urls VALUES(11776,582,'URL_PHOTOS','https://www.furtrack.com/p/184049');
 INSERT INTO artisans_urls VALUES(11777,582,'URL_PHOTOS','https://www.furtrack.com/p/184047');
-INSERT INTO artisans_urls VALUES(11778,583,'URL_WEBSITE','https://blankmuttcreations.carrd.co/');
-INSERT INTO artisans_urls VALUES(11779,583,'URL_PRICES','https://blankmuttcreations.carrd.co/#fursuit');
-INSERT INTO artisans_urls VALUES(11780,583,'URL_COMMISSIONS','https://blankmuttcreations.carrd.co/#fursuit');
 INSERT INTO artisans_urls VALUES(11781,583,'URL_TWITTER','https://twitter.com/untitledmutt');
 INSERT INTO artisans_urls VALUES(11782,583,'URL_INSTAGRAM','https://www.instagram.com/untitledmutt/');
 INSERT INTO artisans_urls VALUES(11783,583,'URL_YOUTUBE','https://www.youtube.com/channel/UCxr3faD5MndHsAg-TIL5bHA');
@@ -4458,8 +4455,6 @@ INSERT INTO artisans_urls VALUES(12843,671,'URL_PHOTOS','https://www.furtrack.co
 INSERT INTO artisans_urls VALUES(12844,671,'URL_OTHER','Patreon: https://patreon.com/SoulEnterprise?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link');
 INSERT INTO artisans_urls VALUES(12845,672,'URL_INSTAGRAM','https://www.instagram.com/bubblegums_bakery/');
 INSERT INTO artisans_urls VALUES(12846,672,'URL_QUEUE','https://trello.com/b/m1OgW6hx/fursuit-queue');
-INSERT INTO artisans_urls VALUES(12847,673,'URL_WEBSITE','https://thistlecrux.com/');
-INSERT INTO artisans_urls VALUES(12848,673,'URL_PRICES','https://www.thistlecrux.com/price-guide');
 INSERT INTO artisans_urls VALUES(12849,673,'URL_COMMISSIONS','https://www.instagram.com/thistlecrux/');
 INSERT INTO artisans_urls VALUES(12850,673,'URL_INSTAGRAM','https://www.instagram.com/thistlecrux/');
 INSERT INTO artisans_urls VALUES(12851,673,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/display-feedback/thistlecrux');
