@@ -3,13 +3,13 @@
     "id": 2852,
     "artisan_id": 4,
     "field_name": "DATE_UPDATED",
-    "value": "2024-03-05 18:47:36"
+    "value": "2024-03-10 14:14:07"
   },
   {
     "id": 2853,
     "artisan_id": 4,
     "field_name": "AGES",
-    "value": "MINORS"
+    "value": "ADULTS"
   },
   {
     "id": 2854,
@@ -27,6 +27,12 @@
     "id": 2856,
     "artisan_id": 4,
     "field_name": "WORKS_WITH_MINORS",
+    "value": "False"
+  },
+  {
+    "id": 2857,
+    "artisan_id": 4,
+    "field_name": "DOES_NSFW",
     "value": "False"
   },
   {
