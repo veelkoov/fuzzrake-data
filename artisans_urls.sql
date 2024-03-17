@@ -3163,14 +3163,11 @@ INSERT INTO artisans_urls VALUES(11425,554,'URL_QUEUE','https://trello.com/b/QwK
 INSERT INTO artisans_urls VALUES(11426,554,'URL_SCRITCH','https://scritch.es/cindery');
 INSERT INTO artisans_urls VALUES(11427,554,'URL_FURTRACK','https://www.furtrack.com/user/CinDery');
 INSERT INTO artisans_urls VALUES(11428,554,'URL_OTHER','https://t.me/CinDery');
-INSERT INTO artisans_urls VALUES(11429,555,'URL_WEBSITE','https://deadpozzum.carrd.co/');
 INSERT INTO artisans_urls VALUES(11430,555,'URL_COMMISSIONS','https://twitter.com/DeadPozzum');
 INSERT INTO artisans_urls VALUES(11431,555,'URL_DEVIANTART','https://www.deviantart.com/deadpozzum');
 INSERT INTO artisans_urls VALUES(11432,555,'URL_TWITTER','https://twitter.com/DeadPozzum');
 INSERT INTO artisans_urls VALUES(11433,555,'URL_INSTAGRAM','https://www.instagram.com/DeadPozzum/');
 INSERT INTO artisans_urls VALUES(11434,555,'URL_YOUTUBE','https://www.youtube.com/channel/UCJEOmUXCHOBFU3BBGYyEpuQ');
-INSERT INTO artisans_urls VALUES(11435,555,'URL_LINKLIST','https://linktr.ee/BoboMoonstone');
-INSERT INTO artisans_urls VALUES(11436,555,'URL_QUEUE','https://twitter.com/DeadPozzum');
 INSERT INTO artisans_urls VALUES(11437,269,'URL_WEBSITE','https://www.carnivcreations.com/');
 INSERT INTO artisans_urls VALUES(11438,492,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/diinokit/');
 INSERT INTO artisans_urls VALUES(11439,556,'URL_WEBSITE','https://builtbyaxel.vulpesvulp.es/');
@@ -3400,11 +3397,7 @@ INSERT INTO artisans_urls VALUES(11708,440,'URL_COMMISSIONS','https://www.bigsno
 INSERT INTO artisans_urls VALUES(11709,440,'URL_OTHER_SHOP','https://ko-fi.com/bigsnootsuits/shop');
 INSERT INTO artisans_urls VALUES(11710,440,'URL_FURTRACK','https://www.furtrack.com/index/maker:big_snoot_suits');
 INSERT INTO artisans_urls VALUES(11711,577,'URL_WEBSITE','https://randomthehellhound.wixsite.com/random-rituals');
-INSERT INTO artisans_urls VALUES(11712,577,'URL_PRICES','https://randomthehellhound.wixsite.com/random-rituals/price-list');
 INSERT INTO artisans_urls VALUES(11713,577,'URL_TWITTER','https://twitter.com/Random_hell_');
-INSERT INTO artisans_urls VALUES(11714,577,'URL_FACEBOOK','https://www.facebook.com/profile.php?id=100004564395599');
-INSERT INTO artisans_urls VALUES(11715,577,'URL_INSTAGRAM','https://www.instagram.com/random_hellhound/');
-INSERT INTO artisans_urls VALUES(11716,577,'URL_LINKLIST','https://linktr.ee/randomhell');
 INSERT INTO artisans_urls VALUES(11717,577,'URL_OTHER','https://t.me/+zXfKPwucVwViMzM0');
 INSERT INTO artisans_urls VALUES(11718,262,'URL_FURSUITREVIEW','https://fursuitreview.com/m/nordstrom-kaiju/');
 INSERT INTO artisans_urls VALUES(11719,262,'URL_WEBSITE','https://www.instagram.com/northernkaiju/');
@@ -3570,7 +3563,6 @@ INSERT INTO artisans_urls VALUES(11892,590,'URL_PHOTOS','https://www.furtrack.co
 INSERT INTO artisans_urls VALUES(11893,590,'URL_PHOTOS','https://www.furtrack.com/p/210889');
 INSERT INTO artisans_urls VALUES(11894,590,'URL_OTHER','https://www.tiktok.com/@akelatakawolf');
 INSERT INTO artisans_urls VALUES(11895,591,'URL_LINKLIST','https://inkfloof.carrd.co/');
-INSERT INTO artisans_urls VALUES(11896,577,'URL_COMMISSIONS','https://randomthehellhound.wixsite.com/random-rituals');
 INSERT INTO artisans_urls VALUES(11897,514,'URL_WEBSITE','https://jesdenart.com/');
 INSERT INTO artisans_urls VALUES(11898,514,'URL_PRICES','https://jesdenart.com/prices');
 INSERT INTO artisans_urls VALUES(11899,514,'URL_COMMISSIONS','https://jesdenart.com/prices');
@@ -4984,4 +4976,11 @@ INSERT INTO artisans_urls VALUES(13404,706,'URL_PHOTOS','https://www.furtrack.co
 INSERT INTO artisans_urls VALUES(13405,707,'URL_WEBSITE','https://michaelmeyers2264.wixsite.com/cccreations');
 INSERT INTO artisans_urls VALUES(13406,707,'URL_PRICES','https://michaelmeyers2264.wixsite.com/cccreations/commission-pricing');
 INSERT INTO artisans_urls VALUES(13407,707,'URL_COMMISSIONS','https://michaelmeyers2264.wixsite.com/cccreations/commission-pricing');
+INSERT INTO artisans_urls VALUES(13408,555,'URL_WEBSITE','https://deadpozzum.uwu.ai/#');
+INSERT INTO artisans_urls VALUES(13409,555,'URL_QUEUE','https://deadpozzum.uwu.ai/#fursuitcommissions');
+INSERT INTO artisans_urls VALUES(13410,577,'URL_PRICES','https://random-rituals.com/price-list');
+INSERT INTO artisans_urls VALUES(13411,577,'URL_COMMISSIONS','https://www.instagram.com/random_rituals/');
+INSERT INTO artisans_urls VALUES(13412,577,'URL_FACEBOOK','https://www.facebook.com/profile.php/?id=61555151459540');
+INSERT INTO artisans_urls VALUES(13413,577,'URL_INSTAGRAM','https://www.instagram.com/random_rituals/');
+INSERT INTO artisans_urls VALUES(13414,577,'URL_LINKLIST','https://linktr.ee/randomrituals');
 COMMIT;

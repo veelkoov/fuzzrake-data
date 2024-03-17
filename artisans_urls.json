@@ -22098,12 +22098,6 @@
     "url": "https://t.me/CinDery"
   },
   {
-    "id": 11429,
-    "artisan_id": 555,
-    "type": "URL_WEBSITE",
-    "url": "https://deadpozzum.carrd.co/"
-  },
-  {
     "id": 11430,
     "artisan_id": 555,
     "type": "URL_COMMISSIONS",
@@ -22134,18 +22128,6 @@
     "url": "https://www.youtube.com/channel/UCJEOmUXCHOBFU3BBGYyEpuQ"
   },
   {
-    "id": 11435,
-    "artisan_id": 555,
-    "type": "URL_LINKLIST",
-    "url": "https://linktr.ee/BoboMoonstone"
-  },
-  {
-    "id": 11436,
-    "artisan_id": 555,
-    "type": "URL_QUEUE",
-    "url": "https://twitter.com/DeadPozzum"
-  },
-  {
     "id": 12466,
     "artisan_id": 555,
     "type": "URL_FUR_AFFINITY",
@@ -22162,6 +22144,18 @@
     "artisan_id": 555,
     "type": "URL_PRICES",
     "url": "https://docs.google.com/document/d/1KjNxSppRMmCUo1rOUfKWv8EpWY6_V0wCKIRQlIqX8Tk/edit"
+  },
+  {
+    "id": 13408,
+    "artisan_id": 555,
+    "type": "URL_WEBSITE",
+    "url": "https://deadpozzum.uwu.ai/#"
+  },
+  {
+    "id": 13409,
+    "artisan_id": 555,
+    "type": "URL_QUEUE",
+    "url": "https://deadpozzum.uwu.ai/#fursuitcommissions"
   },
   {
     "id": 11439,
@@ -23214,34 +23208,10 @@
     "url": "https://randomthehellhound.wixsite.com/random-rituals"
   },
   {
-    "id": 11712,
-    "artisan_id": 577,
-    "type": "URL_PRICES",
-    "url": "https://randomthehellhound.wixsite.com/random-rituals/price-list"
-  },
-  {
     "id": 11713,
     "artisan_id": 577,
     "type": "URL_TWITTER",
     "url": "https://twitter.com/Random_hell_"
-  },
-  {
-    "id": 11714,
-    "artisan_id": 577,
-    "type": "URL_FACEBOOK",
-    "url": "https://www.facebook.com/profile.php?id=100004564395599"
-  },
-  {
-    "id": 11715,
-    "artisan_id": 577,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/random_hellhound/"
-  },
-  {
-    "id": 11716,
-    "artisan_id": 577,
-    "type": "URL_LINKLIST",
-    "url": "https://linktr.ee/randomhell"
   },
   {
     "id": 11717,
@@ -23250,10 +23220,34 @@
     "url": "https://t.me/+zXfKPwucVwViMzM0"
   },
   {
-    "id": 11896,
+    "id": 13410,
+    "artisan_id": 577,
+    "type": "URL_PRICES",
+    "url": "https://random-rituals.com/price-list"
+  },
+  {
+    "id": 13411,
     "artisan_id": 577,
     "type": "URL_COMMISSIONS",
-    "url": "https://randomthehellhound.wixsite.com/random-rituals"
+    "url": "https://www.instagram.com/random_rituals/"
+  },
+  {
+    "id": 13412,
+    "artisan_id": 577,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/profile.php/?id=61555151459540"
+  },
+  {
+    "id": 13413,
+    "artisan_id": 577,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/random_rituals/"
+  },
+  {
+    "id": 13414,
+    "artisan_id": 577,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/randomrituals"
   },
   {
     "id": 11732,
