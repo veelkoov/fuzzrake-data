@@ -3853,5 +3853,35 @@
     "id": 774,
     "artisan_id": 707,
     "maker_id": "CCCRTNS"
+  },
+  {
+    "id": 775,
+    "artisan_id": 708,
+    "maker_id": "FEFS123"
+  },
+  {
+    "id": 776,
+    "artisan_id": 709,
+    "maker_id": "FIREFUR"
+  },
+  {
+    "id": 777,
+    "artisan_id": 710,
+    "maker_id": "PLTKIDO"
+  },
+  {
+    "id": 778,
+    "artisan_id": 711,
+    "maker_id": "RADGOAT"
+  },
+  {
+    "id": 779,
+    "artisan_id": 712,
+    "maker_id": "PROTODS"
+  },
+  {
+    "id": 780,
+    "artisan_id": 713,
+    "maker_id": "REESETB"
   }
 ]
