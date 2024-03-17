@@ -4745,7 +4745,6 @@ INSERT INTO artisans_urls VALUES(13139,693,'URL_FACEBOOK','https://www.facebook.
 INSERT INTO artisans_urls VALUES(13140,693,'URL_INSTAGRAM','https://www.instagram.com/chibeasts/');
 INSERT INTO artisans_urls VALUES(13141,693,'URL_QUEUE','https://trello.com/b/y6Wmc2Jm/chibeasts-trello');
 INSERT INTO artisans_urls VALUES(13142,693,'URL_SCRITCH','https://scritch.es/makers/chibeasts');
-INSERT INTO artisans_urls VALUES(13143,693,'URL_FURTRACK','https://www.furtrack.com/index/maker:starcane_arts');
 INSERT INTO artisans_urls VALUES(13144,693,'URL_PHOTOS','https://scritch.es/pictures/0647c8dc-b1e0-402e-a5bb-ac418eb04812');
 INSERT INTO artisans_urls VALUES(13145,693,'URL_PHOTOS','https://www.furtrack.com/p/386732');
 INSERT INTO artisans_urls VALUES(13146,693,'URL_PHOTOS','https://www.furtrack.com/p/244907');
