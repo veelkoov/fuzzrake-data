@@ -5018,4 +5018,5 @@ INSERT INTO artisans_urls VALUES(13446,712,'URL_YOUTUBE','https://www.youtube.co
 INSERT INTO artisans_urls VALUES(13447,713,'URL_COMMISSIONS','https://twitter.com/ReeseTheBass');
 INSERT INTO artisans_urls VALUES(13448,713,'URL_TWITTER','https://twitter.com/ReeseTheBass');
 INSERT INTO artisans_urls VALUES(13449,713,'URL_YOUTUBE','https://www.youtube.com/channel/UC73NhTTtQOP3wCc1tmQCFRA');
+INSERT INTO artisans_urls VALUES(13450,614,'URL_FURSUITREVIEW','https://fursuitreview.com/m/retrongrade/');
 COMMIT;
