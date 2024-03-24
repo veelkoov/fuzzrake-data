@@ -5019,4 +5019,11 @@ INSERT INTO artisans_urls VALUES(13447,713,'URL_COMMISSIONS','https://twitter.co
 INSERT INTO artisans_urls VALUES(13448,713,'URL_TWITTER','https://twitter.com/ReeseTheBass');
 INSERT INTO artisans_urls VALUES(13449,713,'URL_YOUTUBE','https://www.youtube.com/channel/UC73NhTTtQOP3wCc1tmQCFRA');
 INSERT INTO artisans_urls VALUES(13450,614,'URL_FURSUITREVIEW','https://fursuitreview.com/m/retrongrade/');
+INSERT INTO artisans_urls VALUES(13451,714,'URL_PRICES','https://docs.google.com/document/d/1-ypRCV0E4Y16bA0JErcqF0ZF5ytcDUELLiTqwnQwfso/edit');
+INSERT INTO artisans_urls VALUES(13452,714,'URL_COMMISSIONS','https://www.instagram.com/quaumsystudios/');
+INSERT INTO artisans_urls VALUES(13453,714,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/quaumsy/');
+INSERT INTO artisans_urls VALUES(13454,714,'URL_INSTAGRAM','https://www.instagram.com/quaumsystudios/');
+INSERT INTO artisans_urls VALUES(13455,714,'URL_ETSY','https://www.etsy.com/shop/QuaumsyStudios');
+INSERT INTO artisans_urls VALUES(13456,714,'URL_QUEUE','https://trello.com/b/hubyX5qc/%E2%99%A1-commission-queue-%E2%99%A1');
+INSERT INTO artisans_urls VALUES(13457,714,'URL_PHOTOS','https://www.furtrack.com/p/536552');
 COMMIT;

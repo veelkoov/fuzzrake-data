@@ -30106,5 +30106,47 @@
     "artisan_id": 713,
     "type": "URL_YOUTUBE",
     "url": "https://www.youtube.com/channel/UC73NhTTtQOP3wCc1tmQCFRA"
+  },
+  {
+    "id": 13451,
+    "artisan_id": 714,
+    "type": "URL_PRICES",
+    "url": "https://docs.google.com/document/d/1-ypRCV0E4Y16bA0JErcqF0ZF5ytcDUELLiTqwnQwfso/edit"
+  },
+  {
+    "id": 13452,
+    "artisan_id": 714,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/quaumsystudios/"
+  },
+  {
+    "id": 13453,
+    "artisan_id": 714,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/quaumsy/"
+  },
+  {
+    "id": 13454,
+    "artisan_id": 714,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/quaumsystudios/"
+  },
+  {
+    "id": 13455,
+    "artisan_id": 714,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/QuaumsyStudios"
+  },
+  {
+    "id": 13456,
+    "artisan_id": 714,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/hubyX5qc/%E2%99%A1-commission-queue-%E2%99%A1"
+  },
+  {
+    "id": 13457,
+    "artisan_id": 714,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/536552"
   }
 ]

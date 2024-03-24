@@ -11968,5 +11968,41 @@
     "artisan_id": 713,
     "field_name": "WORKS_WITH_MINORS",
     "value": "True"
+  },
+  {
+    "id": 2913,
+    "artisan_id": 714,
+    "field_name": "DATE_ADDED",
+    "value": "2024-03-24 15:40:24"
+  },
+  {
+    "id": 2914,
+    "artisan_id": 714,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 2915,
+    "artisan_id": 714,
+    "field_name": "NSFW_WEBSITE",
+    "value": "False"
+  },
+  {
+    "id": 2916,
+    "artisan_id": 714,
+    "field_name": "NSFW_SOCIAL",
+    "value": "False"
+  },
+  {
+    "id": 2917,
+    "artisan_id": 714,
+    "field_name": "DOES_NSFW",
+    "value": "False"
+  },
+  {
+    "id": 2918,
+    "artisan_id": 714,
+    "field_name": "WORKS_WITH_MINORS",
+    "value": "True"
   }
 ]
