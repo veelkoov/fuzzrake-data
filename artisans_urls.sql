@@ -4968,10 +4968,7 @@ INSERT INTO artisans_urls VALUES(13396,706,'URL_TUMBLR','https://www.tumblr.com/
 INSERT INTO artisans_urls VALUES(13397,706,'URL_INSTAGRAM','https://www.instagram.com/_cedarwoods_/');
 INSERT INTO artisans_urls VALUES(13398,706,'URL_YOUTUBE','https://www.youtube.com/channel/UCa-XmFzzuSHtZmvZQDPx3Gg');
 INSERT INTO artisans_urls VALUES(13399,706,'URL_FURTRACK','https://www.furtrack.com/index/maker:cedarwoods');
-INSERT INTO artisans_urls VALUES(13400,706,'URL_PHOTOS','https://www.furtrack.com/p/469943');
-INSERT INTO artisans_urls VALUES(13401,706,'URL_PHOTOS','https://www.furtrack.com/p/475189');
 INSERT INTO artisans_urls VALUES(13402,706,'URL_PHOTOS','https://www.furtrack.com/p/469954');
-INSERT INTO artisans_urls VALUES(13403,706,'URL_PHOTOS','https://www.furtrack.com/p/460014');
 INSERT INTO artisans_urls VALUES(13404,706,'URL_PHOTOS','https://www.furtrack.com/p/469955');
 INSERT INTO artisans_urls VALUES(13405,707,'URL_WEBSITE','https://michaelmeyers2264.wixsite.com/cccreations');
 INSERT INTO artisans_urls VALUES(13406,707,'URL_PRICES','https://michaelmeyers2264.wixsite.com/cccreations/commission-pricing');
