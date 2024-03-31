@@ -29850,34 +29850,64 @@
     "url": "https://www.furtrack.com/index/maker:cedarwoods"
   },
   {
-    "id": 13400,
-    "artisan_id": 706,
-    "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/469943"
-  },
-  {
-    "id": 13401,
-    "artisan_id": 706,
-    "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/475189"
-  },
-  {
     "id": 13402,
     "artisan_id": 706,
     "type": "URL_PHOTOS",
     "url": "https://www.furtrack.com/p/469954"
   },
   {
-    "id": 13403,
-    "artisan_id": 706,
-    "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/460014"
-  },
-  {
     "id": 13404,
     "artisan_id": 706,
     "type": "URL_PHOTOS",
     "url": "https://www.furtrack.com/p/469955"
+  },
+  {
+    "id": 13458,
+    "artisan_id": 706,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/524168"
+  },
+  {
+    "id": 13459,
+    "artisan_id": 706,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/547499"
+  },
+  {
+    "id": 13460,
+    "artisan_id": 706,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/547495"
+  },
+  {
+    "id": 13466,
+    "artisan_id": 706,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/469954.jpg"
+  },
+  {
+    "id": 13467,
+    "artisan_id": 706,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/469955.jpg"
+  },
+  {
+    "id": 13468,
+    "artisan_id": 706,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/524168.jpg"
+  },
+  {
+    "id": 13469,
+    "artisan_id": 706,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/547499.jpg"
+  },
+  {
+    "id": 13470,
+    "artisan_id": 706,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/547495.jpg"
   },
   {
     "id": 13405,

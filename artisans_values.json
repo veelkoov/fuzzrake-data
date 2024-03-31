@@ -11721,7 +11721,7 @@
     "id": 2864,
     "artisan_id": 706,
     "field_name": "AGES",
-    "value": "MINORS"
+    "value": "MIXED"
   },
   {
     "id": 2865,
@@ -11740,6 +11740,12 @@
     "artisan_id": 706,
     "field_name": "WORKS_WITH_MINORS",
     "value": "True"
+  },
+  {
+    "id": 2919,
+    "artisan_id": 706,
+    "field_name": "DATE_UPDATED",
+    "value": "2024-03-31 18:05:53"
   },
   {
     "id": 2868,

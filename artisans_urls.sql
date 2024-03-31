@@ -5026,4 +5026,18 @@ INSERT INTO artisans_urls VALUES(13454,714,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(13455,714,'URL_ETSY','https://www.etsy.com/shop/QuaumsyStudios');
 INSERT INTO artisans_urls VALUES(13456,714,'URL_QUEUE','https://trello.com/b/hubyX5qc/%E2%99%A1-commission-queue-%E2%99%A1');
 INSERT INTO artisans_urls VALUES(13457,714,'URL_PHOTOS','https://www.furtrack.com/p/536552');
+INSERT INTO artisans_urls VALUES(13458,706,'URL_PHOTOS','https://www.furtrack.com/p/524168');
+INSERT INTO artisans_urls VALUES(13459,706,'URL_PHOTOS','https://www.furtrack.com/p/547499');
+INSERT INTO artisans_urls VALUES(13460,706,'URL_PHOTOS','https://www.furtrack.com/p/547495');
+INSERT INTO artisans_urls VALUES(13461,659,'URL_MINIATURES','https://orca2.furtrack.com/thumb/366325.jpg');
+INSERT INTO artisans_urls VALUES(13462,659,'URL_MINIATURES','https://orca2.furtrack.com/thumb/366322.jpg');
+INSERT INTO artisans_urls VALUES(13463,659,'URL_MINIATURES','https://orca2.furtrack.com/thumb/366321.jpg');
+INSERT INTO artisans_urls VALUES(13464,659,'URL_MINIATURES','https://orca2.furtrack.com/thumb/366320.jpg');
+INSERT INTO artisans_urls VALUES(13465,659,'URL_MINIATURES','https://orca2.furtrack.com/thumb/366323.jpg');
+INSERT INTO artisans_urls VALUES(13466,706,'URL_MINIATURES','https://orca2.furtrack.com/thumb/469954.jpg');
+INSERT INTO artisans_urls VALUES(13467,706,'URL_MINIATURES','https://orca2.furtrack.com/thumb/469955.jpg');
+INSERT INTO artisans_urls VALUES(13468,706,'URL_MINIATURES','https://orca2.furtrack.com/thumb/524168.jpg');
+INSERT INTO artisans_urls VALUES(13469,706,'URL_MINIATURES','https://orca2.furtrack.com/thumb/547499.jpg');
+INSERT INTO artisans_urls VALUES(13470,706,'URL_MINIATURES','https://orca2.furtrack.com/thumb/547495.jpg');
+INSERT INTO artisans_urls VALUES(13471,714,'URL_MINIATURES','https://orca2.furtrack.com/thumb/536552.jpg');
 COMMIT;
