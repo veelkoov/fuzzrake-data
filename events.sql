@@ -2913,4 +2913,10 @@ INSERT INTO events VALUES(2924,'2024-03-31 00:08:34.416','CS_UPDATED','R.W.C.',0
 INSERT INTO events VALUES(2925,'2024-03-31 00:08:34.433','CS_UPDATED','Alecrim Carmim',0,0,0,'','https://www.alecrimcarmim.com/','','',replace('Commissions\nArtistic liberty','\n',char(10)),1);
 INSERT INTO events VALUES(2926,'2024-03-31 00:08:34.468','CS_UPDATED','ButterCupCreations',0,0,0,'','https://buttercupcreations2.wixsite.com/my-site','','','Commissions',0);
 INSERT INTO events VALUES(2927,'2024-03-31 00:08:34.611','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','',replace('Commissions\nQuotes','\n',char(10)),0);
+INSERT INTO events VALUES(2928,'2024-03-31 18:52:00','DATA_UPDATED','',0,1,0,'573a7ec4b4103d55a06dfaefd2ae135bedc6854e','','','','',0);
+INSERT INTO events VALUES(2929,'2024-04-02 12:08:20.577','CS_UPDATED','2 Stupid Furs',0,0,0,'','https://2stupidfurs.weebly.com/prices---quote-forms---tos.html','','','Commissions',0);
+INSERT INTO events VALUES(2930,'2024-04-02 12:08:20.741','CS_UPDATED','R.W.C.',0,0,0,'','https://roxyswonderfulcreations8.webnode.cz/price-list/','','','Commissions',1);
+INSERT INTO events VALUES(2931,'2024-04-03 00:08:14.528','CS_UPDATED','Mixed Candy Costumes',0,0,0,'','https://www.mixedcandycostumes.com/','','','Commissions',0);
+INSERT INTO events VALUES(2932,'2024-04-03 00:08:14.570','CS_UPDATED','EuphoricFurs',0,0,0,'','https://trello.com/b/QkUVgeF7/devs-commission-prices-and-queue','','','Commissions',0);
+INSERT INTO events VALUES(2933,'2024-04-03 00:08:14.716','CS_UPDATED','DrowsySeal',0,0,0,'','https://drowsyseal.com/#commission-status','','Quotes','Commissions',0);
 COMMIT;
