@@ -21534,6 +21534,18 @@
     "url": "https://trello.com/b/QkUVgeF7/devs-commission-prices-and-queue"
   },
   {
+    "id": 13472,
+    "artisan_id": 545,
+    "type": "URL_WEBSITE",
+    "url": "https://euphoricfurs.wixsite.com/euphoriccraftscorner"
+  },
+  {
+    "id": 13473,
+    "artisan_id": 545,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:euphoricfurs"
+  },
+  {
     "id": 11293,
     "artisan_id": 546,
     "type": "URL_WEBSITE",
@@ -22098,12 +22110,6 @@
     "url": "https://t.me/CinDery"
   },
   {
-    "id": 11430,
-    "artisan_id": 555,
-    "type": "URL_COMMISSIONS",
-    "url": "https://twitter.com/DeadPozzum"
-  },
-  {
     "id": 11431,
     "artisan_id": 555,
     "type": "URL_DEVIANTART",
@@ -22155,6 +22161,12 @@
     "id": 13409,
     "artisan_id": 555,
     "type": "URL_QUEUE",
+    "url": "https://deadpozzum.uwu.ai/#fursuitcommissions"
+  },
+  {
+    "id": 13475,
+    "artisan_id": 555,
+    "type": "URL_COMMISSIONS",
     "url": "https://deadpozzum.uwu.ai/#fursuitcommissions"
   },
   {
@@ -25078,6 +25090,12 @@
     "artisan_id": 618,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/cTHjggw1/fursuit-commisions"
+  },
+  {
+    "id": 13474,
+    "artisan_id": 618,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/channel/UC1EVKeUV_AAJ8bfDTIJTX0g"
   },
   {
     "id": 12154,

@@ -3163,7 +3163,6 @@ INSERT INTO artisans_urls VALUES(11425,554,'URL_QUEUE','https://trello.com/b/QwK
 INSERT INTO artisans_urls VALUES(11426,554,'URL_SCRITCH','https://scritch.es/cindery');
 INSERT INTO artisans_urls VALUES(11427,554,'URL_FURTRACK','https://www.furtrack.com/user/CinDery');
 INSERT INTO artisans_urls VALUES(11428,554,'URL_OTHER','https://t.me/CinDery');
-INSERT INTO artisans_urls VALUES(11430,555,'URL_COMMISSIONS','https://twitter.com/DeadPozzum');
 INSERT INTO artisans_urls VALUES(11431,555,'URL_DEVIANTART','https://www.deviantart.com/deadpozzum');
 INSERT INTO artisans_urls VALUES(11432,555,'URL_TWITTER','https://twitter.com/DeadPozzum');
 INSERT INTO artisans_urls VALUES(11433,555,'URL_INSTAGRAM','https://www.instagram.com/DeadPozzum/');
@@ -5037,4 +5036,8 @@ INSERT INTO artisans_urls VALUES(13468,706,'URL_MINIATURES','https://orca2.furtr
 INSERT INTO artisans_urls VALUES(13469,706,'URL_MINIATURES','https://orca2.furtrack.com/thumb/547499.jpg');
 INSERT INTO artisans_urls VALUES(13470,706,'URL_MINIATURES','https://orca2.furtrack.com/thumb/547495.jpg');
 INSERT INTO artisans_urls VALUES(13471,714,'URL_MINIATURES','https://orca2.furtrack.com/thumb/536552.jpg');
+INSERT INTO artisans_urls VALUES(13472,545,'URL_WEBSITE','https://euphoricfurs.wixsite.com/euphoriccraftscorner');
+INSERT INTO artisans_urls VALUES(13473,545,'URL_FURTRACK','https://www.furtrack.com/index/maker:euphoricfurs');
+INSERT INTO artisans_urls VALUES(13474,618,'URL_YOUTUBE','https://www.youtube.com/channel/UC1EVKeUV_AAJ8bfDTIJTX0g');
+INSERT INTO artisans_urls VALUES(13475,555,'URL_COMMISSIONS','https://deadpozzum.uwu.ai/#fursuitcommissions');
 COMMIT;
