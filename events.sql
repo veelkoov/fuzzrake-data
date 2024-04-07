@@ -2919,4 +2919,14 @@ INSERT INTO events VALUES(2930,'2024-04-02 12:08:20.741','CS_UPDATED','R.W.C.',0
 INSERT INTO events VALUES(2931,'2024-04-03 00:08:14.528','CS_UPDATED','Mixed Candy Costumes',0,0,0,'','https://www.mixedcandycostumes.com/','','','Commissions',0);
 INSERT INTO events VALUES(2932,'2024-04-03 00:08:14.570','CS_UPDATED','EuphoricFurs',0,0,0,'','https://trello.com/b/QkUVgeF7/devs-commission-prices-and-queue','','','Commissions',0);
 INSERT INTO events VALUES(2933,'2024-04-03 00:08:14.716','CS_UPDATED','DrowsySeal',0,0,0,'','https://drowsyseal.com/#commission-status','','Quotes','Commissions',0);
+INSERT INTO events VALUES(2934,'2024-04-04 00:08:24.322','CS_UPDATED','SereStudios',0,0,0,'','https://www.serestudios.com/','','','Commissions',0);
+INSERT INTO events VALUES(2935,'2024-04-04 12:08:37.237','CS_UPDATED','Kitty Up Fursuits',0,0,0,'','https://www.kittyupfursuits.com/home','','Commissions','',1);
+INSERT INTO events VALUES(2936,'2024-04-05 00:08:03.403','CS_UPDATED','Alecrim Carmim',0,0,0,'','https://www.alecrimcarmim.com/','',replace('Commissions\nArtistic liberty','\n',char(10)),'',1);
+INSERT INTO events VALUES(2937,'2024-04-05 00:08:03.467','CS_UPDATED','Sleepy Stag Suits',0,0,0,'','https://twitter.com/thesleepystag','','','Commissions',0);
+INSERT INTO events VALUES(2938,'2024-04-05 00:08:03.548','CS_UPDATED','Kitty Up Fursuits',0,0,0,'','https://www.kittyupfursuits.com/home','','','Commissions',0);
+INSERT INTO events VALUES(2939,'2024-04-05 12:07:57.784','CS_UPDATED','Alecrim Carmim',0,0,0,'','https://www.alecrimcarmim.com/','','',replace('Commissions\nArtistic liberty','\n',char(10)),1);
+INSERT INTO events VALUES(2940,'2024-04-06 12:08:27.788','CS_UPDATED','VioletTrench',0,0,0,'','https://www.etsy.com/shop/violettrenchstudios','','Commissions','',1);
+INSERT INTO events VALUES(2941,'2024-04-07 00:09:08.798','CS_UPDATED','VioletTrench',0,0,0,'','https://www.etsy.com/shop/violettrenchstudios','','','Commissions',1);
+INSERT INTO events VALUES(2942,'2024-04-07 00:09:09.187','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','Commissions','',0);
+INSERT INTO events VALUES(2943,'2024-04-07 08:35:00','DATA_UPDATED','',0,3,0,'0ef5c82840c3b82c29fafa05050a92d5929de783','','','','',0);
 COMMIT;
