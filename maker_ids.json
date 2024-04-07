@@ -3893,5 +3893,25 @@
     "id": 781,
     "artisan_id": 714,
     "maker_id": "QUAUMSY"
+  },
+  {
+    "id": 783,
+    "artisan_id": 715,
+    "maker_id": "SPF2015"
+  },
+  {
+    "id": 784,
+    "artisan_id": 716,
+    "maker_id": "BIRD245"
+  },
+  {
+    "id": 785,
+    "artisan_id": 717,
+    "maker_id": "SCRATES"
+  },
+  {
+    "id": 786,
+    "artisan_id": 718,
+    "maker_id": "WFC2024"
   }
 ]

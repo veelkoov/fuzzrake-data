@@ -30232,5 +30232,149 @@
     "artisan_id": 714,
     "type": "URL_MINIATURES",
     "url": "https://orca2.furtrack.com/thumb/536552.jpg"
+  },
+  {
+    "id": 13476,
+    "artisan_id": 715,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/sleepy.panda.fursuits/"
+  },
+  {
+    "id": 13477,
+    "artisan_id": 715,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/sleepypandasuit"
+  },
+  {
+    "id": 13478,
+    "artisan_id": 715,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/sleepypandasuits/"
+  },
+  {
+    "id": 13479,
+    "artisan_id": 715,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/sleepy.panda.fursuits/"
+  },
+  {
+    "id": 13480,
+    "artisan_id": 715,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/FurRealFursuits"
+  },
+  {
+    "id": 13481,
+    "artisan_id": 715,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/02vI7W6V/sleepy-panda-fursuit-queue"
+  },
+  {
+    "id": 13482,
+    "artisan_id": 716,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/thunder_rift/"
+  },
+  {
+    "id": 13483,
+    "artisan_id": 716,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/thunder_rift/"
+  },
+  {
+    "id": 13484,
+    "artisan_id": 716,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/ca/shop/BirdCreationz"
+  },
+  {
+    "id": 13485,
+    "artisan_id": 716,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/store/thunder_rift"
+  },
+  {
+    "id": 13486,
+    "artisan_id": 716,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/zr8bLpwf/fursuit-commissions-bird"
+  },
+  {
+    "id": 13487,
+    "artisan_id": 717,
+    "type": "URL_WEBSITE",
+    "url": "https://sewcrates.ca/"
+  },
+  {
+    "id": 13488,
+    "artisan_id": 717,
+    "type": "URL_PRICES",
+    "url": "https://sewcrates.ca/pricing"
+  },
+  {
+    "id": 13489,
+    "artisan_id": 717,
+    "type": "URL_COMMISSIONS",
+    "url": "https://sewcrates.ca/"
+  },
+  {
+    "id": 13490,
+    "artisan_id": 717,
+    "type": "URL_FAQ",
+    "url": "https://sewcrates.ca/pricing"
+  },
+  {
+    "id": 13491,
+    "artisan_id": 717,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/bakken/"
+  },
+  {
+    "id": 13492,
+    "artisan_id": 717,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/drakenbakken"
+  },
+  {
+    "id": 13493,
+    "artisan_id": 718,
+    "type": "URL_WEBSITE",
+    "url": "https://wolfnfox.ca/"
+  },
+  {
+    "id": 13494,
+    "artisan_id": 718,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/wolfnfoxcreations/"
+  },
+  {
+    "id": 13495,
+    "artisan_id": 718,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:wolf_n_fox_creations"
+  },
+  {
+    "id": 13496,
+    "artisan_id": 718,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/536471"
+  },
+  {
+    "id": 13497,
+    "artisan_id": 718,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/536473"
+  },
+  {
+    "id": 13500,
+    "artisan_id": 718,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/536471.jpg"
+  },
+  {
+    "id": 13501,
+    "artisan_id": 718,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/536473.jpg"
   }
 ]
