@@ -4061,12 +4061,8 @@ INSERT INTO artisans_urls VALUES(12425,639,'URL_FACEBOOK','https://www.facebook.
 INSERT INTO artisans_urls VALUES(12426,639,'URL_INSTAGRAM','https://www.instagram.com/sparklepawsstudios/');
 INSERT INTO artisans_urls VALUES(12427,639,'URL_LINKLIST','https://sparklepup.carrd.co/');
 INSERT INTO artisans_urls VALUES(12428,639,'URL_ETSY','https://www.etsy.com/shop/SparklePawsStudios');
-INSERT INTO artisans_urls VALUES(12430,640,'URL_PRICES','https://docs.google.com/forms/d/e/1FAIpQLSdFYkgXvNvyU96-NppEHcbciUPtUdK5w0SPsCvkEJR2jIY3Qw/viewform');
-INSERT INTO artisans_urls VALUES(12431,640,'URL_COMMISSIONS','https://t.me/beastmakerstudio');
 INSERT INTO artisans_urls VALUES(12432,640,'URL_TWITTER','https://twitter.com/_beastmaker_');
 INSERT INTO artisans_urls VALUES(12433,640,'URL_INSTAGRAM','https://www.instagram.com/beastmakerstudio/');
-INSERT INTO artisans_urls VALUES(12434,640,'URL_YOUTUBE','https://youtube.com/@BeastmakerStudio');
-INSERT INTO artisans_urls VALUES(12435,640,'URL_QUEUE','https://t.me/beastmakerstudio');
 INSERT INTO artisans_urls VALUES(12436,641,'URL_WEBSITE','https://screamingcrowscreations.weebly.com/#/');
 INSERT INTO artisans_urls VALUES(12437,641,'URL_PRICES','https://screamingcrowscreations.weebly.com/prices.html');
 INSERT INTO artisans_urls VALUES(12438,641,'URL_TWITTER','https://twitter.com/2ScreamingCrows');
@@ -5064,4 +5060,10 @@ INSERT INTO artisans_urls VALUES(13496,718,'URL_PHOTOS','https://www.furtrack.co
 INSERT INTO artisans_urls VALUES(13497,718,'URL_PHOTOS','https://www.furtrack.com/p/536473');
 INSERT INTO artisans_urls VALUES(13500,718,'URL_MINIATURES','https://orca2.furtrack.com/thumb/536471.jpg');
 INSERT INTO artisans_urls VALUES(13501,718,'URL_MINIATURES','https://orca2.furtrack.com/thumb/536473.jpg');
+INSERT INTO artisans_urls VALUES(13502,640,'URL_WEBSITE','https://beastmakerstudio.com/');
+INSERT INTO artisans_urls VALUES(13503,640,'URL_PRICES','https://beastmakerstudio.com/pricing/');
+INSERT INTO artisans_urls VALUES(13504,640,'URL_YOUTUBE','https://www.youtube.com/@BeastmakerStudio');
+INSERT INTO artisans_urls VALUES(13505,640,'URL_ETSY','https://beastmakerfursuits.etsy.com/');
+INSERT INTO artisans_urls VALUES(13506,640,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/other-items/beastmaker/153757');
+INSERT INTO artisans_urls VALUES(13507,640,'URL_FURTRACK','https://www.furtrack.com/index/maker:beastmaker_studio');
 COMMIT;

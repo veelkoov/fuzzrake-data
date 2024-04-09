@@ -25980,18 +25980,6 @@
     "url": "https://www.etsy.com/shop/SparklePawsStudios"
   },
   {
-    "id": 12430,
-    "artisan_id": 640,
-    "type": "URL_PRICES",
-    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdFYkgXvNvyU96-NppEHcbciUPtUdK5w0SPsCvkEJR2jIY3Qw/viewform"
-  },
-  {
-    "id": 12431,
-    "artisan_id": 640,
-    "type": "URL_COMMISSIONS",
-    "url": "https://t.me/beastmakerstudio"
-  },
-  {
     "id": 12432,
     "artisan_id": 640,
     "type": "URL_TWITTER",
@@ -26004,16 +25992,40 @@
     "url": "https://www.instagram.com/beastmakerstudio/"
   },
   {
-    "id": 12434,
+    "id": 13502,
     "artisan_id": 640,
-    "type": "URL_YOUTUBE",
-    "url": "https://youtube.com/@BeastmakerStudio"
+    "type": "URL_WEBSITE",
+    "url": "https://beastmakerstudio.com/"
   },
   {
-    "id": 12435,
+    "id": 13503,
     "artisan_id": 640,
-    "type": "URL_QUEUE",
-    "url": "https://t.me/beastmakerstudio"
+    "type": "URL_PRICES",
+    "url": "https://beastmakerstudio.com/pricing/"
+  },
+  {
+    "id": 13504,
+    "artisan_id": 640,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@BeastmakerStudio"
+  },
+  {
+    "id": 13505,
+    "artisan_id": 640,
+    "type": "URL_ETSY",
+    "url": "https://beastmakerfursuits.etsy.com/"
+  },
+  {
+    "id": 13506,
+    "artisan_id": 640,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/other-items/beastmaker/153757"
+  },
+  {
+    "id": 13507,
+    "artisan_id": 640,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:beastmaker_studio"
   },
   {
     "id": 12436,
