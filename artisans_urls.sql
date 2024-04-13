@@ -2191,8 +2191,6 @@ INSERT INTO artisans_urls VALUES(10184,407,'URL_MINIATURES','https://storage.scr
 INSERT INTO artisans_urls VALUES(10185,407,'URL_MINIATURES','https://storage.scritch.es/scritch/94be23a4e4a379126cc8817fe7fa68f66d0da6eb/thumbnail_f6f059d4-9f03-49c2-a982-4e35e0b32e12.jpeg');
 INSERT INTO artisans_urls VALUES(10186,408,'URL_PHOTOS','https://www.furtrack.com/p/15155');
 INSERT INTO artisans_urls VALUES(10187,408,'URL_PHOTOS','https://www.furtrack.com/p/15157');
-INSERT INTO artisans_urls VALUES(10188,408,'URL_MINIATURES','https://orca2.furtrack.com/thumb/18162.jpg');
-INSERT INTO artisans_urls VALUES(10189,408,'URL_MINIATURES','https://orca2.furtrack.com/thumb/18162.jpg');
 INSERT INTO artisans_urls VALUES(10190,409,'URL_PHOTOS','https://scritch.es/pictures/3839e4c0-da1b-4599-a5af-146d68ab99dd');
 INSERT INTO artisans_urls VALUES(10191,409,'URL_PHOTOS','https://scritch.es/pictures/c7cb749a-9084-46bd-a1ba-bdeb9d4485ef');
 INSERT INTO artisans_urls VALUES(10198,415,'URL_PHOTOS','https://scritch.es/pictures/bbe963f3-5744-499e-a4d8-df21a40109b0');
@@ -5058,6 +5056,8 @@ INSERT INTO artisans_urls VALUES(13494,718,'URL_FACEBOOK','https://www.facebook.
 INSERT INTO artisans_urls VALUES(13495,718,'URL_FURTRACK','https://www.furtrack.com/index/maker:wolf_n_fox_creations');
 INSERT INTO artisans_urls VALUES(13496,718,'URL_PHOTOS','https://www.furtrack.com/p/536471');
 INSERT INTO artisans_urls VALUES(13497,718,'URL_PHOTOS','https://www.furtrack.com/p/536473');
+INSERT INTO artisans_urls VALUES(13498,408,'URL_MINIATURES','https://orca2.furtrack.com/thumb/15155.jpg');
+INSERT INTO artisans_urls VALUES(13499,408,'URL_MINIATURES','https://orca2.furtrack.com/thumb/15157.jpg');
 INSERT INTO artisans_urls VALUES(13500,718,'URL_MINIATURES','https://orca2.furtrack.com/thumb/536471.jpg');
 INSERT INTO artisans_urls VALUES(13501,718,'URL_MINIATURES','https://orca2.furtrack.com/thumb/536473.jpg');
 INSERT INTO artisans_urls VALUES(13502,640,'URL_WEBSITE','https://beastmakerstudio.com/');
