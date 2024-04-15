@@ -2949,4 +2949,11 @@ INSERT INTO events VALUES(2960,'2024-04-12 12:08:13.504','CS_UPDATED','VioletTre
 INSERT INTO events VALUES(2961,'2024-04-13 00:08:05.319','CS_UPDATED','Mixed Candy Costumes',0,0,0,'','https://www.mixedcandycostumes.com/','','Commissions','',1);
 INSERT INTO events VALUES(2962,'2024-04-13 00:08:05.546','CS_UPDATED','YellowCatCreations',0,0,0,'','https://thatoneyellowcat.wixsite.com/yellowcatcreations/fursuit-commissions','','','Quotes',0);
 INSERT INTO events VALUES(2963,'2024-04-13 08:19:00','DATA_UPDATED','',0,1,0,'6009dab4d6de216d3c9519dd42305865663d5693','','','','',0);
+INSERT INTO events VALUES(2964,'2024-04-13 12:08:20.788','CS_UPDATED','VioletTrench',0,0,0,'','https://www.etsy.com/shop/violettrenchstudios','','Commissions','',1);
+INSERT INTO events VALUES(2965,'2024-04-14 00:08:13.325','CS_UPDATED','FuroarSuits',0,0,0,'','http://leoelstar.wixsite.com/furoar','','','Commissions',0);
+INSERT INTO events VALUES(2966,'2024-04-14 00:08:13.354','CS_UPDATED','VioletTrench',0,0,0,'','https://www.etsy.com/shop/violettrenchstudios','','','Commissions',1);
+INSERT INTO events VALUES(2967,'2024-04-15 00:08:23.688','CS_UPDATED','VioletTrench',0,0,0,'','https://www.etsy.com/shop/violettrenchstudios','','Commissions','',1);
+INSERT INTO events VALUES(2968,'2024-04-15 12:08:27.249','CS_UPDATED','VioletTrench',0,0,0,'','https://www.etsy.com/shop/violettrenchstudios','','','Commissions',1);
+INSERT INTO events VALUES(2969,'2024-04-15 12:08:27.400','CS_UPDATED','ButterCupCreations',0,0,0,'','https://buttercupcreations2.wixsite.com/my-site','','Commissions','',1);
+INSERT INTO events VALUES(2970,'2024-04-15 12:08:27.537','CS_UPDATED','Neon-Paw Creations',0,0,0,'','https://neonpawcreations.com/','','Quotes','',1);
 COMMIT;
