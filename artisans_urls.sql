@@ -5067,4 +5067,5 @@ INSERT INTO artisans_urls VALUES(13506,640,'URL_THE_DEALERS_DEN','https://www.th
 INSERT INTO artisans_urls VALUES(13507,640,'URL_FURTRACK','https://www.furtrack.com/index/maker:beastmaker_studio');
 INSERT INTO artisans_urls VALUES(13508,593,'URL_WEBSITE','https://www.apeworks.be/');
 INSERT INTO artisans_urls VALUES(13509,593,'URL_PRICES','https://www.apeworks.be/commissioning-and-pricing');
+INSERT INTO artisans_urls VALUES(13510,323,'URL_FURSUITREVIEW','https://fursuitreview.com/m/kabber-creations/');
 COMMIT;
