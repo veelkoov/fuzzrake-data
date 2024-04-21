@@ -3574,7 +3574,6 @@ INSERT INTO artisans_urls VALUES(11907,592,'URL_PRICES','https://trello.com/b/Zb
 INSERT INTO artisans_urls VALUES(11908,592,'URL_COMMISSIONS','https://wolfbuckstudios.com/');
 INSERT INTO artisans_urls VALUES(11910,592,'URL_ETSY','https://www.etsy.com/shop/WolfBuckStudios');
 INSERT INTO artisans_urls VALUES(11911,592,'URL_QUEUE','https://trello.com/b/Zb1m2Adc/fursuit-tos-and-queue');
-INSERT INTO artisans_urls VALUES(11912,593,'URL_WEBSITE','https://www.instagram.com/kalu_frostrhime/');
 INSERT INTO artisans_urls VALUES(11913,594,'URL_PRICES','https://trello.com/b/terNz45J/art-examples');
 INSERT INTO artisans_urls VALUES(11914,594,'URL_FACEBOOK','https://www.facebook.com/Wikkedstitchez/');
 INSERT INTO artisans_urls VALUES(11915,594,'URL_LINKLIST','https://linktr.ee/Wikkedstitchez');
@@ -5066,4 +5065,6 @@ INSERT INTO artisans_urls VALUES(13504,640,'URL_YOUTUBE','https://www.youtube.co
 INSERT INTO artisans_urls VALUES(13505,640,'URL_ETSY','https://beastmakerfursuits.etsy.com/');
 INSERT INTO artisans_urls VALUES(13506,640,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/other-items/beastmaker/153757');
 INSERT INTO artisans_urls VALUES(13507,640,'URL_FURTRACK','https://www.furtrack.com/index/maker:beastmaker_studio');
+INSERT INTO artisans_urls VALUES(13508,593,'URL_WEBSITE','https://www.apeworks.be/');
+INSERT INTO artisans_urls VALUES(13509,593,'URL_PRICES','https://www.apeworks.be/commissioning-and-pricing');
 COMMIT;
