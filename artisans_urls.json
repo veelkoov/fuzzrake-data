@@ -14652,12 +14652,6 @@
     "url": "https://stuffedtailsfursuits.com/"
   },
   {
-    "id": 9544,
-    "artisan_id": 406,
-    "type": "URL_PRICES",
-    "url": "https://stuffedtailsfursuits.com/price-guide"
-  },
-  {
     "id": 9545,
     "artisan_id": 406,
     "type": "URL_FACEBOOK",
@@ -14674,6 +14668,54 @@
     "artisan_id": 406,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/8ev16OgE"
+  },
+  {
+    "id": 13528,
+    "artisan_id": 406,
+    "type": "URL_PRICES",
+    "url": "https://www.stuffedtailsfursuits.com/pricing2"
+  },
+  {
+    "id": 13529,
+    "artisan_id": 406,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.stuffedtailsfursuits.com/stuffedtailsfursuits"
+  },
+  {
+    "id": 13530,
+    "artisan_id": 406,
+    "type": "URL_FAQ",
+    "url": "https://www.stuffedtailsfursuits.com/faq"
+  },
+  {
+    "id": 13531,
+    "artisan_id": 406,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/stuffedtailsfursuits/"
+  },
+  {
+    "id": 13532,
+    "artisan_id": 406,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/StuffedTailsFur"
+  },
+  {
+    "id": 13533,
+    "artisan_id": 406,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@stuffedtailsfursuits"
+  },
+  {
+    "id": 13534,
+    "artisan_id": 406,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/StuffedTailsFurs"
+  },
+  {
+    "id": 13535,
+    "artisan_id": 406,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:stuffedtailsfursuits"
   },
   {
     "id": 9548,
@@ -28050,24 +28092,6 @@
     "url": "TikTok: https://www.tiktok.com/@vinostudios_fur"
   },
   {
-    "id": 12830,
-    "artisan_id": 671,
-    "type": "URL_WEBSITE",
-    "url": "http://www.soulenterprise.net/"
-  },
-  {
-    "id": 12831,
-    "artisan_id": 671,
-    "type": "URL_PRICES",
-    "url": "http://www.soulenterprise.net/prices-and-details.html"
-  },
-  {
-    "id": 12832,
-    "artisan_id": 671,
-    "type": "URL_COMMISSIONS",
-    "url": "http://www.soulenterprise.net/"
-  },
-  {
     "id": 12833,
     "artisan_id": 671,
     "type": "URL_TWITTER",
@@ -28134,12 +28158,6 @@
     "url": "https://www.furtrack.com/p/395352"
   },
   {
-    "id": 12844,
-    "artisan_id": 671,
-    "type": "URL_OTHER",
-    "url": "Patreon: https://patreon.com/SoulEnterprise?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link"
-  },
-  {
     "id": 12927,
     "artisan_id": 671,
     "type": "URL_MINIATURES",
@@ -28174,6 +28192,24 @@
     "artisan_id": 671,
     "type": "URL_FURSUITREVIEW",
     "url": "https://fursuitreview.com/m/soul-enterprise/"
+  },
+  {
+    "id": 13536,
+    "artisan_id": 671,
+    "type": "URL_WEBSITE",
+    "url": "https://www.sheenitude.com/"
+  },
+  {
+    "id": 13537,
+    "artisan_id": 671,
+    "type": "URL_PRICES",
+    "url": "https://www.sheenitude.com/prices-and-details"
+  },
+  {
+    "id": 13538,
+    "artisan_id": 671,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.sheenitude.com/"
   },
   {
     "id": 12845,
@@ -30484,5 +30520,35 @@
     "artisan_id": 718,
     "type": "URL_MINIATURES",
     "url": "https://orca2.furtrack.com/thumb/536473.jpg"
+  },
+  {
+    "id": 13539,
+    "artisan_id": 719,
+    "type": "URL_WEBSITE",
+    "url": "https://kecrowcreations.carrd.co/"
+  },
+  {
+    "id": 13540,
+    "artisan_id": 719,
+    "type": "URL_PRICES",
+    "url": "https://kecrowcreations.carrd.co/#three"
+  },
+  {
+    "id": 13541,
+    "artisan_id": 719,
+    "type": "URL_COMMISSIONS",
+    "url": "https://kecrowcreations.carrd.co/"
+  },
+  {
+    "id": 13542,
+    "artisan_id": 719,
+    "type": "URL_DEVIANTART",
+    "url": "https://www.deviantart.com/wolfstolemypencil"
+  },
+  {
+    "id": 13543,
+    "artisan_id": 719,
+    "type": "URL_OTHER",
+    "url": "https://www.reddit.com/user/kecrowart/"
   }
 ]
