@@ -7200,6 +7200,90 @@
     "url": "https://trello.com/b/Z3yJgcWd/creatury-projects"
   },
   {
+    "id": 13514,
+    "artisan_id": 226,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/the-critter-cove/"
+  },
+  {
+    "id": 13515,
+    "artisan_id": 226,
+    "type": "URL_WEBSITE",
+    "url": "https://crittercovecostumes.com/"
+  },
+  {
+    "id": 13516,
+    "artisan_id": 226,
+    "type": "URL_PRICES",
+    "url": "https://crittercovecostumes.com/#processandtos"
+  },
+  {
+    "id": 13517,
+    "artisan_id": 226,
+    "type": "URL_COMMISSIONS",
+    "url": "https://trello.com/b/2o23JVO1/the-critter-cove-fursuit-queue"
+  },
+  {
+    "id": 13518,
+    "artisan_id": 226,
+    "type": "URL_FAQ",
+    "url": "https://crittercovecostumes.com/#processandtos"
+  },
+  {
+    "id": 13519,
+    "artisan_id": 226,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/thecrittercove/"
+  },
+  {
+    "id": 13520,
+    "artisan_id": 226,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/thecrittercove"
+  },
+  {
+    "id": 13521,
+    "artisan_id": 226,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/the.crittercove/"
+  },
+  {
+    "id": 13522,
+    "artisan_id": 226,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/2o23JVO1/the-critter-cove-fursuit-queue"
+  },
+  {
+    "id": 13523,
+    "artisan_id": 226,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:thecrittercove"
+  },
+  {
+    "id": 13524,
+    "artisan_id": 226,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/510392"
+  },
+  {
+    "id": 13525,
+    "artisan_id": 226,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/424096"
+  },
+  {
+    "id": 13526,
+    "artisan_id": 226,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/510392.jpg"
+  },
+  {
+    "id": 13527,
+    "artisan_id": 226,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/424096.jpg"
+  },
+  {
     "id": 991,
     "artisan_id": 227,
     "type": "URL_FUR_AFFINITY",
@@ -23340,18 +23424,6 @@
     "url": "https://sites.google.com/view/copper-works/queue"
   },
   {
-    "id": 11766,
-    "artisan_id": 582,
-    "type": "URL_WEBSITE",
-    "url": "https://emmafursuits.carrd.co/"
-  },
-  {
-    "id": 11767,
-    "artisan_id": 582,
-    "type": "URL_PRICES",
-    "url": "https://emmafursuits.carrd.co/#prices"
-  },
-  {
     "id": 11768,
     "artisan_id": 582,
     "type": "URL_COMMISSIONS",
@@ -23380,12 +23452,6 @@
     "artisan_id": 582,
     "type": "URL_INSTAGRAM",
     "url": "https://www.instagram.com/emmafursuits/"
-  },
-  {
-    "id": 11773,
-    "artisan_id": 582,
-    "type": "URL_LINKLIST",
-    "url": "https://linktr.ee/ace.emma"
   },
   {
     "id": 11774,
@@ -23428,6 +23494,24 @@
     "artisan_id": 582,
     "type": "URL_MINIATURES",
     "url": "https://orca2.furtrack.com/thumb/184047.jpg"
+  },
+  {
+    "id": 13511,
+    "artisan_id": 582,
+    "type": "URL_WEBSITE",
+    "url": "https://emmafursuits.com/"
+  },
+  {
+    "id": 13512,
+    "artisan_id": 582,
+    "type": "URL_PRICES",
+    "url": "https://emmafursuits.com/#prices"
+  },
+  {
+    "id": 13513,
+    "artisan_id": 582,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/emmafursuits"
   },
   {
     "id": 11781,
