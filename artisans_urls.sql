@@ -3197,7 +3197,6 @@ INSERT INTO artisans_urls VALUES(11466,402,'URL_FURSUITREVIEW','https://fursuitr
 INSERT INTO artisans_urls VALUES(11467,559,'URL_TWITTER','https://twitter.com/anonwolfstudios');
 INSERT INTO artisans_urls VALUES(11468,559,'URL_INSTAGRAM','https://www.instagram.com/anonwolf_studios/');
 INSERT INTO artisans_urls VALUES(11469,559,'URL_LINKLIST','https://linktr.ee/Anonwolf_Studios');
-INSERT INTO artisans_urls VALUES(11470,559,'URL_ETSY','https://www.etsy.com/shop/AnonWolfStudios');
 INSERT INTO artisans_urls VALUES(11471,560,'URL_WEBSITE','https://www.becausefuzz.com/');
 INSERT INTO artisans_urls VALUES(11472,560,'URL_PRICES','https://www.becausefuzz.com/prices');
 INSERT INTO artisans_urls VALUES(11473,560,'URL_COMMISSIONS','https://www.becausefuzz.com/');
@@ -3677,8 +3676,6 @@ INSERT INTO artisans_urls VALUES(12028,603,'URL_TWITTER','https://twitter.com/xi
 INSERT INTO artisans_urls VALUES(12029,602,'URL_MINIATURES','https://orca2.furtrack.com/thumb/199916.jpg');
 INSERT INTO artisans_urls VALUES(12030,603,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/xiangshan/');
 INSERT INTO artisans_urls VALUES(12031,256,'URL_FACEBOOK','https://www.facebook.com/thekraftyhyena/');
-INSERT INTO artisans_urls VALUES(12032,559,'URL_COMMISSIONS','https://trello.com/b/CRGC7zCh/commissions');
-INSERT INTO artisans_urls VALUES(12033,559,'URL_COMMISSIONS','https://instagram.com/anonwolf_studios');
 INSERT INTO artisans_urls VALUES(12034,604,'URL_WEBSITE','https://www.stitchupfursuits.com/');
 INSERT INTO artisans_urls VALUES(12035,604,'URL_TWITTER','https://twitter.com/stitchupsuits');
 INSERT INTO artisans_urls VALUES(12036,604,'URL_FACEBOOK','https://www.facebook.com/Stitchupfursuits/');
@@ -5093,4 +5090,5 @@ INSERT INTO artisans_urls VALUES(13540,719,'URL_PRICES','https://kecrowcreations
 INSERT INTO artisans_urls VALUES(13541,719,'URL_COMMISSIONS','https://kecrowcreations.carrd.co/');
 INSERT INTO artisans_urls VALUES(13542,719,'URL_DEVIANTART','https://www.deviantart.com/wolfstolemypencil');
 INSERT INTO artisans_urls VALUES(13543,719,'URL_OTHER','https://www.reddit.com/user/kecrowart/');
+INSERT INTO artisans_urls VALUES(13544,559,'URL_COMMISSIONS','https://www.instagram.com/anonwolf_studios/');
 COMMIT;
