@@ -3044,4 +3044,11 @@ INSERT INTO events VALUES(3055,'2024-05-18 00:07:48.990','CS_UPDATED','Starcane 
 INSERT INTO events VALUES(3056,'2024-05-18 00:07:49.306','CS_UPDATED','Fire-Wolf Studio',0,0,0,'','https://www.firewolfstudio.com/commission-status','','','Commissions',0);
 INSERT INTO events VALUES(3057,'2024-05-19 00:07:53.208','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','Quotes','',1);
 INSERT INTO events VALUES(3058,'2024-05-19 12:08:03.441','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','','Quotes',0);
+INSERT INTO events VALUES(3059,'2024-05-20 12:08:04.429','CS_UPDATED','Fire-Wolf Studio',0,0,0,'','https://www.firewolfstudio.com/commission-status','','Commissions','',0);
+INSERT INTO events VALUES(3060,'2024-05-21 00:08:05.181','CS_UPDATED','UntamedCanine',0,0,0,'','https://trello.com/b/RlBf9kIw/untamedcanines-trello','','Commissions','',0);
+INSERT INTO events VALUES(3061,'2024-05-21 12:08:13.742','CS_UPDATED','Charred Fursuits',0,0,0,'','https://twitter.com/CharredFursuits','','','Commissions',0);
+INSERT INTO events VALUES(3062,'2024-05-22 12:08:19.436','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','Quotes','',1);
+INSERT INTO events VALUES(3063,'2024-05-23 00:07:53.777','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','','Quotes',0);
+INSERT INTO events VALUES(3064,'2024-05-24 00:08:08.421','CS_UPDATED','Studio Pinali',0,0,0,'','https://www.pinali.net/home','','Commissions','',0);
+INSERT INTO events VALUES(3065,'2024-05-25 00:07:58.455','CS_UPDATED','Starcane Arts',0,0,0,'','https://www.starcanearts.com/pricing','','','Projects',0);
 COMMIT;
