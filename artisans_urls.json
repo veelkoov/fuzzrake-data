@@ -8484,6 +8484,54 @@
     "url": "https://fursuitreview.com/m/windy-suits/"
   },
   {
+    "id": 13553,
+    "artisan_id": 253,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/windysuits"
+  },
+  {
+    "id": 13554,
+    "artisan_id": 253,
+    "type": "URL_ETSY",
+    "url": "https://windysuits.etsy.com/"
+  },
+  {
+    "id": 13555,
+    "artisan_id": 253,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/APZnfuIn/windysuits-work-queue"
+  },
+  {
+    "id": 13556,
+    "artisan_id": 253,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:windysuits"
+  },
+  {
+    "id": 13557,
+    "artisan_id": 253,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/398838"
+  },
+  {
+    "id": 13558,
+    "artisan_id": 253,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/455225"
+  },
+  {
+    "id": 13559,
+    "artisan_id": 253,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/398838.jpg"
+  },
+  {
+    "id": 13560,
+    "artisan_id": 253,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/455225.jpg"
+  },
+  {
     "id": 1130,
     "artisan_id": 254,
     "type": "URL_WEBSITE",
@@ -8760,34 +8808,34 @@
     "url": "https://www.instagram.com/dreams_come_true_studios/"
   },
   {
-    "id": 1175,
-    "artisan_id": 261,
-    "type": "URL_WEBSITE",
-    "url": "https://flowercityfursuits.yolasite.com/"
-  },
-  {
-    "id": 1176,
-    "artisan_id": 261,
-    "type": "URL_PRICES",
-    "url": "https://flowercityfursuits.yolasite.com/"
-  },
-  {
     "id": 1177,
     "artisan_id": 261,
     "type": "URL_FUR_AFFINITY",
     "url": "https://www.furaffinity.net/user/flowercityfursuits/"
   },
   {
-    "id": 1178,
-    "artisan_id": 261,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/FlowercitySuits"
-  },
-  {
     "id": 1179,
     "artisan_id": 261,
     "type": "URL_COMMISSIONS",
     "url": "https://twitter.com/FlowercitySuits"
+  },
+  {
+    "id": 13546,
+    "artisan_id": 261,
+    "type": "URL_WEBSITE",
+    "url": "https://sites.google.com/view/flowercity-fursuits/home"
+  },
+  {
+    "id": 13547,
+    "artisan_id": 261,
+    "type": "URL_FAQ",
+    "url": "https://sites.google.com/view/flowercity-fursuits/terms-and-conditions/faq"
+  },
+  {
+    "id": 13548,
+    "artisan_id": 261,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/FlowercityFursuits/about/"
   },
   {
     "id": 1184,
@@ -26226,24 +26274,6 @@
     "url": "https://www.furaffinity.net/user/confused.pike/"
   },
   {
-    "id": 13273,
-    "artisan_id": 642,
-    "type": "URL_WEBSITE",
-    "url": "https://goldkoicreations.wixsite.com/website"
-  },
-  {
-    "id": 13274,
-    "artisan_id": 642,
-    "type": "URL_PRICES",
-    "url": "https://goldkoicreations.wixsite.com/website/price-guide"
-  },
-  {
-    "id": 13275,
-    "artisan_id": 642,
-    "type": "URL_FAQ",
-    "url": "https://goldkoicreations.wixsite.com/website/faq"
-  },
-  {
     "id": 13276,
     "artisan_id": 642,
     "type": "URL_INSTAGRAM",
@@ -26266,6 +26296,30 @@
     "artisan_id": 642,
     "type": "URL_THE_DEALERS_DEN",
     "url": "https://www.thedealersden.com/store/gold-koi-creations"
+  },
+  {
+    "id": 13549,
+    "artisan_id": 642,
+    "type": "URL_WEBSITE",
+    "url": "https://goldkoicreations.carrd.co/"
+  },
+  {
+    "id": 13550,
+    "artisan_id": 642,
+    "type": "URL_PRICES",
+    "url": "https://goldkoicreations.carrd.co/#prices"
+  },
+  {
+    "id": 13551,
+    "artisan_id": 642,
+    "type": "URL_FAQ",
+    "url": "https://goldkoicreations.carrd.co/#faq"
+  },
+  {
+    "id": 13552,
+    "artisan_id": 642,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:goldkoicreations"
   },
   {
     "id": 12452,
