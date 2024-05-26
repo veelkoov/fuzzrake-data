@@ -5091,4 +5091,5 @@ INSERT INTO artisans_urls VALUES(13541,719,'URL_COMMISSIONS','https://kecrowcrea
 INSERT INTO artisans_urls VALUES(13542,719,'URL_DEVIANTART','https://www.deviantart.com/wolfstolemypencil');
 INSERT INTO artisans_urls VALUES(13543,719,'URL_OTHER','https://www.reddit.com/user/kecrowart/');
 INSERT INTO artisans_urls VALUES(13544,559,'URL_COMMISSIONS','https://www.instagram.com/anonwolf_studios/');
+INSERT INTO artisans_urls VALUES(13545,710,'URL_FURSUITREVIEW','https://fursuitreview.com/m/pilots-art-cargo/');
 COMMIT;
