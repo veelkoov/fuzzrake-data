@@ -5101,4 +5101,7 @@ INSERT INTO artisans_urls VALUES(13557,253,'URL_PHOTOS','https://www.furtrack.co
 INSERT INTO artisans_urls VALUES(13558,253,'URL_PHOTOS','https://www.furtrack.com/p/455225');
 INSERT INTO artisans_urls VALUES(13559,253,'URL_MINIATURES','https://orca2.furtrack.com/thumb/398838.jpg');
 INSERT INTO artisans_urls VALUES(13560,253,'URL_MINIATURES','https://orca2.furtrack.com/thumb/455225.jpg');
+INSERT INTO artisans_urls VALUES(13561,612,'URL_PRICES','https://trashawksuits.carrd.co/');
+INSERT INTO artisans_urls VALUES(13562,612,'URL_COMMISSIONS','https://trashawksuits.carrd.co/');
+INSERT INTO artisans_urls VALUES(13563,612,'URL_FAQ','https://trashawksuits.carrd.co/');
 COMMIT;

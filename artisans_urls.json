@@ -24936,6 +24936,24 @@
     "url": "I go by Kulonei#1001 on Discord!"
   },
   {
+    "id": 13561,
+    "artisan_id": 612,
+    "type": "URL_PRICES",
+    "url": "https://trashawksuits.carrd.co/"
+  },
+  {
+    "id": 13562,
+    "artisan_id": 612,
+    "type": "URL_COMMISSIONS",
+    "url": "https://trashawksuits.carrd.co/"
+  },
+  {
+    "id": 13563,
+    "artisan_id": 612,
+    "type": "URL_FAQ",
+    "url": "https://trashawksuits.carrd.co/"
+  },
+  {
     "id": 12099,
     "artisan_id": 613,
     "type": "URL_WEBSITE",
