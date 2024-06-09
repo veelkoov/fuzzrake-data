@@ -30700,5 +30700,65 @@
     "artisan_id": 719,
     "type": "URL_OTHER",
     "url": "https://www.reddit.com/user/kecrowart/"
+  },
+  {
+    "id": 13586,
+    "artisan_id": 720,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/rotten_creations_/"
+  },
+  {
+    "id": 13587,
+    "artisan_id": 720,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/rotten_creations_/"
+  },
+  {
+    "id": 13588,
+    "artisan_id": 720,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/p8l5eqUE/commissions"
+  },
+  {
+    "id": 13589,
+    "artisan_id": 721,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/caboodle-costumes/"
+  },
+  {
+    "id": 13590,
+    "artisan_id": 721,
+    "type": "URL_COMMISSIONS",
+    "url": "https://twitter.com/VixenFursuits"
+  },
+  {
+    "id": 13591,
+    "artisan_id": 721,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/VixenFursuits"
+  },
+  {
+    "id": 13592,
+    "artisan_id": 721,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/vixenfursuits/"
+  },
+  {
+    "id": 13593,
+    "artisan_id": 721,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/store/vixen-fursuits"
+  },
+  {
+    "id": 13594,
+    "artisan_id": 721,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/cTiXh2lD/vixen-fursuits"
+  },
+  {
+    "id": 13595,
+    "artisan_id": 721,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:angelvixenstudios"
   }
 ]

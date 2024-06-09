@@ -5118,4 +5118,14 @@ INSERT INTO artisans_urls VALUES(13582,567,'URL_MINIATURES','https://orca2.furtr
 INSERT INTO artisans_urls VALUES(13583,567,'URL_MINIATURES','https://orca2.furtrack.com/thumb/598796.jpg');
 INSERT INTO artisans_urls VALUES(13584,567,'URL_MINIATURES','https://orca2.furtrack.com/thumb/306259.jpg');
 INSERT INTO artisans_urls VALUES(13585,567,'URL_MINIATURES','https://orca2.furtrack.com/thumb/178609.jpg');
+INSERT INTO artisans_urls VALUES(13586,720,'URL_COMMISSIONS','https://www.instagram.com/rotten_creations_/');
+INSERT INTO artisans_urls VALUES(13587,720,'URL_INSTAGRAM','https://www.instagram.com/rotten_creations_/');
+INSERT INTO artisans_urls VALUES(13588,720,'URL_QUEUE','https://trello.com/b/p8l5eqUE/commissions');
+INSERT INTO artisans_urls VALUES(13589,721,'URL_FURSUITREVIEW','https://fursuitreview.com/m/caboodle-costumes/');
+INSERT INTO artisans_urls VALUES(13590,721,'URL_COMMISSIONS','https://twitter.com/VixenFursuits');
+INSERT INTO artisans_urls VALUES(13591,721,'URL_TWITTER','https://twitter.com/VixenFursuits');
+INSERT INTO artisans_urls VALUES(13592,721,'URL_INSTAGRAM','https://www.instagram.com/vixenfursuits/');
+INSERT INTO artisans_urls VALUES(13593,721,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/vixen-fursuits');
+INSERT INTO artisans_urls VALUES(13594,721,'URL_QUEUE','https://trello.com/b/cTiXh2lD/vixen-fursuits');
+INSERT INTO artisans_urls VALUES(13595,721,'URL_FURTRACK','https://www.furtrack.com/index/maker:angelvixenstudios');
 COMMIT;
