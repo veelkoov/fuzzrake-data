@@ -7218,12 +7218,6 @@
     "url": "https://crittercovecostumes.com/#processandtos"
   },
   {
-    "id": 13517,
-    "artisan_id": 226,
-    "type": "URL_COMMISSIONS",
-    "url": "https://trello.com/b/2o23JVO1/the-critter-cove-fursuit-queue"
-  },
-  {
     "id": 13518,
     "artisan_id": 226,
     "type": "URL_FAQ",
@@ -7282,6 +7276,12 @@
     "artisan_id": 226,
     "type": "URL_MINIATURES",
     "url": "https://orca2.furtrack.com/thumb/424096.jpg"
+  },
+  {
+    "id": 13564,
+    "artisan_id": 226,
+    "type": "URL_COMMISSIONS",
+    "url": "https://twitter.com/thecrittercove"
   },
   {
     "id": 991,
@@ -22944,24 +22944,6 @@
     "url": "http://murkymarten.com/"
   },
   {
-    "id": 11583,
-    "artisan_id": 567,
-    "type": "URL_PRICES",
-    "url": "http://murkymarten.com/fursuit-commissions/"
-  },
-  {
-    "id": 11584,
-    "artisan_id": 567,
-    "type": "URL_COMMISSIONS",
-    "url": "http://murkymarten.com/fursuit-commissions/"
-  },
-  {
-    "id": 11585,
-    "artisan_id": 567,
-    "type": "URL_FAQ",
-    "url": "http://murkymarten.com/fursuit-commissions/"
-  },
-  {
     "id": 11586,
     "artisan_id": 567,
     "type": "URL_TWITTER",
@@ -22998,10 +22980,88 @@
     "url": "https://trello.com/b/c32WDgoA/the-murky-marten"
   },
   {
-    "id": 11592,
+    "id": 13572,
+    "artisan_id": 567,
+    "type": "URL_PRICES",
+    "url": "https://www.murkymarten.com/commission-info"
+  },
+  {
+    "id": 13573,
+    "artisan_id": 567,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.murkymarten.com/commission-info"
+  },
+  {
+    "id": 13574,
+    "artisan_id": 567,
+    "type": "URL_FAQ",
+    "url": "https://www.murkymarten.com/commission-info"
+  },
+  {
+    "id": 13575,
     "artisan_id": 567,
     "type": "URL_FURTRACK",
-    "url": "https://www.furtrack.com/index/maker:the_murky_marten"
+    "url": "https://www.furtrack.com/index/maker:murkymarten"
+  },
+  {
+    "id": 13576,
+    "artisan_id": 567,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/598607"
+  },
+  {
+    "id": 13577,
+    "artisan_id": 567,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/380427"
+  },
+  {
+    "id": 13578,
+    "artisan_id": 567,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/598796"
+  },
+  {
+    "id": 13579,
+    "artisan_id": 567,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/306259"
+  },
+  {
+    "id": 13580,
+    "artisan_id": 567,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/178609"
+  },
+  {
+    "id": 13581,
+    "artisan_id": 567,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/598607.jpg"
+  },
+  {
+    "id": 13582,
+    "artisan_id": 567,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/380427.jpg"
+  },
+  {
+    "id": 13583,
+    "artisan_id": 567,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/598796.jpg"
+  },
+  {
+    "id": 13584,
+    "artisan_id": 567,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/306259.jpg"
+  },
+  {
+    "id": 13585,
+    "artisan_id": 567,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/178609.jpg"
   },
   {
     "id": 11604,
@@ -23610,16 +23670,28 @@
     "url": "https://www.youtube.com/channel/UCxr3faD5MndHsAg-TIL5bHA"
   },
   {
-    "id": 11784,
+    "id": 13565,
     "artisan_id": 583,
-    "type": "URL_ETSY",
-    "url": "https://www.etsy.com/shop/BlankMuttCreations"
+    "type": "URL_WEBSITE",
+    "url": "https://untitledmuttsuits.carrd.co/"
   },
   {
-    "id": 11785,
+    "id": 13566,
     "artisan_id": 583,
-    "type": "URL_QUEUE",
-    "url": "https://trello.com/invite/b/FGItoL8G/ATTI7e8044e02194854923071cf3af10a4751EF62FBE/blankmutt-queue"
+    "type": "URL_PRICES",
+    "url": "https://untitledmuttsuits.carrd.co/#prices"
+  },
+  {
+    "id": 13567,
+    "artisan_id": 583,
+    "type": "URL_COMMISSIONS",
+    "url": "https://untitledmuttsuits.carrd.co/"
+  },
+  {
+    "id": 13568,
+    "artisan_id": 583,
+    "type": "URL_OTHER_SHOP",
+    "url": "https://untitledmuttshop.com/"
   },
   {
     "id": 11819,
@@ -25290,12 +25362,6 @@
     "url": "https://www.youtube.com/channel/UC1EVKeUV_AAJ8bfDTIJTX0g"
   },
   {
-    "id": 12154,
-    "artisan_id": 619,
-    "type": "URL_COMMISSIONS",
-    "url": "https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTg2NDE2OTE2ODM5MTc5?igshid=YmMyMTA2M2Y="
-  },
-  {
     "id": 12155,
     "artisan_id": 619,
     "type": "URL_TWITTER",
@@ -25318,6 +25384,24 @@
     "artisan_id": 619,
     "type": "URL_ETSY",
     "url": "https://www.etsy.com/shop/lexyausfursuits"
+  },
+  {
+    "id": 13569,
+    "artisan_id": 619,
+    "type": "URL_PRICES",
+    "url": "https://www.instagram.com/lexyaus_fursuits/"
+  },
+  {
+    "id": 13570,
+    "artisan_id": 619,
+    "type": "URL_MASTODON",
+    "url": "https://furries.club/@Lexyaus_fursuits"
+  },
+  {
+    "id": 13571,
+    "artisan_id": 619,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:lexyaus"
   },
   {
     "id": 12162,

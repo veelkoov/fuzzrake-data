@@ -3120,6 +3120,11 @@
     "maker_id": "MUMARTN"
   },
   {
+    "id": 790,
+    "artisan_id": 567,
+    "maker_id": "MURKYMA"
+  },
+  {
     "id": 602,
     "artisan_id": 568,
     "maker_id": "QPENDAS"
@@ -3203,6 +3208,11 @@
     "id": 623,
     "artisan_id": 583,
     "maker_id": "BLMTCRT"
+  },
+  {
+    "id": 789,
+    "artisan_id": 583,
+    "maker_id": "UNTDMTT"
   },
   {
     "id": 625,
