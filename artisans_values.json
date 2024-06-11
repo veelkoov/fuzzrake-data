@@ -12400,5 +12400,71 @@
     "artisan_id": 721,
     "field_name": "DOES_NSFW",
     "value": "True"
+  },
+  {
+    "id": 2985,
+    "artisan_id": 722,
+    "field_name": "DATE_ADDED",
+    "value": "2024-06-11 18:37:16"
+  },
+  {
+    "id": 2986,
+    "artisan_id": 722,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 2987,
+    "artisan_id": 722,
+    "field_name": "NSFW_WEBSITE",
+    "value": "False"
+  },
+  {
+    "id": 2988,
+    "artisan_id": 722,
+    "field_name": "NSFW_SOCIAL",
+    "value": "True"
+  },
+  {
+    "id": 2989,
+    "artisan_id": 722,
+    "field_name": "DOES_NSFW",
+    "value": "True"
+  },
+  {
+    "id": 2990,
+    "artisan_id": 723,
+    "field_name": "DATE_ADDED",
+    "value": "2024-06-11 18:47:22"
+  },
+  {
+    "id": 2991,
+    "artisan_id": 723,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 2992,
+    "artisan_id": 723,
+    "field_name": "NSFW_WEBSITE",
+    "value": "False"
+  },
+  {
+    "id": 2993,
+    "artisan_id": 723,
+    "field_name": "NSFW_SOCIAL",
+    "value": "False"
+  },
+  {
+    "id": 2994,
+    "artisan_id": 723,
+    "field_name": "DOES_NSFW",
+    "value": "False"
+  },
+  {
+    "id": 2995,
+    "artisan_id": 723,
+    "field_name": "WORKS_WITH_MINORS",
+    "value": "True"
   }
 ]

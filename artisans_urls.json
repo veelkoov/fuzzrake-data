@@ -30760,5 +30760,149 @@
     "artisan_id": 721,
     "type": "URL_FURTRACK",
     "url": "https://www.furtrack.com/index/maker:angelvixenstudios"
+  },
+  {
+    "id": 13596,
+    "artisan_id": 722,
+    "type": "URL_WEBSITE",
+    "url": "https://burningshackles.com/"
+  },
+  {
+    "id": 13597,
+    "artisan_id": 722,
+    "type": "URL_PRICES",
+    "url": "https://burningshackles.com/fursuit-estimates/"
+  },
+  {
+    "id": 13598,
+    "artisan_id": 722,
+    "type": "URL_COMMISSIONS",
+    "url": "https://trello.com/b/w3J8iI3V/thomas-commissions"
+  },
+  {
+    "id": 13599,
+    "artisan_id": 722,
+    "type": "URL_FAQ",
+    "url": "https://burningshackles.com/faq/"
+  },
+  {
+    "id": 13600,
+    "artisan_id": 722,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/Burningshackles"
+  },
+  {
+    "id": 13601,
+    "artisan_id": 722,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/burningshackles/"
+  },
+  {
+    "id": 13602,
+    "artisan_id": 722,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/Burningshackles"
+  },
+  {
+    "id": 13603,
+    "artisan_id": 722,
+    "type": "URL_OTHER_SHOP",
+    "url": "https://payhip.com/Burningshackles"
+  },
+  {
+    "id": 13604,
+    "artisan_id": 722,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/w3J8iI3V/thomas-commissions"
+  },
+  {
+    "id": 13605,
+    "artisan_id": 723,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/jejucrafts/"
+  },
+  {
+    "id": 13606,
+    "artisan_id": 723,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/jejucrafts/"
+  },
+  {
+    "id": 13607,
+    "artisan_id": 723,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/Jejucrafts"
+  },
+  {
+    "id": 13608,
+    "artisan_id": 723,
+    "type": "URL_ETSY",
+    "url": "https://jejuworkshop.etsy.com/"
+  },
+  {
+    "id": 13609,
+    "artisan_id": 723,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/2nf8MiMV/yukosworkshop"
+  },
+  {
+    "id": 13610,
+    "artisan_id": 723,
+    "type": "URL_SCRITCH",
+    "url": "https://scritch.es/jejucrafts"
+  },
+  {
+    "id": 13611,
+    "artisan_id": 723,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/user/Jejucrafts"
+  },
+  {
+    "id": 13612,
+    "artisan_id": 723,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/802a8fca-6b89-48c1-aa9c-1e1c79f68aa1"
+  },
+  {
+    "id": 13613,
+    "artisan_id": 723,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/2804c1ae-83b9-4ac7-8b54-65dbab73a50c"
+  },
+  {
+    "id": 13614,
+    "artisan_id": 723,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/a57bfd4e-7015-41aa-b3f9-714fdb224456"
+  },
+  {
+    "id": 13615,
+    "artisan_id": 723,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/05357632-67d5-47e7-8111-240b33ded82a"
+  },
+  {
+    "id": 13616,
+    "artisan_id": 723,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/613dd4abed37778ec5c52152d377a5ab153d7803/thumbnail_513ae7bc-0af7-4dde-bcf0-a212a10fcced.jpeg"
+  },
+  {
+    "id": 13617,
+    "artisan_id": 723,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/222858c13aac9e0a500cca1e403d69686dcb5f43/thumbnail_8a9b7f99-7e73-4aae-a067-0d061bc94455.jpeg"
+  },
+  {
+    "id": 13618,
+    "artisan_id": 723,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/e8b09c877ff1361f0a91d4a67b793bfd9b7b30a3/thumbnail_81facb91-2981-4760-a67c-534983c24a47.jpeg"
+  },
+  {
+    "id": 13619,
+    "artisan_id": 723,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/d9de848e90252be003928d7ab21e8f40d9e8b898/thumbnail_0728dcf8-4be1-44c0-affd-730c2a3d6f48.jpeg"
   }
 ]
