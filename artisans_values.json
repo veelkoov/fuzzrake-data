@@ -7440,6 +7440,12 @@
     "value": "False"
   },
   {
+    "id": 3024,
+    "artisan_id": 574,
+    "field_name": "DATE_UPDATED",
+    "value": "2024-06-23 17:09:08"
+  },
+  {
     "id": 1928,
     "artisan_id": 575,
     "field_name": "DATE_ADDED",

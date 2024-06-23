@@ -3371,7 +3371,6 @@ INSERT INTO artisans_urls VALUES(11687,26,'URL_FAQ','https://www.thekareliafursu
 INSERT INTO artisans_urls VALUES(11688,26,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/search/other-items/?username=thekareliafursuits&user_id=111278');
 INSERT INTO artisans_urls VALUES(11689,26,'URL_QUEUE','https://www.patreon.com/thekareliafursuits');
 INSERT INTO artisans_urls VALUES(11690,402,'URL_WEBSITE','https://felistellar.wixsite.com/felistellarstudios');
-INSERT INTO artisans_urls VALUES(11691,574,'URL_COMMISSIONS','https://twitter.com/HaukNona');
 INSERT INTO artisans_urls VALUES(11692,574,'URL_INSTAGRAM','https://www.instagram.com/fureverfuzzygoods/');
 INSERT INTO artisans_urls VALUES(11693,575,'URL_INSTAGRAM','https://www.instagram.com/anima_creatures/');
 INSERT INTO artisans_urls VALUES(11700,182,'URL_FURSUITREVIEW','https://fursuitreview.com/m/melissa-mendelson-art/');
