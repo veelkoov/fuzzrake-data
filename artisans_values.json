@@ -6285,7 +6285,7 @@
     "id": 1713,
     "artisan_id": 541,
     "field_name": "DATE_UPDATED",
-    "value": "2022-09-16 18:54:32"
+    "value": "2024-06-28 20:08:17"
   },
   {
     "id": 1627,
@@ -12574,6 +12574,12 @@
     "artisan_id": 726,
     "field_name": "WORKS_WITH_MINORS",
     "value": "False"
+  },
+  {
+    "id": 3063,
+    "artisan_id": 726,
+    "field_name": "DATE_UPDATED",
+    "value": "2024-06-28 20:09:01"
   },
   {
     "id": 3013,
