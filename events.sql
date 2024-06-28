@@ -3161,4 +3161,9 @@ INSERT INTO events VALUES(3172,'2024-06-21 12:08:50.429','CS_UPDATED','ArvinsLai
 INSERT INTO events VALUES(3173,'2024-06-22 00:08:29.504','CS_UPDATED','Unleashed Studios',0,0,0,'','https://twitter.com/UnleashedSTU','','Commissions','',1);
 INSERT INTO events VALUES(3174,'2024-06-22 00:08:29.532','CS_UPDATED','ArvinsLair',0,0,0,'','http://arvinslair.com/commissions.html','','','Commissions',0);
 INSERT INTO events VALUES(3175,'2024-06-23 17:09:00','DATA_UPDATED','',0,1,0,'3b9b871176b381a12d34f73e0c22dfc8da78486f','','','','',0);
+INSERT INTO events VALUES(3176,'2024-06-23 18:12:13.346','CS_UPDATED','FureverFuzzyGoods',0,0,0,'','','','Commissions','',0);
+INSERT INTO events VALUES(3177,'2024-06-25 00:09:01.912','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','Quotes','',1);
+INSERT INTO events VALUES(3178,'2024-06-25 00:09:02.093','CS_UPDATED','KecrowCreations',0,0,0,'','https://kecrowcreations.carrd.co/','','Quotes','',1);
+INSERT INTO events VALUES(3179,'2024-06-25 00:09:02.110','CS_UPDATED','Trashawk',0,0,0,'','https://trashawksuits.carrd.co/','','Commissions','',1);
+INSERT INTO events VALUES(3180,'2024-06-25 00:09:02.120','CS_UPDATED','Untitledmutt',0,0,0,'','https://untitledmuttsuits.carrd.co/','','Commissions','',1);
 COMMIT;
