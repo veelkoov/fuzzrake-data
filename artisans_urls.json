@@ -18228,6 +18228,12 @@
     "url": "https://trello.com/b/d5BQTM1O/commision-queue"
   },
   {
+    "id": 13726,
+    "artisan_id": 476,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/vulcanwood/"
+  },
+  {
     "id": 10266,
     "artisan_id": 477,
     "type": "URL_FURSUITREVIEW",
@@ -23500,6 +23506,12 @@
     "artisan_id": 578,
     "type": "URL_INSTAGRAM",
     "url": "https://www.instagram.com/tomacats_suits/"
+  },
+  {
+    "id": 13725,
+    "artisan_id": 578,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/tomacats/"
   },
   {
     "id": 11750,
@@ -30810,6 +30822,12 @@
     "url": "https://trello.com/b/w3J8iI3V/thomas-commissions"
   },
   {
+    "id": 13724,
+    "artisan_id": 722,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/burning-shackles/"
+  },
+  {
     "id": 13605,
     "artisan_id": 723,
     "type": "URL_COMMISSIONS",
@@ -31132,6 +31150,12 @@
     "artisan_id": 728,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/fXgI1mqX/starbirdartfursuits"
+  },
+  {
+    "id": 13727,
+    "artisan_id": 728,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/starbird-art/"
   },
   {
     "id": 13649,
