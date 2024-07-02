@@ -5236,10 +5236,6 @@ INSERT INTO artisans_urls VALUES(13720,726,'URL_MINIATURES','https://orca2.furtr
 INSERT INTO artisans_urls VALUES(13721,726,'URL_MINIATURES','https://orca2.furtrack.com/thumb/628988.jpg');
 INSERT INTO artisans_urls VALUES(13722,726,'URL_MINIATURES','https://orca2.furtrack.com/thumb/628990.jpg');
 INSERT INTO artisans_urls VALUES(13723,726,'URL_MINIATURES','https://orca2.furtrack.com/thumb/628994.jpg');
-INSERT INTO artisans_urls VALUES(13724,722,'URL_FURSUITREVIEW','https://fursuitreview.com/m/burning-shackles/');
-INSERT INTO artisans_urls VALUES(13725,578,'URL_FURSUITREVIEW','https://fursuitreview.com/m/tomacats/');
-INSERT INTO artisans_urls VALUES(13726,476,'URL_FURSUITREVIEW','https://fursuitreview.com/m/vulcanwood/');
-INSERT INTO artisans_urls VALUES(13727,728,'URL_FURSUITREVIEW','https://fursuitreview.com/m/starbird-art/');
 INSERT INTO artisans_urls VALUES(13724,551,'URL_WEBSITE','http://www.caprikki.com/');
 INSERT INTO artisans_urls VALUES(13725,551,'URL_PRICES','http://www.caprikki.com/prices.html');
 INSERT INTO artisans_urls VALUES(13726,551,'URL_COMMISSIONS','https://www.instagram.com/caprikki/');
@@ -5256,4 +5252,8 @@ INSERT INTO artisans_urls VALUES(13736,551,'URL_MINIATURES','https://orca2.furtr
 INSERT INTO artisans_urls VALUES(13737,551,'URL_MINIATURES','https://orca2.furtrack.com/thumb/629377.jpg');
 INSERT INTO artisans_urls VALUES(13738,551,'URL_MINIATURES','https://orca2.furtrack.com/thumb/629375.jpg');
 INSERT INTO artisans_urls VALUES(13739,551,'URL_FURSUITREVIEW','https://fursuitreview.com/m/caprikki/');
+INSERT INTO artisans_urls VALUES(13740,728,'URL_FURSUITREVIEW','https://fursuitreview.com/m/starbird-art/');
+INSERT INTO artisans_urls VALUES(13741,476,'URL_FURSUITREVIEW','https://fursuitreview.com/m/vulcanwood/');
+INSERT INTO artisans_urls VALUES(13742,578,'URL_FURSUITREVIEW','https://fursuitreview.com/m/tomacats/');
+INSERT INTO artisans_urls VALUES(13743,722,'URL_FURSUITREVIEW','https://fursuitreview.com/m/burning-shackles/');
 COMMIT;
