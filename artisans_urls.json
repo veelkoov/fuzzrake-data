@@ -22050,112 +22050,100 @@
     "url": "https://coralcandy.carrd.co/"
   },
   {
-    "id": 11368,
+    "id": 13724,
     "artisan_id": 551,
     "type": "URL_WEBSITE",
-    "url": "http://furryfrenzystudios.weebly.com/"
+    "url": "http://www.caprikki.com/"
   },
   {
-    "id": 11369,
+    "id": 13725,
     "artisan_id": 551,
     "type": "URL_PRICES",
-    "url": "http://furryfrenzystudios.weebly.com/prices.html"
+    "url": "http://www.caprikki.com/prices.html"
   },
   {
-    "id": 11370,
+    "id": 13726,
     "artisan_id": 551,
     "type": "URL_COMMISSIONS",
-    "url": "https://www.instagram.com/furryfr3nzy/"
+    "url": "https://www.instagram.com/caprikki/"
   },
   {
-    "id": 11371,
+    "id": 13727,
     "artisan_id": 551,
     "type": "URL_FAQ",
-    "url": "http://furryfrenzystudios.weebly.com/faq.html"
+    "url": "http://www.caprikki.com/faq.html"
   },
   {
-    "id": 11372,
+    "id": 13728,
+    "artisan_id": 551,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/Capr_ikki"
+  },
+  {
+    "id": 13729,
     "artisan_id": 551,
     "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/furryfr3nzy/"
+    "url": "https://www.instagram.com/caprikki/"
   },
   {
-    "id": 11373,
+    "id": 13730,
     "artisan_id": 551,
     "type": "URL_LINKLIST",
-    "url": "https://linktr.ee/furryfr3nzy"
+    "url": "https://linktr.ee/caprikki"
   },
   {
-    "id": 11374,
-    "artisan_id": 551,
-    "type": "URL_FURRY_AMINO",
-    "url": "https://aminoapps.com/c/furry-amino/page/user/tiki-otter/WJkg_EblikfLe4n3eda8aVgDjvGmq37x5pm"
-  },
-  {
-    "id": 11375,
+    "id": 13731,
     "artisan_id": 551,
     "type": "URL_QUEUE",
-    "url": "https://trello.com/b/HjIRt8DM/blurry-furry"
+    "url": "https://trello.com/b/HjIRt8DM/star-children"
   },
   {
-    "id": 11376,
+    "id": 13732,
     "artisan_id": 551,
     "type": "URL_FURTRACK",
-    "url": "https://www.furtrack.com/user/FurryFr3nzy"
+    "url": "https://www.furtrack.com/index/maker:caprikki"
   },
   {
-    "id": 11386,
+    "id": 13733,
+    "artisan_id": 551,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/629378"
+  },
+  {
+    "id": 13734,
+    "artisan_id": 551,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/629377"
+  },
+  {
+    "id": 13735,
+    "artisan_id": 551,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/629375"
+  },
+  {
+    "id": 13736,
+    "artisan_id": 551,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/629378.jpg"
+  },
+  {
+    "id": 13737,
+    "artisan_id": 551,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/629377.jpg"
+  },
+  {
+    "id": 13738,
+    "artisan_id": 551,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/629375.jpg"
+  },
+  {
+    "id": 13739,
     "artisan_id": 551,
     "type": "URL_FURSUITREVIEW",
-    "url": "https://fursuitreview.com/m/furry-frenzy-studios/"
-  },
-  {
-    "id": 11400,
-    "artisan_id": 551,
-    "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/88394"
-  },
-  {
-    "id": 11401,
-    "artisan_id": 551,
-    "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/88393"
-  },
-  {
-    "id": 11402,
-    "artisan_id": 551,
-    "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/88392"
-  },
-  {
-    "id": 11403,
-    "artisan_id": 551,
-    "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/88395"
-  },
-  {
-    "id": 11414,
-    "artisan_id": 551,
-    "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/88394.jpg"
-  },
-  {
-    "id": 11415,
-    "artisan_id": 551,
-    "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/88393.jpg"
-  },
-  {
-    "id": 11416,
-    "artisan_id": 551,
-    "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/88392.jpg"
-  },
-  {
-    "id": 11417,
-    "artisan_id": 551,
-    "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/88395.jpg"
+    "url": "https://fursuitreview.com/m/caprikki/"
   },
   {
     "id": 11387,
