@@ -3166,4 +3166,6 @@ INSERT INTO events VALUES(3177,'2024-06-25 00:09:01.912','CS_UPDATED','CoralCand
 INSERT INTO events VALUES(3178,'2024-06-25 00:09:02.093','CS_UPDATED','KecrowCreations',0,0,0,'','https://kecrowcreations.carrd.co/','','Quotes','',1);
 INSERT INTO events VALUES(3179,'2024-06-25 00:09:02.110','CS_UPDATED','Trashawk',0,0,0,'','https://trashawksuits.carrd.co/','','Commissions','',1);
 INSERT INTO events VALUES(3180,'2024-06-25 00:09:02.120','CS_UPDATED','Untitledmutt',0,0,0,'','https://untitledmuttsuits.carrd.co/','','Commissions','',1);
+INSERT INTO events VALUES(3181,'2024-06-28 20:35:00','DATA_UPDATED','',0,2,0,'aa6a89435bd02cd391b500b67fdd0fe0b5dd689b','','','','',0);
+INSERT INTO events VALUES(3182,'2024-07-02 18:47:00','DATA_UPDATED','',0,1,0,'cfaf566949a786ff78abb118dd2211651f5b87f2','','','','',0);
 COMMIT;

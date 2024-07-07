@@ -47458,5 +47458,35 @@
     "no_longer_open_for": "Commissions",
     "now_open_for": "",
     "tracking_issues": 1
+  },
+  {
+    "id": 3181,
+    "timestamp": "2024-06-28 20:35:00",
+    "type": "DATA_UPDATED",
+    "artisan_name": "",
+    "new_makers_count": 0,
+    "updated_makers_count": 2,
+    "reported_updated_makers_count": 0,
+    "git_commits": "aa6a89435bd02cd391b500b67fdd0fe0b5dd689b",
+    "checked_urls": "",
+    "description": "",
+    "no_longer_open_for": "",
+    "now_open_for": "",
+    "tracking_issues": 0
+  },
+  {
+    "id": 3182,
+    "timestamp": "2024-07-02 18:47:00",
+    "type": "DATA_UPDATED",
+    "artisan_name": "",
+    "new_makers_count": 0,
+    "updated_makers_count": 1,
+    "reported_updated_makers_count": 0,
+    "git_commits": "cfaf566949a786ff78abb118dd2211651f5b87f2",
+    "checked_urls": "",
+    "description": "",
+    "no_longer_open_for": "",
+    "now_open_for": "",
+    "tracking_issues": 0
   }
 ]
