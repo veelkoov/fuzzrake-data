@@ -31528,5 +31528,125 @@
     "artisan_id": 735,
     "type": "URL_QUEUE",
     "url": "https://t.me/CalfAndWolfCreators"
+  },
+  {
+    "id": 13744,
+    "artisan_id": 736,
+    "type": "URL_WEBSITE",
+    "url": "http://www.sunnydayzpet.com/fursuits"
+  },
+  {
+    "id": 13745,
+    "artisan_id": 736,
+    "type": "URL_PRICES",
+    "url": "http://www.sunnydayzpet.com/fursuits"
+  },
+  {
+    "id": 13746,
+    "artisan_id": 736,
+    "type": "URL_PRICES",
+    "url": "https://trello.com/c/4jJfIAGW"
+  },
+  {
+    "id": 13747,
+    "artisan_id": 736,
+    "type": "URL_COMMISSIONS",
+    "url": "http://www.sunnydayzpet.com/fursuits"
+  },
+  {
+    "id": 13748,
+    "artisan_id": 736,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/sunnybooboo/"
+  },
+  {
+    "id": 13749,
+    "artisan_id": 736,
+    "type": "URL_DEVIANTART",
+    "url": "https://www.deviantart.com/sunnydayzfursuits"
+  },
+  {
+    "id": 13750,
+    "artisan_id": 736,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/profile.php?id=61555931883438&mibextid=ZbWKwL"
+  },
+  {
+    "id": 13751,
+    "artisan_id": 736,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/Z7FHhtiN/commissions"
+  },
+  {
+    "id": 13752,
+    "artisan_id": 736,
+    "type": "URL_SCRITCH",
+    "url": "https://scritch.es/sunnydayzfursuits"
+  },
+  {
+    "id": 13753,
+    "artisan_id": 736,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/user/SunnyDayzFursuits"
+  },
+  {
+    "id": 13754,
+    "artisan_id": 736,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/51a333b9-fd3b-4153-8d9b-858cc07ec01e"
+  },
+  {
+    "id": 13755,
+    "artisan_id": 736,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/5e6695e4-97f2-4127-96b2-0d6ed1d16dbd"
+  },
+  {
+    "id": 13756,
+    "artisan_id": 736,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/c7de9fde-b593-4f21-be28-c58bb6bdc9e6"
+  },
+  {
+    "id": 13757,
+    "artisan_id": 736,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/ae347e47-eb50-4051-a9df-d049ff62f59c"
+  },
+  {
+    "id": 13758,
+    "artisan_id": 736,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/485af4cd-7c97-4d3e-9798-ebafebb18e2f"
+  },
+  {
+    "id": 13764,
+    "artisan_id": 736,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/4b81470a62d3f9a22853f23de581aa10207eb40f/thumbnail_83176925-2b5d-4fd6-856e-d643be218b63.jpeg#d30"
+  },
+  {
+    "id": 13765,
+    "artisan_id": 736,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/bbd7881237e7b0723f486c7b0e00c21ba3bcfc5c/thumbnail_005c5f56-45d2-424c-a1c4-2ffd6e08fae5.jpeg#d10"
+  },
+  {
+    "id": 13766,
+    "artisan_id": 736,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/3890726621cc98e6ab16dd6335bd372b0832cbc9/thumbnail_4c276433-5ca2-41cd-bd84-87ca9d4c0df5.jpeg#r270"
+  },
+  {
+    "id": 13767,
+    "artisan_id": 736,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/60c2fb7ea721c51d003da05afbdbcc91a03145be/thumbnail_be6d44f8-e33e-421b-b99e-7f41173e2bd9.jpeg#r270"
+  },
+  {
+    "id": 13768,
+    "artisan_id": 736,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/20c73b778265ddfe9bea1a7a1150bc2086a59687/thumbnail_928ff3fa-dfa4-4059-a6b3-3d49317daf48.jpeg#d30"
   }
 ]
