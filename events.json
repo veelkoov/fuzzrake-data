@@ -47728,5 +47728,20 @@
     "no_longer_open_for": "Commissions",
     "now_open_for": "",
     "tracking_issues": 1
+  },
+  {
+    "id": 3199,
+    "timestamp": "2024-07-14 18:52:32.036",
+    "type": "CS_UPDATED",
+    "artisan_name": "ScorchedFur",
+    "new_makers_count": 0,
+    "updated_makers_count": 0,
+    "reported_updated_makers_count": 0,
+    "git_commits": "",
+    "checked_urls": "https://scorchedfur.carrd.co/",
+    "description": "",
+    "no_longer_open_for": "",
+    "now_open_for": "Commissions",
+    "tracking_issues": 0
   }
 ]

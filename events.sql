@@ -3184,4 +3184,5 @@ INSERT INTO events VALUES(3195,'2024-07-14 12:08:38.069','CS_UPDATED','The Fuzz 
 INSERT INTO events VALUES(3196,'2024-07-14 12:08:38.342','CS_UPDATED','SpiritPanda Costumes',0,0,0,'','https://www.spiritpandacostumes.com/','','Quotes','',1);
 INSERT INTO events VALUES(3197,'2024-07-14 12:08:38.387','CS_UPDATED','YellowCatCreations',0,0,0,'','https://thatoneyellowcat.wixsite.com/yellowcatcreations/fursuit-commissions','','Quotes','',0);
 INSERT INTO events VALUES(3198,'2024-07-14 12:08:38.469','CS_UPDATED','The Critter Cove',0,0,0,'','https://twitter.com/thecrittercove','','Commissions','',1);
+INSERT INTO events VALUES(3199,'2024-07-14 18:52:32.036','CS_UPDATED','ScorchedFur',0,0,0,'','https://scorchedfur.carrd.co/','','','Commissions',0);
 COMMIT;

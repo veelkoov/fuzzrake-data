@@ -12192,52 +12192,40 @@
     "url": "https://www.facebook.com/SodaTheFox/"
   },
   {
-    "id": 10497,
-    "artisan_id": 350,
-    "type": "URL_ETSY",
-    "url": "https://www.etsy.com/shop/TinyDreamCreationDE"
-  },
-  {
-    "id": 11799,
+    "id": 13770,
     "artisan_id": 350,
     "type": "URL_WEBSITE",
-    "url": "https://koboldcraftings.carrd.co/"
+    "url": "https://scorchedfur.carrd.co/"
   },
   {
-    "id": 11800,
+    "id": 13771,
     "artisan_id": 350,
     "type": "URL_PRICES",
-    "url": "https://koboldcraftings.carrd.co"
+    "url": "https://scorchedfur.carrd.co/"
   },
   {
-    "id": 11801,
+    "id": 13772,
     "artisan_id": 350,
     "type": "URL_COMMISSIONS",
-    "url": "https://koboldcraftings.carrd.co/"
+    "url": "https://scorchedfur.carrd.co/"
   },
   {
-    "id": 11802,
-    "artisan_id": 350,
-    "type": "URL_FAQ",
-    "url": "https://docs.google.com/document/u/1/d/e/2PACX-1vTJIfLNLW3druZuYDyV8_0-KCnlIH6cOe11TLEhz3VVVZlzQGJxQOWcfRj9mALrReH82U57g0uDaHZu/pub"
-  },
-  {
-    "id": 11803,
+    "id": 13773,
     "artisan_id": 350,
     "type": "URL_TWITTER",
-    "url": "https://twitter.com/KoboldCraftings"
+    "url": "https://twitter.com/TinyKobl"
   },
   {
-    "id": 11804,
+    "id": 13774,
     "artisan_id": 350,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/tinygreml/"
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/m5pKj5jQ/scorchedfursuit-progress"
   },
   {
-    "id": 11805,
+    "id": 13775,
     "artisan_id": 350,
-    "type": "URL_FURTRACK",
-    "url": "https://www.furtrack.com/user/KoboldCraftings"
+    "type": "URL_OTHER",
+    "url": "https://t.me/ScorchedFur"
   },
   {
     "id": 9065,
@@ -26220,6 +26208,12 @@
     "url": "https://trello.com/b/RlBf9kIw/untamedcanines-trello"
   },
   {
+    "id": 13769,
+    "artisan_id": 638,
+    "type": "URL_OTHER",
+    "url": "https://t.me/untamedcanine"
+  },
+  {
     "id": 12424,
     "artisan_id": 639,
     "type": "URL_TWITTER",
@@ -31648,5 +31642,47 @@
     "artisan_id": 736,
     "type": "URL_MINIATURES",
     "url": "https://storage.scritch.es/scritch/20c73b778265ddfe9bea1a7a1150bc2086a59687/thumbnail_928ff3fa-dfa4-4059-a6b3-3d49317daf48.jpeg#d30"
+  },
+  {
+    "id": 13776,
+    "artisan_id": 737,
+    "type": "URL_WEBSITE",
+    "url": "https://queenhisscreations.co.uk/"
+  },
+  {
+    "id": 13777,
+    "artisan_id": 737,
+    "type": "URL_PRICES",
+    "url": "https://queenhisscreations.co.uk/prices/"
+  },
+  {
+    "id": 13778,
+    "artisan_id": 737,
+    "type": "URL_COMMISSIONS",
+    "url": "https://queenhisscreations.co.uk/"
+  },
+  {
+    "id": 13779,
+    "artisan_id": 737,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/queenhisscreate"
+  },
+  {
+    "id": 13780,
+    "artisan_id": 737,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/queenhisscreations/"
+  },
+  {
+    "id": 13781,
+    "artisan_id": 737,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/eJrMR2cl/queen-hiss-creations"
+  },
+  {
+    "id": 13782,
+    "artisan_id": 737,
+    "type": "URL_OTHER",
+    "url": "https://bsky.app/profile/queenhisscreations.co.uk"
   }
 ]
