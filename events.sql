@@ -3185,4 +3185,13 @@ INSERT INTO events VALUES(3196,'2024-07-14 12:08:38.342','CS_UPDATED','SpiritPan
 INSERT INTO events VALUES(3197,'2024-07-14 12:08:38.387','CS_UPDATED','YellowCatCreations',0,0,0,'','https://thatoneyellowcat.wixsite.com/yellowcatcreations/fursuit-commissions','','Quotes','',0);
 INSERT INTO events VALUES(3198,'2024-07-14 12:08:38.469','CS_UPDATED','The Critter Cove',0,0,0,'','https://twitter.com/thecrittercove','','Commissions','',1);
 INSERT INTO events VALUES(3199,'2024-07-14 18:52:32.036','CS_UPDATED','ScorchedFur',0,0,0,'','https://scorchedfur.carrd.co/','','','Commissions',0);
+INSERT INTO events VALUES(3200,'2024-07-14 18:55:00','DATA_UPDATED','',1,2,0,'213b448f139a316248338e3600d659c92bb0b1c2','','','','',0);
+INSERT INTO events VALUES(3201,'2024-07-15 12:09:06.292','CS_UPDATED','Fursewna Studios',0,0,0,'','http://fursewnastudios.weebly.com/','','Quotes','',1);
+INSERT INTO events VALUES(3202,'2024-07-15 12:09:06.862','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','Quotes','',1);
+INSERT INTO events VALUES(3203,'2024-07-16 00:08:19.032','CS_UPDATED','Fursewna Studios',0,0,0,'','http://fursewnastudios.weebly.com/','','','Quotes',0);
+INSERT INTO events VALUES(3204,'2024-07-16 00:08:19.196','CS_UPDATED','Kitten Cafe Studios',0,0,0,'','http://www.kittencafestudios.com/','','','Commissions',1);
+INSERT INTO events VALUES(3205,'2024-07-16 00:08:19.336','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','','Quotes',0);
+INSERT INTO events VALUES(3206,'2024-07-16 12:08:49.799','CS_UPDATED','SewCrates',0,0,0,'','https://sewcrates.ca/','','Commissions','',1);
+INSERT INTO events VALUES(3207,'2024-07-17 00:08:38.751','CS_UPDATED','SewCrates',0,0,0,'','https://sewcrates.ca/','','','Commissions',0);
+INSERT INTO events VALUES(3208,'2024-07-20 00:08:48.962','CS_UPDATED','Little Kit Creations',0,0,0,'','https://twitter.com/LittleKitSuits','','Commissions','',1);
 COMMIT;
