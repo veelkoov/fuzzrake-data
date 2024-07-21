@@ -5282,4 +5282,5 @@ INSERT INTO artisans_urls VALUES(13779,737,'URL_TWITTER','https://twitter.com/qu
 INSERT INTO artisans_urls VALUES(13780,737,'URL_INSTAGRAM','https://www.instagram.com/queenhisscreations/');
 INSERT INTO artisans_urls VALUES(13781,737,'URL_QUEUE','https://trello.com/b/eJrMR2cl/queen-hiss-creations');
 INSERT INTO artisans_urls VALUES(13782,737,'URL_OTHER','https://bsky.app/profile/queenhisscreations.co.uk');
+INSERT INTO artisans_urls VALUES(13783,736,'URL_ETSY','https://sunnydayzfursuits.etsy.com/');
 COMMIT;
