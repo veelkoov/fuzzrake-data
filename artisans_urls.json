@@ -15042,48 +15042,6 @@
     "url": "https://www.furtrack.com/user/Kitsuanuma"
   },
   {
-    "id": 9592,
-    "artisan_id": 412,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/zipgrowl"
-  },
-  {
-    "id": 9593,
-    "artisan_id": 412,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/zipgrowl/"
-  },
-  {
-    "id": 10494,
-    "artisan_id": 412,
-    "type": "URL_LINKLIST",
-    "url": "https://linktr.ee/zipgrowl"
-  },
-  {
-    "id": 10881,
-    "artisan_id": 412,
-    "type": "URL_PRICES",
-    "url": "https://docs.google.com/document/d/174Yr-mHE3MKIuIGPSjS04ejP5TDCQEJ59jB5E_IXzSs/edit"
-  },
-  {
-    "id": 10882,
-    "artisan_id": 412,
-    "type": "URL_COMMISSIONS",
-    "url": "https://www.instagram.com/zipgrowl/"
-  },
-  {
-    "id": 10883,
-    "artisan_id": 412,
-    "type": "URL_DEVIANTART",
-    "url": "https://www.deviantart.com/zipgrowl"
-  },
-  {
-    "id": 10884,
-    "artisan_id": 412,
-    "type": "URL_THE_DEALERS_DEN",
-    "url": "https://www.thedealersden.com/store/zipgrowl-studios"
-  },
-  {
     "id": 9594,
     "artisan_id": 413,
     "type": "URL_PRICES",
@@ -19980,22 +19938,34 @@
     "url": "https://www.furtrack.com/p/437794"
   },
   {
-    "id": 13292,
+    "id": 13785,
+    "artisan_id": 510,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/649252"
+  },
+  {
+    "id": 13786,
     "artisan_id": 510,
     "type": "URL_MINIATURES",
     "url": "https://orca2.furtrack.com/thumb/373689.jpg"
   },
   {
-    "id": 13293,
+    "id": 13787,
     "artisan_id": 510,
     "type": "URL_MINIATURES",
     "url": "https://orca2.furtrack.com/thumb/327025.jpg"
   },
   {
-    "id": 13294,
+    "id": 13788,
     "artisan_id": 510,
     "type": "URL_MINIATURES",
     "url": "https://orca2.furtrack.com/thumb/437794.jpg"
+  },
+  {
+    "id": 13789,
+    "artisan_id": 510,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/649252.jpg"
   },
   {
     "id": 10859,
@@ -26472,22 +26442,10 @@
     "url": "https://www.instagram.com/platinumbladestudios/"
   },
   {
-    "id": 12461,
-    "artisan_id": 644,
-    "type": "URL_YOUTUBE",
-    "url": "https://www.youtube.com/@PlatinumBladeStudios"
-  },
-  {
-    "id": 12462,
-    "artisan_id": 644,
-    "type": "URL_THE_DEALERS_DEN",
-    "url": "https://www.thedealersden.com/store/platinumbladestudios"
-  },
-  {
-    "id": 12463,
+    "id": 13784,
     "artisan_id": 644,
     "type": "URL_OTHER_SHOP",
-    "url": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=122836296"
+    "url": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=122836296\nhttps://www.ebay.de/usr/platinumbladestudios"
   },
   {
     "id": 12475,

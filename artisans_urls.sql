@@ -1716,8 +1716,6 @@ INSERT INTO artisans_urls VALUES(9582,410,'URL_FURTRACK','https://www.furtrack.c
 INSERT INTO artisans_urls VALUES(9587,237,'URL_PRICES','https://www.beautyofthebass.com/commissions');
 INSERT INTO artisans_urls VALUES(9588,237,'URL_FAQ','https://www.beautyofthebass.com/faq');
 INSERT INTO artisans_urls VALUES(9589,237,'URL_INSTAGRAM','https://www.instagram.com/beautyofthebass/');
-INSERT INTO artisans_urls VALUES(9592,412,'URL_TWITTER','https://twitter.com/zipgrowl');
-INSERT INTO artisans_urls VALUES(9593,412,'URL_INSTAGRAM','https://www.instagram.com/zipgrowl/');
 INSERT INTO artisans_urls VALUES(9594,413,'URL_PRICES','https://docs.google.com/document/d/1L_mRyhMOLvEZRUK7eo7cTj0c_P8h8unJmFV865weENc');
 INSERT INTO artisans_urls VALUES(9595,413,'URL_TWITTER','https://twitter.com/Geckoworks');
 INSERT INTO artisans_urls VALUES(9596,413,'URL_LINKLIST','https://linktr.ee/Geckoworks');
@@ -2407,7 +2405,6 @@ INSERT INTO artisans_urls VALUES(10490,200,'URL_TWITTER','https://twitter.com/no
 INSERT INTO artisans_urls VALUES(10491,200,'URL_QUEUE','https://trello.com/b/88vs2gGa/normans-needleworks-commission-queue');
 INSERT INTO artisans_urls VALUES(10492,200,'URL_COMMISSIONS','https://nnormann.wixsite.com/normansneedleworks/quotes');
 INSERT INTO artisans_urls VALUES(10493,200,'URL_LINKLIST','https://normansneedleworks.carrd.co/');
-INSERT INTO artisans_urls VALUES(10494,412,'URL_LINKLIST','https://linktr.ee/zipgrowl');
 INSERT INTO artisans_urls VALUES(10501,493,'URL_TWITTER','https://twitter.com/YCHfursuits');
 INSERT INTO artisans_urls VALUES(10502,493,'URL_INSTAGRAM','https://www.instagram.com/ychfursuits/');
 INSERT INTO artisans_urls VALUES(10503,493,'URL_YOUTUBE','https://www.youtube.com/channel/UCjW0sxF1CuMojcAMtXCp3rQ');
@@ -2692,10 +2689,6 @@ INSERT INTO artisans_urls VALUES(10875,512,'URL_THE_DEALERS_DEN','https://www.th
 INSERT INTO artisans_urls VALUES(10876,512,'URL_QUEUE','https://trello.com/b/a8nfRWfE/aussiestudios-queue');
 INSERT INTO artisans_urls VALUES(10877,339,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/topdogstudios/');
 INSERT INTO artisans_urls VALUES(10878,339,'URL_DEVIANTART','https://www.deviantart.com/topdogstudios');
-INSERT INTO artisans_urls VALUES(10881,412,'URL_PRICES','https://docs.google.com/document/d/174Yr-mHE3MKIuIGPSjS04ejP5TDCQEJ59jB5E_IXzSs/edit');
-INSERT INTO artisans_urls VALUES(10882,412,'URL_COMMISSIONS','https://www.instagram.com/zipgrowl/');
-INSERT INTO artisans_urls VALUES(10883,412,'URL_DEVIANTART','https://www.deviantart.com/zipgrowl');
-INSERT INTO artisans_urls VALUES(10884,412,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/zipgrowl-studios');
 INSERT INTO artisans_urls VALUES(10885,513,'URL_COMMISSIONS','https://twitter.com/versakastudios');
 INSERT INTO artisans_urls VALUES(10886,513,'URL_TWITTER','https://twitter.com/versakastudios');
 INSERT INTO artisans_urls VALUES(10888,107,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/the-grotto-creations-store');
@@ -4035,9 +4028,6 @@ INSERT INTO artisans_urls VALUES(12457,644,'URL_PRICES','https://platinumbladest
 INSERT INTO artisans_urls VALUES(12458,644,'URL_FAQ','https://platinumbladestudios.webador.de/faq');
 INSERT INTO artisans_urls VALUES(12459,644,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/platinumbladestudios/');
 INSERT INTO artisans_urls VALUES(12460,644,'URL_INSTAGRAM','https://www.instagram.com/platinumbladestudios/');
-INSERT INTO artisans_urls VALUES(12461,644,'URL_YOUTUBE','https://www.youtube.com/@PlatinumBladeStudios');
-INSERT INTO artisans_urls VALUES(12462,644,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/platinumbladestudios');
-INSERT INTO artisans_urls VALUES(12463,644,'URL_OTHER_SHOP','https://www.kleinanzeigen.de/s-bestandsliste.html?userId=122836296');
 INSERT INTO artisans_urls VALUES(12466,555,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/deadpozzum/');
 INSERT INTO artisans_urls VALUES(12467,555,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/deadpozzum');
 INSERT INTO artisans_urls VALUES(12468,233,'URL_WEBSITE','https://eternalskyy.carrd.co/');
@@ -4823,9 +4813,6 @@ INSERT INTO artisans_urls VALUES(13288,655,'URL_PRICES','https://kneadingprices.
 INSERT INTO artisans_urls VALUES(13289,655,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/thekneadery/');
 INSERT INTO artisans_urls VALUES(13290,655,'URL_OTHER','http://tiktok.com/@felixthecalico');
 INSERT INTO artisans_urls VALUES(13291,655,'URL_OTHER','https://bsky.app/profile/thekneadery.bsky.social');
-INSERT INTO artisans_urls VALUES(13292,510,'URL_MINIATURES','https://orca2.furtrack.com/thumb/373689.jpg');
-INSERT INTO artisans_urls VALUES(13293,510,'URL_MINIATURES','https://orca2.furtrack.com/thumb/327025.jpg');
-INSERT INTO artisans_urls VALUES(13294,510,'URL_MINIATURES','https://orca2.furtrack.com/thumb/437794.jpg');
 INSERT INTO artisans_urls VALUES(13295,168,'URL_WEBSITE','https://www.firewolfstudio.com');
 INSERT INTO artisans_urls VALUES(13296,168,'URL_PRICES','https://www.firewolfstudio.com/prices');
 INSERT INTO artisans_urls VALUES(13297,168,'URL_COMMISSIONS','https://www.firewolfstudio.com/commission-status');
@@ -5283,4 +5270,10 @@ INSERT INTO artisans_urls VALUES(13780,737,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(13781,737,'URL_QUEUE','https://trello.com/b/eJrMR2cl/queen-hiss-creations');
 INSERT INTO artisans_urls VALUES(13782,737,'URL_OTHER','https://bsky.app/profile/queenhisscreations.co.uk');
 INSERT INTO artisans_urls VALUES(13783,736,'URL_ETSY','https://sunnydayzfursuits.etsy.com/');
+INSERT INTO artisans_urls VALUES(13784,644,'URL_OTHER_SHOP',replace('https://www.kleinanzeigen.de/s-bestandsliste.html?userId=122836296\nhttps://www.ebay.de/usr/platinumbladestudios','\n',char(10)));
+INSERT INTO artisans_urls VALUES(13785,510,'URL_PHOTOS','https://www.furtrack.com/p/649252');
+INSERT INTO artisans_urls VALUES(13786,510,'URL_MINIATURES','https://orca2.furtrack.com/thumb/373689.jpg');
+INSERT INTO artisans_urls VALUES(13787,510,'URL_MINIATURES','https://orca2.furtrack.com/thumb/327025.jpg');
+INSERT INTO artisans_urls VALUES(13788,510,'URL_MINIATURES','https://orca2.furtrack.com/thumb/437794.jpg');
+INSERT INTO artisans_urls VALUES(13789,510,'URL_MINIATURES','https://orca2.furtrack.com/thumb/649252.jpg');
 COMMIT;

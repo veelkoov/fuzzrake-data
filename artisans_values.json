@@ -2844,6 +2844,12 @@
     "value": "False"
   },
   {
+    "id": 3080,
+    "artisan_id": 412,
+    "field_name": "DATE_UPDATED",
+    "value": "2024-07-28 15:18:20"
+  },
+  {
     "id": 1029,
     "artisan_id": 414,
     "field_name": "AGES",
@@ -5241,7 +5247,7 @@
     "id": 2655,
     "artisan_id": 510,
     "field_name": "DATE_UPDATED",
-    "value": "2024-02-11 18:39:48"
+    "value": "2024-07-28 15:19:32"
   },
   {
     "id": 1232,
@@ -9867,13 +9873,19 @@
     "id": 2431,
     "artisan_id": 644,
     "field_name": "NSFW_SOCIAL",
-    "value": "True"
+    "value": "False"
   },
   {
     "id": 2432,
     "artisan_id": 644,
     "field_name": "DOES_NSFW",
     "value": "True"
+  },
+  {
+    "id": 3079,
+    "artisan_id": 644,
+    "field_name": "DATE_UPDATED",
+    "value": "2024-07-28 15:04:55"
   },
   {
     "id": 2441,
