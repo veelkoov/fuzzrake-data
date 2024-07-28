@@ -10584,12 +10584,6 @@
     "url": "https://vk.com/arvins_lair\nhttp://www.flickr.com/photos/arvin69\nhttps://www.patreon.com/ArvinsLair\nhttps://boosty.to/arvinslair"
   },
   {
-    "id": 1413,
-    "artisan_id": 306,
-    "type": "URL_FUR_AFFINITY",
-    "url": "https://www.furaffinity.net/user/beastlabs/"
-  },
-  {
     "id": 1414,
     "artisan_id": 306,
     "type": "URL_TWITTER",
@@ -10600,6 +10594,18 @@
     "artisan_id": 306,
     "type": "URL_FURSUITREVIEW",
     "url": "https://fursuitreview.com/m/beastlabs/"
+  },
+  {
+    "id": 13790,
+    "artisan_id": 306,
+    "type": "URL_WEBSITE",
+    "url": "https://www.beastlabs.de/"
+  },
+  {
+    "id": 13791,
+    "artisan_id": 306,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/WVPcsSrp/beastlabs"
   },
   {
     "id": 1415,

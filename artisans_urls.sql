@@ -1142,7 +1142,6 @@ INSERT INTO artisans_urls VALUES(1408,305,'URL_TWITTER','https://twitter.com/arv
 INSERT INTO artisans_urls VALUES(1409,305,'URL_FACEBOOK','https://www.facebook.com/ArvinsLair-331614857541234/');
 INSERT INTO artisans_urls VALUES(1410,305,'URL_INSTAGRAM','https://www.instagram.com/arvinslair/');
 INSERT INTO artisans_urls VALUES(1411,305,'URL_YOUTUBE','https://www.youtube.com/user/arvin689');
-INSERT INTO artisans_urls VALUES(1413,306,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/beastlabs/');
 INSERT INTO artisans_urls VALUES(1414,306,'URL_TWITTER','https://twitter.com/BeastLabsSuits');
 INSERT INTO artisans_urls VALUES(1415,307,'URL_WEBSITE','https://www.rumwolf.net/');
 INSERT INTO artisans_urls VALUES(1416,307,'URL_FAQ','https://www.rumwolf.net/faq/');
@@ -5276,4 +5275,6 @@ INSERT INTO artisans_urls VALUES(13786,510,'URL_MINIATURES','https://orca2.furtr
 INSERT INTO artisans_urls VALUES(13787,510,'URL_MINIATURES','https://orca2.furtrack.com/thumb/327025.jpg');
 INSERT INTO artisans_urls VALUES(13788,510,'URL_MINIATURES','https://orca2.furtrack.com/thumb/437794.jpg');
 INSERT INTO artisans_urls VALUES(13789,510,'URL_MINIATURES','https://orca2.furtrack.com/thumb/649252.jpg');
+INSERT INTO artisans_urls VALUES(13790,306,'URL_WEBSITE','https://www.beastlabs.de/');
+INSERT INTO artisans_urls VALUES(13791,306,'URL_QUEUE','https://trello.com/b/WVPcsSrp/beastlabs');
 COMMIT;
