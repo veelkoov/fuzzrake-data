@@ -5277,4 +5277,10 @@ INSERT INTO artisans_urls VALUES(13788,510,'URL_MINIATURES','https://orca2.furtr
 INSERT INTO artisans_urls VALUES(13789,510,'URL_MINIATURES','https://orca2.furtrack.com/thumb/649252.jpg');
 INSERT INTO artisans_urls VALUES(13790,306,'URL_WEBSITE','https://www.beastlabs.de/');
 INSERT INTO artisans_urls VALUES(13791,306,'URL_QUEUE','https://trello.com/b/WVPcsSrp/beastlabs');
+INSERT INTO artisans_urls VALUES(13792,738,'URL_WEBSITE','https://www.hypnohoundstudios.co.uk/');
+INSERT INTO artisans_urls VALUES(13793,738,'URL_PRICES','https://www.hypnohoundstudios.co.uk/fursuit-commissions/');
+INSERT INTO artisans_urls VALUES(13794,738,'URL_PRICES','https://www.instagram.com/p/C3aUAJ3tXUE/?igsh=MTRwaDgzOHQ0Y3FjMQ==');
+INSERT INTO artisans_urls VALUES(13795,738,'URL_TWITTER','https://twitter.com/hypn0hound');
+INSERT INTO artisans_urls VALUES(13796,738,'URL_INSTAGRAM','https://www.instagram.com/hypnohoundstudios/');
+INSERT INTO artisans_urls VALUES(13797,738,'URL_QUEUE','https://trello.com/b/khDk7uhi/fursuit-queue-public');
 COMMIT;

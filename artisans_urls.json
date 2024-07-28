@@ -31654,5 +31654,41 @@
     "artisan_id": 737,
     "type": "URL_OTHER",
     "url": "https://bsky.app/profile/queenhisscreations.co.uk"
+  },
+  {
+    "id": 13792,
+    "artisan_id": 738,
+    "type": "URL_WEBSITE",
+    "url": "https://www.hypnohoundstudios.co.uk/"
+  },
+  {
+    "id": 13793,
+    "artisan_id": 738,
+    "type": "URL_PRICES",
+    "url": "https://www.hypnohoundstudios.co.uk/fursuit-commissions/"
+  },
+  {
+    "id": 13794,
+    "artisan_id": 738,
+    "type": "URL_PRICES",
+    "url": "https://www.instagram.com/p/C3aUAJ3tXUE/?igsh=MTRwaDgzOHQ0Y3FjMQ=="
+  },
+  {
+    "id": 13795,
+    "artisan_id": 738,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/hypn0hound"
+  },
+  {
+    "id": 13796,
+    "artisan_id": 738,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/hypnohoundstudios/"
+  },
+  {
+    "id": 13797,
+    "artisan_id": 738,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/khDk7uhi/fursuit-queue-public"
   }
 ]
