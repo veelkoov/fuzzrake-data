@@ -29394,6 +29394,12 @@
     "url": "https://orca2.furtrack.com/thumb/413326.jpg"
   },
   {
+    "id": 13798,
+    "artisan_id": 689,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/argetandlazuli/"
+  },
+  {
     "id": 13102,
     "artisan_id": 690,
     "type": "URL_FURSUITREVIEW",
@@ -31614,6 +31620,12 @@
     "url": "https://sunnydayzfursuits.etsy.com/"
   },
   {
+    "id": 13800,
+    "artisan_id": 736,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/sunny-dayz-fursuits/"
+  },
+  {
     "id": 13776,
     "artisan_id": 737,
     "type": "URL_WEBSITE",
@@ -31690,5 +31702,11 @@
     "artisan_id": 738,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/khDk7uhi/fursuit-queue-public"
+  },
+  {
+    "id": 13799,
+    "artisan_id": 738,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/hypnohoundstudios/"
   }
 ]

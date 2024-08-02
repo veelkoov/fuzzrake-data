@@ -5283,4 +5283,7 @@ INSERT INTO artisans_urls VALUES(13794,738,'URL_PRICES','https://www.instagram.c
 INSERT INTO artisans_urls VALUES(13795,738,'URL_TWITTER','https://twitter.com/hypn0hound');
 INSERT INTO artisans_urls VALUES(13796,738,'URL_INSTAGRAM','https://www.instagram.com/hypnohoundstudios/');
 INSERT INTO artisans_urls VALUES(13797,738,'URL_QUEUE','https://trello.com/b/khDk7uhi/fursuit-queue-public');
+INSERT INTO artisans_urls VALUES(13798,689,'URL_FURSUITREVIEW','https://fursuitreview.com/m/argetandlazuli/');
+INSERT INTO artisans_urls VALUES(13799,738,'URL_FURSUITREVIEW','https://fursuitreview.com/m/hypnohoundstudios/');
+INSERT INTO artisans_urls VALUES(13800,736,'URL_FURSUITREVIEW','https://fursuitreview.com/m/sunny-dayz-fursuits/');
 COMMIT;
