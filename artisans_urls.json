@@ -31708,5 +31708,143 @@
     "artisan_id": 738,
     "type": "URL_FURSUITREVIEW",
     "url": "https://fursuitreview.com/m/hypnohoundstudios/"
+  },
+  {
+    "id": 13801,
+    "artisan_id": 739,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/nosey_possum/"
+  },
+  {
+    "id": 13802,
+    "artisan_id": 739,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/noseypossum"
+  },
+  {
+    "id": 13803,
+    "artisan_id": 739,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/MysticYallternative"
+  },
+  {
+    "id": 13804,
+    "artisan_id": 740,
+    "type": "URL_WEBSITE",
+    "url": "https://dragonskycostumes.weebly.com/"
+  },
+  {
+    "id": 13805,
+    "artisan_id": 740,
+    "type": "URL_PRICES",
+    "url": "https://dragonskycostumes.weebly.com/prices.html"
+  },
+  {
+    "id": 13806,
+    "artisan_id": 740,
+    "type": "URL_COMMISSIONS",
+    "url": "https://dragonskycostumes.weebly.com/order-here.html"
+  },
+  {
+    "id": 13807,
+    "artisan_id": 740,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/Dragonskysuits"
+  },
+  {
+    "id": 13808,
+    "artisan_id": 740,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/dragonskyfursuits/"
+  },
+  {
+    "id": 13809,
+    "artisan_id": 740,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:dragonskyfursuits"
+  },
+  {
+    "id": 13810,
+    "artisan_id": 740,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/685894"
+  },
+  {
+    "id": 13811,
+    "artisan_id": 740,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/676658"
+  },
+  {
+    "id": 13812,
+    "artisan_id": 740,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/347034"
+  },
+  {
+    "id": 13813,
+    "artisan_id": 740,
+    "type": "URL_OTHER",
+    "url": "https://t.me/dragonskyfursuits"
+  },
+  {
+    "id": 13821,
+    "artisan_id": 740,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/685894.jpg"
+  },
+  {
+    "id": 13822,
+    "artisan_id": 740,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/676658.jpg"
+  },
+  {
+    "id": 13823,
+    "artisan_id": 740,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/347034.jpg"
+  },
+  {
+    "id": 13814,
+    "artisan_id": 741,
+    "type": "URL_WEBSITE",
+    "url": "https://gleepycreations.carrd.co/"
+  },
+  {
+    "id": 13815,
+    "artisan_id": 741,
+    "type": "URL_PRICES",
+    "url": "https://trello.com/b/XnTL7hIX/gleepy-commissions"
+  },
+  {
+    "id": 13816,
+    "artisan_id": 741,
+    "type": "URL_COMMISSIONS",
+    "url": "https://trello.com/b/XnTL7hIX/gleepy-commissions"
+  },
+  {
+    "id": 13817,
+    "artisan_id": 741,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/_gleepy_"
+  },
+  {
+    "id": 13818,
+    "artisan_id": 741,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/_gleepy_/"
+  },
+  {
+    "id": 13819,
+    "artisan_id": 741,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/XnTL7hIX/gleepy-commissions"
+  },
+  {
+    "id": 13820,
+    "artisan_id": 741,
+    "type": "URL_OTHER",
+    "url": "https://t.me/gleepycreations"
   }
 ]
