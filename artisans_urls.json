@@ -25818,6 +25818,12 @@
     "url": "https://ktoonsfursuits.carrd.co/"
   },
   {
+    "id": 13824,
+    "artisan_id": 629,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:frostapawie"
+  },
+  {
     "id": 12263,
     "artisan_id": 630,
     "type": "URL_FUR_AFFINITY",
@@ -31846,5 +31852,53 @@
     "artisan_id": 741,
     "type": "URL_OTHER",
     "url": "https://t.me/gleepycreations"
+  },
+  {
+    "id": 13825,
+    "artisan_id": 742,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/crafts_fur_raptors/"
+  },
+  {
+    "id": 13826,
+    "artisan_id": 742,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/samiraredhusky1/"
+  },
+  {
+    "id": 13827,
+    "artisan_id": 742,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/lygaryk"
+  },
+  {
+    "id": 13828,
+    "artisan_id": 742,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/SamiraRedHusky/"
+  },
+  {
+    "id": 13829,
+    "artisan_id": 742,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/crafts_fur_raptors/"
+  },
+  {
+    "id": 13830,
+    "artisan_id": 742,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@SamiraHusky"
+  },
+  {
+    "id": 13831,
+    "artisan_id": 742,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/store/crafts-fur-raptors"
+  },
+  {
+    "id": 13832,
+    "artisan_id": 742,
+    "type": "URL_OTHER",
+    "url": "https://boosty.to/craftsfurraptors"
   }
 ]

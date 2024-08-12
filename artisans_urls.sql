@@ -5309,4 +5309,13 @@ INSERT INTO artisans_urls VALUES(13820,741,'URL_OTHER','https://t.me/gleepycreat
 INSERT INTO artisans_urls VALUES(13821,740,'URL_MINIATURES','https://orca2.furtrack.com/thumb/685894.jpg');
 INSERT INTO artisans_urls VALUES(13822,740,'URL_MINIATURES','https://orca2.furtrack.com/thumb/676658.jpg');
 INSERT INTO artisans_urls VALUES(13823,740,'URL_MINIATURES','https://orca2.furtrack.com/thumb/347034.jpg');
+INSERT INTO artisans_urls VALUES(13824,629,'URL_FURTRACK','https://www.furtrack.com/index/maker:frostapawie');
+INSERT INTO artisans_urls VALUES(13825,742,'URL_COMMISSIONS','https://www.instagram.com/crafts_fur_raptors/');
+INSERT INTO artisans_urls VALUES(13826,742,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/samiraredhusky1/');
+INSERT INTO artisans_urls VALUES(13827,742,'URL_TWITTER','https://twitter.com/lygaryk');
+INSERT INTO artisans_urls VALUES(13828,742,'URL_FACEBOOK','https://www.facebook.com/SamiraRedHusky/');
+INSERT INTO artisans_urls VALUES(13829,742,'URL_INSTAGRAM','https://www.instagram.com/crafts_fur_raptors/');
+INSERT INTO artisans_urls VALUES(13830,742,'URL_YOUTUBE','https://www.youtube.com/@SamiraHusky');
+INSERT INTO artisans_urls VALUES(13831,742,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/crafts-fur-raptors');
+INSERT INTO artisans_urls VALUES(13832,742,'URL_OTHER','https://boosty.to/craftsfurraptors');
 COMMIT;
