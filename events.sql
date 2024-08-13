@@ -3289,4 +3289,8 @@ INSERT INTO events VALUES(3300,'2024-08-12 00:08:23.514','CS_UPDATED','Trashawk'
 INSERT INTO events VALUES(3301,'2024-08-12 00:08:23.516','CS_UPDATED','Untitledmutt',0,0,0,'','https://untitledmuttsuits.carrd.co/','','','Commissions',0);
 INSERT INTO events VALUES(3302,'2024-08-12 00:08:23.531','CS_UPDATED','Claws&Roses Studio',0,0,0,'','https://clawsnrosesstudio.carrd.co/','','','Commissions',0);
 INSERT INTO events VALUES(3303,'2024-08-12 00:08:23.536','CS_UPDATED','ScorchedFur',0,0,0,'','https://scorchedfur.carrd.co/','','','Commissions',0);
+INSERT INTO events VALUES(3304,'2024-08-12 16:25:00','DATA_UPDATED','',1,1,0,'b10c9d7c161f2ab5c90e905be8d8d28fed7f82fb','','','','',0);
+INSERT INTO events VALUES(3305,'2024-08-13 00:08:33.172','CS_UPDATED','Kitty Up Fursuits',0,0,0,'','https://www.kittyupfursuits.com/home','','','Commissions',0);
+INSERT INTO events VALUES(3306,'2024-08-13 00:08:33.184','CS_UPDATED','WolfBuck Studios',0,0,0,'','https://wolfbuckstudios.com/','','','Commissions',0);
+INSERT INTO events VALUES(3307,'2024-08-13 12:08:26.547','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','Quotes','',1);
 COMMIT;
