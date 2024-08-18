@@ -12975,13 +12975,13 @@
     "id": 3077,
     "artisan_id": 736,
     "field_name": "DATE_UPDATED",
-    "value": "2024-07-21 18:09:08"
+    "value": "2024-08-18 09:25:57"
   },
   {
     "id": 3078,
     "artisan_id": 736,
     "field_name": "DOES_NSFW",
-    "value": "False"
+    "value": "True"
   },
   {
     "id": 3072,
