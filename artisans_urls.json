@@ -31900,5 +31900,47 @@
     "artisan_id": 742,
     "type": "URL_OTHER",
     "url": "https://boosty.to/craftsfurraptors"
+  },
+  {
+    "id": 13833,
+    "artisan_id": 743,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/sprouthoneydew/"
+  },
+  {
+    "id": 13834,
+    "artisan_id": 743,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/HyenaHoneydew"
+  },
+  {
+    "id": 13835,
+    "artisan_id": 743,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/honeydew.handiwork/"
+  },
+  {
+    "id": 13836,
+    "artisan_id": 743,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/honeydewwstudios"
+  },
+  {
+    "id": 13837,
+    "artisan_id": 744,
+    "type": "URL_DEVIANTART",
+    "url": "https://www.deviantart.com/totallynotleon"
+  },
+  {
+    "id": 13838,
+    "artisan_id": 744,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@awkward_skunks"
+  },
+  {
+    "id": 13839,
+    "artisan_id": 744,
+    "type": "URL_ETSY",
+    "url": "https://awkwardskunks.etsy.com/"
   }
 ]

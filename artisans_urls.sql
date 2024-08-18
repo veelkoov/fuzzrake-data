@@ -5318,4 +5318,11 @@ INSERT INTO artisans_urls VALUES(13829,742,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(13830,742,'URL_YOUTUBE','https://www.youtube.com/@SamiraHusky');
 INSERT INTO artisans_urls VALUES(13831,742,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/crafts-fur-raptors');
 INSERT INTO artisans_urls VALUES(13832,742,'URL_OTHER','https://boosty.to/craftsfurraptors');
+INSERT INTO artisans_urls VALUES(13833,743,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/sprouthoneydew/');
+INSERT INTO artisans_urls VALUES(13834,743,'URL_TWITTER','https://twitter.com/HyenaHoneydew');
+INSERT INTO artisans_urls VALUES(13835,743,'URL_INSTAGRAM','https://www.instagram.com/honeydew.handiwork/');
+INSERT INTO artisans_urls VALUES(13836,743,'URL_ETSY','https://www.etsy.com/shop/honeydewwstudios');
+INSERT INTO artisans_urls VALUES(13837,744,'URL_DEVIANTART','https://www.deviantart.com/totallynotleon');
+INSERT INTO artisans_urls VALUES(13838,744,'URL_YOUTUBE','https://www.youtube.com/@awkward_skunks');
+INSERT INTO artisans_urls VALUES(13839,744,'URL_ETSY','https://awkwardskunks.etsy.com/');
 COMMIT;
