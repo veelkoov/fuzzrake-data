@@ -31942,5 +31942,131 @@
     "artisan_id": 744,
     "type": "URL_ETSY",
     "url": "https://awkwardskunks.etsy.com/"
+  },
+  {
+    "id": 13840,
+    "artisan_id": 745,
+    "type": "URL_WEBSITE",
+    "url": "https://www.sleetwhisker.com/"
+  },
+  {
+    "id": 13841,
+    "artisan_id": 745,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/sleetwhisker"
+  },
+  {
+    "id": 13842,
+    "artisan_id": 745,
+    "type": "URL_TUMBLR",
+    "url": "https://sleetwhisker.tumblr.com/"
+  },
+  {
+    "id": 13843,
+    "artisan_id": 745,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@snowhiss"
+  },
+  {
+    "id": 13844,
+    "artisan_id": 745,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/other-items/snowhiss/108702"
+  },
+  {
+    "id": 13845,
+    "artisan_id": 745,
+    "type": "URL_QUEUE",
+    "url": "https://t.me/SleetsWipFeed"
+  },
+  {
+    "id": 13846,
+    "artisan_id": 746,
+    "type": "URL_WEBSITE",
+    "url": "https://synanthropic.art/"
+  },
+  {
+    "id": 13847,
+    "artisan_id": 746,
+    "type": "URL_PRICES",
+    "url": "https://synanthropic.art/prices/"
+  },
+  {
+    "id": 13848,
+    "artisan_id": 746,
+    "type": "URL_COMMISSIONS",
+    "url": "https://synanthropic.art/comissions/"
+  },
+  {
+    "id": 13849,
+    "artisan_id": 746,
+    "type": "URL_FAQ",
+    "url": "https://synanthropic.art/faq/"
+  },
+  {
+    "id": 13850,
+    "artisan_id": 746,
+    "type": "URL_MASTODON",
+    "url": "https://fursuits.online/@kcanis"
+  },
+  {
+    "id": 13851,
+    "artisan_id": 746,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/kelarcanis"
+  },
+  {
+    "id": 13852,
+    "artisan_id": 746,
+    "type": "URL_OTHER",
+    "url": "https://bsky.app/profile/kcanis.bsky.social"
+  },
+  {
+    "id": 13853,
+    "artisan_id": 747,
+    "type": "URL_WEBSITE",
+    "url": "https://www.cedarridgecreations.com/"
+  },
+  {
+    "id": 13854,
+    "artisan_id": 747,
+    "type": "URL_PRICES",
+    "url": "https://www.cedarridgecreations.com/pricing.html"
+  },
+  {
+    "id": 13855,
+    "artisan_id": 747,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.cedarridgecreations.com/"
+  },
+  {
+    "id": 13856,
+    "artisan_id": 747,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/LynxCedar"
+  },
+  {
+    "id": 13857,
+    "artisan_id": 747,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/profile.php?id=61557639134918"
+  },
+  {
+    "id": 13858,
+    "artisan_id": 747,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/cedar_ridge_creations/"
+  },
+  {
+    "id": 13859,
+    "artisan_id": 747,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@CedarLynxArt"
+  },
+  {
+    "id": 13860,
+    "artisan_id": 747,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/Cedarridgecreations"
   }
 ]
