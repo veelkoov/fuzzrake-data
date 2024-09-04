@@ -32068,5 +32068,161 @@
     "artisan_id": 747,
     "type": "URL_LINKLIST",
     "url": "https://linktr.ee/Cedarridgecreations"
+  },
+  {
+    "id": 13861,
+    "artisan_id": 748,
+    "type": "URL_WEBSITE",
+    "url": "https://www.speylabs.com/"
+  },
+  {
+    "id": 13862,
+    "artisan_id": 748,
+    "type": "URL_PRICES",
+    "url": "https://www.speylabs.com/"
+  },
+  {
+    "id": 13863,
+    "artisan_id": 748,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/SpeyTime"
+  },
+  {
+    "id": 13864,
+    "artisan_id": 748,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/speytime/"
+  },
+  {
+    "id": 13865,
+    "artisan_id": 748,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:speylabs"
+  },
+  {
+    "id": 13866,
+    "artisan_id": 748,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/711459"
+  },
+  {
+    "id": 13867,
+    "artisan_id": 748,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/711464"
+  },
+  {
+    "id": 13868,
+    "artisan_id": 748,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/711474"
+  },
+  {
+    "id": 13869,
+    "artisan_id": 748,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/711478"
+  },
+  {
+    "id": 13870,
+    "artisan_id": 748,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/711475"
+  },
+  {
+    "id": 13882,
+    "artisan_id": 748,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/711459.jpg"
+  },
+  {
+    "id": 13883,
+    "artisan_id": 748,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/711464.jpg"
+  },
+  {
+    "id": 13884,
+    "artisan_id": 748,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/711474.jpg"
+  },
+  {
+    "id": 13885,
+    "artisan_id": 748,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/711478.jpg"
+  },
+  {
+    "id": 13886,
+    "artisan_id": 748,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/711475.jpg"
+  },
+  {
+    "id": 13871,
+    "artisan_id": 749,
+    "type": "URL_WEBSITE",
+    "url": "https://sites.google.com/view/hellishgoatsuits/home"
+  },
+  {
+    "id": 13872,
+    "artisan_id": 749,
+    "type": "URL_PRICES",
+    "url": "https://sites.google.com/view/hellishgoatsuits/prices"
+  },
+  {
+    "id": 13873,
+    "artisan_id": 750,
+    "type": "URL_WEBSITE",
+    "url": "https://hauntedopossum.com/"
+  },
+  {
+    "id": 13874,
+    "artisan_id": 750,
+    "type": "URL_PRICES",
+    "url": "https://hauntedopossum.com/price-guide/"
+  },
+  {
+    "id": 13875,
+    "artisan_id": 750,
+    "type": "URL_COMMISSIONS",
+    "url": "https://hauntedopossum.com/"
+  },
+  {
+    "id": 13876,
+    "artisan_id": 750,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/hauntedopossum/"
+  },
+  {
+    "id": 13877,
+    "artisan_id": 750,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/haunted.opossum.creations/"
+  },
+  {
+    "id": 13878,
+    "artisan_id": 750,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/hauntedopossumcreations/"
+  },
+  {
+    "id": 13879,
+    "artisan_id": 750,
+    "type": "URL_ETSY",
+    "url": "https://hauntedpossum.etsy.com/"
+  },
+  {
+    "id": 13880,
+    "artisan_id": 750,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/qrDE2pXT/waitlist-and-queue"
+  },
+  {
+    "id": 13881,
+    "artisan_id": 750,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:haunted_opossum_creations_llc"
   }
 ]
