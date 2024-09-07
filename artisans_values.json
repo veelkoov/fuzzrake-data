@@ -6726,6 +6726,12 @@
     "value": "True"
   },
   {
+    "id": 3158,
+    "artisan_id": 552,
+    "field_name": "DATE_UPDATED",
+    "value": "2024-09-07 08:45:15"
+  },
+  {
     "id": 1725,
     "artisan_id": 553,
     "field_name": "DATE_ADDED",
