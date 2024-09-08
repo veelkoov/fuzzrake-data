@@ -14694,6 +14694,12 @@
     "url": "https://www.furtrack.com/index/maker:stuffedtailsfursuits"
   },
   {
+    "id": 13890,
+    "artisan_id": 406,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/stuffedtailsfursuits/"
+  },
+  {
     "id": 9548,
     "artisan_id": 407,
     "type": "URL_TWITTER",

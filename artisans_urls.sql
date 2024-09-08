@@ -5363,4 +5363,5 @@ INSERT INTO artisans_urls VALUES(13886,748,'URL_MINIATURES','https://orca2.furtr
 INSERT INTO artisans_urls VALUES(13887,552,'URL_FURTRACK','https://www.furtrack.com/index/maker:sasa_creations');
 INSERT INTO artisans_urls VALUES(13888,751,'URL_WEBSITE','https://t.me/stigmasinfinity');
 INSERT INTO artisans_urls VALUES(13889,751,'URL_INSTAGRAM','https://www.instagram.com/stigmatheinnereye/');
+INSERT INTO artisans_urls VALUES(13890,406,'URL_FURSUITREVIEW','https://fursuitreview.com/m/stuffedtailsfursuits/');
 COMMIT;
