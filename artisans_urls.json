@@ -32230,5 +32230,17 @@
     "artisan_id": 750,
     "type": "URL_FURTRACK",
     "url": "https://www.furtrack.com/index/maker:haunted_opossum_creations_llc"
+  },
+  {
+    "id": 13888,
+    "artisan_id": 751,
+    "type": "URL_WEBSITE",
+    "url": "https://t.me/stigmasinfinity"
+  },
+  {
+    "id": 13889,
+    "artisan_id": 751,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/stigmatheinnereye/"
   }
 ]
