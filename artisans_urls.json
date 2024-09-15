@@ -9228,6 +9228,30 @@
     "url": "https://www.carnivcreations.com/"
   },
   {
+    "id": 13891,
+    "artisan_id": 270,
+    "type": "URL_DEVIANTART",
+    "url": "https://www.deviantart.com/slugg-z"
+  },
+  {
+    "id": 13892,
+    "artisan_id": 270,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/cavitymutt"
+  },
+  {
+    "id": 13893,
+    "artisan_id": 270,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/cavitymutt/"
+  },
+  {
+    "id": 13894,
+    "artisan_id": 270,
+    "type": "URL_LINKLIST",
+    "url": "https://cavitymutt.carrd.co/"
+  },
+  {
     "id": 1238,
     "artisan_id": 271,
     "type": "URL_WEBSITE",

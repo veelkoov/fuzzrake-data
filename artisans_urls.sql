@@ -5364,4 +5364,8 @@ INSERT INTO artisans_urls VALUES(13887,552,'URL_FURTRACK','https://www.furtrack.
 INSERT INTO artisans_urls VALUES(13888,751,'URL_WEBSITE','https://t.me/stigmasinfinity');
 INSERT INTO artisans_urls VALUES(13889,751,'URL_INSTAGRAM','https://www.instagram.com/stigmatheinnereye/');
 INSERT INTO artisans_urls VALUES(13890,406,'URL_FURSUITREVIEW','https://fursuitreview.com/m/stuffedtailsfursuits/');
+INSERT INTO artisans_urls VALUES(13891,270,'URL_DEVIANTART','https://www.deviantart.com/slugg-z');
+INSERT INTO artisans_urls VALUES(13892,270,'URL_TWITTER','https://twitter.com/cavitymutt');
+INSERT INTO artisans_urls VALUES(13893,270,'URL_INSTAGRAM','https://www.instagram.com/cavitymutt/');
+INSERT INTO artisans_urls VALUES(13894,270,'URL_LINKLIST','https://cavitymutt.carrd.co/');
 COMMIT;
