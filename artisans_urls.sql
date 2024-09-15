@@ -375,7 +375,6 @@ INSERT INTO artisans_urls VALUES(443,127,'URL_COMMISSIONS','https://www.furaffin
 INSERT INTO artisans_urls VALUES(444,128,'URL_WEBSITE','https://www.sparkycando.com/');
 INSERT INTO artisans_urls VALUES(445,128,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/sparkycando/');
 INSERT INTO artisans_urls VALUES(446,128,'URL_TWITTER','https://twitter.com/SparkyCanDo');
-INSERT INTO artisans_urls VALUES(447,128,'URL_FACEBOOK','https://www.facebook.com/SparkyCanDo/');
 INSERT INTO artisans_urls VALUES(448,128,'URL_INSTAGRAM','https://www.instagram.com/sparkycando/');
 INSERT INTO artisans_urls VALUES(449,128,'URL_YOUTUBE','https://www.youtube.com/user/SparkyCanDo');
 INSERT INTO artisans_urls VALUES(450,129,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/dragon-x2/');
@@ -5368,4 +5367,7 @@ INSERT INTO artisans_urls VALUES(13891,270,'URL_DEVIANTART','https://www.deviant
 INSERT INTO artisans_urls VALUES(13892,270,'URL_TWITTER','https://twitter.com/cavitymutt');
 INSERT INTO artisans_urls VALUES(13893,270,'URL_INSTAGRAM','https://www.instagram.com/cavitymutt/');
 INSERT INTO artisans_urls VALUES(13894,270,'URL_LINKLIST','https://cavitymutt.carrd.co/');
+INSERT INTO artisans_urls VALUES(13895,128,'URL_FACEBOOK','https://www.facebook.com/SparkyCanDo');
+INSERT INTO artisans_urls VALUES(13896,128,'URL_FURSUITREVIEW','https://fursuitreview.com/m/sparky-can-do/');
+INSERT INTO artisans_urls VALUES(13897,345,'URL_FURSUITREVIEW','https://fursuitreview.com/m/meeps-marvelous-monstrosities/');
 COMMIT;

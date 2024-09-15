@@ -3318,12 +3318,6 @@
     "url": "https://twitter.com/SparkyCanDo"
   },
   {
-    "id": 447,
-    "artisan_id": 128,
-    "type": "URL_FACEBOOK",
-    "url": "https://www.facebook.com/SparkyCanDo/"
-  },
-  {
     "id": 448,
     "artisan_id": 128,
     "type": "URL_INSTAGRAM",
@@ -3334,6 +3328,18 @@
     "artisan_id": 128,
     "type": "URL_YOUTUBE",
     "url": "https://www.youtube.com/user/SparkyCanDo"
+  },
+  {
+    "id": 13895,
+    "artisan_id": 128,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/SparkyCanDo"
+  },
+  {
+    "id": 13896,
+    "artisan_id": 128,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/sparky-can-do/"
   },
   {
     "id": 450,
@@ -12088,6 +12094,12 @@
     "artisan_id": 345,
     "type": "URL_MINIATURES",
     "url": "https://storage.scritch.es/scritch/23af3393f5b3d9e100894d7371701e8dfaaa796d/thumbnail_614a101d-f288-4357-9c93-c18c8ec39078.jpeg"
+  },
+  {
+    "id": 13897,
+    "artisan_id": 345,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/meeps-marvelous-monstrosities/"
   },
   {
     "id": 9033,
