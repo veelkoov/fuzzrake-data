@@ -13486,5 +13486,227 @@
     "artisan_id": 751,
     "field_name": "DOES_NSFW",
     "value": "True"
+  },
+  {
+    "id": 3167,
+    "artisan_id": 752,
+    "field_name": "DATE_ADDED",
+    "value": "2024-09-15 17:16:04"
+  },
+  {
+    "id": 3168,
+    "artisan_id": 752,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 3169,
+    "artisan_id": 752,
+    "field_name": "NSFW_WEBSITE",
+    "value": "False"
+  },
+  {
+    "id": 3170,
+    "artisan_id": 752,
+    "field_name": "NSFW_SOCIAL",
+    "value": "False"
+  },
+  {
+    "id": 3171,
+    "artisan_id": 752,
+    "field_name": "DOES_NSFW",
+    "value": "False"
+  },
+  {
+    "id": 3172,
+    "artisan_id": 752,
+    "field_name": "WORKS_WITH_MINORS",
+    "value": "False"
+  },
+  {
+    "id": 3173,
+    "artisan_id": 753,
+    "field_name": "DATE_ADDED",
+    "value": "2024-09-15 17:25:26"
+  },
+  {
+    "id": 3174,
+    "artisan_id": 753,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 3175,
+    "artisan_id": 753,
+    "field_name": "NSFW_WEBSITE",
+    "value": "False"
+  },
+  {
+    "id": 3176,
+    "artisan_id": 753,
+    "field_name": "NSFW_SOCIAL",
+    "value": "True"
+  },
+  {
+    "id": 3177,
+    "artisan_id": 753,
+    "field_name": "DOES_NSFW",
+    "value": "True"
+  },
+  {
+    "id": 3178,
+    "artisan_id": 754,
+    "field_name": "DATE_ADDED",
+    "value": "2024-09-15 17:28:36"
+  },
+  {
+    "id": 3179,
+    "artisan_id": 754,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 3180,
+    "artisan_id": 754,
+    "field_name": "NSFW_WEBSITE",
+    "value": "False"
+  },
+  {
+    "id": 3181,
+    "artisan_id": 754,
+    "field_name": "NSFW_SOCIAL",
+    "value": "False"
+  },
+  {
+    "id": 3182,
+    "artisan_id": 754,
+    "field_name": "DOES_NSFW",
+    "value": "True"
+  },
+  {
+    "id": 3183,
+    "artisan_id": 755,
+    "field_name": "DATE_ADDED",
+    "value": "2024-09-15 17:32:33"
+  },
+  {
+    "id": 3184,
+    "artisan_id": 755,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 3185,
+    "artisan_id": 755,
+    "field_name": "NSFW_WEBSITE",
+    "value": "False"
+  },
+  {
+    "id": 3186,
+    "artisan_id": 755,
+    "field_name": "NSFW_SOCIAL",
+    "value": "True"
+  },
+  {
+    "id": 3187,
+    "artisan_id": 755,
+    "field_name": "DOES_NSFW",
+    "value": "True"
+  },
+  {
+    "id": 3188,
+    "artisan_id": 756,
+    "field_name": "DATE_ADDED",
+    "value": "2024-09-15 17:36:44"
+  },
+  {
+    "id": 3189,
+    "artisan_id": 756,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 3190,
+    "artisan_id": 756,
+    "field_name": "NSFW_WEBSITE",
+    "value": "True"
+  },
+  {
+    "id": 3191,
+    "artisan_id": 756,
+    "field_name": "NSFW_SOCIAL",
+    "value": "False"
+  },
+  {
+    "id": 3192,
+    "artisan_id": 756,
+    "field_name": "DOES_NSFW",
+    "value": "False"
+  },
+  {
+    "id": 3193,
+    "artisan_id": 757,
+    "field_name": "DATE_ADDED",
+    "value": "2024-09-15 17:42:20"
+  },
+  {
+    "id": 3194,
+    "artisan_id": 757,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 3195,
+    "artisan_id": 757,
+    "field_name": "NSFW_WEBSITE",
+    "value": "False"
+  },
+  {
+    "id": 3196,
+    "artisan_id": 757,
+    "field_name": "NSFW_SOCIAL",
+    "value": "False"
+  },
+  {
+    "id": 3197,
+    "artisan_id": 757,
+    "field_name": "DOES_NSFW",
+    "value": "False"
+  },
+  {
+    "id": 3198,
+    "artisan_id": 757,
+    "field_name": "WORKS_WITH_MINORS",
+    "value": "False"
+  },
+  {
+    "id": 3199,
+    "artisan_id": 758,
+    "field_name": "DATE_ADDED",
+    "value": "2024-09-15 17:50:27"
+  },
+  {
+    "id": 3200,
+    "artisan_id": 758,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 3201,
+    "artisan_id": 758,
+    "field_name": "NSFW_WEBSITE",
+    "value": "True"
+  },
+  {
+    "id": 3202,
+    "artisan_id": 758,
+    "field_name": "NSFW_SOCIAL",
+    "value": "True"
+  },
+  {
+    "id": 3203,
+    "artisan_id": 758,
+    "field_name": "DOES_NSFW",
+    "value": "True"
   }
 ]
