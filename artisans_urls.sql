@@ -5456,4 +5456,7 @@ INSERT INTO artisans_urls VALUES(13980,756,'URL_MINIATURES','https://orca2.furtr
 INSERT INTO artisans_urls VALUES(13981,758,'URL_MINIATURES','https://storage.scritch.es/scritch/395d8fc37f81ee83a31052bfd2913e7b61a65fa0/thumbnail_064598f5-9ce3-46ac-8f51-5cb620dd5ae0.png');
 INSERT INTO artisans_urls VALUES(13982,758,'URL_MINIATURES','https://storage.scritch.es/scritch/b58cc42a452c959c942d9ed56ed2452d5ee375f6/thumbnail_4de20ba6-3c08-4524-b40f-4759e40d5ba0.png');
 INSERT INTO artisans_urls VALUES(13983,758,'URL_MINIATURES','https://storage.scritch.es/scritch/3a8a3747f3006aeabcab1863fa451e84c4c22ec7/thumbnail_0f97c99e-66b5-4748-b418-bda698cfd620.png');
+INSERT INTO artisans_urls VALUES(13984,324,'URL_ETSY','https://www.etsy.com/shop/DrakainaCostumes');
+INSERT INTO artisans_urls VALUES(13985,324,'URL_QUEUE','https://trello.com/b/6RfNTA9c/drakaina-costumes');
+INSERT INTO artisans_urls VALUES(13986,324,'URL_FURTRACK','https://www.furtrack.com/index/maker:drakaina_costumes');
 COMMIT;
