@@ -3347,7 +3347,6 @@ INSERT INTO artisans_urls VALUES(11710,440,'URL_FURTRACK','https://www.furtrack.
 INSERT INTO artisans_urls VALUES(11711,577,'URL_WEBSITE','https://randomthehellhound.wixsite.com/random-rituals');
 INSERT INTO artisans_urls VALUES(11713,577,'URL_TWITTER','https://twitter.com/Random_hell_');
 INSERT INTO artisans_urls VALUES(11717,577,'URL_OTHER','https://t.me/+zXfKPwucVwViMzM0');
-INSERT INTO artisans_urls VALUES(11718,262,'URL_FURSUITREVIEW','https://fursuitreview.com/m/nordstrom-kaiju/');
 INSERT INTO artisans_urls VALUES(11719,262,'URL_WEBSITE','https://www.instagram.com/northernkaiju/');
 INSERT INTO artisans_urls VALUES(11721,262,'URL_TWITTER','https://twitter.com/NordstromKaiju');
 INSERT INTO artisans_urls VALUES(11722,262,'URL_INSTAGRAM','https://www.instagram.com/northernkaiju/');
@@ -5460,4 +5459,5 @@ INSERT INTO artisans_urls VALUES(13984,324,'URL_ETSY','https://www.etsy.com/shop
 INSERT INTO artisans_urls VALUES(13985,324,'URL_QUEUE','https://trello.com/b/6RfNTA9c/drakaina-costumes');
 INSERT INTO artisans_urls VALUES(13986,324,'URL_FURTRACK','https://www.furtrack.com/index/maker:drakaina_costumes');
 INSERT INTO artisans_urls VALUES(13987,651,'URL_FURSUITREVIEW','https://fursuitreview.com/m/astris-fursuits/');
+INSERT INTO artisans_urls VALUES(13988,262,'URL_FURSUITREVIEW','https://fursuitreview.com/m/northern-kaiju/');
 COMMIT;

@@ -8850,12 +8850,6 @@
     "url": "https://www.flickr.com/photos/159403255@N08/"
   },
   {
-    "id": 11718,
-    "artisan_id": 262,
-    "type": "URL_FURSUITREVIEW",
-    "url": "https://fursuitreview.com/m/nordstrom-kaiju/"
-  },
-  {
     "id": 11719,
     "artisan_id": 262,
     "type": "URL_WEBSITE",
@@ -8950,6 +8944,12 @@
     "artisan_id": 262,
     "type": "URL_MINIATURES",
     "url": "https://orca2.furtrack.com/thumb/276331.jpg"
+  },
+  {
+    "id": 13988,
+    "artisan_id": 262,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/northern-kaiju/"
   },
   {
     "id": 1186,
