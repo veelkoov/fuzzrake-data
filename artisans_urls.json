@@ -32752,5 +32752,149 @@
     "artisan_id": 758,
     "type": "URL_MINIATURES",
     "url": "https://storage.scritch.es/scritch/3a8a3747f3006aeabcab1863fa451e84c4c22ec7/thumbnail_0f97c99e-66b5-4748-b418-bda698cfd620.png"
+  },
+  {
+    "id": 13992,
+    "artisan_id": 759,
+    "type": "URL_DEVIANTART",
+    "url": "https://www.deviantart.com/aqweno"
+  },
+  {
+    "id": 13993,
+    "artisan_id": 759,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/aqweno/"
+  },
+  {
+    "id": 13994,
+    "artisan_id": 759,
+    "type": "URL_SCRITCH",
+    "url": "https://scritch.es/aqweno"
+  },
+  {
+    "id": 13995,
+    "artisan_id": 760,
+    "type": "URL_WEBSITE",
+    "url": "https://www.kreaturium.com/"
+  },
+  {
+    "id": 13996,
+    "artisan_id": 760,
+    "type": "URL_PRICES",
+    "url": "https://www.kreaturium.com/furry"
+  },
+  {
+    "id": 13997,
+    "artisan_id": 760,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/kreaturium/"
+  },
+  {
+    "id": 13998,
+    "artisan_id": 760,
+    "type": "URL_ETSY",
+    "url": "https://kreaturium.etsy.com/"
+  },
+  {
+    "id": 13999,
+    "artisan_id": 760,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/other-items/kreaturium/151018"
+  },
+  {
+    "id": 14000,
+    "artisan_id": 760,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:kreaturium"
+  },
+  {
+    "id": 14001,
+    "artisan_id": 760,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/741051"
+  },
+  {
+    "id": 14002,
+    "artisan_id": 760,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/741059"
+  },
+  {
+    "id": 14003,
+    "artisan_id": 760,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/741064"
+  },
+  {
+    "id": 14004,
+    "artisan_id": 760,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/741065"
+  },
+  {
+    "id": 14011,
+    "artisan_id": 760,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/741051.jpg"
+  },
+  {
+    "id": 14012,
+    "artisan_id": 760,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/741059.jpg"
+  },
+  {
+    "id": 14013,
+    "artisan_id": 760,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/741064.jpg"
+  },
+  {
+    "id": 14014,
+    "artisan_id": 760,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/741065.jpg"
+  },
+  {
+    "id": 14005,
+    "artisan_id": 761,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/chaos.critters.fursuits/"
+  },
+  {
+    "id": 14006,
+    "artisan_id": 761,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/chaos.critters.fursuits/"
+  },
+  {
+    "id": 14007,
+    "artisan_id": 762,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/livlaughcosplay/"
+  },
+  {
+    "id": 14008,
+    "artisan_id": 762,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@livlaughcosplay"
+  },
+  {
+    "id": 14009,
+    "artisan_id": 762,
+    "type": "URL_SCRITCH",
+    "url": "https://scritch.es/livlaughstudio"
+  },
+  {
+    "id": 14010,
+    "artisan_id": 762,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/4c97fbdd-678d-4353-bd9e-8bf72a0ea13e"
+  },
+  {
+    "id": 14015,
+    "artisan_id": 762,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/cbf0eec1e276bf8a67a59618abe80f4a4ff01690/thumbnail_bbe5069a-1e22-424c-a8ed-cb39fc8ff450.jpeg"
   }
 ]
