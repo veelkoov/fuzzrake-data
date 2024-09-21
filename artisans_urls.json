@@ -12186,18 +12186,6 @@
     "url": "https://www.facebook.com/SodaTheFox/"
   },
   {
-    "id": 13770,
-    "artisan_id": 350,
-    "type": "URL_WEBSITE",
-    "url": "https://scorchedfur.carrd.co/"
-  },
-  {
-    "id": 13771,
-    "artisan_id": 350,
-    "type": "URL_PRICES",
-    "url": "https://scorchedfur.carrd.co/"
-  },
-  {
     "id": 13772,
     "artisan_id": 350,
     "type": "URL_COMMISSIONS",
@@ -12216,10 +12204,22 @@
     "url": "https://trello.com/b/m5pKj5jQ/scorchedfursuit-progress"
   },
   {
-    "id": 13775,
+    "id": 13989,
+    "artisan_id": 350,
+    "type": "URL_WEBSITE",
+    "url": "https://scorchedfursuits.carrd.co/"
+  },
+  {
+    "id": 13990,
+    "artisan_id": 350,
+    "type": "URL_PRICES",
+    "url": "https://scorchedfursuits.carrd.co/"
+  },
+  {
+    "id": 13991,
     "artisan_id": 350,
     "type": "URL_OTHER",
-    "url": "https://t.me/ScorchedFur"
+    "url": "https://t.me/ScorchedFursuits"
   },
   {
     "id": 9065,

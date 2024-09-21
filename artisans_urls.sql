@@ -5241,12 +5241,9 @@ INSERT INTO artisans_urls VALUES(13766,736,'URL_MINIATURES','https://storage.scr
 INSERT INTO artisans_urls VALUES(13767,736,'URL_MINIATURES','https://storage.scritch.es/scritch/60c2fb7ea721c51d003da05afbdbcc91a03145be/thumbnail_be6d44f8-e33e-421b-b99e-7f41173e2bd9.jpeg#r270');
 INSERT INTO artisans_urls VALUES(13768,736,'URL_MINIATURES','https://storage.scritch.es/scritch/20c73b778265ddfe9bea1a7a1150bc2086a59687/thumbnail_928ff3fa-dfa4-4059-a6b3-3d49317daf48.jpeg#d30');
 INSERT INTO artisans_urls VALUES(13769,638,'URL_OTHER','https://t.me/untamedcanine');
-INSERT INTO artisans_urls VALUES(13770,350,'URL_WEBSITE','https://scorchedfur.carrd.co/');
-INSERT INTO artisans_urls VALUES(13771,350,'URL_PRICES','https://scorchedfur.carrd.co/');
 INSERT INTO artisans_urls VALUES(13772,350,'URL_COMMISSIONS','https://scorchedfur.carrd.co/');
 INSERT INTO artisans_urls VALUES(13773,350,'URL_TWITTER','https://twitter.com/TinyKobl');
 INSERT INTO artisans_urls VALUES(13774,350,'URL_QUEUE','https://trello.com/b/m5pKj5jQ/scorchedfursuit-progress');
-INSERT INTO artisans_urls VALUES(13775,350,'URL_OTHER','https://t.me/ScorchedFur');
 INSERT INTO artisans_urls VALUES(13776,737,'URL_WEBSITE','https://queenhisscreations.co.uk/');
 INSERT INTO artisans_urls VALUES(13777,737,'URL_PRICES','https://queenhisscreations.co.uk/prices/');
 INSERT INTO artisans_urls VALUES(13778,737,'URL_COMMISSIONS','https://queenhisscreations.co.uk/');
@@ -5460,4 +5457,7 @@ INSERT INTO artisans_urls VALUES(13985,324,'URL_QUEUE','https://trello.com/b/6Rf
 INSERT INTO artisans_urls VALUES(13986,324,'URL_FURTRACK','https://www.furtrack.com/index/maker:drakaina_costumes');
 INSERT INTO artisans_urls VALUES(13987,651,'URL_FURSUITREVIEW','https://fursuitreview.com/m/astris-fursuits/');
 INSERT INTO artisans_urls VALUES(13988,262,'URL_FURSUITREVIEW','https://fursuitreview.com/m/northern-kaiju/');
+INSERT INTO artisans_urls VALUES(13989,350,'URL_WEBSITE','https://scorchedfursuits.carrd.co/');
+INSERT INTO artisans_urls VALUES(13990,350,'URL_PRICES','https://scorchedfursuits.carrd.co/');
+INSERT INTO artisans_urls VALUES(13991,350,'URL_OTHER','https://t.me/ScorchedFursuits');
 COMMIT;
