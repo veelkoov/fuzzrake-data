@@ -5459,4 +5459,5 @@ INSERT INTO artisans_urls VALUES(13983,758,'URL_MINIATURES','https://storage.scr
 INSERT INTO artisans_urls VALUES(13984,324,'URL_ETSY','https://www.etsy.com/shop/DrakainaCostumes');
 INSERT INTO artisans_urls VALUES(13985,324,'URL_QUEUE','https://trello.com/b/6RfNTA9c/drakaina-costumes');
 INSERT INTO artisans_urls VALUES(13986,324,'URL_FURTRACK','https://www.furtrack.com/index/maker:drakaina_costumes');
+INSERT INTO artisans_urls VALUES(13987,651,'URL_FURSUITREVIEW','https://fursuitreview.com/m/astris-fursuits/');
 COMMIT;
