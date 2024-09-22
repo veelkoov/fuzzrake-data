@@ -1775,7 +1775,6 @@ INSERT INTO artisans_urls VALUES(9678,420,'URL_COMMISSIONS','https://maskedmerch
 INSERT INTO artisans_urls VALUES(9682,368,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/saltyseasadness/');
 INSERT INTO artisans_urls VALUES(9688,421,'URL_TWITTER','https://twitter.com/Minimoise3');
 INSERT INTO artisans_urls VALUES(9689,421,'URL_INSTAGRAM','https://www.instagram.com/mini_moise3/');
-INSERT INTO artisans_urls VALUES(9691,421,'URL_QUEUE','https://trello.com/b/Hf2HcuRA/free-time-fursuits');
 INSERT INTO artisans_urls VALUES(9692,421,'URL_COMMISSIONS','https://twitter.com/Minimoise3');
 INSERT INTO artisans_urls VALUES(9693,422,'URL_WEBSITE','https://wolfendoecreations.weebly.com/');
 INSERT INTO artisans_urls VALUES(9694,422,'URL_PRICES','https://wolfendoecreations.weebly.com/pricing.html');
@@ -5484,4 +5483,6 @@ INSERT INTO artisans_urls VALUES(14012,760,'URL_MINIATURES','https://orca2.furtr
 INSERT INTO artisans_urls VALUES(14013,760,'URL_MINIATURES','https://orca2.furtrack.com/thumb/741064.jpg');
 INSERT INTO artisans_urls VALUES(14014,760,'URL_MINIATURES','https://orca2.furtrack.com/thumb/741065.jpg');
 INSERT INTO artisans_urls VALUES(14015,762,'URL_MINIATURES','https://storage.scritch.es/scritch/cbf0eec1e276bf8a67a59618abe80f4a4ff01690/thumbnail_bbe5069a-1e22-424c-a8ed-cb39fc8ff450.jpeg');
+INSERT INTO artisans_urls VALUES(14016,421,'URL_YOUTUBE','https://www.youtube.com/@PopcornMini');
+INSERT INTO artisans_urls VALUES(14017,421,'URL_LINKLIST','https://linktr.ee/Minimoise');
 COMMIT;

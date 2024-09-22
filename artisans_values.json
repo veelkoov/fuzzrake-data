@@ -3075,19 +3075,25 @@
     "id": 1331,
     "artisan_id": 421,
     "field_name": "DOES_NSFW",
-    "value": "False"
+    "value": "True"
   },
   {
     "id": 1332,
     "artisan_id": 421,
     "field_name": "WORKS_WITH_MINORS",
-    "value": "True"
+    "value": "False"
   },
   {
     "id": 1372,
     "artisan_id": 421,
     "field_name": "DATE_ADDED",
     "value": "2021-01-31 20:29:09"
+  },
+  {
+    "id": 3230,
+    "artisan_id": 421,
+    "field_name": "DATE_UPDATED",
+    "value": "2024-09-22 09:03:49"
   },
   {
     "id": 1373,

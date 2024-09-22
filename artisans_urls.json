@@ -15504,16 +15504,22 @@
     "url": "https://www.instagram.com/mini_moise3/"
   },
   {
-    "id": 9691,
-    "artisan_id": 421,
-    "type": "URL_QUEUE",
-    "url": "https://trello.com/b/Hf2HcuRA/free-time-fursuits"
-  },
-  {
     "id": 9692,
     "artisan_id": 421,
     "type": "URL_COMMISSIONS",
     "url": "https://twitter.com/Minimoise3"
+  },
+  {
+    "id": 14016,
+    "artisan_id": 421,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@PopcornMini"
+  },
+  {
+    "id": 14017,
+    "artisan_id": 421,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/Minimoise"
   },
   {
     "id": 9693,
