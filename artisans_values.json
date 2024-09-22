@@ -576,16 +576,16 @@
     "value": "True"
   },
   {
-    "id": 964,
-    "artisan_id": 175,
-    "field_name": "IS_MINOR",
-    "value": "False"
-  },
-  {
     "id": 965,
     "artisan_id": 175,
     "field_name": "WORKS_WITH_MINORS",
     "value": "False"
+  },
+  {
+    "id": 3231,
+    "artisan_id": 175,
+    "field_name": "AGES",
+    "value": "ADULTS"
   },
   {
     "id": 1188,
@@ -640,12 +640,6 @@
     "artisan_id": 184,
     "field_name": "DOES_NSFW",
     "value": "True"
-  },
-  {
-    "id": 915,
-    "artisan_id": 185,
-    "field_name": "IS_MINOR",
-    "value": "False"
   },
   {
     "id": 916,
@@ -768,16 +762,16 @@
     "value": "2023-06-15 19:07:36"
   },
   {
-    "id": 972,
-    "artisan_id": 200,
-    "field_name": "IS_MINOR",
-    "value": "False"
-  },
-  {
     "id": 973,
     "artisan_id": 200,
     "field_name": "WORKS_WITH_MINORS",
     "value": "False"
+  },
+  {
+    "id": 3232,
+    "artisan_id": 200,
+    "field_name": "AGES",
+    "value": "ADULTS"
   },
   {
     "id": 1482,
@@ -966,16 +960,16 @@
     "value": "2023-07-22 20:23:34"
   },
   {
-    "id": 946,
-    "artisan_id": 222,
-    "field_name": "IS_MINOR",
-    "value": "False"
-  },
-  {
     "id": 947,
     "artisan_id": 222,
     "field_name": "WORKS_WITH_MINORS",
     "value": "False"
+  },
+  {
+    "id": 3233,
+    "artisan_id": 222,
+    "field_name": "AGES",
+    "value": "ADULTS"
   },
   {
     "id": 2946,
@@ -1152,12 +1146,6 @@
     "value": "False"
   },
   {
-    "id": 952,
-    "artisan_id": 236,
-    "field_name": "IS_MINOR",
-    "value": "False"
-  },
-  {
     "id": 953,
     "artisan_id": 236,
     "field_name": "WORKS_WITH_MINORS",
@@ -1191,12 +1179,6 @@
     "id": 2840,
     "artisan_id": 236,
     "field_name": "DOES_NSFW",
-    "value": "False"
-  },
-  {
-    "id": 941,
-    "artisan_id": 239,
-    "field_name": "IS_MINOR",
     "value": "False"
   },
   {
@@ -1518,12 +1500,6 @@
     "value": "2024-09-15 15:37:05"
   },
   {
-    "id": 935,
-    "artisan_id": 276,
-    "field_name": "IS_MINOR",
-    "value": "False"
-  },
-  {
     "id": 936,
     "artisan_id": 276,
     "field_name": "WORKS_WITH_MINORS",
@@ -1557,12 +1533,6 @@
     "id": 1813,
     "artisan_id": 276,
     "field_name": "DOES_NSFW",
-    "value": "False"
-  },
-  {
-    "id": 958,
-    "artisan_id": 279,
-    "field_name": "IS_MINOR",
     "value": "False"
   },
   {
@@ -1630,12 +1600,6 @@
     "artisan_id": 280,
     "field_name": "DOES_NSFW",
     "value": "True"
-  },
-  {
-    "id": 939,
-    "artisan_id": 282,
-    "field_name": "IS_MINOR",
-    "value": "False"
   },
   {
     "id": 940,
@@ -1932,12 +1896,6 @@
     "value": "2023-09-24 17:42:19"
   },
   {
-    "id": 917,
-    "artisan_id": 323,
-    "field_name": "IS_MINOR",
-    "value": "False"
-  },
-  {
     "id": 918,
     "artisan_id": 323,
     "field_name": "WORKS_WITH_MINORS",
@@ -2220,12 +2178,6 @@
     "value": "True"
   },
   {
-    "id": 966,
-    "artisan_id": 350,
-    "field_name": "IS_MINOR",
-    "value": "False"
-  },
-  {
     "id": 967,
     "artisan_id": 350,
     "field_name": "WORKS_WITH_MINORS",
@@ -2290,12 +2242,6 @@
     "artisan_id": 351,
     "field_name": "DATE_UPDATED",
     "value": "2023-12-17 17:44:46"
-  },
-  {
-    "id": 960,
-    "artisan_id": 356,
-    "field_name": "IS_MINOR",
-    "value": "False"
   },
   {
     "id": 961,
@@ -2496,16 +2442,16 @@
     "value": "False"
   },
   {
-    "id": 974,
-    "artisan_id": 374,
-    "field_name": "IS_MINOR",
-    "value": "False"
-  },
-  {
     "id": 975,
     "artisan_id": 374,
     "field_name": "WORKS_WITH_MINORS",
     "value": "False"
+  },
+  {
+    "id": 3234,
+    "artisan_id": 374,
+    "field_name": "AGES",
+    "value": "ADULTS"
   },
   {
     "id": 1899,
@@ -2880,12 +2826,6 @@
     "value": "True"
   },
   {
-    "id": 931,
-    "artisan_id": 411,
-    "field_name": "IS_MINOR",
-    "value": "False"
-  },
-  {
     "id": 932,
     "artisan_id": 411,
     "field_name": "WORKS_WITH_MINORS",
@@ -3162,12 +3102,6 @@
     "value": "2021-03-01 21:04:30"
   },
   {
-    "id": 948,
-    "artisan_id": 428,
-    "field_name": "IS_MINOR",
-    "value": "False"
-  },
-  {
     "id": 949,
     "artisan_id": 428,
     "field_name": "WORKS_WITH_MINORS",
@@ -3178,6 +3112,12 @@
     "artisan_id": 428,
     "field_name": "DATE_ADDED",
     "value": "2021-03-01 21:04:30"
+  },
+  {
+    "id": 3235,
+    "artisan_id": 428,
+    "field_name": "AGES",
+    "value": "ADULTS"
   },
   {
     "id": 1380,
@@ -3274,12 +3214,6 @@
     "artisan_id": 434,
     "field_name": "DATE_ADDED",
     "value": "2021-03-28 16:56:21"
-  },
-  {
-    "id": 921,
-    "artisan_id": 435,
-    "field_name": "IS_MINOR",
-    "value": "False"
   },
   {
     "id": 922,
@@ -3538,12 +3472,6 @@
     "artisan_id": 443,
     "field_name": "DATE_ADDED",
     "value": "2021-05-13 18:35:43"
-  },
-  {
-    "id": 937,
-    "artisan_id": 444,
-    "field_name": "IS_MINOR",
-    "value": "False"
   },
   {
     "id": 938,
@@ -3870,12 +3798,6 @@
     "value": "2021-06-03 19:57:56"
   },
   {
-    "id": 962,
-    "artisan_id": 457,
-    "field_name": "IS_MINOR",
-    "value": "False"
-  },
-  {
     "id": 963,
     "artisan_id": 457,
     "field_name": "WORKS_WITH_MINORS",
@@ -3888,10 +3810,10 @@
     "value": "2021-06-03 19:57:56"
   },
   {
-    "id": 944,
-    "artisan_id": 458,
-    "field_name": "IS_MINOR",
-    "value": "False"
+    "id": 3236,
+    "artisan_id": 457,
+    "field_name": "AGES",
+    "value": "ADULTS"
   },
   {
     "id": 945,
@@ -3934,12 +3856,6 @@
     "artisan_id": 458,
     "field_name": "DATE_UPDATED",
     "value": "2022-12-16 18:36:58"
-  },
-  {
-    "id": 976,
-    "artisan_id": 459,
-    "field_name": "IS_MINOR",
-    "value": "False"
   },
   {
     "id": 977,
@@ -3990,12 +3906,6 @@
     "value": "2021-06-12 18:42:14"
   },
   {
-    "id": 925,
-    "artisan_id": 461,
-    "field_name": "IS_MINOR",
-    "value": "False"
-  },
-  {
     "id": 926,
     "artisan_id": 461,
     "field_name": "WORKS_WITH_MINORS",
@@ -4006,6 +3916,12 @@
     "artisan_id": 461,
     "field_name": "DATE_ADDED",
     "value": "2021-06-12 18:42:14"
+  },
+  {
+    "id": 3237,
+    "artisan_id": 461,
+    "field_name": "AGES",
+    "value": "ADULTS"
   },
   {
     "id": 1139,
@@ -4488,12 +4404,6 @@
     "value": "True"
   },
   {
-    "id": 911,
-    "artisan_id": 482,
-    "field_name": "IS_MINOR",
-    "value": "False"
-  },
-  {
     "id": 912,
     "artisan_id": 482,
     "field_name": "WORKS_WITH_MINORS",
@@ -4542,12 +4452,6 @@
     "value": "2021-09-12 16:13:44"
   },
   {
-    "id": 913,
-    "artisan_id": 484,
-    "field_name": "IS_MINOR",
-    "value": "False"
-  },
-  {
     "id": 914,
     "artisan_id": 484,
     "field_name": "WORKS_WITH_MINORS",
@@ -4590,12 +4494,6 @@
     "value": "False"
   },
   {
-    "id": 919,
-    "artisan_id": 485,
-    "field_name": "IS_MINOR",
-    "value": "False"
-  },
-  {
     "id": 920,
     "artisan_id": 485,
     "field_name": "WORKS_WITH_MINORS",
@@ -4632,12 +4530,6 @@
     "value": "2021-09-22 17:12:58"
   },
   {
-    "id": 923,
-    "artisan_id": 486,
-    "field_name": "IS_MINOR",
-    "value": "False"
-  },
-  {
     "id": 924,
     "artisan_id": 486,
     "field_name": "WORKS_WITH_MINORS",
@@ -4650,10 +4542,10 @@
     "value": "2021-09-25 19:25:45"
   },
   {
-    "id": 927,
-    "artisan_id": 487,
-    "field_name": "IS_MINOR",
-    "value": "False"
+    "id": 3238,
+    "artisan_id": 486,
+    "field_name": "AGES",
+    "value": "ADULTS"
   },
   {
     "id": 928,
@@ -4668,10 +4560,10 @@
     "value": "2021-10-03 19:21:59"
   },
   {
-    "id": 929,
-    "artisan_id": 488,
-    "field_name": "IS_MINOR",
-    "value": "False"
+    "id": 3239,
+    "artisan_id": 487,
+    "field_name": "AGES",
+    "value": "ADULTS"
   },
   {
     "id": 930,
@@ -4686,10 +4578,10 @@
     "value": "2021-10-03 19:21:59"
   },
   {
-    "id": 933,
-    "artisan_id": 489,
-    "field_name": "IS_MINOR",
-    "value": "False"
+    "id": 3240,
+    "artisan_id": 488,
+    "field_name": "AGES",
+    "value": "ADULTS"
   },
   {
     "id": 934,
@@ -4728,12 +4620,6 @@
     "value": "2021-10-04 18:54:47"
   },
   {
-    "id": 950,
-    "artisan_id": 490,
-    "field_name": "IS_MINOR",
-    "value": "False"
-  },
-  {
     "id": 951,
     "artisan_id": 490,
     "field_name": "WORKS_WITH_MINORS",
@@ -4770,12 +4656,6 @@
     "value": "2021-11-03 18:08:47"
   },
   {
-    "id": 954,
-    "artisan_id": 491,
-    "field_name": "IS_MINOR",
-    "value": "False"
-  },
-  {
     "id": 955,
     "artisan_id": 491,
     "field_name": "WORKS_WITH_MINORS",
@@ -4788,10 +4668,10 @@
     "value": "2021-11-07 20:27:00"
   },
   {
-    "id": 956,
-    "artisan_id": 492,
-    "field_name": "IS_MINOR",
-    "value": "False"
+    "id": 3241,
+    "artisan_id": 491,
+    "field_name": "AGES",
+    "value": "ADULTS"
   },
   {
     "id": 957,
@@ -4836,12 +4716,6 @@
     "value": "False"
   },
   {
-    "id": 968,
-    "artisan_id": 493,
-    "field_name": "IS_MINOR",
-    "value": "False"
-  },
-  {
     "id": 969,
     "artisan_id": 493,
     "field_name": "WORKS_WITH_MINORS",
@@ -4860,12 +4734,6 @@
     "value": "2021-11-17 21:05:59"
   },
   {
-    "id": 970,
-    "artisan_id": 494,
-    "field_name": "IS_MINOR",
-    "value": "False"
-  },
-  {
     "id": 971,
     "artisan_id": 494,
     "field_name": "WORKS_WITH_MINORS",
@@ -4876,6 +4744,12 @@
     "artisan_id": 494,
     "field_name": "DATE_ADDED",
     "value": "2021-11-19 22:36:21"
+  },
+  {
+    "id": 3242,
+    "artisan_id": 494,
+    "field_name": "AGES",
+    "value": "ADULTS"
   },
   {
     "id": 978,
