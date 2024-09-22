@@ -52558,5 +52558,50 @@
     "no_longer_open_for": "Commissions",
     "now_open_for": "",
     "tracking_issues": 0
+  },
+  {
+    "id": 3521,
+    "timestamp": "2024-09-21 18:11:00",
+    "type": "DATA_UPDATED",
+    "artisan_name": "",
+    "new_makers_count": 0,
+    "updated_makers_count": 1,
+    "reported_updated_makers_count": 0,
+    "git_commits": "9d038a18edc8ec3c119030ee510f0c67a327fe26",
+    "checked_urls": "",
+    "description": "",
+    "no_longer_open_for": "",
+    "now_open_for": "",
+    "tracking_issues": 0
+  },
+  {
+    "id": 3522,
+    "timestamp": "2024-09-21 19:05:00",
+    "type": "DATA_UPDATED",
+    "artisan_name": "",
+    "new_makers_count": 4,
+    "updated_makers_count": 0,
+    "reported_updated_makers_count": 0,
+    "git_commits": "7288b41da6479fa467dbafcbf61d82e810cb8069",
+    "checked_urls": "",
+    "description": "",
+    "no_longer_open_for": "",
+    "now_open_for": "",
+    "tracking_issues": 0
+  },
+  {
+    "id": 3523,
+    "timestamp": "2024-09-22 09:04:00",
+    "type": "DATA_UPDATED",
+    "artisan_name": "",
+    "new_makers_count": 0,
+    "updated_makers_count": 1,
+    "reported_updated_makers_count": 0,
+    "git_commits": "ff6559ae82f843601b03b4380aa5cb196ccf34f1",
+    "checked_urls": "",
+    "description": "",
+    "no_longer_open_for": "",
+    "now_open_for": "",
+    "tracking_issues": 0
   }
 ]

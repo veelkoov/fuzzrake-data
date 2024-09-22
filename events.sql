@@ -3506,4 +3506,7 @@ INSERT INTO events VALUES(3517,'2024-09-20 00:08:40.920','CS_UPDATED','CoralCand
 INSERT INTO events VALUES(3518,'2024-09-20 12:08:26.330','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','Quotes','',1);
 INSERT INTO events VALUES(3519,'2024-09-21 00:08:25.938','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','','Quotes',0);
 INSERT INTO events VALUES(3520,'2024-09-21 00:08:25.993','CS_UPDATED','28Ghostiez',0,0,0,'','https://28ghostiez.com/#','','Commissions','',0);
+INSERT INTO events VALUES(3521,'2024-09-21 18:11:00','DATA_UPDATED','',0,1,0,'9d038a18edc8ec3c119030ee510f0c67a327fe26','','','','',0);
+INSERT INTO events VALUES(3522,'2024-09-21 19:05:00','DATA_UPDATED','',4,0,0,'7288b41da6479fa467dbafcbf61d82e810cb8069','','','','',0);
+INSERT INTO events VALUES(3523,'2024-09-22 09:04:00','DATA_UPDATED','',0,1,0,'ff6559ae82f843601b03b4380aa5cb196ccf34f1','','','','',0);
 COMMIT;
