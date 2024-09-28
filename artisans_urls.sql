@@ -5485,4 +5485,5 @@ INSERT INTO artisans_urls VALUES(14014,760,'URL_MINIATURES','https://orca2.furtr
 INSERT INTO artisans_urls VALUES(14015,762,'URL_MINIATURES','https://storage.scritch.es/scritch/cbf0eec1e276bf8a67a59618abe80f4a4ff01690/thumbnail_bbe5069a-1e22-424c-a8ed-cb39fc8ff450.jpeg');
 INSERT INTO artisans_urls VALUES(14016,421,'URL_YOUTUBE','https://www.youtube.com/@PopcornMini');
 INSERT INTO artisans_urls VALUES(14017,421,'URL_LINKLIST','https://linktr.ee/Minimoise');
+INSERT INTO artisans_urls VALUES(14018,82,'URL_FURSUITREVIEW','https://fursuitreview.com/m/stuffed-panda-studios/');
 COMMIT;
