@@ -32920,5 +32920,797 @@
     "artisan_id": 762,
     "type": "URL_MINIATURES",
     "url": "https://storage.scritch.es/scritch/cbf0eec1e276bf8a67a59618abe80f4a4ff01690/thumbnail_bbe5069a-1e22-424c-a8ed-cb39fc8ff450.jpeg"
+  },
+  {
+    "id": 14030,
+    "artisan_id": 763,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/straw_creations_de/"
+  },
+  {
+    "id": 14031,
+    "artisan_id": 763,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/straw_creations_de/"
+  },
+  {
+    "id": 14032,
+    "artisan_id": 763,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/straw_creations_de?utm_source=linktree_profile_share&ltsid=789fd32f-7d40-4ab9-85d5-c873dce41feb"
+  },
+  {
+    "id": 14033,
+    "artisan_id": 763,
+    "type": "URL_SCRITCH",
+    "url": "https://scritch.es/straw_creations_de"
+  },
+  {
+    "id": 14034,
+    "artisan_id": 763,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/cfe7ce3f-311b-4ec0-9f93-66826f72208c"
+  },
+  {
+    "id": 14035,
+    "artisan_id": 763,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/bf8a8d2c-8250-43a2-abfd-9bfe0c719e14"
+  },
+  {
+    "id": 14163,
+    "artisan_id": 763,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/4d80292c5964a66bf6170f0c7e42221f6f5bec9e/thumbnail_2ff86d7d-f2ca-473a-8770-0a445182e066.jpeg#r90"
+  },
+  {
+    "id": 14164,
+    "artisan_id": 763,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/4bf821f2b10cafe4debbcb18aabb44ed7dcf4bc3/thumbnail_8f8f433d-ef66-42fc-ac9e-be9e2d811dbc.jpeg#r90"
+  },
+  {
+    "id": 14036,
+    "artisan_id": 764,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/maws_and_claws/"
+  },
+  {
+    "id": 14037,
+    "artisan_id": 764,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/Kimlad5"
+  },
+  {
+    "id": 14038,
+    "artisan_id": 764,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/mawsandclaws/?etsrc=sdt"
+  },
+  {
+    "id": 14039,
+    "artisan_id": 764,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/uYaG8fcX/fursuit"
+  },
+  {
+    "id": 14040,
+    "artisan_id": 765,
+    "type": "URL_PRICES",
+    "url": "https://www.tiktok.com/t/ZP8dGJjBY/"
+  },
+  {
+    "id": 14041,
+    "artisan_id": 765,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.tiktok.com/@furbricationcreations"
+  },
+  {
+    "id": 14042,
+    "artisan_id": 765,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/furbrication"
+  },
+  {
+    "id": 14043,
+    "artisan_id": 765,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/furbrication/"
+  },
+  {
+    "id": 14044,
+    "artisan_id": 765,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/FurbricationCreations"
+  },
+  {
+    "id": 14045,
+    "artisan_id": 765,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/FurbricationCreation"
+  },
+  {
+    "id": 14046,
+    "artisan_id": 765,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/store/furbrication-creations"
+  },
+  {
+    "id": 14047,
+    "artisan_id": 765,
+    "type": "URL_SCRITCH",
+    "url": "https://scritch.es/furbrication-creations"
+  },
+  {
+    "id": 14048,
+    "artisan_id": 765,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/c2b3dbd5-4d41-4d94-8b5f-e1d6dc28a2a2"
+  },
+  {
+    "id": 14049,
+    "artisan_id": 765,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/e7bcbfb0-52cf-49f3-a995-0e57cce53fd8"
+  },
+  {
+    "id": 14050,
+    "artisan_id": 765,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/f11cf164-14c6-40e5-a90a-0a12cdf4859c"
+  },
+  {
+    "id": 14051,
+    "artisan_id": 765,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/7f0a3844-9b20-4a55-8b2f-abe9211f5643"
+  },
+  {
+    "id": 14052,
+    "artisan_id": 765,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/65ec2474-3d7d-44e8-a7c9-ee571c865210"
+  },
+  {
+    "id": 14053,
+    "artisan_id": 765,
+    "type": "URL_OTHER",
+    "url": "https://www.tiktok.com/@furbricationcreations"
+  },
+  {
+    "id": 14142,
+    "artisan_id": 765,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/7bf48ad4351f8689b9e5253734ab998ae2889e2d/thumbnail_78a52931-bb8a-4c94-9cde-0d9a122a2119.jpeg"
+  },
+  {
+    "id": 14143,
+    "artisan_id": 765,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/b1aa9f03ffe974b1914ca7b9cfd6e4ce83a2ea1e/thumbnail_a953866b-a872-47d6-88bf-23df361b7180.jpeg"
+  },
+  {
+    "id": 14144,
+    "artisan_id": 765,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/b856395deb8581c49435fe838bb0ffd916a03888/thumbnail_fdf948d1-5860-4bb4-95f0-b424ca17658c.jpeg"
+  },
+  {
+    "id": 14145,
+    "artisan_id": 765,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/84475cd823d0b43e4c795a989cbf51f9d0eec499/thumbnail_0b7a3935-1db2-429c-8839-80d87a885363.jpeg"
+  },
+  {
+    "id": 14146,
+    "artisan_id": 765,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/2927072b7714ccf24ab26c875d3332a869f9759c/thumbnail_2d5b27cc-d880-42d1-8748-01b0e3f765a4.jpeg"
+  },
+  {
+    "id": 14054,
+    "artisan_id": 766,
+    "type": "URL_WEBSITE",
+    "url": "https://bemills0926.wixsite.com/nightmarecreationsco"
+  },
+  {
+    "id": 14055,
+    "artisan_id": 766,
+    "type": "URL_PRICES",
+    "url": "https://bemills0926.wixsite.com/nightmarecreationsco"
+  },
+  {
+    "id": 14056,
+    "artisan_id": 766,
+    "type": "URL_COMMISSIONS",
+    "url": "https://trello.com/b/OPyQvtZC/fursuit-commissions-open-closed"
+  },
+  {
+    "id": 14057,
+    "artisan_id": 766,
+    "type": "URL_DEVIANTART",
+    "url": "https://www.deviantart.com/nightmareinaline"
+  },
+  {
+    "id": 14058,
+    "artisan_id": 766,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/line_nightmare"
+  },
+  {
+    "id": 14059,
+    "artisan_id": 766,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/nightmarecreationsco/"
+  },
+  {
+    "id": 14060,
+    "artisan_id": 766,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@nightmareinaline1732"
+  },
+  {
+    "id": 14061,
+    "artisan_id": 766,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/NightmareInaLine"
+  },
+  {
+    "id": 14062,
+    "artisan_id": 766,
+    "type": "URL_FURRY_AMINO",
+    "url": "http://aminoapps.com/p/gbyp03"
+  },
+  {
+    "id": 14063,
+    "artisan_id": 766,
+    "type": "URL_ETSY",
+    "url": "https://nightmareonartstreet.etsy.com/"
+  },
+  {
+    "id": 14064,
+    "artisan_id": 766,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/DYx3oGfy/fursuit-work"
+  },
+  {
+    "id": 14065,
+    "artisan_id": 766,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:nightmare_creations"
+  },
+  {
+    "id": 14066,
+    "artisan_id": 766,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/745454"
+  },
+  {
+    "id": 14067,
+    "artisan_id": 766,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/745455"
+  },
+  {
+    "id": 14068,
+    "artisan_id": 766,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/745461"
+  },
+  {
+    "id": 14069,
+    "artisan_id": 766,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/745460"
+  },
+  {
+    "id": 14070,
+    "artisan_id": 766,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/745462"
+  },
+  {
+    "id": 14147,
+    "artisan_id": 766,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/745454.jpg"
+  },
+  {
+    "id": 14148,
+    "artisan_id": 766,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/745455.jpg"
+  },
+  {
+    "id": 14149,
+    "artisan_id": 766,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/745461.jpg"
+  },
+  {
+    "id": 14150,
+    "artisan_id": 766,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/745460.jpg"
+  },
+  {
+    "id": 14151,
+    "artisan_id": 766,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/745462.jpg"
+  },
+  {
+    "id": 14072,
+    "artisan_id": 767,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/SwornT0Secret"
+  },
+  {
+    "id": 14073,
+    "artisan_id": 767,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/sworn.to.secret/"
+  },
+  {
+    "id": 14074,
+    "artisan_id": 767,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/sworntosecret"
+  },
+  {
+    "id": 14075,
+    "artisan_id": 767,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/store/sworntosecret"
+  },
+  {
+    "id": 14076,
+    "artisan_id": 767,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/invite/b/65eea39caffa49655d639b56/ATTI75f58c9f2da2c45883626d9ccd2a8d225C03EEB2/┍━☽【ṡẇȏяṅ-ṭȏ-ṡєcяєṭ】☾━┑"
+  },
+  {
+    "id": 14128,
+    "artisan_id": 767,
+    "type": "URL_COMMISSIONS",
+    "url": "https://trello.com/invite/b/65eea39caffa49655d639b56/ATTI75f58c9f2da2c45883626d9ccd2a8d225C03EEB2/┍━☽【ṡẇȏяṅ-ṭȏ-ṡєcяєṭ】☾━┑"
+  },
+  {
+    "id": 14129,
+    "artisan_id": 767,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@sworntosecret"
+  },
+  {
+    "id": 14077,
+    "artisan_id": 768,
+    "type": "URL_WEBSITE",
+    "url": "https://twitter.com/AnthroCreatures"
+  },
+  {
+    "id": 14078,
+    "artisan_id": 768,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/thoseanthrocreatures/"
+  },
+  {
+    "id": 14079,
+    "artisan_id": 768,
+    "type": "URL_LINKLIST",
+    "url": "https://heylink.me/ThatAnthroGuy"
+  },
+  {
+    "id": 14080,
+    "artisan_id": 769,
+    "type": "URL_PRICES",
+    "url": "https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDIxMjIyNDY3NTkzNjQx?story_media_id=3462632333217150337_69368971594&igsh=MW0xc3RuN3I2OXN3aw=="
+  },
+  {
+    "id": 14081,
+    "artisan_id": 769,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/maro_the_catfox/"
+  },
+  {
+    "id": 14082,
+    "artisan_id": 769,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/Maross_catfox"
+  },
+  {
+    "id": 14083,
+    "artisan_id": 769,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/maro_the_catfox/"
+  },
+  {
+    "id": 14084,
+    "artisan_id": 770,
+    "type": "URL_WEBSITE",
+    "url": "http://puzzoz.carrd.co/"
+  },
+  {
+    "id": 14085,
+    "artisan_id": 770,
+    "type": "URL_PRICES",
+    "url": "https://puzzoz.carrd.co/#fursuit"
+  },
+  {
+    "id": 14086,
+    "artisan_id": 770,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/puzzoz/"
+  },
+  {
+    "id": 14087,
+    "artisan_id": 770,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/puzzozart"
+  },
+  {
+    "id": 14088,
+    "artisan_id": 770,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/puzzoz/"
+  },
+  {
+    "id": 14089,
+    "artisan_id": 770,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/mC5I41PM/fursuit"
+  },
+  {
+    "id": 14090,
+    "artisan_id": 770,
+    "type": "URL_OTHER",
+    "url": "https://t.me/Puzzozart"
+  },
+  {
+    "id": 14091,
+    "artisan_id": 771,
+    "type": "URL_WEBSITE",
+    "url": "https://sites.google.com/view/dinololly-studios/home"
+  },
+  {
+    "id": 14092,
+    "artisan_id": 771,
+    "type": "URL_PRICES",
+    "url": "https://sites.google.com/view/dinololly-studios/fursuit-prices"
+  },
+  {
+    "id": 14093,
+    "artisan_id": 771,
+    "type": "URL_COMMISSIONS",
+    "url": "https://sites.google.com/view/dinololly-studios/home"
+  },
+  {
+    "id": 14094,
+    "artisan_id": 771,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/LollyDino"
+  },
+  {
+    "id": 14095,
+    "artisan_id": 771,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/dinololly/"
+  },
+  {
+    "id": 14096,
+    "artisan_id": 771,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/channel/UCE9NLmJaH6U1pMGM2vcv6aA"
+  },
+  {
+    "id": 14097,
+    "artisan_id": 771,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/Ctzg9IHP/dinololly-studios-commission-list"
+  },
+  {
+    "id": 14098,
+    "artisan_id": 771,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/user/DinoLolly"
+  },
+  {
+    "id": 14099,
+    "artisan_id": 771,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/747978"
+  },
+  {
+    "id": 14100,
+    "artisan_id": 771,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/747977"
+  },
+  {
+    "id": 14101,
+    "artisan_id": 771,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/747976"
+  },
+  {
+    "id": 14102,
+    "artisan_id": 771,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/747975"
+  },
+  {
+    "id": 14103,
+    "artisan_id": 771,
+    "type": "URL_OTHER",
+    "url": "https://patreon.com/DinoLollyStudios?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"
+  },
+  {
+    "id": 14152,
+    "artisan_id": 771,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/747978.jpg"
+  },
+  {
+    "id": 14153,
+    "artisan_id": 771,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/747977.jpg"
+  },
+  {
+    "id": 14154,
+    "artisan_id": 771,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/747976.jpg"
+  },
+  {
+    "id": 14155,
+    "artisan_id": 771,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/747975.jpg"
+  },
+  {
+    "id": 14104,
+    "artisan_id": 772,
+    "type": "URL_PRICES",
+    "url": "https://trello.com/b/YZzSVkPT/sweet-chili-studios"
+  },
+  {
+    "id": 14105,
+    "artisan_id": 772,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/sweetchilistudios/"
+  },
+  {
+    "id": 14106,
+    "artisan_id": 772,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/chilistudios"
+  },
+  {
+    "id": 14107,
+    "artisan_id": 772,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/sweetchilistudios/"
+  },
+  {
+    "id": 14108,
+    "artisan_id": 772,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/sweetchilistudios"
+  },
+  {
+    "id": 14109,
+    "artisan_id": 772,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/other-items/sweetchilistudios/143327"
+  },
+  {
+    "id": 14110,
+    "artisan_id": 772,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/YZzSVkPT/sweet-chili-studios"
+  },
+  {
+    "id": 14111,
+    "artisan_id": 773,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/akanicreations/"
+  },
+  {
+    "id": 14112,
+    "artisan_id": 773,
+    "type": "URL_DEVIANTART",
+    "url": "https://www.deviantart.com/akanicreations"
+  },
+  {
+    "id": 14113,
+    "artisan_id": 773,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/akanicreationsofficial/"
+  },
+  {
+    "id": 14114,
+    "artisan_id": 773,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@AkaniCreationsOfficial"
+  },
+  {
+    "id": 14115,
+    "artisan_id": 773,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:akanicreations"
+  },
+  {
+    "id": 14116,
+    "artisan_id": 773,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/751284"
+  },
+  {
+    "id": 14117,
+    "artisan_id": 773,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/751287"
+  },
+  {
+    "id": 14118,
+    "artisan_id": 773,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/751282"
+  },
+  {
+    "id": 14119,
+    "artisan_id": 773,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/751283"
+  },
+  {
+    "id": 14120,
+    "artisan_id": 773,
+    "type": "URL_OTHER",
+    "url": "Tiktok: https://www.tiktok.com/@akanicreationsofficial?_t=8q45NpN45iQ&_r=1"
+  },
+  {
+    "id": 14156,
+    "artisan_id": 773,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/751284.jpg"
+  },
+  {
+    "id": 14157,
+    "artisan_id": 773,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/751287.jpg"
+  },
+  {
+    "id": 14158,
+    "artisan_id": 773,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/751282.jpg"
+  },
+  {
+    "id": 14159,
+    "artisan_id": 773,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/751283.jpg"
+  },
+  {
+    "id": 14121,
+    "artisan_id": 774,
+    "type": "URL_WEBSITE",
+    "url": "http://kyraxfox.de/"
+  },
+  {
+    "id": 14122,
+    "artisan_id": 774,
+    "type": "URL_PRICES",
+    "url": "http://kyraxfox.de/"
+  },
+  {
+    "id": 14123,
+    "artisan_id": 774,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/kyraxfox/"
+  },
+  {
+    "id": 14124,
+    "artisan_id": 774,
+    "type": "URL_DEVIANTART",
+    "url": "https://www.deviantart.com/kyraxfox"
+  },
+  {
+    "id": 14125,
+    "artisan_id": 774,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/KyraXFoxWorks"
+  },
+  {
+    "id": 14126,
+    "artisan_id": 774,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/kyraxfox/"
+  },
+  {
+    "id": 14127,
+    "artisan_id": 774,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/kyrafox"
+  },
+  {
+    "id": 14130,
+    "artisan_id": 775,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/tepid-dreamer-studios/"
+  },
+  {
+    "id": 14131,
+    "artisan_id": 775,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/tepiddreamer/"
+  },
+  {
+    "id": 14132,
+    "artisan_id": 775,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/Tepiddreamer"
+  },
+  {
+    "id": 14133,
+    "artisan_id": 775,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/tepiddreamer/"
+  },
+  {
+    "id": 14134,
+    "artisan_id": 775,
+    "type": "URL_LINKLIST",
+    "url": "https://tepiddreamer.carrd.co/"
+  },
+  {
+    "id": 14135,
+    "artisan_id": 775,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/tepiddreamerstudios/?etsrc=sdt"
+  },
+  {
+    "id": 14136,
+    "artisan_id": 775,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/LJz3J7Yl/tepiddreamer-studios-workflow"
+  },
+  {
+    "id": 14137,
+    "artisan_id": 775,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/613867"
+  },
+  {
+    "id": 14138,
+    "artisan_id": 775,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/221898"
+  },
+  {
+    "id": 14139,
+    "artisan_id": 775,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/112978"
+  },
+  {
+    "id": 14160,
+    "artisan_id": 775,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/613867.jpg"
+  },
+  {
+    "id": 14161,
+    "artisan_id": 775,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/221898.jpg"
+  },
+  {
+    "id": 14162,
+    "artisan_id": 775,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/112978.jpg"
   }
 ]
