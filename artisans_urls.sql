@@ -5624,4 +5624,17 @@ INSERT INTO artisans_urls VALUES(14169,228,'URL_COMMISSIONS','https://www.instag
 INSERT INTO artisans_urls VALUES(14170,228,'URL_TWITTER','https://twitter.com/lilacdreamst');
 INSERT INTO artisans_urls VALUES(14171,228,'URL_INSTAGRAM','https://www.instagram.com/lilac_dreams_studio/');
 INSERT INTO artisans_urls VALUES(14172,228,'URL_OTHER','https://t.me/LilacDreamsStudio');
+INSERT INTO artisans_urls VALUES(14173,776,'URL_WEBSITE','https://cascadefursuits.weebly.com/');
+INSERT INTO artisans_urls VALUES(14174,776,'URL_PRICES','https://cascadefursuits.weebly.com/prices.html');
+INSERT INTO artisans_urls VALUES(14175,776,'URL_TWITTER','https://twitter.com/CascadeFursuits');
+INSERT INTO artisans_urls VALUES(14176,776,'URL_FACEBOOK','https://www.facebook.com/profile.php?id=100080092237436&mibextid=ZbWKwL');
+INSERT INTO artisans_urls VALUES(14177,776,'URL_INSTAGRAM','https://www.instagram.com/cas_creatures/');
+INSERT INTO artisans_urls VALUES(14178,776,'URL_LINKLIST','https://linktr.ee/wyldcascade');
+INSERT INTO artisans_urls VALUES(14179,776,'URL_QUEUE','https://trello.com/b/vKvNyRVr/cascade-queue-2024-2025');
+INSERT INTO artisans_urls VALUES(14180,776,'URL_FURTRACK','https://www.furtrack.com/index/maker:cascade_creatures');
+INSERT INTO artisans_urls VALUES(14181,777,'URL_WEBSITE','https://lovesicksuits.carrd.co/');
+INSERT INTO artisans_urls VALUES(14182,777,'URL_PRICES','https://lovesicksuits.carrd.co/#pricing');
+INSERT INTO artisans_urls VALUES(14183,777,'URL_FAQ','https://lovesicksuits.carrd.co/#tos');
+INSERT INTO artisans_urls VALUES(14184,777,'URL_TWITTER','https://twitter.com/lovesicksuits');
+INSERT INTO artisans_urls VALUES(14185,777,'URL_INSTAGRAM','https://www.instagram.com/lovesicksuits/');
 COMMIT;

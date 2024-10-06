@@ -33736,5 +33736,83 @@
     "artisan_id": 775,
     "type": "URL_MINIATURES",
     "url": "https://orca2.furtrack.com/thumb/112978.jpg"
+  },
+  {
+    "id": 14173,
+    "artisan_id": 776,
+    "type": "URL_WEBSITE",
+    "url": "https://cascadefursuits.weebly.com/"
+  },
+  {
+    "id": 14174,
+    "artisan_id": 776,
+    "type": "URL_PRICES",
+    "url": "https://cascadefursuits.weebly.com/prices.html"
+  },
+  {
+    "id": 14175,
+    "artisan_id": 776,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/CascadeFursuits"
+  },
+  {
+    "id": 14176,
+    "artisan_id": 776,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/profile.php?id=100080092237436&mibextid=ZbWKwL"
+  },
+  {
+    "id": 14177,
+    "artisan_id": 776,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/cas_creatures/"
+  },
+  {
+    "id": 14178,
+    "artisan_id": 776,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/wyldcascade"
+  },
+  {
+    "id": 14179,
+    "artisan_id": 776,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/vKvNyRVr/cascade-queue-2024-2025"
+  },
+  {
+    "id": 14180,
+    "artisan_id": 776,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:cascade_creatures"
+  },
+  {
+    "id": 14181,
+    "artisan_id": 777,
+    "type": "URL_WEBSITE",
+    "url": "https://lovesicksuits.carrd.co/"
+  },
+  {
+    "id": 14182,
+    "artisan_id": 777,
+    "type": "URL_PRICES",
+    "url": "https://lovesicksuits.carrd.co/#pricing"
+  },
+  {
+    "id": 14183,
+    "artisan_id": 777,
+    "type": "URL_FAQ",
+    "url": "https://lovesicksuits.carrd.co/#tos"
+  },
+  {
+    "id": 14184,
+    "artisan_id": 777,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/lovesicksuits"
+  },
+  {
+    "id": 14185,
+    "artisan_id": 777,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/lovesicksuits/"
   }
 ]
