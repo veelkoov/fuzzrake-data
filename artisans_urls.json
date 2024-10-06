@@ -7308,34 +7308,58 @@
     "url": "https://twitter.com/tay__bee"
   },
   {
-    "id": 13148,
-    "artisan_id": 228,
-    "type": "URL_PRICES",
-    "url": "https://halfbloodcreatures.carrd.co/"
-  },
-  {
-    "id": 13149,
-    "artisan_id": 228,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/CreaturesHalf"
-  },
-  {
-    "id": 13150,
-    "artisan_id": 228,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/halfbloodcreatures/"
-  },
-  {
-    "id": 13151,
-    "artisan_id": 228,
-    "type": "URL_LINKLIST",
-    "url": "https://halfbloodcreatures.carrd.co/"
-  },
-  {
     "id": 13203,
     "artisan_id": 228,
     "type": "URL_FURSUITREVIEW",
     "url": "https://fursuitreview.com/m/halfblood-creatures/"
+  },
+  {
+    "id": 14165,
+    "artisan_id": 228,
+    "type": "URL_WEBSITE",
+    "url": "https://lilacdreamstudio.carrd.co/"
+  },
+  {
+    "id": 14166,
+    "artisan_id": 228,
+    "type": "URL_PRICES",
+    "url": "https://lilacdreamstudio.carrd.co/"
+  },
+  {
+    "id": 14167,
+    "artisan_id": 228,
+    "type": "URL_COMMISSIONS",
+    "url": "https://t.me/LilacDreamsStudio"
+  },
+  {
+    "id": 14168,
+    "artisan_id": 228,
+    "type": "URL_COMMISSIONS",
+    "url": "https://twitter.com/lilacdreamst"
+  },
+  {
+    "id": 14169,
+    "artisan_id": 228,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/lilac_dreams_studio/"
+  },
+  {
+    "id": 14170,
+    "artisan_id": 228,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/lilacdreamst"
+  },
+  {
+    "id": 14171,
+    "artisan_id": 228,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/lilac_dreams_studio/"
+  },
+  {
+    "id": 14172,
+    "artisan_id": 228,
+    "type": "URL_OTHER",
+    "url": "https://t.me/LilacDreamsStudio"
   },
   {
     "id": 994,

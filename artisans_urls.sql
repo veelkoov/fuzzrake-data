@@ -4656,10 +4656,6 @@ INSERT INTO artisans_urls VALUES(13144,693,'URL_PHOTOS','https://scritch.es/pict
 INSERT INTO artisans_urls VALUES(13145,693,'URL_PHOTOS','https://www.furtrack.com/p/386732');
 INSERT INTO artisans_urls VALUES(13146,693,'URL_PHOTOS','https://www.furtrack.com/p/244907');
 INSERT INTO artisans_urls VALUES(13147,694,'URL_WEBSITE','https://celestialbeastsstudios.carrd.co/');
-INSERT INTO artisans_urls VALUES(13148,228,'URL_PRICES','https://halfbloodcreatures.carrd.co/');
-INSERT INTO artisans_urls VALUES(13149,228,'URL_TWITTER','https://twitter.com/CreaturesHalf');
-INSERT INTO artisans_urls VALUES(13150,228,'URL_INSTAGRAM','https://www.instagram.com/halfbloodcreatures/');
-INSERT INTO artisans_urls VALUES(13151,228,'URL_LINKLIST','https://halfbloodcreatures.carrd.co/');
 INSERT INTO artisans_urls VALUES(13153,693,'URL_MINIATURES','https://orca2.furtrack.com/thumb/386732.jpg');
 INSERT INTO artisans_urls VALUES(13154,693,'URL_MINIATURES','https://orca2.furtrack.com/thumb/244907.jpg');
 INSERT INTO artisans_urls VALUES(13155,693,'URL_MINIATURES','https://storage.scritch.es/scritch/9e65e2f9a68846f2d4f8fe00b970cc6fb6f6c3f6/thumbnail_8627b15f-ebeb-4682-bdeb-691da6841ced.jpeg#r90');
@@ -5620,4 +5616,12 @@ INSERT INTO artisans_urls VALUES(14161,775,'URL_MINIATURES','https://orca2.furtr
 INSERT INTO artisans_urls VALUES(14162,775,'URL_MINIATURES','https://orca2.furtrack.com/thumb/112978.jpg');
 INSERT INTO artisans_urls VALUES(14163,763,'URL_MINIATURES','https://storage.scritch.es/scritch/4d80292c5964a66bf6170f0c7e42221f6f5bec9e/thumbnail_2ff86d7d-f2ca-473a-8770-0a445182e066.jpeg#r90');
 INSERT INTO artisans_urls VALUES(14164,763,'URL_MINIATURES','https://storage.scritch.es/scritch/4bf821f2b10cafe4debbcb18aabb44ed7dcf4bc3/thumbnail_8f8f433d-ef66-42fc-ac9e-be9e2d811dbc.jpeg#r90');
+INSERT INTO artisans_urls VALUES(14165,228,'URL_WEBSITE','https://lilacdreamstudio.carrd.co/');
+INSERT INTO artisans_urls VALUES(14166,228,'URL_PRICES','https://lilacdreamstudio.carrd.co/');
+INSERT INTO artisans_urls VALUES(14167,228,'URL_COMMISSIONS','https://t.me/LilacDreamsStudio');
+INSERT INTO artisans_urls VALUES(14168,228,'URL_COMMISSIONS','https://twitter.com/lilacdreamst');
+INSERT INTO artisans_urls VALUES(14169,228,'URL_COMMISSIONS','https://www.instagram.com/lilac_dreams_studio/');
+INSERT INTO artisans_urls VALUES(14170,228,'URL_TWITTER','https://twitter.com/lilacdreamst');
+INSERT INTO artisans_urls VALUES(14171,228,'URL_INSTAGRAM','https://www.instagram.com/lilac_dreams_studio/');
+INSERT INTO artisans_urls VALUES(14172,228,'URL_OTHER','https://t.me/LilacDreamsStudio');
 COMMIT;
