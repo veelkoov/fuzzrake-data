@@ -3559,4 +3559,18 @@ INSERT INTO events VALUES(3570,'2024-10-06 12:08:54.086','CS_UPDATED','Studio Pi
 INSERT INTO events VALUES(3571,'2024-10-06 12:08:54.415','CS_UPDATED','KecrowCreations',0,0,0,'','https://kecrowcreations.carrd.co/','','','Quotes',0);
 INSERT INTO events VALUES(3572,'2024-10-06 12:08:54.428','CS_UPDATED','Trashawk',0,0,0,'','https://trashawksuits.carrd.co/','','','Commissions',0);
 INSERT INTO events VALUES(3573,'2024-10-06 12:08:54.474','CS_UPDATED','Claws&Roses Studio',0,0,0,'','https://clawsnrosesstudio.carrd.co/','','','Commissions',0);
+INSERT INTO events VALUES(3574,'2024-10-06 17:34:00','DATA_UPDATED','',0,1,0,'ec398dab1e05ff9dc66d5fd055f55d50c855cc1c','','','','',0);
+INSERT INTO events VALUES(3575,'2024-10-06 17:54:00','DATA_UPDATED','',2,0,0,'9837e6b8285c74f9da28e4ee71e672665c4b2294','','','','',0);
+INSERT INTO events VALUES(3576,'2024-10-07 00:08:58.642','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','Quotes','',1);
+INSERT INTO events VALUES(3577,'2024-10-07 12:08:46.224','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','','Quotes',0);
+INSERT INTO events VALUES(3578,'2024-10-10 00:08:41.565','CS_UPDATED','Untitledmutt',0,0,0,'','https://untitledmuttsuits.carrd.co/','','','Commissions',0);
+INSERT INTO events VALUES(3579,'2024-10-10 12:08:40.179','CS_UPDATED','KecrowCreations',0,0,0,'','https://kecrowcreations.carrd.co/','','Quotes','',1);
+INSERT INTO events VALUES(3580,'2024-10-10 12:08:40.222','CS_UPDATED','Trashawk',0,0,0,'','https://trashawksuits.carrd.co/','','Commissions','',1);
+INSERT INTO events VALUES(3581,'2024-10-10 12:08:40.236','CS_UPDATED','Untitledmutt',0,0,0,'','https://untitledmuttsuits.carrd.co/','','Commissions','',1);
+INSERT INTO events VALUES(3582,'2024-10-10 12:08:40.254','CS_UPDATED','Claws&Roses Studio',0,0,0,'','https://clawsnrosesstudio.carrd.co/','','Commissions','',1);
+INSERT INTO events VALUES(3583,'2024-10-11 00:08:52.783','CS_UPDATED','2 Stupid Furs',0,0,0,'','https://2stupidfurs.weebly.com/prices---quote-forms---tos.html','','Commissions','',0);
+INSERT INTO events VALUES(3584,'2024-10-11 00:08:53.305','CS_UPDATED','KecrowCreations',0,0,0,'','https://kecrowcreations.carrd.co/','','','Quotes',0);
+INSERT INTO events VALUES(3585,'2024-10-11 00:08:53.312','CS_UPDATED','Trashawk',0,0,0,'','https://trashawksuits.carrd.co/','','','Commissions',0);
+INSERT INTO events VALUES(3586,'2024-10-11 00:08:53.320','CS_UPDATED','Untitledmutt',0,0,0,'','https://untitledmuttsuits.carrd.co/','','','Commissions',0);
+INSERT INTO events VALUES(3587,'2024-10-11 00:08:53.338','CS_UPDATED','Claws&Roses Studio',0,0,0,'','https://clawsnrosesstudio.carrd.co/','','','Commissions',0);
 COMMIT;
