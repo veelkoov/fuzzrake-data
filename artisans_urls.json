@@ -25644,18 +25644,6 @@
     "url": "https://orca2.furtrack.com/thumb/260422.jpg"
   },
   {
-    "id": 12225,
-    "artisan_id": 625,
-    "type": "URL_WEBSITE",
-    "url": "https://shrumibo.webnode.cz/"
-  },
-  {
-    "id": 12226,
-    "artisan_id": 625,
-    "type": "URL_PRICES",
-    "url": "https://shrumibo.webnode.cz/prices/"
-  },
-  {
     "id": 12227,
     "artisan_id": 625,
     "type": "URL_TWITTER",
@@ -25672,6 +25660,24 @@
     "artisan_id": 625,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/SnVZQhb2/shrumibo-fursuit-queue"
+  },
+  {
+    "id": 14186,
+    "artisan_id": 625,
+    "type": "URL_WEBSITE",
+    "url": "https://www.shrumibo.com/"
+  },
+  {
+    "id": 14187,
+    "artisan_id": 625,
+    "type": "URL_PRICES",
+    "url": "https://www.shrumibo.com/prices/"
+  },
+  {
+    "id": 14188,
+    "artisan_id": 625,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.shrumibo.com/"
   },
   {
     "id": 12230,
@@ -33814,5 +33820,131 @@
     "artisan_id": 777,
     "type": "URL_INSTAGRAM",
     "url": "https://www.instagram.com/lovesicksuits/"
+  },
+  {
+    "id": 14189,
+    "artisan_id": 778,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/beeps-creatures/"
+  },
+  {
+    "id": 14190,
+    "artisan_id": 778,
+    "type": "URL_WEBSITE",
+    "url": "https://beepscreatures.carrd.co/"
+  },
+  {
+    "id": 14191,
+    "artisan_id": 778,
+    "type": "URL_PRICES",
+    "url": "https://beepscreatures.carrd.co/#contact"
+  },
+  {
+    "id": 14192,
+    "artisan_id": 778,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/beepscreatures/"
+  },
+  {
+    "id": 14193,
+    "artisan_id": 778,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/Beeps_Creatures"
+  },
+  {
+    "id": 14194,
+    "artisan_id": 778,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/beeps_creatures/"
+  },
+  {
+    "id": 14195,
+    "artisan_id": 778,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/beepsstuff?utm_source=linktree_admin_share"
+  },
+  {
+    "id": 14196,
+    "artisan_id": 778,
+    "type": "URL_ETSY",
+    "url": "https://beepscreatures.etsy.com/"
+  },
+  {
+    "id": 14197,
+    "artisan_id": 778,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/user/BeepsCreatures"
+  },
+  {
+    "id": 14198,
+    "artisan_id": 779,
+    "type": "URL_PRICES",
+    "url": "https://docs.google.com/document/d/1yZhfoUeF9CI8sfHq0cw4q4rbfxYiabS2w9mJM__PX_0/edit?usp=drivesdk"
+  },
+  {
+    "id": 14199,
+    "artisan_id": 779,
+    "type": "URL_PRICES",
+    "url": "https://vauxiboxi.weebly.com/"
+  },
+  {
+    "id": 14200,
+    "artisan_id": 779,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/vauxiboxi/"
+  },
+  {
+    "id": 14201,
+    "artisan_id": 779,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/vauxiboxi"
+  },
+  {
+    "id": 14202,
+    "artisan_id": 779,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/share/MP8DwYSt31a1Wdnw/"
+  },
+  {
+    "id": 14203,
+    "artisan_id": 779,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/vauxiboxi/"
+  },
+  {
+    "id": 14204,
+    "artisan_id": 779,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@vauxiboxi"
+  },
+  {
+    "id": 14205,
+    "artisan_id": 779,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/vauxiboxi"
+  },
+  {
+    "id": 14206,
+    "artisan_id": 779,
+    "type": "URL_FURRY_AMINO",
+    "url": "http://aminoapps.com/p/ts22p8s"
+  },
+  {
+    "id": 14207,
+    "artisan_id": 779,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/store/vauxiboxi"
+  },
+  {
+    "id": 14208,
+    "artisan_id": 779,
+    "type": "URL_QUEUE",
+    "url": "https://docs.google.com/document/d/1yZhfoUeF9CI8sfHq0cw4q4rbfxYiabS2w9mJM__PX_0/edit?usp=drivesdk"
+  },
+  {
+    "id": 14209,
+    "artisan_id": 779,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:vauxiboxi"
   }
 ]
