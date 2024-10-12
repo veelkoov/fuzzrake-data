@@ -1826,7 +1826,6 @@ INSERT INTO artisans_urls VALUES(9741,427,'URL_FAQ','https://www.howlmetalhorror
 INSERT INTO artisans_urls VALUES(9742,427,'URL_TWITTER','https://twitter.com/howlmetalhorror');
 INSERT INTO artisans_urls VALUES(9743,427,'URL_INSTAGRAM','https://www.instagram.com/howlmetalhorrors/');
 INSERT INTO artisans_urls VALUES(9744,427,'URL_QUEUE','https://trello.com/b/SksS7JGv/howlmetal-horrors-commission-queue');
-INSERT INTO artisans_urls VALUES(9745,427,'URL_COMMISSIONS','https://twitter.com/howlmetalhorror');
 INSERT INTO artisans_urls VALUES(9746,428,'URL_WEBSITE','https://www.angeltigress.com/');
 INSERT INTO artisans_urls VALUES(9747,428,'URL_PRICES','https://www.angeltigress.com/price/');
 INSERT INTO artisans_urls VALUES(9748,428,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/angeltigress/');
@@ -5230,7 +5229,6 @@ INSERT INTO artisans_urls VALUES(13773,350,'URL_TWITTER','https://twitter.com/Ti
 INSERT INTO artisans_urls VALUES(13774,350,'URL_QUEUE','https://trello.com/b/m5pKj5jQ/scorchedfursuit-progress');
 INSERT INTO artisans_urls VALUES(13776,737,'URL_WEBSITE','https://queenhisscreations.co.uk/');
 INSERT INTO artisans_urls VALUES(13777,737,'URL_PRICES','https://queenhisscreations.co.uk/prices/');
-INSERT INTO artisans_urls VALUES(13778,737,'URL_COMMISSIONS','https://queenhisscreations.co.uk/');
 INSERT INTO artisans_urls VALUES(13779,737,'URL_TWITTER','https://twitter.com/queenhisscreate');
 INSERT INTO artisans_urls VALUES(13780,737,'URL_INSTAGRAM','https://www.instagram.com/queenhisscreations/');
 INSERT INTO artisans_urls VALUES(13781,737,'URL_QUEUE','https://trello.com/b/eJrMR2cl/queen-hiss-creations');
@@ -5659,4 +5657,6 @@ INSERT INTO artisans_urls VALUES(14206,779,'URL_FURRY_AMINO','http://aminoapps.c
 INSERT INTO artisans_urls VALUES(14207,779,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/vauxiboxi');
 INSERT INTO artisans_urls VALUES(14208,779,'URL_QUEUE','https://docs.google.com/document/d/1yZhfoUeF9CI8sfHq0cw4q4rbfxYiabS2w9mJM__PX_0/edit?usp=drivesdk');
 INSERT INTO artisans_urls VALUES(14209,779,'URL_FURTRACK','https://www.furtrack.com/index/maker:vauxiboxi');
+INSERT INTO artisans_urls VALUES(14210,737,'URL_COMMISSIONS','https://trello.com/b/eJrMR2cl/queen-hiss-creations');
+INSERT INTO artisans_urls VALUES(14211,427,'URL_COMMISSIONS','https://howlmetalhorrors.com/');
 COMMIT;

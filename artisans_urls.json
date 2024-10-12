@@ -15798,16 +15798,16 @@
     "url": "https://trello.com/b/SksS7JGv/howlmetal-horrors-commission-queue"
   },
   {
-    "id": 9745,
-    "artisan_id": 427,
-    "type": "URL_COMMISSIONS",
-    "url": "https://twitter.com/howlmetalhorror"
-  },
-  {
     "id": 10647,
     "artisan_id": 427,
     "type": "URL_FURSUITREVIEW",
     "url": "https://fursuitreview.com/m/howlmetal-horrors/"
+  },
+  {
+    "id": 14211,
+    "artisan_id": 427,
+    "type": "URL_COMMISSIONS",
+    "url": "https://howlmetalhorrors.com/"
   },
   {
     "id": 9746,
@@ -31698,12 +31698,6 @@
     "url": "https://queenhisscreations.co.uk/prices/"
   },
   {
-    "id": 13778,
-    "artisan_id": 737,
-    "type": "URL_COMMISSIONS",
-    "url": "https://queenhisscreations.co.uk/"
-  },
-  {
     "id": 13779,
     "artisan_id": 737,
     "type": "URL_TWITTER",
@@ -31726,6 +31720,12 @@
     "artisan_id": 737,
     "type": "URL_OTHER",
     "url": "https://bsky.app/profile/queenhisscreations.co.uk"
+  },
+  {
+    "id": 14210,
+    "artisan_id": 737,
+    "type": "URL_COMMISSIONS",
+    "url": "https://trello.com/b/eJrMR2cl/queen-hiss-creations"
   },
   {
     "id": 13792,
