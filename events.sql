@@ -3573,4 +3573,9 @@ INSERT INTO events VALUES(3584,'2024-10-11 00:08:53.305','CS_UPDATED','KecrowCre
 INSERT INTO events VALUES(3585,'2024-10-11 00:08:53.312','CS_UPDATED','Trashawk',0,0,0,'','https://trashawksuits.carrd.co/','','','Commissions',0);
 INSERT INTO events VALUES(3586,'2024-10-11 00:08:53.320','CS_UPDATED','Untitledmutt',0,0,0,'','https://untitledmuttsuits.carrd.co/','','','Commissions',0);
 INSERT INTO events VALUES(3587,'2024-10-11 00:08:53.338','CS_UPDATED','Claws&Roses Studio',0,0,0,'','https://clawsnrosesstudio.carrd.co/','','','Commissions',0);
+INSERT INTO events VALUES(3588,'2024-10-11 21:34:18.534','CS_UPDATED','Shrumibo',0,0,0,'','https://www.shrumibo.com/','','','Quotes',1);
+INSERT INTO events VALUES(3589,'2024-10-11 21:39:00','DATA_UPDATED','',2,1,0,'da7a76909053a9b5f7f65e9abcc0c60c4b8bc13a','','','','',0);
+INSERT INTO events VALUES(3590,'2024-10-12 00:08:50.091','CS_UPDATED','Popcorn Mini',0,0,0,'','https://twitter.com/Minimoise3','','Commissions','',0);
+INSERT INTO events VALUES(3591,'2024-10-12 00:08:50.235','CS_UPDATED','Howlmetal Horrors',0,0,0,'','https://twitter.com/howlmetalhorror','','Commissions','',1);
+INSERT INTO events VALUES(3592,'2024-10-12 00:08:50.374','CS_UPDATED','MeowWare',0,0,0,'','https://meowware.weebly.com/','','Commissions','',0);
 COMMIT;
