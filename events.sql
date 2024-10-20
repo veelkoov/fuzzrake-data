@@ -3608,4 +3608,9 @@ INSERT INTO events VALUES(3619,'2024-10-19 12:11:10.938','CS_UPDATED','CoralCand
 INSERT INTO events VALUES(3620,'2024-10-19 12:11:11.051','CS_UPDATED','KecrowCreations',0,0,0,'','https://kecrowcreations.carrd.co/','','Quotes','',1);
 INSERT INTO events VALUES(3621,'2024-10-19 12:11:11.061','CS_UPDATED','Trashawk',0,0,0,'','https://trashawksuits.carrd.co/','','Commissions','',1);
 INSERT INTO events VALUES(3622,'2024-10-19 12:11:11.082','CS_UPDATED','Claws&Roses Studio',0,0,0,'','https://clawsnrosesstudio.carrd.co/','','Commissions','',1);
+INSERT INTO events VALUES(3623,'2024-10-20 00:08:14.347','CS_UPDATED','Onix Angel Creations',0,0,0,'','https://www.onixangelcreations.com/','','','Commissions',0);
+INSERT INTO events VALUES(3624,'2024-10-20 12:08:44.447','CS_UPDATED','The Goth Bear',0,0,0,'','https://gothbear.carrd.co/','','','Commissions',0);
+INSERT INTO events VALUES(3625,'2024-10-20 12:08:44.489','CS_UPDATED','KecrowCreations',0,0,0,'','https://kecrowcreations.carrd.co/','','','Quotes',0);
+INSERT INTO events VALUES(3626,'2024-10-20 12:08:44.495','CS_UPDATED','Trashawk',0,0,0,'','https://trashawksuits.carrd.co/','','','Commissions',0);
+INSERT INTO events VALUES(3627,'2024-10-20 12:08:44.515','CS_UPDATED','Claws&Roses Studio',0,0,0,'','https://clawsnrosesstudio.carrd.co/','','','Commissions',0);
 COMMIT;
