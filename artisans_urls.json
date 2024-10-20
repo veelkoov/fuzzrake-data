@@ -33988,5 +33988,233 @@
     "artisan_id": 779,
     "type": "URL_FURTRACK",
     "url": "https://www.furtrack.com/index/maker:vauxiboxi"
+  },
+  {
+    "id": 14232,
+    "artisan_id": 780,
+    "type": "URL_WEBSITE",
+    "url": "https://t4zer.myportfolio.com/fursuits"
+  },
+  {
+    "id": 14233,
+    "artisan_id": 780,
+    "type": "URL_PRICES",
+    "url": "https://trello.com/c/F5kffVUP/66-fursuit-pricing"
+  },
+  {
+    "id": 14234,
+    "artisan_id": 780,
+    "type": "URL_COMMISSIONS",
+    "url": "https://twitter.com/t4zerr"
+  },
+  {
+    "id": 14235,
+    "artisan_id": 780,
+    "type": "URL_FAQ",
+    "url": "https://trello.com/c/Pu3yKEcY/72-fursuit-tos-faq"
+  },
+  {
+    "id": 14236,
+    "artisan_id": 780,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/t4zer/"
+  },
+  {
+    "id": 14237,
+    "artisan_id": 780,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/t4zerr"
+  },
+  {
+    "id": 14238,
+    "artisan_id": 780,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/t4zer/"
+  },
+  {
+    "id": 14239,
+    "artisan_id": 780,
+    "type": "URL_OTHER_SHOP",
+    "url": "https://www.t4zer.co/"
+  },
+  {
+    "id": 14240,
+    "artisan_id": 780,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/yoTlspNe/t4zers-comm-queue"
+  },
+  {
+    "id": 14241,
+    "artisan_id": 780,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:t4zer"
+  },
+  {
+    "id": 14242,
+    "artisan_id": 781,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/sakuraxfur/"
+  },
+  {
+    "id": 14243,
+    "artisan_id": 781,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@Sakuraxfur"
+  },
+  {
+    "id": 14244,
+    "artisan_id": 781,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/Sakura_the.furry"
+  },
+  {
+    "id": 14245,
+    "artisan_id": 781,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/771380"
+  },
+  {
+    "id": 14246,
+    "artisan_id": 781,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/771381"
+  },
+  {
+    "id": 14265,
+    "artisan_id": 781,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/771380.jpg"
+  },
+  {
+    "id": 14266,
+    "artisan_id": 781,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/771381.jpg"
+  },
+  {
+    "id": 14247,
+    "artisan_id": 782,
+    "type": "URL_WEBSITE",
+    "url": "https://muttsinstitches.com/"
+  },
+  {
+    "id": 14248,
+    "artisan_id": 782,
+    "type": "URL_PRICES",
+    "url": "https://muttsinstitches.com/#52196a19-7835-477f-9b71-df2eadabe5b5"
+  },
+  {
+    "id": 14249,
+    "artisan_id": 782,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/muttsi705/"
+  },
+  {
+    "id": 14250,
+    "artisan_id": 782,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@muttsi705"
+  },
+  {
+    "id": 14251,
+    "artisan_id": 782,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/muttsi"
+  },
+  {
+    "id": 14252,
+    "artisan_id": 782,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/store/mutts-in-stiches"
+  },
+  {
+    "id": 14253,
+    "artisan_id": 782,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/697550"
+  },
+  {
+    "id": 14254,
+    "artisan_id": 782,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/694370"
+  },
+  {
+    "id": 14255,
+    "artisan_id": 782,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/540595"
+  },
+  {
+    "id": 14267,
+    "artisan_id": 782,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/697550.jpg"
+  },
+  {
+    "id": 14268,
+    "artisan_id": 782,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/694370.jpg"
+  },
+  {
+    "id": 14269,
+    "artisan_id": 782,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/540595.jpg"
+  },
+  {
+    "id": 14256,
+    "artisan_id": 783,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/crunchchute"
+  },
+  {
+    "id": 14257,
+    "artisan_id": 783,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/crunchchute_crafts/"
+  },
+  {
+    "id": 14258,
+    "artisan_id": 783,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/71OepIIL"
+  },
+  {
+    "id": 14259,
+    "artisan_id": 784,
+    "type": "URL_PRICES",
+    "url": "https://trello.com/b/TJGeGAhe/fursuits-%E2%98%86"
+  },
+  {
+    "id": 14260,
+    "artisan_id": 784,
+    "type": "URL_COMMISSIONS",
+    "url": "https://twitter.com/CryptidCoSuits"
+  },
+  {
+    "id": 14261,
+    "artisan_id": 784,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/CryptidCoSuits"
+  },
+  {
+    "id": 14262,
+    "artisan_id": 784,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/cryptidcosuits/"
+  },
+  {
+    "id": 14263,
+    "artisan_id": 784,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/cryptidcosuits"
+  },
+  {
+    "id": 14264,
+    "artisan_id": 784,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/TJGeGAhe/fursuits-%E2%98%86"
   }
 ]
