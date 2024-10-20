@@ -67629,7 +67629,7 @@
     "id": 1713,
     "artisan_id": 541,
     "field_name": "DATE_UPDATED",
-    "value": "2024-06-28 20:08:17"
+    "value": "2024-10-20 16:30:17"
   },
   {
     "id": 14611,
@@ -67683,13 +67683,13 @@
     "id": 14619,
     "artisan_id": 541,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Indoor feet"
   },
   {
     "id": 14620,
     "artisan_id": 541,
     "field_name": "FEATURES",
-    "value": "Removable horns/antlers"
+    "value": "Outdoor feet"
   },
   {
     "id": 14621,
@@ -67731,13 +67731,19 @@
     "id": 14627,
     "artisan_id": 541,
     "field_name": "STYLES",
+    "value": "Kigurumi"
+  },
+  {
+    "id": 19567,
+    "artisan_id": 541,
+    "field_name": "STYLES",
     "value": "Toony"
   },
   {
-    "id": 14628,
+    "id": 19568,
     "artisan_id": 541,
-    "field_name": "OTHER_STYLES",
-    "value": "Kemoony"
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
   },
   {
     "id": 1627,
@@ -83367,7 +83373,7 @@
     "id": 2301,
     "artisan_id": 627,
     "field_name": "DOES_NSFW",
-    "value": "False"
+    "value": "True"
   },
   {
     "id": 9095,
@@ -83409,13 +83415,13 @@
     "id": 9101,
     "artisan_id": 627,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "Follow-me eyes"
   },
   {
     "id": 9102,
     "artisan_id": 627,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "Indoor feet"
   },
   {
     "id": 9103,
@@ -83476,6 +83482,30 @@
     "artisan_id": 627,
     "field_name": "STYLES",
     "value": "Toony"
+  },
+  {
+    "id": 19569,
+    "artisan_id": 627,
+    "field_name": "DATE_UPDATED",
+    "value": "2024-10-20 16:31:07"
+  },
+  {
+    "id": 19570,
+    "artisan_id": 627,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 19571,
+    "artisan_id": 627,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
+  },
+  {
+    "id": 19572,
+    "artisan_id": 627,
+    "field_name": "FEATURES",
+    "value": "Washable heads"
   },
   {
     "id": 2302,
@@ -89763,7 +89793,7 @@
     "id": 2721,
     "artisan_id": 659,
     "field_name": "DATE_UPDATED",
-    "value": "2023-10-29 15:58:38"
+    "value": "2024-10-20 16:48:36"
   },
   {
     "id": 8781,
@@ -89817,25 +89847,25 @@
     "id": 8789,
     "artisan_id": 659,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Exchangeable hairs"
   },
   {
     "id": 8790,
     "artisan_id": 659,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 8791,
     "artisan_id": 659,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "Follow-me eyes"
   },
   {
     "id": 8792,
     "artisan_id": 659,
     "field_name": "FEATURES",
-    "value": "Movable jaw"
+    "value": "Indoor feet"
   },
   {
     "id": 8793,
@@ -89865,31 +89895,31 @@
     "id": 8797,
     "artisan_id": 659,
     "field_name": "ORDER_TYPES",
-    "value": "Handpaws (as parts/separate)"
+    "value": "Feetpaws (as parts/separate)"
   },
   {
     "id": 8798,
     "artisan_id": 659,
     "field_name": "ORDER_TYPES",
-    "value": "Head (as parts/separate)"
+    "value": "Full digitigrade"
   },
   {
     "id": 8799,
     "artisan_id": 659,
     "field_name": "ORDER_TYPES",
-    "value": "Mini partial (head + handpaws + tail)"
+    "value": "Full plantigrade"
   },
   {
     "id": 8800,
     "artisan_id": 659,
     "field_name": "ORDER_TYPES",
-    "value": "Partial (head + handpaws + tail + feetpaws)"
+    "value": "Handpaws (as parts/separate)"
   },
   {
     "id": 8801,
     "artisan_id": 659,
     "field_name": "ORDER_TYPES",
-    "value": "Tails (as parts/separate)"
+    "value": "Head (as parts/separate)"
   },
   {
     "id": 8802,
@@ -89902,6 +89932,66 @@
     "artisan_id": 659,
     "field_name": "STYLES",
     "value": "Toony"
+  },
+  {
+    "id": 19573,
+    "artisan_id": 659,
+    "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 19574,
+    "artisan_id": 659,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 19575,
+    "artisan_id": 659,
+    "field_name": "ORDER_TYPES",
+    "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 19576,
+    "artisan_id": 659,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Wings"
+  },
+  {
+    "id": 19577,
+    "artisan_id": 659,
+    "field_name": "OTHER_FEATURES",
+    "value": "Plush jawsets"
+  },
+  {
+    "id": 19578,
+    "artisan_id": 659,
+    "field_name": "OTHER_FEATURES",
+    "value": "Retractable claws"
+  },
+  {
+    "id": 19579,
+    "artisan_id": 659,
+    "field_name": "OTHER_FEATURES",
+    "value": "Hidden pocket"
+  },
+  {
+    "id": 19580,
+    "artisan_id": 659,
+    "field_name": "OTHER_FEATURES",
+    "value": "Magnetic piercings"
+  },
+  {
+    "id": 19581,
+    "artisan_id": 659,
+    "field_name": "OTHER_FEATURES",
+    "value": "Removable tail pillows for dragger tails"
+  },
+  {
+    "id": 19582,
+    "artisan_id": 659,
+    "field_name": "OTHER_FEATURES",
+    "value": "Hidden finger escapes"
   },
   {
     "id": 2540,

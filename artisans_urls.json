@@ -21516,6 +21516,12 @@
     "url": "https://trello.com/b/ipdmhK3v/saberfang-costumes"
   },
   {
+    "id": 14212,
+    "artisan_id": 541,
+    "type": "URL_PRICES",
+    "url": "https://trello.com/c/1aZ4eIFJ"
+  },
+  {
     "id": 11262,
     "artisan_id": 542,
     "type": "URL_WEBSITE",
@@ -25752,6 +25758,36 @@
     "url": "https://trello.com/b/XPBg3zd7/work-queue"
   },
   {
+    "id": 14213,
+    "artisan_id": 627,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:ghost_and_goats"
+  },
+  {
+    "id": 14214,
+    "artisan_id": 627,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/658895"
+  },
+  {
+    "id": 14215,
+    "artisan_id": 627,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/508216"
+  },
+  {
+    "id": 14223,
+    "artisan_id": 627,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/658895.jpg"
+  },
+  {
+    "id": 14224,
+    "artisan_id": 627,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/508216.jpg"
+  },
+  {
     "id": 12248,
     "artisan_id": 628,
     "type": "URL_WEBSITE",
@@ -27456,12 +27492,6 @@
     "url": "https://bsky.app/profile/drowsyseal.bsky.social"
   },
   {
-    "id": 12698,
-    "artisan_id": 659,
-    "type": "URL_COMMISSIONS",
-    "url": "https://trello.com/c/XMjeH18U/5-commission-status-limited"
-  },
-  {
     "id": 12699,
     "artisan_id": 659,
     "type": "URL_FUR_AFFINITY",
@@ -27546,46 +27576,58 @@
     "url": "https://www.furtrack.com/p/366321"
   },
   {
-    "id": 12713,
+    "id": 14216,
     "artisan_id": 659,
-    "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/366320"
+    "type": "URL_WEBSITE",
+    "url": "https://sparkspiritpanzard.wixsite.com/beeartsportfolio/fursuit-commissions"
   },
   {
-    "id": 12714,
+    "id": 14217,
     "artisan_id": 659,
-    "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/366323"
+    "type": "URL_COMMISSIONS",
+    "url": "https://trello.com/c/6259NuMx/7-commissions-are-open"
   },
   {
-    "id": 13461,
+    "id": 14225,
+    "artisan_id": 659,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/779309"
+  },
+  {
+    "id": 14226,
+    "artisan_id": 659,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/779306"
+  },
+  {
+    "id": 14227,
     "artisan_id": 659,
     "type": "URL_MINIATURES",
     "url": "https://orca2.furtrack.com/thumb/366325.jpg"
   },
   {
-    "id": 13462,
+    "id": 14228,
     "artisan_id": 659,
     "type": "URL_MINIATURES",
     "url": "https://orca2.furtrack.com/thumb/366322.jpg"
   },
   {
-    "id": 13463,
+    "id": 14229,
     "artisan_id": 659,
     "type": "URL_MINIATURES",
     "url": "https://orca2.furtrack.com/thumb/366321.jpg"
   },
   {
-    "id": 13464,
+    "id": 14230,
     "artisan_id": 659,
     "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/366320.jpg"
+    "url": "https://orca2.furtrack.com/thumb/779309.jpg"
   },
   {
-    "id": 13465,
+    "id": 14231,
     "artisan_id": 659,
     "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/366323.jpg"
+    "url": "https://orca2.furtrack.com/thumb/779306.jpg"
   },
   {
     "id": 12715,

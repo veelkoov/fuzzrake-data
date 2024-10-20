@@ -4218,7 +4218,6 @@ INSERT INTO artisans_urls VALUES(12694,575,'URL_MINIATURES','https://orca2.furtr
 INSERT INTO artisans_urls VALUES(12695,575,'URL_MINIATURES','https://orca2.furtrack.com/thumb/366681.jpg');
 INSERT INTO artisans_urls VALUES(12696,575,'URL_MINIATURES','https://orca2.furtrack.com/thumb/366680.jpg');
 INSERT INTO artisans_urls VALUES(12697,575,'URL_MINIATURES','https://orca2.furtrack.com/thumb/366679.jpg');
-INSERT INTO artisans_urls VALUES(12698,659,'URL_COMMISSIONS','https://trello.com/c/XMjeH18U/5-commission-status-limited');
 INSERT INTO artisans_urls VALUES(12699,659,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/spiritarcticclaw/');
 INSERT INTO artisans_urls VALUES(12700,659,'URL_DEVIANTART','https://www.deviantart.com/spiritarcticclaw');
 INSERT INTO artisans_urls VALUES(12701,659,'URL_TWITTER','https://twitter.com/suitsbyspirit');
@@ -4233,8 +4232,6 @@ INSERT INTO artisans_urls VALUES(12709,659,'URL_FURTRACK','https://www.furtrack.
 INSERT INTO artisans_urls VALUES(12710,659,'URL_PHOTOS','https://www.furtrack.com/p/366325');
 INSERT INTO artisans_urls VALUES(12711,659,'URL_PHOTOS','https://www.furtrack.com/p/366322');
 INSERT INTO artisans_urls VALUES(12712,659,'URL_PHOTOS','https://www.furtrack.com/p/366321');
-INSERT INTO artisans_urls VALUES(12713,659,'URL_PHOTOS','https://www.furtrack.com/p/366320');
-INSERT INTO artisans_urls VALUES(12714,659,'URL_PHOTOS','https://www.furtrack.com/p/366323');
 INSERT INTO artisans_urls VALUES(12715,660,'URL_WEBSITE','https://ko-fi.com/shysalley');
 INSERT INTO artisans_urls VALUES(12716,660,'URL_PRICES','https://docs.google.com/document/d/1s8HBrcs7KNjvrW513LbFCYHiVa7I3lPE4E6ov_R0Lgc/edit');
 INSERT INTO artisans_urls VALUES(12717,660,'URL_COMMISSIONS','https://www.furaffinity.net/user/thatcatobsesseddemon/');
@@ -4926,11 +4923,6 @@ INSERT INTO artisans_urls VALUES(13457,714,'URL_PHOTOS','https://www.furtrack.co
 INSERT INTO artisans_urls VALUES(13458,706,'URL_PHOTOS','https://www.furtrack.com/p/524168');
 INSERT INTO artisans_urls VALUES(13459,706,'URL_PHOTOS','https://www.furtrack.com/p/547499');
 INSERT INTO artisans_urls VALUES(13460,706,'URL_PHOTOS','https://www.furtrack.com/p/547495');
-INSERT INTO artisans_urls VALUES(13461,659,'URL_MINIATURES','https://orca2.furtrack.com/thumb/366325.jpg');
-INSERT INTO artisans_urls VALUES(13462,659,'URL_MINIATURES','https://orca2.furtrack.com/thumb/366322.jpg');
-INSERT INTO artisans_urls VALUES(13463,659,'URL_MINIATURES','https://orca2.furtrack.com/thumb/366321.jpg');
-INSERT INTO artisans_urls VALUES(13464,659,'URL_MINIATURES','https://orca2.furtrack.com/thumb/366320.jpg');
-INSERT INTO artisans_urls VALUES(13465,659,'URL_MINIATURES','https://orca2.furtrack.com/thumb/366323.jpg');
 INSERT INTO artisans_urls VALUES(13466,706,'URL_MINIATURES','https://orca2.furtrack.com/thumb/469954.jpg');
 INSERT INTO artisans_urls VALUES(13467,706,'URL_MINIATURES','https://orca2.furtrack.com/thumb/469955.jpg');
 INSERT INTO artisans_urls VALUES(13468,706,'URL_MINIATURES','https://orca2.furtrack.com/thumb/524168.jpg');
@@ -5659,4 +5651,19 @@ INSERT INTO artisans_urls VALUES(14208,779,'URL_QUEUE','https://docs.google.com/
 INSERT INTO artisans_urls VALUES(14209,779,'URL_FURTRACK','https://www.furtrack.com/index/maker:vauxiboxi');
 INSERT INTO artisans_urls VALUES(14210,737,'URL_COMMISSIONS','https://trello.com/b/eJrMR2cl/queen-hiss-creations');
 INSERT INTO artisans_urls VALUES(14211,427,'URL_COMMISSIONS','https://howlmetalhorrors.com/');
+INSERT INTO artisans_urls VALUES(14212,541,'URL_PRICES','https://trello.com/c/1aZ4eIFJ');
+INSERT INTO artisans_urls VALUES(14213,627,'URL_FURTRACK','https://www.furtrack.com/index/maker:ghost_and_goats');
+INSERT INTO artisans_urls VALUES(14214,627,'URL_PHOTOS','https://www.furtrack.com/p/658895');
+INSERT INTO artisans_urls VALUES(14215,627,'URL_PHOTOS','https://www.furtrack.com/p/508216');
+INSERT INTO artisans_urls VALUES(14216,659,'URL_WEBSITE','https://sparkspiritpanzard.wixsite.com/beeartsportfolio/fursuit-commissions');
+INSERT INTO artisans_urls VALUES(14217,659,'URL_COMMISSIONS','https://trello.com/c/6259NuMx/7-commissions-are-open');
+INSERT INTO artisans_urls VALUES(14223,627,'URL_MINIATURES','https://orca2.furtrack.com/thumb/658895.jpg');
+INSERT INTO artisans_urls VALUES(14224,627,'URL_MINIATURES','https://orca2.furtrack.com/thumb/508216.jpg');
+INSERT INTO artisans_urls VALUES(14225,659,'URL_PHOTOS','https://www.furtrack.com/p/779309');
+INSERT INTO artisans_urls VALUES(14226,659,'URL_PHOTOS','https://www.furtrack.com/p/779306');
+INSERT INTO artisans_urls VALUES(14227,659,'URL_MINIATURES','https://orca2.furtrack.com/thumb/366325.jpg');
+INSERT INTO artisans_urls VALUES(14228,659,'URL_MINIATURES','https://orca2.furtrack.com/thumb/366322.jpg');
+INSERT INTO artisans_urls VALUES(14229,659,'URL_MINIATURES','https://orca2.furtrack.com/thumb/366321.jpg');
+INSERT INTO artisans_urls VALUES(14230,659,'URL_MINIATURES','https://orca2.furtrack.com/thumb/779309.jpg');
+INSERT INTO artisans_urls VALUES(14231,659,'URL_MINIATURES','https://orca2.furtrack.com/thumb/779306.jpg');
 COMMIT;
