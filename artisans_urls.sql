@@ -224,7 +224,6 @@ INSERT INTO artisans_urls VALUES(249,61,'URL_TWITTER','https://twitter.com/Kaibo
 INSERT INTO artisans_urls VALUES(250,62,'URL_FURSUITREVIEW','https://fursuitreview.com/m/laela-mcpitty-suits/');
 INSERT INTO artisans_urls VALUES(261,66,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/lunovulpes/');
 INSERT INTO artisans_urls VALUES(262,66,'URL_COMMISSIONS','https://www.furaffinity.net/user/lunovulpes/');
-INSERT INTO artisans_urls VALUES(263,67,'URL_FURSUITREVIEW','https://fursuitreview.com/m/macaroni-market/');
 INSERT INTO artisans_urls VALUES(264,68,'URL_WEBSITE','http://www.madefuryou.com/');
 INSERT INTO artisans_urls VALUES(265,68,'URL_PRICES','http://www.madefuryou.com/about/');
 INSERT INTO artisans_urls VALUES(266,68,'URL_FAQ','http://www.madefuryou.com/about2/faq/');
@@ -5704,4 +5703,6 @@ INSERT INTO artisans_urls VALUES(14266,781,'URL_MINIATURES','https://orca2.furtr
 INSERT INTO artisans_urls VALUES(14267,782,'URL_MINIATURES','https://orca2.furtrack.com/thumb/697550.jpg');
 INSERT INTO artisans_urls VALUES(14268,782,'URL_MINIATURES','https://orca2.furtrack.com/thumb/694370.jpg');
 INSERT INTO artisans_urls VALUES(14269,782,'URL_MINIATURES','https://orca2.furtrack.com/thumb/540595.jpg');
+INSERT INTO artisans_urls VALUES(14270,67,'URL_FURSUITREVIEW','https://fursuitreview.com/m/mackoolzie/');
+INSERT INTO artisans_urls VALUES(14271,67,'URL_WEBSITE','https://mackoolzie.weebly.com/');
 COMMIT;

@@ -1986,16 +1986,22 @@
     "url": "https://www.furaffinity.net/user/lunovulpes/"
   },
   {
-    "id": 263,
-    "artisan_id": 67,
-    "type": "URL_FURSUITREVIEW",
-    "url": "https://fursuitreview.com/m/macaroni-market/"
-  },
-  {
     "id": 10992,
     "artisan_id": 67,
     "type": "URL_TWITTER",
     "url": "https://twitter.com/mackoolzie"
+  },
+  {
+    "id": 14270,
+    "artisan_id": 67,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/mackoolzie/"
+  },
+  {
+    "id": 14271,
+    "artisan_id": 67,
+    "type": "URL_WEBSITE",
+    "url": "https://mackoolzie.weebly.com/"
   },
   {
     "id": 264,
