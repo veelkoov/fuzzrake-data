@@ -112564,5 +112564,455 @@
     "artisan_id": 784,
     "field_name": "DOES_NSFW",
     "value": "True"
+  },
+  {
+    "id": 19714,
+    "artisan_id": 785,
+    "field_name": "DATE_ADDED",
+    "value": "2024-10-27 17:51:33"
+  },
+  {
+    "id": 19715,
+    "artisan_id": 785,
+    "field_name": "LANGUAGES",
+    "value": "Spanish"
+  },
+  {
+    "id": 19716,
+    "artisan_id": 785,
+    "field_name": "LANGUAGES",
+    "value": "English"
+  },
+  {
+    "id": 19717,
+    "artisan_id": 785,
+    "field_name": "LANGUAGES",
+    "value": "Catalan"
+  },
+  {
+    "id": 19718,
+    "artisan_id": 785,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Artistic liberty commissions"
+  },
+  {
+    "id": 19719,
+    "artisan_id": 785,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Premades"
+  },
+  {
+    "id": 19720,
+    "artisan_id": 785,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Standard commissions"
+  },
+  {
+    "id": 19721,
+    "artisan_id": 785,
+    "field_name": "STYLES",
+    "value": "Kemono"
+  },
+  {
+    "id": 19722,
+    "artisan_id": 785,
+    "field_name": "STYLES",
+    "value": "Toony"
+  },
+  {
+    "id": 19723,
+    "artisan_id": 785,
+    "field_name": "OTHER_STYLES",
+    "value": "Mascot costumes"
+  },
+  {
+    "id": 19724,
+    "artisan_id": 785,
+    "field_name": "ORDER_TYPES",
+    "value": "Feetpaws (as parts/separate)"
+  },
+  {
+    "id": 19725,
+    "artisan_id": 785,
+    "field_name": "ORDER_TYPES",
+    "value": "Head (as parts/separate)"
+  },
+  {
+    "id": 19726,
+    "artisan_id": 785,
+    "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 19727,
+    "artisan_id": 785,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 19728,
+    "artisan_id": 785,
+    "field_name": "ORDER_TYPES",
+    "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 19729,
+    "artisan_id": 785,
+    "field_name": "FEATURES",
+    "value": "Exchangeable hairs"
+  },
+  {
+    "id": 19730,
+    "artisan_id": 785,
+    "field_name": "FEATURES",
+    "value": "Exchangeable tongues"
+  },
+  {
+    "id": 19731,
+    "artisan_id": 785,
+    "field_name": "FEATURES",
+    "value": "Follow-me eyes"
+  },
+  {
+    "id": 19732,
+    "artisan_id": 785,
+    "field_name": "FEATURES",
+    "value": "In-head fans"
+  },
+  {
+    "id": 19733,
+    "artisan_id": 785,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 19734,
+    "artisan_id": 785,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
+  },
+  {
+    "id": 19735,
+    "artisan_id": 785,
+    "field_name": "FEATURES",
+    "value": "Washable heads"
+  },
+  {
+    "id": 19736,
+    "artisan_id": 785,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 19737,
+    "artisan_id": 785,
+    "field_name": "NSFW_WEBSITE",
+    "value": "False"
+  },
+  {
+    "id": 19738,
+    "artisan_id": 785,
+    "field_name": "NSFW_SOCIAL",
+    "value": "False"
+  },
+  {
+    "id": 19739,
+    "artisan_id": 785,
+    "field_name": "DOES_NSFW",
+    "value": "False"
+  },
+  {
+    "id": 19740,
+    "artisan_id": 785,
+    "field_name": "WORKS_WITH_MINORS",
+    "value": "True"
+  },
+  {
+    "id": 19741,
+    "artisan_id": 786,
+    "field_name": "DATE_ADDED",
+    "value": "2024-10-27 17:55:03"
+  },
+  {
+    "id": 19742,
+    "artisan_id": 786,
+    "field_name": "LANGUAGES",
+    "value": "English"
+  },
+  {
+    "id": 19743,
+    "artisan_id": 786,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Premades"
+  },
+  {
+    "id": 19744,
+    "artisan_id": 786,
+    "field_name": "STYLES",
+    "value": "Semi Realistic"
+  },
+  {
+    "id": 19745,
+    "artisan_id": 786,
+    "field_name": "STYLES",
+    "value": "Semi Toony"
+  },
+  {
+    "id": 19746,
+    "artisan_id": 786,
+    "field_name": "ORDER_TYPES",
+    "value": "Handpaws (as parts/separate)"
+  },
+  {
+    "id": 19747,
+    "artisan_id": 786,
+    "field_name": "ORDER_TYPES",
+    "value": "Head (as parts/separate)"
+  },
+  {
+    "id": 19748,
+    "artisan_id": 786,
+    "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 19749,
+    "artisan_id": 786,
+    "field_name": "ORDER_TYPES",
+    "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 19750,
+    "artisan_id": 786,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Props"
+  },
+  {
+    "id": 19751,
+    "artisan_id": 786,
+    "field_name": "FEATURES",
+    "value": "Adjustable/wiggle ears"
+  },
+  {
+    "id": 19752,
+    "artisan_id": 786,
+    "field_name": "FEATURES",
+    "value": "Attached handpaws and feetpaws"
+  },
+  {
+    "id": 19753,
+    "artisan_id": 786,
+    "field_name": "FEATURES",
+    "value": "Exchangeable tongues"
+  },
+  {
+    "id": 19754,
+    "artisan_id": 786,
+    "field_name": "FEATURES",
+    "value": "Follow-me eyes"
+  },
+  {
+    "id": 19755,
+    "artisan_id": 786,
+    "field_name": "FEATURES",
+    "value": "LED eyes"
+  },
+  {
+    "id": 19756,
+    "artisan_id": 786,
+    "field_name": "FEATURES",
+    "value": "LED/EL lights"
+  },
+  {
+    "id": 19757,
+    "artisan_id": 786,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 19758,
+    "artisan_id": 786,
+    "field_name": "FEATURES",
+    "value": "Washable heads"
+  },
+  {
+    "id": 19759,
+    "artisan_id": 786,
+    "field_name": "OTHER_FEATURES",
+    "value": "Closable eyelids"
+  },
+  {
+    "id": 19760,
+    "artisan_id": 786,
+    "field_name": "OTHER_FEATURES",
+    "value": "Pickable nose"
+  },
+  {
+    "id": 19761,
+    "artisan_id": 786,
+    "field_name": "OTHER_FEATURES",
+    "value": "Bendable tongues"
+  },
+  {
+    "id": 19762,
+    "artisan_id": 786,
+    "field_name": "OTHER_FEATURES",
+    "value": "3D whiskers"
+  },
+  {
+    "id": 19763,
+    "artisan_id": 786,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 19764,
+    "artisan_id": 786,
+    "field_name": "NSFW_WEBSITE",
+    "value": "True"
+  },
+  {
+    "id": 19765,
+    "artisan_id": 786,
+    "field_name": "NSFW_SOCIAL",
+    "value": "True"
+  },
+  {
+    "id": 19766,
+    "artisan_id": 786,
+    "field_name": "DOES_NSFW",
+    "value": "False"
+  },
+  {
+    "id": 19767,
+    "artisan_id": 787,
+    "field_name": "DATE_ADDED",
+    "value": "2024-10-27 18:03:27"
+  },
+  {
+    "id": 19768,
+    "artisan_id": 787,
+    "field_name": "LANGUAGES",
+    "value": "English"
+  },
+  {
+    "id": 19769,
+    "artisan_id": 787,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Premades"
+  },
+  {
+    "id": 19770,
+    "artisan_id": 787,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Standard commissions"
+  },
+  {
+    "id": 19771,
+    "artisan_id": 787,
+    "field_name": "STYLES",
+    "value": "Toony"
+  },
+  {
+    "id": 19772,
+    "artisan_id": 787,
+    "field_name": "ORDER_TYPES",
+    "value": "Handpaws (as parts/separate)"
+  },
+  {
+    "id": 19773,
+    "artisan_id": 787,
+    "field_name": "ORDER_TYPES",
+    "value": "Head (as parts/separate)"
+  },
+  {
+    "id": 19774,
+    "artisan_id": 787,
+    "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 19775,
+    "artisan_id": 787,
+    "field_name": "ORDER_TYPES",
+    "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 19776,
+    "artisan_id": 787,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Ear sets with paws/tail or separate items like ears only!"
+  },
+  {
+    "id": 19777,
+    "artisan_id": 787,
+    "field_name": "FEATURES",
+    "value": "Exchangeable hairs"
+  },
+  {
+    "id": 19778,
+    "artisan_id": 787,
+    "field_name": "FEATURES",
+    "value": "Exchangeable tongues"
+  },
+  {
+    "id": 19779,
+    "artisan_id": 787,
+    "field_name": "FEATURES",
+    "value": "Removable blush"
+  },
+  {
+    "id": 19780,
+    "artisan_id": 787,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 19781,
+    "artisan_id": 787,
+    "field_name": "FEATURES",
+    "value": "Washable heads"
+  },
+  {
+    "id": 19782,
+    "artisan_id": 787,
+    "field_name": "OTHER_FEATURES",
+    "value": "Pickable nose"
+  },
+  {
+    "id": 19783,
+    "artisan_id": 787,
+    "field_name": "OTHER_FEATURES",
+    "value": "big eyes"
+  },
+  {
+    "id": 19784,
+    "artisan_id": 787,
+    "field_name": "OTHER_FEATURES",
+    "value": "Hidden belt loops"
+  },
+  {
+    "id": 19785,
+    "artisan_id": 787,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 19786,
+    "artisan_id": 787,
+    "field_name": "NSFW_WEBSITE",
+    "value": "False"
+  },
+  {
+    "id": 19787,
+    "artisan_id": 787,
+    "field_name": "NSFW_SOCIAL",
+    "value": "False"
+  },
+  {
+    "id": 19788,
+    "artisan_id": 787,
+    "field_name": "DOES_NSFW",
+    "value": "True"
   }
 ]
