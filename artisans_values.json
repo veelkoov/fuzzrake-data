@@ -56823,7 +56823,7 @@
     "id": 1773,
     "artisan_id": 482,
     "field_name": "DATE_UPDATED",
-    "value": "2023-03-19 19:04:55"
+    "value": "2024-10-31 18:30:05"
   },
   {
     "id": 1774,
@@ -56847,7 +56847,7 @@
     "id": 1777,
     "artisan_id": 482,
     "field_name": "DOES_NSFW",
-    "value": "False"
+    "value": "True"
   },
   {
     "id": 6891,
@@ -56889,19 +56889,19 @@
     "id": 6897,
     "artisan_id": 482,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "In-head fans"
   },
   {
     "id": 6898,
     "artisan_id": 482,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Indoor feet"
   },
   {
     "id": 6899,
     "artisan_id": 482,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "Outdoor feet"
   },
   {
     "id": 6900,
@@ -56919,7 +56919,7 @@
     "id": 6902,
     "artisan_id": 482,
     "field_name": "OTHER_FEATURES",
-    "value": "Room for Glasses"
+    "value": "NFC Chips"
   },
   {
     "id": 6903,
@@ -56931,7 +56931,7 @@
     "id": 6904,
     "artisan_id": 482,
     "field_name": "OTHER_FEATURES",
-    "value": "Just ask"
+    "value": "Full body lining"
   },
   {
     "id": 6905,
@@ -57028,6 +57028,90 @@
     "artisan_id": 482,
     "field_name": "OTHER_STYLES",
     "value": "Crochet"
+  },
+  {
+    "id": 19789,
+    "artisan_id": 482,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Fursuit Head Bags"
+  },
+  {
+    "id": 19790,
+    "artisan_id": 482,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Paw Pillows"
+  },
+  {
+    "id": 19791,
+    "artisan_id": 482,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Arm sleeves"
+  },
+  {
+    "id": 19792,
+    "artisan_id": 482,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Wings"
+  },
+  {
+    "id": 19793,
+    "artisan_id": 482,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Embroidered Badges"
+  },
+  {
+    "id": 19794,
+    "artisan_id": 482,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Laminated Badges"
+  },
+  {
+    "id": 19795,
+    "artisan_id": 482,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 19796,
+    "artisan_id": 482,
+    "field_name": "FEATURES",
+    "value": "Washable heads"
+  },
+  {
+    "id": 19797,
+    "artisan_id": 482,
+    "field_name": "OTHER_FEATURES",
+    "value": "Finger Escapes"
+  },
+  {
+    "id": 19798,
+    "artisan_id": 482,
+    "field_name": "OTHER_FEATURES",
+    "value": "Room for glasses"
+  },
+  {
+    "id": 19799,
+    "artisan_id": 482,
+    "field_name": "OTHER_FEATURES",
+    "value": "Waterproof Eyes"
+  },
+  {
+    "id": 19800,
+    "artisan_id": 482,
+    "field_name": "OTHER_FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 19801,
+    "artisan_id": 482,
+    "field_name": "OTHER_FEATURES",
+    "value": "Hidden pocket"
+  },
+  {
+    "id": 19802,
+    "artisan_id": 482,
+    "field_name": "OTHER_FEATURES",
+    "value": "Just ask"
   },
   {
     "id": 1434,

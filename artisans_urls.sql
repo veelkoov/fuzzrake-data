@@ -5728,4 +5728,5 @@ INSERT INTO artisans_urls VALUES(14291,787,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(14292,787,'URL_LINKLIST','https://linktr.ee/pawparadesuits');
 INSERT INTO artisans_urls VALUES(14293,787,'URL_QUEUE','https://trello.com/b/0ezPfpgd/art-commissions');
 INSERT INTO artisans_urls VALUES(14294,785,'URL_SCRITCH','https://scritch.es/Eeveemakesfurs');
+INSERT INTO artisans_urls VALUES(14295,482,'URL_OTHER_SHOP','https://dogwool.square.site/s/shop');
 COMMIT;
