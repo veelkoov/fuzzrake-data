@@ -5729,4 +5729,9 @@ INSERT INTO artisans_urls VALUES(14292,787,'URL_LINKLIST','https://linktr.ee/paw
 INSERT INTO artisans_urls VALUES(14293,787,'URL_QUEUE','https://trello.com/b/0ezPfpgd/art-commissions');
 INSERT INTO artisans_urls VALUES(14294,785,'URL_SCRITCH','https://scritch.es/Eeveemakesfurs');
 INSERT INTO artisans_urls VALUES(14295,482,'URL_OTHER_SHOP','https://dogwool.square.site/s/shop');
+INSERT INTO artisans_urls VALUES(14296,785,'URL_LINKLIST','https://linktr.ee/eeveemakesfurs');
+INSERT INTO artisans_urls VALUES(14297,785,'URL_PHOTOS','https://scritch.es/pictures/daff6b72-584c-423a-ad03-8e74cd47425a');
+INSERT INTO artisans_urls VALUES(14298,785,'URL_PHOTOS','https://scritch.es/pictures/948cb284-cf6a-40f7-8844-3b39e5205e9c');
+INSERT INTO artisans_urls VALUES(14301,785,'URL_MINIATURES','https://storage.scritch.es/scritch/c17f0529723c208f7c15a4eafda4cca090c580ae/thumbnail_b511c4c2-d09f-4cb9-9f70-b36b8dca5247.jpeg#d40');
+INSERT INTO artisans_urls VALUES(14302,785,'URL_MINIATURES','https://storage.scritch.es/scritch/2c1e313d47ad69195a35fea4c10c65ab4d5395c7/thumbnail_c50e5807-82e0-4121-831b-3bfde6340faa.jpeg#d10');
 COMMIT;

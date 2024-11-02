@@ -112809,7 +112809,13 @@
     "id": 19740,
     "artisan_id": 785,
     "field_name": "WORKS_WITH_MINORS",
-    "value": "True"
+    "value": "False"
+  },
+  {
+    "id": 19803,
+    "artisan_id": 785,
+    "field_name": "DATE_UPDATED",
+    "value": "2024-11-02 08:19:41"
   },
   {
     "id": 19741,
