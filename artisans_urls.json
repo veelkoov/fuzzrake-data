@@ -34420,5 +34420,143 @@
     "artisan_id": 787,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/0ezPfpgd/art-commissions"
+  },
+  {
+    "id": 14308,
+    "artisan_id": 788,
+    "type": "URL_WEBSITE",
+    "url": "https://awooforsuits.com/"
+  },
+  {
+    "id": 14309,
+    "artisan_id": 788,
+    "type": "URL_PRICES",
+    "url": "https://awooforsuits.com/pricing"
+  },
+  {
+    "id": 14310,
+    "artisan_id": 788,
+    "type": "URL_COMMISSIONS",
+    "url": "https://awooforsuits.com/pricing"
+  },
+  {
+    "id": 14311,
+    "artisan_id": 788,
+    "type": "URL_FAQ",
+    "url": "https://awooforsuits.com/faq"
+  },
+  {
+    "id": 14312,
+    "artisan_id": 788,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/awooforsuits"
+  },
+  {
+    "id": 14313,
+    "artisan_id": 788,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/RhIjQG4z/awooforsuits"
+  },
+  {
+    "id": 14314,
+    "artisan_id": 788,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:awooforsuits"
+  },
+  {
+    "id": 14315,
+    "artisan_id": 788,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/430334"
+  },
+  {
+    "id": 14316,
+    "artisan_id": 788,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/753986"
+  },
+  {
+    "id": 14317,
+    "artisan_id": 788,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/519138"
+  },
+  {
+    "id": 14318,
+    "artisan_id": 788,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/171222"
+  },
+  {
+    "id": 14327,
+    "artisan_id": 788,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/430334.jpg"
+  },
+  {
+    "id": 14328,
+    "artisan_id": 788,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/753986.jpg"
+  },
+  {
+    "id": 14329,
+    "artisan_id": 788,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/519138.jpg"
+  },
+  {
+    "id": 14330,
+    "artisan_id": 788,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/171222.jpg"
+  },
+  {
+    "id": 14319,
+    "artisan_id": 789,
+    "type": "URL_COMMISSIONS",
+    "url": "https://trello.com/b/3alJ4dur/skinns-the-hyenas-suits-fabric-used"
+  },
+  {
+    "id": 14320,
+    "artisan_id": 789,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/SkinnsH"
+  },
+  {
+    "id": 14321,
+    "artisan_id": 789,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/skinns.the.hyena/"
+  },
+  {
+    "id": 14322,
+    "artisan_id": 789,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/channel/UCw-CpUBgLPKRvqAishsjYxw"
+  },
+  {
+    "id": 14323,
+    "artisan_id": 789,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/Pawstabilities"
+  },
+  {
+    "id": 14324,
+    "artisan_id": 789,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/display-feedback/pawstabilities"
+  },
+  {
+    "id": 14325,
+    "artisan_id": 789,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/3alJ4dur/skinns-the-hyenas-suits-fabric-used"
+  },
+  {
+    "id": 14326,
+    "artisan_id": 789,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:pawstabilities"
   }
 ]
