@@ -28149,67 +28149,67 @@
     "id": 6964,
     "artisan_id": 288,
     "field_name": "FEATURES",
-    "value": "Attached handpaws and feetpaws"
+    "value": "Attached tail"
   },
   {
     "id": 6965,
     "artisan_id": 288,
     "field_name": "FEATURES",
-    "value": "Attached tail"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 6966,
     "artisan_id": 288,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Follow-me eyes"
   },
   {
     "id": 6967,
     "artisan_id": 288,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "In-head fans"
   },
   {
     "id": 6968,
     "artisan_id": 288,
     "field_name": "FEATURES",
-    "value": "In-head fans"
+    "value": "Indoor feet"
   },
   {
     "id": 6969,
     "artisan_id": 288,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "LED eyes"
   },
   {
     "id": 6970,
     "artisan_id": 288,
     "field_name": "FEATURES",
-    "value": "LED eyes"
+    "value": "LED/EL lights"
   },
   {
     "id": 6971,
     "artisan_id": 288,
     "field_name": "FEATURES",
-    "value": "LED/EL lights"
+    "value": "Movable jaw"
   },
   {
     "id": 6972,
     "artisan_id": 288,
     "field_name": "FEATURES",
-    "value": "Movable jaw"
+    "value": "Outdoor feet"
   },
   {
     "id": 6973,
     "artisan_id": 288,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Removable eyelids"
   },
   {
     "id": 6974,
     "artisan_id": 288,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "Washable heads"
   },
   {
     "id": 6975,
@@ -28275,19 +28275,31 @@
     "id": 6985,
     "artisan_id": 288,
     "field_name": "STYLES",
-    "value": "Kigurumi"
-  },
-  {
-    "id": 6986,
-    "artisan_id": 288,
-    "field_name": "STYLES",
-    "value": "Semi Realistic"
-  },
-  {
-    "id": 6987,
-    "artisan_id": 288,
-    "field_name": "STYLES",
     "value": "Toony"
+  },
+  {
+    "id": 19804,
+    "artisan_id": 288,
+    "field_name": "DATE_UPDATED",
+    "value": "2024-11-03 09:54:11"
+  },
+  {
+    "id": 19805,
+    "artisan_id": 288,
+    "field_name": "NSFW_WEBSITE",
+    "value": "False"
+  },
+  {
+    "id": 19806,
+    "artisan_id": 288,
+    "field_name": "NSFW_SOCIAL",
+    "value": "False"
+  },
+  {
+    "id": 19807,
+    "artisan_id": 288,
+    "field_name": "DOES_NSFW",
+    "value": "True"
   },
   {
     "id": 1171,

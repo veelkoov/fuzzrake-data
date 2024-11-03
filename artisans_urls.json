@@ -9888,12 +9888,6 @@
     "url": "https://aminoapps.com/c/furry-amino/page/user/jackie/mo1q_g7JcnfNNdxjlbbrlvK6r5V7XkYRqvb"
   },
   {
-    "id": 1320,
-    "artisan_id": 288,
-    "type": "URL_FUR_AFFINITY",
-    "url": "https://www.furaffinity.net/user/eelowyn/"
-  },
-  {
     "id": 1321,
     "artisan_id": 288,
     "type": "URL_TWITTER",
@@ -9934,6 +9928,36 @@
     "artisan_id": 288,
     "type": "URL_FURSUITREVIEW",
     "url": "https://fursuitreview.com/m/dragons-den-fursuits/"
+  },
+  {
+    "id": 14303,
+    "artisan_id": 288,
+    "type": "URL_WEBSITE",
+    "url": "https://linktr.ee/eelowyn"
+  },
+  {
+    "id": 14304,
+    "artisan_id": 288,
+    "type": "URL_PRICES",
+    "url": "https://forms.gle/CVBaJmFQXHn3Xmwq6"
+  },
+  {
+    "id": 14305,
+    "artisan_id": 288,
+    "type": "URL_COMMISSIONS",
+    "url": "https://twitter.com/Eelowyn"
+  },
+  {
+    "id": 14306,
+    "artisan_id": 288,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/5VVPjN1p/dragons-den-fursuits-commission-queue"
+  },
+  {
+    "id": 14307,
+    "artisan_id": 288,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:dragons_den_fursuits"
   },
   {
     "id": 1324,
