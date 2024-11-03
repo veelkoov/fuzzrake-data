@@ -3675,4 +3675,12 @@ INSERT INTO events VALUES(3686,'2024-10-30 00:09:05.729','CS_UPDATED','Trashawk'
 INSERT INTO events VALUES(3687,'2024-10-30 00:09:05.749','CS_UPDATED','Claws&Roses Studio',0,0,0,'','https://clawsnrosesstudio.carrd.co/','','','Commissions',0);
 INSERT INTO events VALUES(3688,'2024-10-31 00:08:52.991','CS_UPDATED','grayREALM Studio',0,0,0,'','https://www.grayrealmstudio.com/commission-status','','Commissions','',1);
 INSERT INTO events VALUES(3689,'2024-10-31 12:09:02.972','CS_UPDATED','Shrumibo',0,0,0,'','https://www.shrumibo.com/','','Quotes','Commissions',1);
+INSERT INTO events VALUES(3690,'2024-10-31 18:31:00','DATA_UPDATED','',0,1,0,'63111d6f563763a8dc82e37ebaf20af106c0a583','','','','',0);
+INSERT INTO events VALUES(3691,'2024-11-01 12:08:44.330','CS_UPDATED','WolfBuck Studios',0,0,0,'','https://wolfbuckstudios.com/','','','Commissions',0);
+INSERT INTO events VALUES(3692,'2024-11-01 12:08:44.516','CS_UPDATED','Trashawk',0,0,0,'','https://trashawksuits.carrd.co/','','Commissions','',0);
+INSERT INTO events VALUES(3693,'2024-11-02 00:08:44.548','CS_UPDATED','Mugiwara''s Creative Corner',0,0,0,'','https://twitter.com/MugiwaraCosplay','','','Commissions',0);
+INSERT INTO events VALUES(3694,'2024-11-02 00:08:44.576','CS_UPDATED','Snowkat',0,0,0,'','https://trello.com/b/KlxhUIo9/snowkat-fursuits','','','Commissions',1);
+INSERT INTO events VALUES(3695,'2024-11-02 08:27:00','DATA_UPDATED','',0,1,0,'ffc97edd6843b67e57a188e912e5d59010b0f7c4','','','','',0);
+INSERT INTO events VALUES(3696,'2024-11-03 00:08:50.084','CS_UPDATED','Haunted Opossum Creations LLC',0,0,0,'','https://hauntedopossum.com/','','Commissions','',1);
+INSERT INTO events VALUES(3697,'2024-11-03 00:08:50.099','CS_UPDATED','WeaverOwl',0,0,0,'','https://www.furaffinity.net/user/weaverowl/','','Commissions','',0);
 COMMIT;
