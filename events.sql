@@ -3708,4 +3708,7 @@ INSERT INTO events VALUES(3719,'2024-11-08 12:09:24.069','CS_UPDATED','The Goth 
 INSERT INTO events VALUES(3720,'2024-11-08 12:09:24.147','CS_UPDATED','KecrowCreations',0,0,0,'','https://kecrowcreations.carrd.co/','','Quotes','',1);
 INSERT INTO events VALUES(3721,'2024-11-08 12:09:24.191','CS_UPDATED','Claws&Roses Studio',0,0,0,'','https://clawsnrosesstudio.carrd.co/','','Commissions','',1);
 INSERT INTO events VALUES(3722,'2024-11-08 12:09:24.252','CS_UPDATED','t4zer',0,0,0,'','https://twitter.com/t4zerr','','','Commissions',0);
+INSERT INTO events VALUES(3723,'2024-11-09 00:09:26.373','CS_UPDATED','The Goth Bear',0,0,0,'','https://gothbear.carrd.co/','','','Commissions',0);
+INSERT INTO events VALUES(3724,'2024-11-09 00:09:26.433','CS_UPDATED','KecrowCreations',0,0,0,'','https://kecrowcreations.carrd.co/','','','Quotes',0);
+INSERT INTO events VALUES(3725,'2024-11-09 00:09:26.477','CS_UPDATED','Claws&Roses Studio',0,0,0,'','https://clawsnrosesstudio.carrd.co/','','','Commissions',0);
 COMMIT;

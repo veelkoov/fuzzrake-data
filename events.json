@@ -55588,5 +55588,50 @@
     "no_longer_open_for": "",
     "now_open_for": "Commissions",
     "tracking_issues": 0
+  },
+  {
+    "id": 3723,
+    "timestamp": "2024-11-09 00:09:26.373",
+    "type": "CS_UPDATED",
+    "artisan_name": "The Goth Bear",
+    "new_makers_count": 0,
+    "updated_makers_count": 0,
+    "reported_updated_makers_count": 0,
+    "git_commits": "",
+    "checked_urls": "https://gothbear.carrd.co/",
+    "description": "",
+    "no_longer_open_for": "",
+    "now_open_for": "Commissions",
+    "tracking_issues": 0
+  },
+  {
+    "id": 3724,
+    "timestamp": "2024-11-09 00:09:26.433",
+    "type": "CS_UPDATED",
+    "artisan_name": "KecrowCreations",
+    "new_makers_count": 0,
+    "updated_makers_count": 0,
+    "reported_updated_makers_count": 0,
+    "git_commits": "",
+    "checked_urls": "https://kecrowcreations.carrd.co/",
+    "description": "",
+    "no_longer_open_for": "",
+    "now_open_for": "Quotes",
+    "tracking_issues": 0
+  },
+  {
+    "id": 3725,
+    "timestamp": "2024-11-09 00:09:26.477",
+    "type": "CS_UPDATED",
+    "artisan_name": "Claws&Roses Studio",
+    "new_makers_count": 0,
+    "updated_makers_count": 0,
+    "reported_updated_makers_count": 0,
+    "git_commits": "",
+    "checked_urls": "https://clawsnrosesstudio.carrd.co/",
+    "description": "",
+    "no_longer_open_for": "",
+    "now_open_for": "Commissions",
+    "tracking_issues": 0
   }
 ]
