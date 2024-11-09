@@ -1,7 +1,6 @@
 PRAGMA foreign_keys=OFF;
 BEGIN TRANSACTION;
-CREATE TABLE events (id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, timestamp DATETIME NOT NULL --(DC2Type:datetime_immutable)
-, type VARCHAR(16) NOT NULL, artisan_name VARCHAR(256) NOT NULL, new_makers_count INTEGER NOT NULL, updated_makers_count INTEGER NOT NULL, reported_updated_makers_count INTEGER NOT NULL, git_commits VARCHAR(256) NOT NULL, checked_urls VARCHAR(1024) NOT NULL, description CLOB NOT NULL, no_longer_open_for VARCHAR(256) NOT NULL, now_open_for VARCHAR(256) NOT NULL, tracking_issues BOOLEAN NOT NULL);
+CREATE TABLE events (id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, timestamp DATETIME NOT NULL, type CLOB NOT NULL, artisan_name CLOB NOT NULL, new_makers_count INTEGER NOT NULL, updated_makers_count INTEGER NOT NULL, reported_updated_makers_count INTEGER NOT NULL, git_commits CLOB NOT NULL, checked_urls CLOB NOT NULL, description CLOB NOT NULL, no_longer_open_for CLOB NOT NULL, now_open_for CLOB NOT NULL, tracking_issues BOOLEAN NOT NULL);
 INSERT INTO events VALUES(1,'2021-08-01 10:38:58','CS_UPDATED','Fossa Studio',0,0,0,'','https://www.facebook.com/pg/FossaStudioo/posts/','','','Commissions',0);
 INSERT INTO events VALUES(2,'2021-08-01 10:38:58','CS_UPDATED','FursuitUP',0,0,0,'','http://www.fursuitup.com/','','',replace('Commissions\nQuotes','\n',char(10)),0);
 INSERT INTO events VALUES(3,'2021-08-01 10:38:58','CS_UPDATED','TunnySaysIDK',0,0,0,'','https://www.furaffinity.net/user/TunnySaysIDK/','','','Commissions',0);
