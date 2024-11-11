@@ -91119,7 +91119,7 @@
     "id": 2586,
     "artisan_id": 666,
     "field_name": "DATE_UPDATED",
-    "value": "2024-10-12 08:28:26"
+    "value": "2024-11-11 19:29:13"
   },
   {
     "id": 2587,
@@ -113409,6 +113409,240 @@
     "id": 19856,
     "artisan_id": 789,
     "field_name": "WORKS_WITH_MINORS",
+    "value": "False"
+  },
+  {
+    "id": 19857,
+    "artisan_id": 790,
+    "field_name": "DATE_ADDED",
+    "value": "2024-11-11 19:41:11"
+  },
+  {
+    "id": 19858,
+    "artisan_id": 790,
+    "field_name": "LANGUAGES",
+    "value": "English"
+  },
+  {
+    "id": 19859,
+    "artisan_id": 790,
+    "field_name": "LANGUAGES",
+    "value": "French"
+  },
+  {
+    "id": 19860,
+    "artisan_id": 790,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Artistic liberty commissions"
+  },
+  {
+    "id": 19861,
+    "artisan_id": 790,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Premades"
+  },
+  {
+    "id": 19862,
+    "artisan_id": 790,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Standard commissions"
+  },
+  {
+    "id": 19863,
+    "artisan_id": 790,
+    "field_name": "STYLES",
+    "value": "Anime"
+  },
+  {
+    "id": 19864,
+    "artisan_id": 790,
+    "field_name": "STYLES",
+    "value": "Realistic"
+  },
+  {
+    "id": 19865,
+    "artisan_id": 790,
+    "field_name": "STYLES",
+    "value": "Semi Realistic"
+  },
+  {
+    "id": 19866,
+    "artisan_id": 790,
+    "field_name": "STYLES",
+    "value": "Semi Toony"
+  },
+  {
+    "id": 19867,
+    "artisan_id": 790,
+    "field_name": "STYLES",
+    "value": "Toony"
+  },
+  {
+    "id": 19868,
+    "artisan_id": 790,
+    "field_name": "ORDER_TYPES",
+    "value": "Bodysuits (as parts/separate)"
+  },
+  {
+    "id": 19869,
+    "artisan_id": 790,
+    "field_name": "ORDER_TYPES",
+    "value": "Feetpaws (as parts/separate)"
+  },
+  {
+    "id": 19870,
+    "artisan_id": 790,
+    "field_name": "ORDER_TYPES",
+    "value": "Full digitigrade"
+  },
+  {
+    "id": 19871,
+    "artisan_id": 790,
+    "field_name": "ORDER_TYPES",
+    "value": "Full plantigrade"
+  },
+  {
+    "id": 19872,
+    "artisan_id": 790,
+    "field_name": "ORDER_TYPES",
+    "value": "Handpaws (as parts/separate)"
+  },
+  {
+    "id": 19873,
+    "artisan_id": 790,
+    "field_name": "ORDER_TYPES",
+    "value": "Head (as parts/separate)"
+  },
+  {
+    "id": 19874,
+    "artisan_id": 790,
+    "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 19875,
+    "artisan_id": 790,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 19876,
+    "artisan_id": 790,
+    "field_name": "ORDER_TYPES",
+    "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 19877,
+    "artisan_id": 790,
+    "field_name": "ORDER_TYPES",
+    "value": "Three-fourth (head + handpaws + tail + legs/pants + feetpaws)"
+  },
+  {
+    "id": 19878,
+    "artisan_id": 790,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "3D Modeled Headbase , i ever Buy 3D model and print them myself or Buy 3d printed head"
+  },
+  {
+    "id": 19879,
+    "artisan_id": 790,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Or i can Custom 3D model a Head for a commission"
+  },
+  {
+    "id": 19880,
+    "artisan_id": 790,
+    "field_name": "FEATURES",
+    "value": "Adjustable eyebrows"
+  },
+  {
+    "id": 19881,
+    "artisan_id": 790,
+    "field_name": "FEATURES",
+    "value": "Attached handpaws and feetpaws"
+  },
+  {
+    "id": 19882,
+    "artisan_id": 790,
+    "field_name": "FEATURES",
+    "value": "Attached tail"
+  },
+  {
+    "id": 19883,
+    "artisan_id": 790,
+    "field_name": "FEATURES",
+    "value": "Exchangeable hairs"
+  },
+  {
+    "id": 19884,
+    "artisan_id": 790,
+    "field_name": "FEATURES",
+    "value": "Exchangeable tongues"
+  },
+  {
+    "id": 19885,
+    "artisan_id": 790,
+    "field_name": "FEATURES",
+    "value": "Follow-me eyes"
+  },
+  {
+    "id": 19886,
+    "artisan_id": 790,
+    "field_name": "FEATURES",
+    "value": "In-head fans"
+  },
+  {
+    "id": 19887,
+    "artisan_id": 790,
+    "field_name": "FEATURES",
+    "value": "LED eyes"
+  },
+  {
+    "id": 19888,
+    "artisan_id": 790,
+    "field_name": "FEATURES",
+    "value": "LED/EL lights"
+  },
+  {
+    "id": 19889,
+    "artisan_id": 790,
+    "field_name": "FEATURES",
+    "value": "Movable jaw"
+  },
+  {
+    "id": 19890,
+    "artisan_id": 790,
+    "field_name": "FEATURES",
+    "value": "Outdoor feet"
+  },
+  {
+    "id": 19891,
+    "artisan_id": 790,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
+  },
+  {
+    "id": 19892,
+    "artisan_id": 790,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 19893,
+    "artisan_id": 790,
+    "field_name": "NSFW_WEBSITE",
+    "value": "True"
+  },
+  {
+    "id": 19894,
+    "artisan_id": 790,
+    "field_name": "NSFW_SOCIAL",
+    "value": "True"
+  },
+  {
+    "id": 19895,
+    "artisan_id": 790,
+    "field_name": "DOES_NSFW",
     "value": "False"
   }
 ]

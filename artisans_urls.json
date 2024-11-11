@@ -28086,22 +28086,52 @@
     "url": "https://bsky.app/profile/transformtiger.bsky.social"
   },
   {
-    "id": 12801,
+    "id": 13333,
+    "artisan_id": 666,
+    "type": "URL_OTHER",
+    "url": "https://www.flickr.com/photos/transformtiger/albums"
+  },
+  {
+    "id": 14331,
+    "artisan_id": 666,
+    "type": "URL_COMMISSIONS",
+    "url": "https://forms.gle/LzvJeztrtJiup7md7"
+  },
+  {
+    "id": 14332,
+    "artisan_id": 666,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/787861"
+  },
+  {
+    "id": 14333,
+    "artisan_id": 666,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/787870"
+  },
+  {
+    "id": 14342,
     "artisan_id": 666,
     "type": "URL_MINIATURES",
     "url": "https://orca2.furtrack.com/thumb/312866.jpg"
   },
   {
-    "id": 12802,
+    "id": 14343,
     "artisan_id": 666,
     "type": "URL_MINIATURES",
     "url": "https://orca2.furtrack.com/thumb/312883.jpg"
   },
   {
-    "id": 13333,
+    "id": 14344,
     "artisan_id": 666,
-    "type": "URL_OTHER",
-    "url": "https://www.flickr.com/photos/transformtiger/albums"
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/787861.jpg"
+  },
+  {
+    "id": 14345,
+    "artisan_id": 666,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/787870.jpg"
   },
   {
     "id": 12792,
@@ -34558,5 +34588,53 @@
     "artisan_id": 789,
     "type": "URL_FURTRACK",
     "url": "https://www.furtrack.com/index/maker:pawstabilities"
+  },
+  {
+    "id": 14334,
+    "artisan_id": 790,
+    "type": "URL_WEBSITE",
+    "url": "https://www.zatasarts.fr/"
+  },
+  {
+    "id": 14335,
+    "artisan_id": 790,
+    "type": "URL_COMMISSIONS",
+    "url": "https://t.me/Zatasarts"
+  },
+  {
+    "id": 14336,
+    "artisan_id": 790,
+    "type": "URL_FAQ",
+    "url": "https://www.zatasarts.fr/en/cgv-tos/"
+  },
+  {
+    "id": 14337,
+    "artisan_id": 790,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/zata-s/"
+  },
+  {
+    "id": 14338,
+    "artisan_id": 790,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/Zataaa.s/"
+  },
+  {
+    "id": 14339,
+    "artisan_id": 790,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/Zaza_art_suit_print"
+  },
+  {
+    "id": 14340,
+    "artisan_id": 790,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/ZandZPrintAndSuits"
+  },
+  {
+    "id": 14341,
+    "artisan_id": 790,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/z7IJmfnH/zata-s-commission-queue"
   }
 ]

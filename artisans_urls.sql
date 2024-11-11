@@ -4314,8 +4314,6 @@ INSERT INTO artisans_urls VALUES(12797,667,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(12798,667,'URL_LINKLIST','http://linktr.ee/angel.the.dutchie');
 INSERT INTO artisans_urls VALUES(12799,667,'URL_FURTRACK','https://www.furtrack.com/index/maker:angel_the_dutchie');
 INSERT INTO artisans_urls VALUES(12800,667,'URL_OTHER','https://tiktok.com/@angel.the.dutchie');
-INSERT INTO artisans_urls VALUES(12801,666,'URL_MINIATURES','https://orca2.furtrack.com/thumb/312866.jpg');
-INSERT INTO artisans_urls VALUES(12802,666,'URL_MINIATURES','https://orca2.furtrack.com/thumb/312883.jpg');
 INSERT INTO artisans_urls VALUES(12803,668,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/synthfaecreations/');
 INSERT INTO artisans_urls VALUES(12804,668,'URL_TWITTER','https://twitter.com/synthfae');
 INSERT INTO artisans_urls VALUES(12805,668,'URL_ETSY','https://www.etsy.com/shop/SynthFaeCreations');
@@ -5761,4 +5759,19 @@ INSERT INTO artisans_urls VALUES(14327,788,'URL_MINIATURES','https://orca2.furtr
 INSERT INTO artisans_urls VALUES(14328,788,'URL_MINIATURES','https://orca2.furtrack.com/thumb/753986.jpg');
 INSERT INTO artisans_urls VALUES(14329,788,'URL_MINIATURES','https://orca2.furtrack.com/thumb/519138.jpg');
 INSERT INTO artisans_urls VALUES(14330,788,'URL_MINIATURES','https://orca2.furtrack.com/thumb/171222.jpg');
+INSERT INTO artisans_urls VALUES(14331,666,'URL_COMMISSIONS','https://forms.gle/LzvJeztrtJiup7md7');
+INSERT INTO artisans_urls VALUES(14332,666,'URL_PHOTOS','https://www.furtrack.com/p/787861');
+INSERT INTO artisans_urls VALUES(14333,666,'URL_PHOTOS','https://www.furtrack.com/p/787870');
+INSERT INTO artisans_urls VALUES(14334,790,'URL_WEBSITE','https://www.zatasarts.fr/');
+INSERT INTO artisans_urls VALUES(14335,790,'URL_COMMISSIONS','https://t.me/Zatasarts');
+INSERT INTO artisans_urls VALUES(14336,790,'URL_FAQ','https://www.zatasarts.fr/en/cgv-tos/');
+INSERT INTO artisans_urls VALUES(14337,790,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/zata-s/');
+INSERT INTO artisans_urls VALUES(14338,790,'URL_FACEBOOK','https://www.facebook.com/Zataaa.s/');
+INSERT INTO artisans_urls VALUES(14339,790,'URL_LINKLIST','https://linktr.ee/Zaza_art_suit_print');
+INSERT INTO artisans_urls VALUES(14340,790,'URL_ETSY','https://www.etsy.com/shop/ZandZPrintAndSuits');
+INSERT INTO artisans_urls VALUES(14341,790,'URL_QUEUE','https://trello.com/b/z7IJmfnH/zata-s-commission-queue');
+INSERT INTO artisans_urls VALUES(14342,666,'URL_MINIATURES','https://orca2.furtrack.com/thumb/312866.jpg');
+INSERT INTO artisans_urls VALUES(14343,666,'URL_MINIATURES','https://orca2.furtrack.com/thumb/312883.jpg');
+INSERT INTO artisans_urls VALUES(14344,666,'URL_MINIATURES','https://orca2.furtrack.com/thumb/787861.jpg');
+INSERT INTO artisans_urls VALUES(14345,666,'URL_MINIATURES','https://orca2.furtrack.com/thumb/787870.jpg');
 COMMIT;

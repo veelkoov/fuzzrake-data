@@ -19023,5 +19023,30 @@
     "payment_methods": "Pay in full\nPayment plan (four month is the standard), flexible payment plans as needed",
     "currencies_accepted": "USD",
     "species_comment": "All species are on the table including fictional/original species. I prefer making something colorful rather than natural colored."
+  },
+  {
+    "id": 790,
+    "maker_id": "ZATAAS7",
+    "name": "Zata's Arts",
+    "formerly": "Zata, Zaros, Zataas, Zata-S, Zatathedingue",
+    "intro": "",
+    "since": "2019-06",
+    "country": "FR",
+    "state": "",
+    "city": "Haguenau",
+    "payment_plans": "100% Of material as first payment\nthen you can pay 10 by 10% at the minimum per month\nFursuit is not started until Full payment",
+    "species_does": "Most species",
+    "species_doesnt": "",
+    "notes": "",
+    "contact_allowed": "FEEDBACK",
+    "contact_info_obfuscated": "Z****s@ou******fr",
+    "inactive_reason": "",
+    "production_models_comment": "",
+    "styles_comment": "I only work with 3D Model Headbase",
+    "order_types_comment": "",
+    "features_comment": "",
+    "payment_methods": "PayPal\nBank transfers\nSumup",
+    "currencies_accepted": "EUR",
+    "species_comment": "I Love to experiment a lot so i'm always open to any question!"
   }
 ]
