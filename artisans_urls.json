@@ -30252,12 +30252,6 @@
     "url": "https://www.tiktok.com/@mercutio_myg"
   },
   {
-    "id": 13394,
-    "artisan_id": 706,
-    "type": "URL_WEBSITE",
-    "url": "https://cedarwoods.straw.page/"
-  },
-  {
     "id": 13395,
     "artisan_id": 706,
     "type": "URL_COMMISSIONS",
@@ -30346,6 +30340,12 @@
     "artisan_id": 706,
     "type": "URL_MINIATURES",
     "url": "https://orca2.furtrack.com/thumb/547495.jpg"
+  },
+  {
+    "id": 14346,
+    "artisan_id": 706,
+    "type": "URL_WEBSITE",
+    "url": "https://linktr.ee/reedart"
   },
   {
     "id": 13405,

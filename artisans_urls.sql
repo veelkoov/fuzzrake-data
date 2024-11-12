@@ -4855,7 +4855,6 @@ INSERT INTO artisans_urls VALUES(13390,705,'URL_LINKLIST','https://linktr.ee/Mer
 INSERT INTO artisans_urls VALUES(13391,705,'URL_ETSY','https://www.etsy.com/shop/Mercutioyourgod');
 INSERT INTO artisans_urls VALUES(13392,705,'URL_OTHER','https://www.tiktok.com/@mercutio_myg');
 INSERT INTO artisans_urls VALUES(13393,693,'URL_FURTRACK','https://www.furtrack.com/index/maker:chibeasts');
-INSERT INTO artisans_urls VALUES(13394,706,'URL_WEBSITE','https://cedarwoods.straw.page/');
 INSERT INTO artisans_urls VALUES(13395,706,'URL_COMMISSIONS','https://www.instagram.com/_cedarwoods_/');
 INSERT INTO artisans_urls VALUES(13396,706,'URL_TUMBLR','https://www.tumblr.com/reed-tiger');
 INSERT INTO artisans_urls VALUES(13397,706,'URL_INSTAGRAM','https://www.instagram.com/_cedarwoods_/');
@@ -5774,4 +5773,5 @@ INSERT INTO artisans_urls VALUES(14342,666,'URL_MINIATURES','https://orca2.furtr
 INSERT INTO artisans_urls VALUES(14343,666,'URL_MINIATURES','https://orca2.furtrack.com/thumb/312883.jpg');
 INSERT INTO artisans_urls VALUES(14344,666,'URL_MINIATURES','https://orca2.furtrack.com/thumb/787861.jpg');
 INSERT INTO artisans_urls VALUES(14345,666,'URL_MINIATURES','https://orca2.furtrack.com/thumb/787870.jpg');
+INSERT INTO artisans_urls VALUES(14346,706,'URL_WEBSITE','https://linktr.ee/reedart');
 COMMIT;
