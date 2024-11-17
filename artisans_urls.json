@@ -14046,48 +14046,6 @@
     "url": "https://www.instagram.com/kryptickaiju/"
   },
   {
-    "id": 9401,
-    "artisan_id": 393,
-    "type": "URL_WEBSITE",
-    "url": "https://www.patchworkcostumes.com/"
-  },
-  {
-    "id": 9402,
-    "artisan_id": 393,
-    "type": "URL_PRICES",
-    "url": "https://www.patchworkcostumes.com/commission-prices/"
-  },
-  {
-    "id": 9403,
-    "artisan_id": 393,
-    "type": "URL_FUR_AFFINITY",
-    "url": "https://www.furaffinity.net/user/patchworkcostumes/"
-  },
-  {
-    "id": 9404,
-    "artisan_id": 393,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/patchworksuits"
-  },
-  {
-    "id": 9405,
-    "artisan_id": 393,
-    "type": "URL_FACEBOOK",
-    "url": "https://www.facebook.com/patchworkcostumes/"
-  },
-  {
-    "id": 9406,
-    "artisan_id": 393,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/patchworksuits/"
-  },
-  {
-    "id": 9407,
-    "artisan_id": 393,
-    "type": "URL_QUEUE",
-    "url": "https://trello.com/b/X3bYoI9A/commission-queue"
-  },
-  {
     "id": 9408,
     "artisan_id": 394,
     "type": "URL_WEBSITE",
@@ -23124,24 +23082,6 @@
     "url": "https://storage.scritch.es/scritch/48361653d9fce28846df5b347774ff98fa2bb707/thumbnail_db760562-b8d3-4809-b171-84f23387f19e.png"
   },
   {
-    "id": 11635,
-    "artisan_id": 571,
-    "type": "URL_WEBSITE",
-    "url": "https://www.firestormwingcreations.net/"
-  },
-  {
-    "id": 11636,
-    "artisan_id": 571,
-    "type": "URL_PRICES",
-    "url": "https://www.firestormwingcreations.net/Price_lists.C.htm"
-  },
-  {
-    "id": 11637,
-    "artisan_id": 571,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/firestormwingcreations/"
-  },
-  {
     "id": 11917,
     "artisan_id": 571,
     "type": "URL_YOUTUBE",
@@ -24450,12 +24390,6 @@
     "url": "https://trello.com/b/n81SvUvI/commissions"
   },
   {
-    "id": 13119,
-    "artisan_id": 601,
-    "type": "URL_WEBSITE",
-    "url": "https://fellowbeasts.de/"
-  },
-  {
     "id": 12011,
     "artisan_id": 602,
     "type": "URL_WEBSITE",
@@ -25500,12 +25434,6 @@
     "url": "https://trello.com/b/ubwcMwZ3/fursuit-commissions"
   },
   {
-    "id": 12214,
-    "artisan_id": 624,
-    "type": "URL_WEBSITE",
-    "url": "https://kurenji.carrd.co/"
-  },
-  {
     "id": 12215,
     "artisan_id": 624,
     "type": "URL_COMMISSIONS",
@@ -25588,6 +25516,12 @@
     "artisan_id": 624,
     "type": "URL_MINIATURES",
     "url": "https://orca2.furtrack.com/thumb/260422.jpg"
+  },
+  {
+    "id": 14368,
+    "artisan_id": 624,
+    "type": "URL_WEBSITE",
+    "url": "https://www.kurenji.com/"
   },
   {
     "id": 12227,
@@ -26230,48 +26164,6 @@
     "artisan_id": 639,
     "type": "URL_ETSY",
     "url": "https://www.etsy.com/shop/SparklePawsStudios"
-  },
-  {
-    "id": 12432,
-    "artisan_id": 640,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/_beastmaker_"
-  },
-  {
-    "id": 12433,
-    "artisan_id": 640,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/beastmakerstudio/"
-  },
-  {
-    "id": 13502,
-    "artisan_id": 640,
-    "type": "URL_WEBSITE",
-    "url": "https://beastmakerstudio.com/"
-  },
-  {
-    "id": 13503,
-    "artisan_id": 640,
-    "type": "URL_PRICES",
-    "url": "https://beastmakerstudio.com/pricing/"
-  },
-  {
-    "id": 13504,
-    "artisan_id": 640,
-    "type": "URL_YOUTUBE",
-    "url": "https://www.youtube.com/@BeastmakerStudio"
-  },
-  {
-    "id": 13505,
-    "artisan_id": 640,
-    "type": "URL_ETSY",
-    "url": "https://beastmakerfursuits.etsy.com/"
-  },
-  {
-    "id": 13506,
-    "artisan_id": 640,
-    "type": "URL_THE_DEALERS_DEN",
-    "url": "https://www.thedealersden.com/other-items/beastmaker/153757"
   },
   {
     "id": 13507,
