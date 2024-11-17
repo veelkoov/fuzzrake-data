@@ -4686,7 +4686,6 @@ INSERT INTO artisans_urls VALUES(13199,698,'URL_ETSY','https://www.etsy.com/shop
 INSERT INTO artisans_urls VALUES(13200,698,'URL_QUEUE','https://docs.google.com/document/d/1TLpqQQ6nZslQj7hmhFLASry00-SLMpxh8PwynQbZcg8/edit?usp=sharing');
 INSERT INTO artisans_urls VALUES(13201,698,'URL_OTHER','https://www.patreon.com/TwilightKnightsCosplay (wips)');
 INSERT INTO artisans_urls VALUES(13202,698,'URL_OTHER','https://www.canfur.ca/  (faux fur)');
-INSERT INTO artisans_urls VALUES(13203,228,'URL_FURSUITREVIEW','https://fursuitreview.com/m/halfblood-creatures/');
 INSERT INTO artisans_urls VALUES(13204,266,'URL_FURSUITREVIEW','https://fursuitreview.com/m/rage-and-roar-customs/');
 INSERT INTO artisans_urls VALUES(13205,600,'URL_COMMISSIONS','https://www.furaffinity.net/user/akohusky/');
 INSERT INTO artisans_urls VALUES(13206,600,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/akohusky/');
@@ -5783,4 +5782,7 @@ INSERT INTO artisans_urls VALUES(14361,514,'URL_MINIATURES','https://orca2.furtr
 INSERT INTO artisans_urls VALUES(14362,514,'URL_MINIATURES','https://orca2.furtrack.com/thumb/472330.jpg');
 INSERT INTO artisans_urls VALUES(14363,514,'URL_MINIATURES','https://orca2.furtrack.com/thumb/611775.jpg');
 INSERT INTO artisans_urls VALUES(14364,514,'URL_MINIATURES','https://orca2.furtrack.com/thumb/472333.jpg');
+INSERT INTO artisans_urls VALUES(14365,463,'URL_FURSUITREVIEW','https://fursuitreview.com/m/foxes-in-boxes-fursuits/');
+INSERT INTO artisans_urls VALUES(14366,228,'URL_FURSUITREVIEW','https://fursuitreview.com/m/lilac-dreams-studio/');
+INSERT INTO artisans_urls VALUES(14367,718,'URL_FURSUITREVIEW','https://fursuitreview.com/m/wolf-n-fox-creations/');
 COMMIT;

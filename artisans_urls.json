@@ -7332,12 +7332,6 @@
     "url": "https://twitter.com/tay__bee"
   },
   {
-    "id": 13203,
-    "artisan_id": 228,
-    "type": "URL_FURSUITREVIEW",
-    "url": "https://fursuitreview.com/m/halfblood-creatures/"
-  },
-  {
     "id": 14165,
     "artisan_id": 228,
     "type": "URL_WEBSITE",
@@ -7384,6 +7378,12 @@
     "artisan_id": 228,
     "type": "URL_OTHER",
     "url": "https://t.me/LilacDreamsStudio"
+  },
+  {
+    "id": 14366,
+    "artisan_id": 228,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/lilac-dreams-studio/"
   },
   {
     "id": 994,
@@ -17872,6 +17872,12 @@
     "artisan_id": 463,
     "type": "URL_FAQ",
     "url": "https://www.foxesinboxesfursuits.com/faqs"
+  },
+  {
+    "id": 14365,
+    "artisan_id": 463,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/foxes-in-boxes-fursuits/"
   },
   {
     "id": 10070,
@@ -30826,6 +30832,12 @@
     "artisan_id": 718,
     "type": "URL_MINIATURES",
     "url": "https://orca2.furtrack.com/thumb/536473.jpg"
+  },
+  {
+    "id": 14367,
+    "artisan_id": 718,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/wolf-n-fox-creations/"
   },
   {
     "id": 13539,
