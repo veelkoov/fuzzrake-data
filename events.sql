@@ -3726,4 +3726,15 @@ INSERT INTO events VALUES(3738,'2024-11-10 12:09:17.158','CS_UPDATED','The Goth 
 INSERT INTO events VALUES(3739,'2024-11-10 12:09:17.230','CS_UPDATED','KecrowCreations',0,0,0,'','https://kecrowcreations.carrd.co/','','','Quotes',0);
 INSERT INTO events VALUES(3740,'2024-11-10 12:09:17.270','CS_UPDATED','Claws&Roses Studio',0,0,0,'','https://clawsnrosesstudio.carrd.co/','','','Commissions',0);
 INSERT INTO events VALUES(3741,'2024-11-11 12:09:14.914','CS_UPDATED','MeowWare',0,0,0,'','https://meowware.weebly.com/','','','Commissions',0);
+INSERT INTO events VALUES(3742,'2024-11-11 19:48:00','DATA_UPDATED','',1,1,0,'a73da0ab24e7a9dd1eb970f30c207b3dcb88c338','','','','',0);
+INSERT INTO events VALUES(3743,'2024-11-12 00:10:15.882','CS_UPDATED','The Goth Bear',0,0,0,'','https://gothbear.carrd.co/','','Commissions','',1);
+INSERT INTO events VALUES(3744,'2024-11-12 12:09:31.145','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','Quotes','',1);
+INSERT INTO events VALUES(3745,'2024-11-12 20:25:00','DATA_UPDATED','',0,1,0,'d3874fbe4b8d8ec2de8237a4409d136d90f744b1','','','','',0);
+INSERT INTO events VALUES(3746,'2024-11-13 00:09:19.644','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','','Quotes',0);
+INSERT INTO events VALUES(3747,'2024-11-13 00:09:19.702','CS_UPDATED','The Goth Bear',0,0,0,'','https://gothbear.carrd.co/','','','Commissions',0);
+INSERT INTO events VALUES(3748,'2024-11-15 00:09:18.546','CS_UPDATED','Alecrim Carmim',0,0,0,'','https://www.alecrimcarmim.com/','',replace('Commissions\nArtistic liberty','\n',char(10)),'',1);
+INSERT INTO events VALUES(3749,'2024-11-15 00:09:18.590','CS_UPDATED','Jesdenart',0,0,0,'','https://jesdenart.com/prices','','','Commissions',0);
+INSERT INTO events VALUES(3750,'2024-11-16 00:09:12.586','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','Quotes','',1);
+INSERT INTO events VALUES(3751,'2024-11-16 12:09:20.008','CS_UPDATED','Mugiwara''s Creative Corner',0,0,0,'','https://twitter.com/MugiwaraCosplay','','Commissions','',0);
+INSERT INTO events VALUES(3752,'2024-11-17 00:09:27.869','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','','Quotes',0);
 COMMIT;
