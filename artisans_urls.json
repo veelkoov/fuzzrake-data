@@ -3900,18 +3900,6 @@
     "url": "https://fursuitreview.com/m/ccs-mascots/"
   },
   {
-    "id": 525,
-    "artisan_id": 141,
-    "type": "URL_WEBSITE",
-    "url": "http://ccsmascots.com/"
-  },
-  {
-    "id": 526,
-    "artisan_id": 141,
-    "type": "URL_PRICES",
-    "url": "http://ccsmascots.com/commission-pricing-2/"
-  },
-  {
     "id": 527,
     "artisan_id": 141,
     "type": "URL_FUR_AFFINITY",
@@ -3952,12 +3940,6 @@
     "artisan_id": 141,
     "type": "URL_QUEUE",
     "url": "https://www.furaffinity.net/user/ccsmascots/"
-  },
-  {
-    "id": 534,
-    "artisan_id": 141,
-    "type": "URL_COMMISSIONS",
-    "url": "http://ccsmascots.com/commission-pricing-2/"
   },
   {
     "id": 535,
@@ -7014,30 +6996,6 @@
     "url": "Weasyl: https://www.weasyl.com/~sparklekreations\nKo-Fi: https://ko-fi.com/sparklekreations\nPatreon: http://www.patreon.com/SparkleKreations"
   },
   {
-    "id": 956,
-    "artisan_id": 219,
-    "type": "URL_FUR_AFFINITY",
-    "url": "https://www.furaffinity.net/user/cawstumes/"
-  },
-  {
-    "id": 957,
-    "artisan_id": 219,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/cawstumes"
-  },
-  {
-    "id": 958,
-    "artisan_id": 219,
-    "type": "URL_FACEBOOK",
-    "url": "https://www.facebook.com/Cawstumes/"
-  },
-  {
-    "id": 959,
-    "artisan_id": 219,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/cawstumes/"
-  },
-  {
     "id": 9920,
     "artisan_id": 219,
     "type": "URL_FURSUITREVIEW",
@@ -8284,24 +8242,6 @@
     "artisan_id": 245,
     "type": "URL_COMMISSIONS",
     "url": "https://spudstudios.net/commissions/"
-  },
-  {
-    "id": 1090,
-    "artisan_id": 246,
-    "type": "URL_FUR_AFFINITY",
-    "url": "https://www.furaffinity.net/user/kittyfluff/"
-  },
-  {
-    "id": 1091,
-    "artisan_id": 246,
-    "type": "URL_FACEBOOK",
-    "url": "https://www.facebook.com/kittyfluffcostumes/"
-  },
-  {
-    "id": 1092,
-    "artisan_id": 246,
-    "type": "URL_COMMISSIONS",
-    "url": "https://www.furaffinity.net/user/kittyfluff/"
   },
   {
     "id": 1093,
@@ -12516,22 +12456,10 @@
     "url": "https://linktr.ee/yeenbug"
   },
   {
-    "id": 11495,
-    "artisan_id": 356,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/yeenbugsuits"
-  },
-  {
     "id": 11496,
     "artisan_id": 356,
     "type": "URL_THE_DEALERS_DEN",
     "url": "https://www.thedealersden.com/store/yeenbug-studio"
-  },
-  {
-    "id": 11497,
-    "artisan_id": 356,
-    "type": "URL_QUEUE",
-    "url": "https://trello.com/b/bZxDDrUf/yeenbug-studio"
   },
   {
     "id": 9109,
@@ -13372,36 +13300,6 @@
     "artisan_id": 377,
     "type": "URL_TWITTER",
     "url": "https://twitter.com/Val_Stitches"
-  },
-  {
-    "id": 9264,
-    "artisan_id": 378,
-    "type": "URL_WEBSITE",
-    "url": "https://kaiverpuppy.wixsite.com/alphaandomegastudios"
-  },
-  {
-    "id": 9265,
-    "artisan_id": 378,
-    "type": "URL_PRICES",
-    "url": "https://kaiverpuppy.wixsite.com/alphaandomegastudios/base-prices"
-  },
-  {
-    "id": 9266,
-    "artisan_id": 378,
-    "type": "URL_FAQ",
-    "url": "https://kaiverpuppy.wixsite.com/alphaandomegastudios/faq"
-  },
-  {
-    "id": 9271,
-    "artisan_id": 378,
-    "type": "URL_YOUTUBE",
-    "url": "https://www.youtube.com/channel/UC6MGGWe7ZFp7NSBYVuNL6nQ"
-  },
-  {
-    "id": 9272,
-    "artisan_id": 378,
-    "type": "URL_QUEUE",
-    "url": "https://trello.com/b/RrlSmS1A/suit-commissions"
   },
   {
     "id": 9287,
@@ -16770,40 +16668,10 @@
     "url": "https://makeafurs.carrd.co/"
   },
   {
-    "id": 9869,
-    "artisan_id": 443,
-    "type": "URL_WEBSITE",
-    "url": "http://snugglesfursuits.com/"
-  },
-  {
-    "id": 9870,
-    "artisan_id": 443,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/SnugglesFur"
-  },
-  {
-    "id": 9871,
-    "artisan_id": 443,
-    "type": "URL_FACEBOOK",
-    "url": "https://www.facebook.com/SnugglesFursuits/"
-  },
-  {
-    "id": 9872,
-    "artisan_id": 443,
-    "type": "URL_THE_DEALERS_DEN",
-    "url": "https://www.thedealersden.com/display-feedback/snugglesfursuits"
-  },
-  {
     "id": 9873,
     "artisan_id": 443,
     "type": "URL_SCRITCH",
     "url": "https://scritch.es/makers/snuggles-fursuits"
-  },
-  {
-    "id": 9874,
-    "artisan_id": 443,
-    "type": "URL_COMMISSIONS",
-    "url": "https://twitter.com/SnugglesFur"
   },
   {
     "id": 9878,
@@ -23254,30 +23122,6 @@
     "artisan_id": 569,
     "type": "URL_MINIATURES",
     "url": "https://storage.scritch.es/scritch/48361653d9fce28846df5b347774ff98fa2bb707/thumbnail_db760562-b8d3-4809-b171-84f23387f19e.png"
-  },
-  {
-    "id": 11631,
-    "artisan_id": 570,
-    "type": "URL_COMMISSIONS",
-    "url": "https://www.furaffinity.net/user/ozarksfursuits/"
-  },
-  {
-    "id": 11632,
-    "artisan_id": 570,
-    "type": "URL_FUR_AFFINITY",
-    "url": "https://www.furaffinity.net/user/ozarksfursuits/"
-  },
-  {
-    "id": 11633,
-    "artisan_id": 570,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/ozarksfursuits"
-  },
-  {
-    "id": 11634,
-    "artisan_id": 570,
-    "type": "URL_ETSY",
-    "url": "https://www.etsy.com/shop/OzarksFursuits"
   },
   {
     "id": 11635,
@@ -30724,30 +30568,6 @@
     "artisan_id": 715,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/02vI7W6V/sleepy-panda-fursuit-queue"
-  },
-  {
-    "id": 13482,
-    "artisan_id": 716,
-    "type": "URL_COMMISSIONS",
-    "url": "https://www.instagram.com/thunder_rift/"
-  },
-  {
-    "id": 13483,
-    "artisan_id": 716,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/thunder_rift/"
-  },
-  {
-    "id": 13484,
-    "artisan_id": 716,
-    "type": "URL_ETSY",
-    "url": "https://www.etsy.com/ca/shop/BirdCreationz"
-  },
-  {
-    "id": 13485,
-    "artisan_id": 716,
-    "type": "URL_THE_DEALERS_DEN",
-    "url": "https://www.thedealersden.com/store/thunder_rift"
   },
   {
     "id": 13486,
