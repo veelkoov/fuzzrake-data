@@ -56038,5 +56038,35 @@
     "no_longer_open_for": "",
     "now_open_for": "Quotes",
     "tracking_issues": 0
+  },
+  {
+    "id": 3753,
+    "timestamp": "2024-11-17 08:44:00",
+    "type": "DATA_UPDATED",
+    "artisan_name": "",
+    "new_makers_count": 0,
+    "updated_makers_count": 3,
+    "reported_updated_makers_count": 0,
+    "git_commits": "b1ece5755c28242b0756fbd8cb2d79d7b76c2cae",
+    "checked_urls": "",
+    "description": "",
+    "no_longer_open_for": "",
+    "now_open_for": "",
+    "tracking_issues": 0
+  },
+  {
+    "id": 3754,
+    "timestamp": "2024-11-17 09:46:00",
+    "type": "DATA_UPDATED",
+    "artisan_name": "",
+    "new_makers_count": 0,
+    "updated_makers_count": 0,
+    "reported_updated_makers_count": 8,
+    "git_commits": "e10813384dfcfa4b9f19ff40ace0dcef2bebbb88",
+    "checked_urls": "",
+    "description": "",
+    "no_longer_open_for": "",
+    "now_open_for": "",
+    "tracking_issues": 0
   }
 ]

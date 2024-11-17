@@ -3737,4 +3737,6 @@ INSERT INTO events VALUES(3749,'2024-11-15 00:09:18.590','CS_UPDATED','Jesdenart
 INSERT INTO events VALUES(3750,'2024-11-16 00:09:12.586','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','Quotes','',1);
 INSERT INTO events VALUES(3751,'2024-11-16 12:09:20.008','CS_UPDATED','Mugiwara''s Creative Corner',0,0,0,'','https://twitter.com/MugiwaraCosplay','','Commissions','',0);
 INSERT INTO events VALUES(3752,'2024-11-17 00:09:27.869','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','','Quotes',0);
+INSERT INTO events VALUES(3753,'2024-11-17 08:44:00','DATA_UPDATED','',0,3,0,'b1ece5755c28242b0756fbd8cb2d79d7b76c2cae','','','','',0);
+INSERT INTO events VALUES(3754,'2024-11-17 09:46:00','DATA_UPDATED','',0,0,8,'e10813384dfcfa4b9f19ff40ace0dcef2bebbb88','','','','',0);
 COMMIT;
