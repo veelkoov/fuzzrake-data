@@ -1878,6 +1878,24 @@
     "url": "https://twitter.com/hounds_teeth"
   },
   {
+    "id": 14358,
+    "artisan_id": 56,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/hounds_teeth/"
+  },
+  {
+    "id": 14359,
+    "artisan_id": 56,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:houndsteeth"
+  },
+  {
+    "id": 14360,
+    "artisan_id": 56,
+    "type": "URL_OTHER",
+    "url": "https://bsky.app/profile/hounds-teeth.com"
+  },
+  {
     "id": 236,
     "artisan_id": 57,
     "type": "URL_FURSUITREVIEW",
@@ -20196,54 +20214,6 @@
     "url": "https://www.furtrack.com/user/Jesdenart"
   },
   {
-    "id": 10900,
-    "artisan_id": 514,
-    "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/68611"
-  },
-  {
-    "id": 10901,
-    "artisan_id": 514,
-    "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/68615"
-  },
-  {
-    "id": 10902,
-    "artisan_id": 514,
-    "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/68614"
-  },
-  {
-    "id": 10903,
-    "artisan_id": 514,
-    "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/68613"
-  },
-  {
-    "id": 10929,
-    "artisan_id": 514,
-    "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/68611.jpg"
-  },
-  {
-    "id": 10930,
-    "artisan_id": 514,
-    "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/68615.jpg"
-  },
-  {
-    "id": 10931,
-    "artisan_id": 514,
-    "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/68614.jpg"
-  },
-  {
-    "id": 10932,
-    "artisan_id": 514,
-    "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/68613.jpg"
-  },
-  {
     "id": 11377,
     "artisan_id": 514,
     "type": "URL_FURSUITREVIEW",
@@ -20272,6 +20242,60 @@
     "artisan_id": 514,
     "type": "URL_FACEBOOK",
     "url": "https://www.facebook.com/Jesdenart/"
+  },
+  {
+    "id": 14347,
+    "artisan_id": 514,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/jesdena/"
+  },
+  {
+    "id": 14348,
+    "artisan_id": 514,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/472336"
+  },
+  {
+    "id": 14349,
+    "artisan_id": 514,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/472330"
+  },
+  {
+    "id": 14350,
+    "artisan_id": 514,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/611775"
+  },
+  {
+    "id": 14351,
+    "artisan_id": 514,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/472333"
+  },
+  {
+    "id": 14361,
+    "artisan_id": 514,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/472336.jpg"
+  },
+  {
+    "id": 14362,
+    "artisan_id": 514,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/472330.jpg"
+  },
+  {
+    "id": 14363,
+    "artisan_id": 514,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/611775.jpg"
+  },
+  {
+    "id": 14364,
+    "artisan_id": 514,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/472333.jpg"
   },
   {
     "id": 10904,
@@ -24450,12 +24474,6 @@
     "url": "https://trello.com/b/LM58MoBq/craftycoven-queue"
   },
   {
-    "id": 11985,
-    "artisan_id": 599,
-    "type": "URL_PRICES",
-    "url": "https://trello.com/c/V7fVsWT2/31-fursuit-pricing"
-  },
-  {
     "id": 11986,
     "artisan_id": 599,
     "type": "URL_TWITTER",
@@ -24466,6 +24484,42 @@
     "artisan_id": 599,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/lYZI4E5P/creams-workshop"
+  },
+  {
+    "id": 14352,
+    "artisan_id": 599,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/bunnypaws/"
+  },
+  {
+    "id": 14353,
+    "artisan_id": 599,
+    "type": "URL_WEBSITE",
+    "url": "https://bunnypaws.co.uk/"
+  },
+  {
+    "id": 14354,
+    "artisan_id": 599,
+    "type": "URL_PRICES",
+    "url": "https://bunnypaws.co.uk/price.html"
+  },
+  {
+    "id": 14355,
+    "artisan_id": 599,
+    "type": "URL_FAQ",
+    "url": "https://bunnypaws.co.uk/comms.html"
+  },
+  {
+    "id": 14356,
+    "artisan_id": 599,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:bunnypaws"
+  },
+  {
+    "id": 14357,
+    "artisan_id": 599,
+    "type": "URL_OTHER",
+    "url": "https://t.me/bunnypawsfur"
   },
   {
     "id": 11989,
