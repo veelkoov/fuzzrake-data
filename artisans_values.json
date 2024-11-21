@@ -49425,7 +49425,7 @@
     "id": 1498,
     "artisan_id": 441,
     "field_name": "DATE_UPDATED",
-    "value": "2024-03-04 19:21:05"
+    "value": "2024-11-21 20:13:31"
   },
   {
     "id": 1499,
@@ -49551,7 +49551,7 @@
     "id": 3769,
     "artisan_id": 441,
     "field_name": "OTHER_FEATURES",
-    "value": "Resin claws"
+    "value": "Hard material claws"
   },
   {
     "id": 3770,
@@ -49587,7 +49587,7 @@
     "id": 3775,
     "artisan_id": 441,
     "field_name": "OTHER_FEATURES",
-    "value": "Poseable hair"
+    "value": "Posable hair"
   },
   {
     "id": 3776,
@@ -49653,19 +49653,19 @@
     "id": 3786,
     "artisan_id": 441,
     "field_name": "ORDER_TYPES",
-    "value": "Head (as parts/separate)"
+    "value": "Feetpaws (as parts/separate)"
   },
   {
     "id": 3787,
     "artisan_id": 441,
     "field_name": "ORDER_TYPES",
-    "value": "Mini partial (head + handpaws + tail)"
+    "value": "Handpaws (as parts/separate)"
   },
   {
     "id": 3788,
     "artisan_id": 441,
     "field_name": "ORDER_TYPES",
-    "value": "Partial (head + handpaws + tail + feetpaws)"
+    "value": "Head (as parts/separate)"
   },
   {
     "id": 3789,
@@ -49678,6 +49678,72 @@
     "artisan_id": 441,
     "field_name": "STYLES",
     "value": "Toony"
+  },
+  {
+    "id": 19931,
+    "artisan_id": 441,
+    "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 19932,
+    "artisan_id": 441,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 19933,
+    "artisan_id": 441,
+    "field_name": "ORDER_TYPES",
+    "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 19934,
+    "artisan_id": 441,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Wings"
+  },
+  {
+    "id": 19935,
+    "artisan_id": 441,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Accessories"
+  },
+  {
+    "id": 19936,
+    "artisan_id": 441,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Arm sleeves"
+  },
+  {
+    "id": 19937,
+    "artisan_id": 441,
+    "field_name": "OTHER_FEATURES",
+    "value": "Removable feet soles"
+  },
+  {
+    "id": 19938,
+    "artisan_id": 441,
+    "field_name": "OTHER_FEATURES",
+    "value": "Exchangeable feet soles"
+  },
+  {
+    "id": 19939,
+    "artisan_id": 441,
+    "field_name": "OTHER_FEATURES",
+    "value": "Pickable nose"
+  },
+  {
+    "id": 19940,
+    "artisan_id": 441,
+    "field_name": "OTHER_FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 19941,
+    "artisan_id": 441,
+    "field_name": "OTHER_FEATURES",
+    "value": "Fixed expression"
   },
   {
     "id": 1393,
@@ -73467,7 +73533,7 @@
     "id": 2086,
     "artisan_id": 571,
     "field_name": "DATE_UPDATED",
-    "value": "2023-01-15 13:03:28"
+    "value": "2024-11-21 20:16:27"
   },
   {
     "id": 8311,
@@ -73672,6 +73738,12 @@
     "artisan_id": 571,
     "field_name": "OTHER_STYLES",
     "value": "Semi realistic is a goal, and i would like to try a kemono at some point"
+  },
+  {
+    "id": 19942,
+    "artisan_id": 571,
+    "field_name": "LANGUAGES",
+    "value": "Italian"
   },
   {
     "id": 1855,

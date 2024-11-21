@@ -16524,66 +16524,6 @@
     "url": "https://www.furtrack.com/user/AlecrimCarmim"
   },
   {
-    "id": 11102,
-    "artisan_id": 441,
-    "type": "URL_PHOTOS",
-    "url": "https://scritch.es/pictures/4e0e931f-d1ff-4a9a-a540-443e51b86e75"
-  },
-  {
-    "id": 11103,
-    "artisan_id": 441,
-    "type": "URL_PHOTOS",
-    "url": "https://scritch.es/pictures/1856cc68-419c-4543-80e2-7ea97ead919b"
-  },
-  {
-    "id": 11104,
-    "artisan_id": 441,
-    "type": "URL_PHOTOS",
-    "url": "https://scritch.es/pictures/22217b02-14fa-4e7f-94ab-f138862cdbff"
-  },
-  {
-    "id": 11329,
-    "artisan_id": 441,
-    "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/88334"
-  },
-  {
-    "id": 11330,
-    "artisan_id": 441,
-    "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/88331"
-  },
-  {
-    "id": 11349,
-    "artisan_id": 441,
-    "type": "URL_MINIATURES",
-    "url": "https://storage.scritch.es/scritch/5892b6dfaf2cae3eb36bc18783d43ea53a77a73b/thumbnail_44843b90-d15e-4611-9228-d3e74bc8b80a.jpeg"
-  },
-  {
-    "id": 11350,
-    "artisan_id": 441,
-    "type": "URL_MINIATURES",
-    "url": "https://storage.scritch.es/scritch/c7f6fed5d7064cfcb2e0ef0936aca4393fb37867/thumbnail_9db0c620-3183-43c7-8bc7-90cf600d1d89.jpeg"
-  },
-  {
-    "id": 11351,
-    "artisan_id": 441,
-    "type": "URL_MINIATURES",
-    "url": "https://storage.scritch.es/scritch/35f694d2d51c6e0a291a6c921b73761dff30ae8b/thumbnail_f3b760d1-8ffd-4737-81c7-a205cd179e19.jpeg"
-  },
-  {
-    "id": 11352,
-    "artisan_id": 441,
-    "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/88334.jpg"
-  },
-  {
-    "id": 11353,
-    "artisan_id": 441,
-    "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/88331.jpg"
-  },
-  {
     "id": 13348,
     "artisan_id": 441,
     "type": "URL_YOUTUBE",
@@ -16594,6 +16534,66 @@
     "artisan_id": 441,
     "type": "URL_THE_DEALERS_DEN",
     "url": "https://www.thedealersden.com/other-items/alecrimcarmim/121606"
+  },
+  {
+    "id": 14369,
+    "artisan_id": 441,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/816422"
+  },
+  {
+    "id": 14370,
+    "artisan_id": 441,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/816397"
+  },
+  {
+    "id": 14371,
+    "artisan_id": 441,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/816423"
+  },
+  {
+    "id": 14372,
+    "artisan_id": 441,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/816451"
+  },
+  {
+    "id": 14373,
+    "artisan_id": 441,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/816456"
+  },
+  {
+    "id": 14380,
+    "artisan_id": 441,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/816422.jpg"
+  },
+  {
+    "id": 14381,
+    "artisan_id": 441,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/816397.jpg"
+  },
+  {
+    "id": 14382,
+    "artisan_id": 441,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/816423.jpg"
+  },
+  {
+    "id": 14383,
+    "artisan_id": 441,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/816451.jpg"
+  },
+  {
+    "id": 14384,
+    "artisan_id": 441,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/816456.jpg"
   },
   {
     "id": 9867,
@@ -23092,6 +23092,42 @@
     "artisan_id": 571,
     "type": "URL_LINKLIST",
     "url": "https://linktr.ee/Firestormwingcreations"
+  },
+  {
+    "id": 14374,
+    "artisan_id": 571,
+    "type": "URL_WEBSITE",
+    "url": "https://www.furyourspirit.com/"
+  },
+  {
+    "id": 14375,
+    "artisan_id": 571,
+    "type": "URL_PRICES",
+    "url": "https://www.furyourspirit.com/Price_lists.C.htm"
+  },
+  {
+    "id": 14376,
+    "artisan_id": 571,
+    "type": "URL_FAQ",
+    "url": "https://www.furyourspirit.com/FAQ_and_T_C.D.htm"
+  },
+  {
+    "id": 14377,
+    "artisan_id": 571,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/Firestormwing"
+  },
+  {
+    "id": 14378,
+    "artisan_id": 571,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/furyourspirit/"
+  },
+  {
+    "id": 14379,
+    "artisan_id": 571,
+    "type": "URL_OTHER_SHOP",
+    "url": "https://firestormwingcreations-fur-your-spirit.launchcart.store/shop"
   },
   {
     "id": 11638,
