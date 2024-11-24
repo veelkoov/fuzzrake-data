@@ -5743,4 +5743,16 @@ INSERT INTO artisans_urls VALUES(14381,441,'URL_MINIATURES','https://orca2.furtr
 INSERT INTO artisans_urls VALUES(14382,441,'URL_MINIATURES','https://orca2.furtrack.com/thumb/816423.jpg');
 INSERT INTO artisans_urls VALUES(14383,441,'URL_MINIATURES','https://orca2.furtrack.com/thumb/816451.jpg');
 INSERT INTO artisans_urls VALUES(14384,441,'URL_MINIATURES','https://orca2.furtrack.com/thumb/816456.jpg');
+INSERT INTO artisans_urls VALUES(14385,791,'URL_PRICES','https://docs.google.com/document/d/1JuihEBDUVXAC59fN8Bj5svTl37cWADZs8oOnsrd0zTE/mobilebasic');
+INSERT INTO artisans_urls VALUES(14386,791,'URL_FAQ','https://docs.google.com/document/d/1JuihEBDUVXAC59fN8Bj5svTl37cWADZs8oOnsrd0zTE/mobilebasic');
+INSERT INTO artisans_urls VALUES(14387,791,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/arcaneghosties/');
+INSERT INTO artisans_urls VALUES(14388,791,'URL_INSTAGRAM','https://www.instagram.com/arcane_ghosties/');
+INSERT INTO artisans_urls VALUES(14389,791,'URL_LINKLIST','https://linktr.ee/arcaneghosties');
+INSERT INTO artisans_urls VALUES(14390,791,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/arcaneghosties-lab');
+INSERT INTO artisans_urls VALUES(14391,791,'URL_OTHER','https://www.tiktok.com/@arcaneghosties?_t=8rQ6KP4plFu&_r=1');
+INSERT INTO artisans_urls VALUES(14392,792,'URL_PRICES','https://trello.com/c/zKihuaj5/57-pricelist');
+INSERT INTO artisans_urls VALUES(14393,792,'URL_COMMISSIONS','https://www.instagram.com/atora.fursuit.studio/profilecard/?igsh=ZHY1dmJ2eDMxdHV2');
+INSERT INTO artisans_urls VALUES(14394,792,'URL_INSTAGRAM','https://www.instagram.com/atora.fursuit.studio/');
+INSERT INTO artisans_urls VALUES(14395,792,'URL_LINKLIST','https://linktr.ee/atorafursuitstudio');
+INSERT INTO artisans_urls VALUES(14396,792,'URL_QUEUE','https://trello.com/b/ffSMCAdy/atoras-fursuit-studio-trello');
 COMMIT;

@@ -34450,5 +34450,77 @@
     "artisan_id": 790,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/z7IJmfnH/zata-s-commission-queue"
+  },
+  {
+    "id": 14385,
+    "artisan_id": 791,
+    "type": "URL_PRICES",
+    "url": "https://docs.google.com/document/d/1JuihEBDUVXAC59fN8Bj5svTl37cWADZs8oOnsrd0zTE/mobilebasic"
+  },
+  {
+    "id": 14386,
+    "artisan_id": 791,
+    "type": "URL_FAQ",
+    "url": "https://docs.google.com/document/d/1JuihEBDUVXAC59fN8Bj5svTl37cWADZs8oOnsrd0zTE/mobilebasic"
+  },
+  {
+    "id": 14387,
+    "artisan_id": 791,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/arcaneghosties/"
+  },
+  {
+    "id": 14388,
+    "artisan_id": 791,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/arcane_ghosties/"
+  },
+  {
+    "id": 14389,
+    "artisan_id": 791,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/arcaneghosties"
+  },
+  {
+    "id": 14390,
+    "artisan_id": 791,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/store/arcaneghosties-lab"
+  },
+  {
+    "id": 14391,
+    "artisan_id": 791,
+    "type": "URL_OTHER",
+    "url": "https://www.tiktok.com/@arcaneghosties?_t=8rQ6KP4plFu&_r=1"
+  },
+  {
+    "id": 14392,
+    "artisan_id": 792,
+    "type": "URL_PRICES",
+    "url": "https://trello.com/c/zKihuaj5/57-pricelist"
+  },
+  {
+    "id": 14393,
+    "artisan_id": 792,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/atora.fursuit.studio/profilecard/?igsh=ZHY1dmJ2eDMxdHV2"
+  },
+  {
+    "id": 14394,
+    "artisan_id": 792,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/atora.fursuit.studio/"
+  },
+  {
+    "id": 14395,
+    "artisan_id": 792,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/atorafursuitstudio"
+  },
+  {
+    "id": 14396,
+    "artisan_id": 792,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/ffSMCAdy/atoras-fursuit-studio-trello"
   }
 ]
