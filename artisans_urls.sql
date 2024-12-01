@@ -3459,7 +3459,6 @@ INSERT INTO artisans_urls VALUES(11920,279,'URL_PHOTOS','https://www.furtrack.co
 INSERT INTO artisans_urls VALUES(11921,279,'URL_PHOTOS','https://www.furtrack.com/p/160505');
 INSERT INTO artisans_urls VALUES(11922,484,'URL_QUEUE','https://trello.com/b/f6jTCmh1/liquidtoothcreations');
 INSERT INTO artisans_urls VALUES(11923,484,'URL_TELEGRAM_CHANNEL','https://t.me/LiquidToothCreations');
-INSERT INTO artisans_urls VALUES(11924,484,'URL_TELEGRAM_CHANNEL','https://t.me/Gocamecnun');
 INSERT INTO artisans_urls VALUES(11925,595,'URL_WEBSITE','http://mcreativecorner.com/');
 INSERT INTO artisans_urls VALUES(11926,595,'URL_PRICES','http://mcreativecorner.com/?page_id=17');
 INSERT INTO artisans_urls VALUES(11927,595,'URL_COMMISSIONS','https://twitter.com/MugiwaraCosplay');
@@ -5759,4 +5758,9 @@ INSERT INTO artisans_urls VALUES(14399,218,'URL_OTHER','Ko-Fi: https://ko-fi.com
 INSERT INTO artisans_urls VALUES(14400,125,'URL_DONATIONS','https://ko-fi.com/komickrazistudios');
 INSERT INTO artisans_urls VALUES(14401,125,'URL_OTHER','https://www.weasyl.com/~temperance');
 INSERT INTO artisans_urls VALUES(14402,125,'URL_OTHER','https://www.patreon.com/komickrazi');
+INSERT INTO artisans_urls VALUES(14403,123,'URL_FURSUITREVIEW','https://fursuitreview.com/m/bncreation/');
+INSERT INTO artisans_urls VALUES(14404,123,'URL_BLUESKY','https://bsky.app/profile/bncreation.bsky.social');
+INSERT INTO artisans_urls VALUES(14405,123,'URL_TWITTER','https://twitter.com/bncreation');
+INSERT INTO artisans_urls VALUES(14406,123,'URL_TUMBLR','https://crashcoursefoyote.tumblr.com');
+INSERT INTO artisans_urls VALUES(14407,687,'URL_FURSUITREVIEW','https://fursuitreview.com/m/minis-pawsome-creations/');
 COMMIT;

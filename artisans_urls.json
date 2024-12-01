@@ -3180,6 +3180,30 @@
     "url": "https://www.bncreationcostumes.com/comm"
   },
   {
+    "id": 14403,
+    "artisan_id": 123,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/bncreation/"
+  },
+  {
+    "id": 14404,
+    "artisan_id": 123,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/bncreation.bsky.social"
+  },
+  {
+    "id": 14405,
+    "artisan_id": 123,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/bncreation"
+  },
+  {
+    "id": 14406,
+    "artisan_id": 123,
+    "type": "URL_TUMBLR",
+    "url": "https://crashcoursefoyote.tumblr.com"
+  },
+  {
     "id": 420,
     "artisan_id": 124,
     "type": "URL_FUR_AFFINITY",
@@ -18510,12 +18534,6 @@
     "url": "https://t.me/LiquidToothCreations"
   },
   {
-    "id": 11924,
-    "artisan_id": 484,
-    "type": "URL_TELEGRAM_CHANNEL",
-    "url": "https://t.me/Gocamecnun"
-  },
-  {
     "id": 12246,
     "artisan_id": 484,
     "type": "URL_TWITTER",
@@ -29254,6 +29272,12 @@
     "artisan_id": 687,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/la3gQazg/minis-pawsome-creations-commission-queue"
+  },
+  {
+    "id": 14407,
+    "artisan_id": 687,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/minis-pawsome-creations/"
   },
   {
     "id": 13072,
