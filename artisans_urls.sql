@@ -5763,4 +5763,6 @@ INSERT INTO artisans_urls VALUES(14404,123,'URL_BLUESKY','https://bsky.app/profi
 INSERT INTO artisans_urls VALUES(14405,123,'URL_TWITTER','https://twitter.com/bncreation');
 INSERT INTO artisans_urls VALUES(14406,123,'URL_TUMBLR','https://crashcoursefoyote.tumblr.com');
 INSERT INTO artisans_urls VALUES(14407,687,'URL_FURSUITREVIEW','https://fursuitreview.com/m/minis-pawsome-creations/');
+INSERT INTO artisans_urls VALUES(14408,732,'URL_INSTAGRAM','https://www.instagram.com/citrusinkstudios/');
+INSERT INTO artisans_urls VALUES(14409,732,'URL_OTHER_SHOP','https://www.citrusink.com/');
 COMMIT;

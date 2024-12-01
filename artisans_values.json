@@ -104055,7 +104055,7 @@
     "id": 3041,
     "artisan_id": 732,
     "field_name": "AGES",
-    "value": "MINORS"
+    "value": "ADULTS"
   },
   {
     "id": 3042,
@@ -104115,31 +104115,31 @@
     "id": 5862,
     "artisan_id": 732,
     "field_name": "FEATURES",
-    "value": "Exchangeable hairs"
+    "value": "Attached tail"
   },
   {
     "id": 5863,
     "artisan_id": 732,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Exchangeable hairs"
   },
   {
     "id": 5864,
     "artisan_id": 732,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 5865,
     "artisan_id": 732,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Follow-me eyes"
   },
   {
     "id": 5866,
     "artisan_id": 732,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "Indoor feet"
   },
   {
     "id": 5867,
@@ -104151,31 +104151,31 @@
     "id": 5868,
     "artisan_id": 732,
     "field_name": "ORDER_TYPES",
-    "value": "Full digitigrade"
+    "value": "Bodysuits (as parts/separate)"
   },
   {
     "id": 5869,
     "artisan_id": 732,
     "field_name": "ORDER_TYPES",
-    "value": "Full plantigrade"
+    "value": "Feetpaws (as parts/separate)"
   },
   {
     "id": 5870,
     "artisan_id": 732,
     "field_name": "ORDER_TYPES",
-    "value": "Head (as parts/separate)"
+    "value": "Full digitigrade"
   },
   {
     "id": 5871,
     "artisan_id": 732,
     "field_name": "ORDER_TYPES",
-    "value": "Mini partial (head + handpaws + tail)"
+    "value": "Full plantigrade"
   },
   {
     "id": 5872,
     "artisan_id": 732,
     "field_name": "ORDER_TYPES",
-    "value": "Partial (head + handpaws + tail + feetpaws)"
+    "value": "Handpaws (as parts/separate)"
   },
   {
     "id": 5873,
@@ -104188,6 +104188,60 @@
     "artisan_id": 732,
     "field_name": "STYLES",
     "value": "Toony"
+  },
+  {
+    "id": 20002,
+    "artisan_id": 732,
+    "field_name": "DATE_UPDATED",
+    "value": "2024-12-01 20:25:30"
+  },
+  {
+    "id": 20003,
+    "artisan_id": 732,
+    "field_name": "ORDER_TYPES",
+    "value": "Head (as parts/separate)"
+  },
+  {
+    "id": 20004,
+    "artisan_id": 732,
+    "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 20005,
+    "artisan_id": 732,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 20006,
+    "artisan_id": 732,
+    "field_name": "ORDER_TYPES",
+    "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 20007,
+    "artisan_id": 732,
+    "field_name": "ORDER_TYPES",
+    "value": "Three-fourth (head + handpaws + tail + legs/pants + feetpaws)"
+  },
+  {
+    "id": 20008,
+    "artisan_id": 732,
+    "field_name": "FEATURES",
+    "value": "Outdoor feet"
+  },
+  {
+    "id": 20009,
+    "artisan_id": 732,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 20010,
+    "artisan_id": 732,
+    "field_name": "DOES_NSFW",
+    "value": "False"
   },
   {
     "id": 3046,
