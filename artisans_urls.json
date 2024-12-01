@@ -734,7 +734,7 @@
   {
     "id": 9649,
     "artisan_id": 17,
-    "type": "URL_OTHER",
+    "type": "URL_DONATIONS",
     "url": "https://www.patreon.com/direcreatures"
   },
   {
@@ -1442,7 +1442,7 @@
   {
     "id": 170,
     "artisan_id": 39,
-    "type": "URL_OTHER",
+    "type": "URL_DONATIONS",
     "url": "https://www.patreon.com/Beetlecat"
   },
   {
@@ -1892,7 +1892,7 @@
   {
     "id": 14360,
     "artisan_id": 56,
-    "type": "URL_OTHER",
+    "type": "URL_BLUESKY",
     "url": "https://bsky.app/profile/hounds-teeth.com"
   },
   {
@@ -2132,7 +2132,7 @@
   {
     "id": 283,
     "artisan_id": 70,
-    "type": "URL_OTHER",
+    "type": "URL_DONATIONS",
     "url": "https://www.patreon.com/Matrices"
   },
   {
@@ -3264,10 +3264,22 @@
     "url": "https://www.thedealersden.com/store/komickrazi-studios"
   },
   {
-    "id": 10779,
+    "id": 14400,
+    "artisan_id": 125,
+    "type": "URL_DONATIONS",
+    "url": "https://ko-fi.com/komickrazistudios"
+  },
+  {
+    "id": 14401,
     "artisan_id": 125,
     "type": "URL_OTHER",
-    "url": "https://www.weasyl.com/~temperance\nhttps://www.patreon.com/komickrazi\nhttps://ko-fi.com/komickrazistudios"
+    "url": "https://www.weasyl.com/~temperance"
+  },
+  {
+    "id": 14402,
+    "artisan_id": 125,
+    "type": "URL_OTHER",
+    "url": "https://www.patreon.com/komickrazi"
   },
   {
     "id": 434,
@@ -3746,7 +3758,7 @@
   {
     "id": 9715,
     "artisan_id": 137,
-    "type": "URL_OTHER",
+    "type": "URL_TIKTOK",
     "url": "https://www.tiktok.com/@curlworkskigus"
   },
   {
@@ -4094,8 +4106,8 @@
   {
     "id": 10736,
     "artisan_id": 144,
-    "type": "URL_OTHER",
-    "url": "T.me/goldribbonstudio"
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/goldribbonstudio"
   },
   {
     "id": 12284,
@@ -6990,10 +7002,22 @@
     "url": "https://trello.com/b/k4JwAdHr/sparkle-kreations-queue-list"
   },
   {
-    "id": 954,
+    "id": 14397,
+    "artisan_id": 218,
+    "type": "URL_DONATIONS",
+    "url": "https://www.patreon.com/SparkleKreations"
+  },
+  {
+    "id": 14398,
     "artisan_id": 218,
     "type": "URL_OTHER",
-    "url": "Weasyl: https://www.weasyl.com/~sparklekreations\nKo-Fi: https://ko-fi.com/sparklekreations\nPatreon: http://www.patreon.com/SparkleKreations"
+    "url": "Weasyl: https://www.weasyl.com/~sparklekreations"
+  },
+  {
+    "id": 14399,
+    "artisan_id": 218,
+    "type": "URL_OTHER",
+    "url": "Ko-Fi: https://ko-fi.com/sparklekreations"
   },
   {
     "id": 9920,
@@ -7334,7 +7358,7 @@
   {
     "id": 14172,
     "artisan_id": 228,
-    "type": "URL_OTHER",
+    "type": "URL_TELEGRAM_CHANNEL",
     "url": "https://t.me/LilacDreamsStudio"
   },
   {
@@ -7424,7 +7448,7 @@
   {
     "id": 10703,
     "artisan_id": 229,
-    "type": "URL_OTHER",
+    "type": "URL_DONATIONS",
     "url": "https://www.patreon.com/onixangelcreations"
   },
   {
@@ -7802,7 +7826,7 @@
   {
     "id": 10795,
     "artisan_id": 235,
-    "type": "URL_OTHER",
+    "type": "URL_DONATIONS",
     "url": "https://www.patreon.com/ThunderhowlStudios"
   },
   {
@@ -7862,7 +7886,7 @@
   {
     "id": 10460,
     "artisan_id": 236,
-    "type": "URL_OTHER",
+    "type": "URL_DONATIONS",
     "url": "https://www.patreon.com/Fionka_Fursuits"
   },
   {
@@ -8558,7 +8582,7 @@
   {
     "id": 1134,
     "artisan_id": 254,
-    "type": "URL_OTHER",
+    "type": "URL_TELEGRAM_CHANNEL",
     "url": "https://t.me/KaZUpdates"
   },
   {
@@ -8774,7 +8798,7 @@
   {
     "id": 9108,
     "artisan_id": 259,
-    "type": "URL_OTHER",
+    "type": "URL_TIKTOK",
     "url": "https://www.tiktok.com/@aetherwears"
   },
   {
@@ -9032,8 +9056,8 @@
   {
     "id": 10762,
     "artisan_id": 265,
-    "type": "URL_OTHER",
-    "url": "https://www.patreon.com/m/Kittencafestudios"
+    "type": "URL_DONATIONS",
+    "url": "https://www.patreon.com/Kittencafestudios"
   },
   {
     "id": 1198,
@@ -9614,7 +9638,7 @@
   {
     "id": 13247,
     "artisan_id": 280,
-    "type": "URL_OTHER",
+    "type": "URL_TELEGRAM_CHANNEL",
     "url": "https://t.me/GpawStudio"
   },
   {
@@ -10778,7 +10802,7 @@
   {
     "id": 1433,
     "artisan_id": 311,
-    "type": "URL_OTHER",
+    "type": "URL_TELEGRAM_CHANNEL",
     "url": "https://t.me/stitchlynx"
   },
   {
@@ -11054,7 +11078,7 @@
   {
     "id": 12972,
     "artisan_id": 319,
-    "type": "URL_OTHER",
+    "type": "URL_BLUESKY",
     "url": "https://bsky.app/profile/spacecatcreations.bsky.social"
   },
   {
@@ -11108,7 +11132,7 @@
   {
     "id": 1489,
     "artisan_id": 321,
-    "type": "URL_OTHER",
+    "type": "URL_DONATIONS",
     "url": "https://www.patreon.com/SabierStudios"
   },
   {
@@ -11336,7 +11360,7 @@
   {
     "id": 1516,
     "artisan_id": 327,
-    "type": "URL_OTHER",
+    "type": "URL_DONATIONS",
     "url": "https://ko-fi.com/cupcakesouls"
   },
   {
@@ -11534,7 +11558,7 @@
   {
     "id": 1551,
     "artisan_id": 332,
-    "type": "URL_OTHER",
+    "type": "URL_DONATIONS",
     "url": "https://www.patreon.com/TwilightKnightsCosplay"
   },
   {
@@ -12236,7 +12260,7 @@
   {
     "id": 13991,
     "artisan_id": 350,
-    "type": "URL_OTHER",
+    "type": "URL_TELEGRAM_CHANNEL",
     "url": "https://t.me/ScorchedFursuits"
   },
   {
@@ -14234,8 +14258,8 @@
   {
     "id": 10752,
     "artisan_id": 398,
-    "type": "URL_OTHER",
-    "url": "Patreon: https://www.patreon.com/glitzyfox"
+    "type": "URL_DONATIONS",
+    "url": "https://www.patreon.com/glitzyfox"
   },
   {
     "id": 11240,
@@ -14726,8 +14750,8 @@
   {
     "id": 9555,
     "artisan_id": 407,
-    "type": "URL_OTHER",
-    "url": "t.me/wingthings"
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/wingthings"
   },
   {
     "id": 10178,
@@ -17126,8 +17150,8 @@
   {
     "id": 9985,
     "artisan_id": 454,
-    "type": "URL_OTHER",
-    "url": "https://www.tiktok.com/@its_me_creeproxy?lang=cs-CZ"
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@its_me_creeproxy"
   },
   {
     "id": 9986,
@@ -17894,7 +17918,7 @@
   {
     "id": 10113,
     "artisan_id": 471,
-    "type": "URL_OTHER",
+    "type": "URL_TIKTOK",
     "url": "https://www.tiktok.com/@lisanotuspaja"
   },
   {
@@ -18452,7 +18476,7 @@
   {
     "id": 11999,
     "artisan_id": 482,
-    "type": "URL_OTHER",
+    "type": "URL_TIKTOK",
     "url": "https://www.tiktok.com/@dogwoolowner"
   },
   {
@@ -18482,13 +18506,13 @@
   {
     "id": 11923,
     "artisan_id": 484,
-    "type": "URL_OTHER",
+    "type": "URL_TELEGRAM_CHANNEL",
     "url": "https://t.me/LiquidToothCreations"
   },
   {
     "id": 11924,
     "artisan_id": 484,
-    "type": "URL_OTHER",
+    "type": "URL_TELEGRAM_CHANNEL",
     "url": "https://t.me/Gocamecnun"
   },
   {
@@ -19688,7 +19712,7 @@
   {
     "id": 10829,
     "artisan_id": 507,
-    "type": "URL_OTHER",
+    "type": "URL_TIKTOK",
     "url": "https://www.tiktok.com/@thesleepystag"
   },
   {
@@ -20348,8 +20372,8 @@
   {
     "id": 10959,
     "artisan_id": 519,
-    "type": "URL_OTHER",
-    "url": "ko-fi.com/islandhedgehog"
+    "type": "URL_DONATIONS",
+    "url": "https://ko-fi.com/islandhedgehog"
   },
   {
     "id": 10977,
@@ -21338,8 +21362,8 @@
   {
     "id": 12283,
     "artisan_id": 539,
-    "type": "URL_OTHER",
-    "url": "Telegram: https://t.me/Fedora_Fursuits"
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/Fedora_Fursuits"
   },
   {
     "id": 12352,
@@ -21386,8 +21410,8 @@
   {
     "id": 13186,
     "artisan_id": 540,
-    "type": "URL_OTHER",
-    "url": "Telegram Channel: https://t.me/ForeverChakra"
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/ForeverChakra"
   },
   {
     "id": 11225,
@@ -22172,7 +22196,7 @@
   {
     "id": 11428,
     "artisan_id": 554,
-    "type": "URL_OTHER",
+    "type": "URL_TELEGRAM_CHANNEL",
     "url": "https://t.me/CinDery"
   },
   {
@@ -23330,7 +23354,7 @@
   {
     "id": 11717,
     "artisan_id": 577,
-    "type": "URL_OTHER",
+    "type": "URL_TELEGRAM_CHANNEL",
     "url": "https://t.me/+zXfKPwucVwViMzM0"
   },
   {
@@ -23924,7 +23948,7 @@
   {
     "id": 11894,
     "artisan_id": 590,
-    "type": "URL_OTHER",
+    "type": "URL_TIKTOK",
     "url": "https://www.tiktok.com/@akelatakawolf"
   },
   {
@@ -24344,7 +24368,7 @@
   {
     "id": 14357,
     "artisan_id": 599,
-    "type": "URL_OTHER",
+    "type": "URL_TELEGRAM_CHANNEL",
     "url": "https://t.me/bunnypawsfur"
   },
   {
@@ -24758,7 +24782,7 @@
   {
     "id": 12072,
     "artisan_id": 610,
-    "type": "URL_OTHER",
+    "type": "URL_TELEGRAM_CHANNEL",
     "url": "https://t.me/KrafiCat"
   },
   {
@@ -26168,7 +26192,7 @@
   {
     "id": 13769,
     "artisan_id": 638,
-    "type": "URL_OTHER",
+    "type": "URL_TELEGRAM_CHANNEL",
     "url": "https://t.me/untamedcanine"
   },
   {
@@ -27164,13 +27188,13 @@
   {
     "id": 13290,
     "artisan_id": 655,
-    "type": "URL_OTHER",
-    "url": "http://tiktok.com/@felixthecalico"
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@felixthecalico"
   },
   {
     "id": 13291,
     "artisan_id": 655,
-    "type": "URL_OTHER",
+    "type": "URL_BLUESKY",
     "url": "https://bsky.app/profile/thekneadery.bsky.social"
   },
   {
@@ -27236,8 +27260,8 @@
   {
     "id": 12647,
     "artisan_id": 656,
-    "type": "URL_OTHER",
-    "url": "https://www.tiktok.com/@saberkoi?lang=en"
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@saberkoi"
   },
   {
     "id": 12659,
@@ -27356,7 +27380,7 @@
   {
     "id": 12681,
     "artisan_id": 658,
-    "type": "URL_OTHER",
+    "type": "URL_BLUESKY",
     "url": "https://bsky.app/profile/drowsyseal.bsky.social"
   },
   {
@@ -27656,7 +27680,7 @@
   {
     "id": 12740,
     "artisan_id": 662,
-    "type": "URL_OTHER",
+    "type": "URL_TIKTOK",
     "url": "https://www.tiktok.com/@w0rmking_"
   },
   {
@@ -27914,7 +27938,7 @@
   {
     "id": 12791,
     "artisan_id": 666,
-    "type": "URL_OTHER",
+    "type": "URL_BLUESKY",
     "url": "https://bsky.app/profile/transformtiger.bsky.social"
   },
   {
@@ -28016,8 +28040,8 @@
   {
     "id": 12800,
     "artisan_id": 667,
-    "type": "URL_OTHER",
-    "url": "https://tiktok.com/@angel.the.dutchie"
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@angel.the.dutchie"
   },
   {
     "id": 12803,
@@ -28160,8 +28184,8 @@
   {
     "id": 12828,
     "artisan_id": 670,
-    "type": "URL_OTHER",
-    "url": "TikTok: https://www.tiktok.com/@vinostudios_fur"
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@vinostudios_fur"
   },
   {
     "id": 12833,
@@ -28418,7 +28442,7 @@
   {
     "id": 12868,
     "artisan_id": 674,
-    "type": "URL_OTHER",
+    "type": "URL_DONATIONS",
     "url": "https://www.patreon.com/KiaFursuits"
   },
   {
@@ -28544,8 +28568,8 @@
   {
     "id": 12883,
     "artisan_id": 675,
-    "type": "URL_OTHER",
-    "url": "https://www.tiktok.com/@that_one_yellow_cat?lang=en"
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@that_one_yellow_cat"
   },
   {
     "id": 12932,
@@ -28718,7 +28742,7 @@
   {
     "id": 12903,
     "artisan_id": 677,
-    "type": "URL_OTHER",
+    "type": "URL_TELEGRAM_CHANNEL",
     "url": "https://t.me/Ursidaesuits"
   },
   {
@@ -28730,7 +28754,7 @@
   {
     "id": 12905,
     "artisan_id": 677,
-    "type": "URL_OTHER",
+    "type": "URL_BLUESKY",
     "url": "https://bsky.app/profile/ursidaesuits.com"
   },
   {
@@ -29270,7 +29294,7 @@
   {
     "id": 13078,
     "artisan_id": 688,
-    "type": "URL_OTHER",
+    "type": "URL_TELEGRAM_CHANNEL",
     "url": "https://t.me/PrismaFursuits"
   },
   {
@@ -29672,7 +29696,7 @@
   {
     "id": 13171,
     "artisan_id": 695,
-    "type": "URL_OTHER",
+    "type": "URL_BLUESKY",
     "url": "https://bsky.app/profile/midnightmakers.ca"
   },
   {
@@ -29804,8 +29828,8 @@
   {
     "id": 13201,
     "artisan_id": 698,
-    "type": "URL_OTHER",
-    "url": "https://www.patreon.com/TwilightKnightsCosplay (wips)"
+    "type": "URL_DONATIONS",
+    "url": "https://www.patreon.com/TwilightKnightsCosplay"
   },
   {
     "id": 13202,
@@ -30008,7 +30032,7 @@
   {
     "id": 13332,
     "artisan_id": 703,
-    "type": "URL_OTHER",
+    "type": "URL_TELEGRAM_CHANNEL",
     "url": "https://t.me/SaikaAtWork"
   },
   {
@@ -30080,7 +30104,7 @@
   {
     "id": 13392,
     "artisan_id": 705,
-    "type": "URL_OTHER",
+    "type": "URL_TIKTOK",
     "url": "https://www.tiktok.com/@mercutio_myg"
   },
   {
@@ -30236,7 +30260,7 @@
   {
     "id": 13421,
     "artisan_id": 708,
-    "type": "URL_OTHER",
+    "type": "URL_BLUESKY",
     "url": "https://bsky.app/profile/foolserrand.bsky.social"
   },
   {
@@ -31130,7 +31154,7 @@
   {
     "id": 13655,
     "artisan_id": 729,
-    "type": "URL_OTHER",
+    "type": "URL_TELEGRAM_CHANNEL",
     "url": "https://t.me/claws_n_roses"
   },
   {
@@ -31268,8 +31292,8 @@
   {
     "id": 13678,
     "artisan_id": 732,
-    "type": "URL_OTHER",
-    "url": "https://www.tiktok.com/@citrusinkstudios?_t=8nJyKFVeRWZ&_r=1"
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@citrusinkstudios"
   },
   {
     "id": 13708,
@@ -31424,8 +31448,8 @@
   {
     "id": 13699,
     "artisan_id": 734,
-    "type": "URL_OTHER",
-    "url": "https://bsky.app/profile/did:plc:mrkqgnydq54sqpcspv3bgoxp"
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/spareferret.bsky.social"
   },
   {
     "id": 13700,
@@ -31640,7 +31664,7 @@
   {
     "id": 13782,
     "artisan_id": 737,
-    "type": "URL_OTHER",
+    "type": "URL_BLUESKY",
     "url": "https://bsky.app/profile/queenhisscreations.co.uk"
   },
   {
@@ -31766,7 +31790,7 @@
   {
     "id": 13813,
     "artisan_id": 740,
-    "type": "URL_OTHER",
+    "type": "URL_TELEGRAM_CHANNEL",
     "url": "https://t.me/dragonskyfursuits"
   },
   {
@@ -31826,7 +31850,7 @@
   {
     "id": 13820,
     "artisan_id": 741,
-    "type": "URL_OTHER",
+    "type": "URL_TELEGRAM_CHANNEL",
     "url": "https://t.me/gleepycreations"
   },
   {
@@ -31994,7 +32018,7 @@
   {
     "id": 13852,
     "artisan_id": 746,
-    "type": "URL_OTHER",
+    "type": "URL_BLUESKY",
     "url": "https://bsky.app/profile/kcanis.bsky.social"
   },
   {
@@ -32468,7 +32492,7 @@
   {
     "id": 13937,
     "artisan_id": 755,
-    "type": "URL_OTHER",
+    "type": "URL_TIKTOK",
     "url": "https://www.tiktok.com/@honeydad.ger"
   },
   {
@@ -33026,7 +33050,7 @@
   {
     "id": 14053,
     "artisan_id": 765,
-    "type": "URL_OTHER",
+    "type": "URL_TIKTOK",
     "url": "https://www.tiktok.com/@furbricationcreations"
   },
   {
@@ -33314,7 +33338,7 @@
   {
     "id": 14090,
     "artisan_id": 770,
-    "type": "URL_OTHER",
+    "type": "URL_TELEGRAM_CHANNEL",
     "url": "https://t.me/Puzzozart"
   },
   {
@@ -33392,8 +33416,8 @@
   {
     "id": 14103,
     "artisan_id": 771,
-    "type": "URL_OTHER",
-    "url": "https://patreon.com/DinoLollyStudios?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"
+    "type": "URL_DONATIONS",
+    "url": "https://www.patreon.com/DinoLollyStudios"
   },
   {
     "id": 14152,
@@ -33518,8 +33542,8 @@
   {
     "id": 14120,
     "artisan_id": 773,
-    "type": "URL_OTHER",
-    "url": "Tiktok: https://www.tiktok.com/@akanicreationsofficial?_t=8q45NpN45iQ&_r=1"
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@akanicreationsofficial"
   },
   {
     "id": 14156,
@@ -34118,7 +34142,7 @@
   {
     "id": 14275,
     "artisan_id": 785,
-    "type": "URL_OTHER",
+    "type": "URL_BLUESKY",
     "url": "https://bsky.app/profile/eeveemakesfurs.bsky.social"
   },
   {
@@ -34214,7 +34238,7 @@
   {
     "id": 14285,
     "artisan_id": 786,
-    "type": "URL_OTHER",
+    "type": "URL_TIKTOK",
     "url": "https://www.tiktok.com/@mr_ogg_dog"
   },
   {
@@ -34490,8 +34514,8 @@
   {
     "id": 14391,
     "artisan_id": 791,
-    "type": "URL_OTHER",
-    "url": "https://www.tiktok.com/@arcaneghosties?_t=8rQ6KP4plFu&_r=1"
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@arcaneghosties"
   },
   {
     "id": 14392,
