@@ -3781,4 +3781,9 @@ INSERT INTO events VALUES(3793,'2024-11-29 12:09:11.101','CS_UPDATED','CoralCand
 INSERT INTO events VALUES(3794,'2024-11-29 12:09:11.214','CS_UPDATED','KecrowCreations',0,0,0,'','https://kecrowcreations.carrd.co/','','','Quotes',0);
 INSERT INTO events VALUES(3795,'2024-11-29 12:09:11.254','CS_UPDATED','Claws&Roses Studio',0,0,0,'','https://clawsnrosesstudio.carrd.co/','','','Commissions',0);
 INSERT INTO events VALUES(3796,'2024-11-30 00:09:13.676','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','','Quotes',0);
+INSERT INTO events VALUES(3797,'2024-12-01 20:26:00','DATA_UPDATED','',0,1,0,'140703cca59737866148f26f4fab0850a53e7605','','','','',0);
+INSERT INTO events VALUES(3798,'2024-12-02 00:09:18.922','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','Quotes','',1);
+INSERT INTO events VALUES(3799,'2024-12-02 00:09:19.020','CS_UPDATED','The Goth Bear',0,0,0,'','https://gothbear.carrd.co/','','Commissions','',1);
+INSERT INTO events VALUES(3800,'2024-12-02 12:09:05.752','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','','Quotes',0);
+INSERT INTO events VALUES(3801,'2024-12-02 12:09:05.830','CS_UPDATED','The Goth Bear',0,0,0,'','https://gothbear.carrd.co/','','','Commissions',0);
 COMMIT;
