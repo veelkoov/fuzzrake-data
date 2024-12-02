@@ -34582,5 +34582,167 @@
     "artisan_id": 792,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/ffSMCAdy/atoras-fursuit-studio-trello"
+  },
+  {
+    "id": 14410,
+    "artisan_id": 793,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/FurryByFloofs"
+  },
+  {
+    "id": 14411,
+    "artisan_id": 794,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/kingscrownstudios/"
+  },
+  {
+    "id": 14412,
+    "artisan_id": 794,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/ZKVlX1ob/fursuits"
+  },
+  {
+    "id": 14413,
+    "artisan_id": 794,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:kings_crown_studios"
+  },
+  {
+    "id": 14414,
+    "artisan_id": 794,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/796926"
+  },
+  {
+    "id": 14415,
+    "artisan_id": 794,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/770482"
+  },
+  {
+    "id": 14416,
+    "artisan_id": 794,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/779317"
+  },
+  {
+    "id": 14417,
+    "artisan_id": 794,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@zeus_idiot"
+  },
+  {
+    "id": 14430,
+    "artisan_id": 794,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/796926.jpg"
+  },
+  {
+    "id": 14431,
+    "artisan_id": 794,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/770482.jpg"
+  },
+  {
+    "id": 14432,
+    "artisan_id": 794,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/779317.jpg"
+  },
+  {
+    "id": 14418,
+    "artisan_id": 795,
+    "type": "URL_WEBSITE",
+    "url": "https://rawrbarks.com/"
+  },
+  {
+    "id": 14419,
+    "artisan_id": 795,
+    "type": "URL_PRICES",
+    "url": "https://rawrbarks.com/fursuits/"
+  },
+  {
+    "id": 14420,
+    "artisan_id": 795,
+    "type": "URL_COMMISSIONS",
+    "url": "https://rawrbarks.com/"
+  },
+  {
+    "id": 14421,
+    "artisan_id": 795,
+    "type": "URL_DEVIANTART",
+    "url": "https://www.deviantart.com/rawrbarks"
+  },
+  {
+    "id": 14422,
+    "artisan_id": 795,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/rawrbarks_studios/"
+  },
+  {
+    "id": 14423,
+    "artisan_id": 795,
+    "type": "URL_LINKLIST",
+    "url": "https://rawrbarks.carrd.co/"
+  },
+  {
+    "id": 14424,
+    "artisan_id": 795,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/rawrbarks/"
+  },
+  {
+    "id": 14425,
+    "artisan_id": 795,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:rawrbarks"
+  },
+  {
+    "id": 14426,
+    "artisan_id": 795,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/834309"
+  },
+  {
+    "id": 14427,
+    "artisan_id": 795,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/834310"
+  },
+  {
+    "id": 14428,
+    "artisan_id": 795,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/834312"
+  },
+  {
+    "id": 14429,
+    "artisan_id": 795,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/834313"
+  },
+  {
+    "id": 14433,
+    "artisan_id": 795,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/834309.jpg"
+  },
+  {
+    "id": 14434,
+    "artisan_id": 795,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/834310.jpg"
+  },
+  {
+    "id": 14435,
+    "artisan_id": 795,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/834312.jpg"
+  },
+  {
+    "id": 14436,
+    "artisan_id": 795,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/834313.jpg"
   }
 ]
