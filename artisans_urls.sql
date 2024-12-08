@@ -1874,10 +1874,7 @@ INSERT INTO artisans_urls VALUES(9830,437,'URL_INSTAGRAM','https://www.instagram
 INSERT INTO artisans_urls VALUES(9831,437,'URL_YOUTUBE','https://www.youtube.com/channel/UC9oI5qJ4aRmWN5sfvaQ_nsQ');
 INSERT INTO artisans_urls VALUES(9832,437,'URL_ETSY','https://www.etsy.com/shop/RunawayWorkshop');
 INSERT INTO artisans_urls VALUES(9833,438,'URL_PRICES','https://docs.google.com/document/d/1rTG7lp1ObPzZdn0ze5iYa4HAzESYo36-bJqpmvmEhg0/edit?usp=sharing');
-INSERT INTO artisans_urls VALUES(9834,438,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/abyssalkei/');
-INSERT INTO artisans_urls VALUES(9835,438,'URL_DEVIANTART','https://www.deviantart.com/katserura');
 INSERT INTO artisans_urls VALUES(9837,438,'URL_FACEBOOK','https://www.facebook.com/abyssalkrafting/');
-INSERT INTO artisans_urls VALUES(9838,438,'URL_INSTAGRAM','https://www.instagram.com/abyssalkei/');
 INSERT INTO artisans_urls VALUES(9839,438,'URL_ETSY','https://www.etsy.com/shop/AbyssalKrafting');
 INSERT INTO artisans_urls VALUES(9840,438,'URL_QUEUE','https://trello.com/b/SIj7Ag5d/abyssal-commissions');
 INSERT INTO artisans_urls VALUES(9841,439,'URL_WEBSITE','https://www.facebook.com/Arm-and-a-leg-fursuit-432777497525053/');
@@ -2693,7 +2690,6 @@ INSERT INTO artisans_urls VALUES(10951,519,'URL_LINKLIST','https://linktr.ee/isl
 INSERT INTO artisans_urls VALUES(10952,519,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/islandhedgehog-studios');
 INSERT INTO artisans_urls VALUES(10953,519,'URL_FURTRACK','https://www.furtrack.com/user/islandhedgehog');
 INSERT INTO artisans_urls VALUES(10959,519,'URL_DONATIONS','https://ko-fi.com/islandhedgehog');
-INSERT INTO artisans_urls VALUES(10960,438,'URL_LINKLIST','https://linktr.ee/abyssalkei');
 INSERT INTO artisans_urls VALUES(10961,520,'URL_TWITTER','https://twitter.com/Hako_emmm');
 INSERT INTO artisans_urls VALUES(10962,520,'URL_INSTAGRAM','https://www.instagram.com/no.9furworkshop/');
 INSERT INTO artisans_urls VALUES(10963,520,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/no9furworkshop');
@@ -5792,4 +5788,6 @@ INSERT INTO artisans_urls VALUES(14433,795,'URL_MINIATURES','https://orca2.furtr
 INSERT INTO artisans_urls VALUES(14434,795,'URL_MINIATURES','https://orca2.furtrack.com/thumb/834310.jpg');
 INSERT INTO artisans_urls VALUES(14435,795,'URL_MINIATURES','https://orca2.furtrack.com/thumb/834312.jpg');
 INSERT INTO artisans_urls VALUES(14436,795,'URL_MINIATURES','https://orca2.furtrack.com/thumb/834313.jpg');
+INSERT INTO artisans_urls VALUES(14437,438,'URL_DEVIANTART','https://www.deviantart.com/abyssalkei');
+INSERT INTO artisans_urls VALUES(14438,438,'URL_LINKLIST','https://linktr.ee/abyssalkraftfursuits');
 COMMIT;

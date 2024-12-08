@@ -16344,28 +16344,10 @@
     "url": "https://docs.google.com/document/d/1rTG7lp1ObPzZdn0ze5iYa4HAzESYo36-bJqpmvmEhg0/edit?usp=sharing"
   },
   {
-    "id": 9834,
-    "artisan_id": 438,
-    "type": "URL_FUR_AFFINITY",
-    "url": "https://www.furaffinity.net/user/abyssalkei/"
-  },
-  {
-    "id": 9835,
-    "artisan_id": 438,
-    "type": "URL_DEVIANTART",
-    "url": "https://www.deviantart.com/katserura"
-  },
-  {
     "id": 9837,
     "artisan_id": 438,
     "type": "URL_FACEBOOK",
     "url": "https://www.facebook.com/abyssalkrafting/"
-  },
-  {
-    "id": 9838,
-    "artisan_id": 438,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/abyssalkei/"
   },
   {
     "id": 9839,
@@ -16380,12 +16362,6 @@
     "url": "https://trello.com/b/SIj7Ag5d/abyssal-commissions"
   },
   {
-    "id": 10960,
-    "artisan_id": 438,
-    "type": "URL_LINKLIST",
-    "url": "https://linktr.ee/abyssalkei"
-  },
-  {
     "id": 11643,
     "artisan_id": 438,
     "type": "URL_TWITTER",
@@ -16396,6 +16372,18 @@
     "artisan_id": 438,
     "type": "URL_COMMISSIONS",
     "url": "https://twitter.com/abyssalkrafts"
+  },
+  {
+    "id": 14437,
+    "artisan_id": 438,
+    "type": "URL_DEVIANTART",
+    "url": "https://www.deviantart.com/abyssalkei"
+  },
+  {
+    "id": 14438,
+    "artisan_id": 438,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/abyssalkraftfursuits"
   },
   {
     "id": 9841,

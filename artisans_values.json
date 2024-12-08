@@ -49110,6 +49110,12 @@
     "value": "Toony"
   },
   {
+    "id": 20094,
+    "artisan_id": 438,
+    "field_name": "DATE_UPDATED",
+    "value": "2024-12-08 12:53:22"
+  },
+  {
     "id": 1390,
     "artisan_id": 439,
     "field_name": "DATE_ADDED",

@@ -10227,8 +10227,8 @@
   {
     "id": 438,
     "maker_id": "ABYSSAZ",
-    "name": "AbyssalKrafting",
-    "formerly": "",
+    "name": "AbyssalKraftFursuits",
+    "formerly": "AbyssalKrafting",
     "intro": "Hello! I'm Kei of AbyssalKrafting~ I got into making fursuits in 2009 but only did very beginner looking heads at that time for myself personally. Then in 2016/2017, I started to invest more into the hobby once I had a more steady income and began to practice my craft yet again. October of 2017, I introduced my first fullbody fursuit and began to take commissions from that point on.",
     "since": "2017-10",
     "country": "US",
@@ -10245,7 +10245,7 @@
     "styles_comment": "My style is still developing, but I do love toony designs",
     "order_types_comment": "",
     "features_comment": "",
-    "payment_methods": "PayPal",
+    "payment_methods": "PayPal\nBank transfers",
     "currencies_accepted": "USD",
     "species_comment": "I have a pattern by Judifur on etsy for a Dutch Angel Dragon head base and that seems to be my most ordered species as far as commissions go. I'm willing to do just about anything so long as a head base is provided."
   },
