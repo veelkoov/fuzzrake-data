@@ -5790,4 +5790,12 @@ INSERT INTO artisans_urls VALUES(14435,795,'URL_MINIATURES','https://orca2.furtr
 INSERT INTO artisans_urls VALUES(14436,795,'URL_MINIATURES','https://orca2.furtrack.com/thumb/834313.jpg');
 INSERT INTO artisans_urls VALUES(14437,438,'URL_DEVIANTART','https://www.deviantart.com/abyssalkei');
 INSERT INTO artisans_urls VALUES(14438,438,'URL_LINKLIST','https://linktr.ee/abyssalkraftfursuits');
+INSERT INTO artisans_urls VALUES(14439,750,'URL_LINKLIST','https://hauntedopossum.com/contact/');
+INSERT INTO artisans_urls VALUES(14440,750,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/haunted-opossum-creations');
+INSERT INTO artisans_urls VALUES(14441,750,'URL_OTHER_SHOP','https://hauntedopossum.com/for-sale/');
+INSERT INTO artisans_urls VALUES(14442,750,'URL_PHOTOS','https://www.furtrack.com/p/755149');
+INSERT INTO artisans_urls VALUES(14443,750,'URL_PHOTOS','https://www.furtrack.com/p/755151');
+INSERT INTO artisans_urls VALUES(14444,750,'URL_BLUESKY','https://bsky.app/profile/hauntedopossum.com');
+INSERT INTO artisans_urls VALUES(14445,750,'URL_TELEGRAM_CHANNEL','https://t.me/s/HauntedOpossum');
+INSERT INTO artisans_urls VALUES(14446,750,'URL_TIKTOK','https://www.tiktok.com/@elaiwhyyyyy');
 COMMIT;

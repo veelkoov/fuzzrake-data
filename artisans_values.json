@@ -107394,6 +107394,36 @@
     "value": "Tech-integrated"
   },
   {
+    "id": 20095,
+    "artisan_id": 750,
+    "field_name": "DATE_UPDATED",
+    "value": "2024-12-14 19:05:08"
+  },
+  {
+    "id": 20096,
+    "artisan_id": 750,
+    "field_name": "OTHER_FEATURES",
+    "value": "Molded foam headbases"
+  },
+  {
+    "id": 20097,
+    "artisan_id": 750,
+    "field_name": "OTHER_FEATURES",
+    "value": "Waterproof eyes"
+  },
+  {
+    "id": 20098,
+    "artisan_id": 750,
+    "field_name": "OTHER_FEATURES",
+    "value": "Pickable nose"
+  },
+  {
+    "id": 20099,
+    "artisan_id": 750,
+    "field_name": "OTHER_FEATURES",
+    "value": "Fit for glasses"
+  },
+  {
     "id": 3159,
     "artisan_id": 751,
     "field_name": "DATE_ADDED",
