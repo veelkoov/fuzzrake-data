@@ -5798,4 +5798,6 @@ INSERT INTO artisans_urls VALUES(14443,750,'URL_PHOTOS','https://www.furtrack.co
 INSERT INTO artisans_urls VALUES(14444,750,'URL_BLUESKY','https://bsky.app/profile/hauntedopossum.com');
 INSERT INTO artisans_urls VALUES(14445,750,'URL_TELEGRAM_CHANNEL','https://t.me/s/HauntedOpossum');
 INSERT INTO artisans_urls VALUES(14446,750,'URL_TIKTOK','https://www.tiktok.com/@elaiwhyyyyy');
+INSERT INTO artisans_urls VALUES(14447,750,'URL_MINIATURES','https://orca2.furtrack.com/thumb/755149.jpg');
+INSERT INTO artisans_urls VALUES(14448,750,'URL_MINIATURES','https://orca2.furtrack.com/thumb/755151.jpg');
 COMMIT;
