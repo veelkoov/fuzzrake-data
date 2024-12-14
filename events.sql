@@ -3826,4 +3826,15 @@ INSERT INTO events VALUES(3838,'2024-12-10 00:09:34.261','CS_UPDATED','CoralCand
 INSERT INTO events VALUES(3839,'2024-12-10 00:09:34.384','CS_UPDATED','The Goth Bear',0,0,0,'','https://gothbear.carrd.co/','','Commissions','',1);
 INSERT INTO events VALUES(3840,'2024-12-10 12:09:42.841','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','','Quotes',0);
 INSERT INTO events VALUES(3841,'2024-12-10 12:09:42.963','CS_UPDATED','The Goth Bear',0,0,0,'','https://gothbear.carrd.co/','','','Commissions',0);
+INSERT INTO events VALUES(3842,'2024-12-12 00:09:30.795','CS_UPDATED','Dragons Den Fursuits',0,0,0,'','https://twitter.com/Eelowyn','','','Commissions',0);
+INSERT INTO events VALUES(3843,'2024-12-13 00:09:16.146','CS_UPDATED','Retrongrade',0,0,0,'',replace('https://www.instagram.com/retrongrade/\nhttps://twitter.com/RetroNGrade','\n',char(10)),'','','Parts',1);
+INSERT INTO events VALUES(3844,'2024-12-13 12:09:25.999','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','Quotes','',1);
+INSERT INTO events VALUES(3845,'2024-12-13 12:09:26.123','CS_UPDATED','The Goth Bear',0,0,0,'','https://gothbear.carrd.co/','','Commissions','',1);
+INSERT INTO events VALUES(3846,'2024-12-13 12:09:26.207','CS_UPDATED','KecrowCreations',0,0,0,'','https://kecrowcreations.carrd.co/','','Quotes','',1);
+INSERT INTO events VALUES(3847,'2024-12-13 12:09:26.244','CS_UPDATED','Claws&Roses Studio',0,0,0,'','https://clawsnrosesstudio.carrd.co/','','Commissions','',1);
+INSERT INTO events VALUES(3848,'2024-12-14 00:09:15.999','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','','Quotes',0);
+INSERT INTO events VALUES(3849,'2024-12-14 00:09:16.060','CS_UPDATED','The Goth Bear',0,0,0,'','https://gothbear.carrd.co/','','','Commissions',0);
+INSERT INTO events VALUES(3850,'2024-12-14 00:09:16.114','CS_UPDATED','KecrowCreations',0,0,0,'','https://kecrowcreations.carrd.co/','','','Quotes',0);
+INSERT INTO events VALUES(3851,'2024-12-14 00:09:16.142','CS_UPDATED','Claws&Roses Studio',0,0,0,'','https://clawsnrosesstudio.carrd.co/','','','Commissions',0);
+INSERT INTO events VALUES(3852,'2024-12-14 00:09:16.150','CS_UPDATED','Junky Fluff Creations',0,0,0,'','https://www.instagram.com/junkyfluff.creations/','','','Commissions',0);
 COMMIT;
