@@ -1,4 +1,14 @@
-*.nocommit.*
-*.nocommit
+# Part of the fuzzrake repository
 /.gitkeep
-/artisans_private_data*
+
+# Private stuff should never be published
+*private*
+/submissions.*
+
+# Volatile information, easily reproducible
+/artisans_commissions_statuses.*
+/artisans_urls_states.*
+/artisans_volatile_data.*
+/creators_species.*
+/kotlin_data.*
+/species.*
