@@ -2895,8 +2895,6 @@ INSERT INTO artisans_urls VALUES(11198,536,'URL_QUEUE','https://trello.com/b/COT
 INSERT INTO artisans_urls VALUES(11199,445,'URL_COMMISSIONS','https://twitter.com/iboddities');
 INSERT INTO artisans_urls VALUES(11200,445,'URL_TWITTER','https://twitter.com/iboddities');
 INSERT INTO artisans_urls VALUES(11201,537,'URL_PRICES','https://www.instagram.com/stories/highlights/17862750115687771/');
-INSERT INTO artisans_urls VALUES(11202,537,'URL_COMMISSIONS','https://www.instagram.com/lunawolf517/');
-INSERT INTO artisans_urls VALUES(11203,537,'URL_INSTAGRAM','https://www.instagram.com/lunawolf517/');
 INSERT INTO artisans_urls VALUES(11204,436,'URL_FURSUITREVIEW','https://fursuitreview.com/m/starcane-arts/');
 INSERT INTO artisans_urls VALUES(11205,209,'URL_PRICES','https://dragonsgrinstudios.weebly.com/fursuit-prices.html');
 INSERT INTO artisans_urls VALUES(11206,209,'URL_TWITTER','https://twitter.com/DragonsGStudios');
