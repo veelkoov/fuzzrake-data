@@ -35026,5 +35026,101 @@
     "artisan_id": 799,
     "type": "URL_MINIATURES",
     "url": "https://orca2.furtrack.com/thumb/851344.jpg"
+  },
+  {
+    "id": 14490,
+    "artisan_id": 800,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/nesshoundcreations/"
+  },
+  {
+    "id": 14491,
+    "artisan_id": 800,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/Nakoslilprojects"
+  },
+  {
+    "id": 14492,
+    "artisan_id": 801,
+    "type": "URL_PRICES",
+    "url": "https://trello.com/c/ilL2dKce"
+  },
+  {
+    "id": 14493,
+    "artisan_id": 801,
+    "type": "URL_COMMISSIONS",
+    "url": "https://trello.com/c/X7SpIYJW"
+  },
+  {
+    "id": 14494,
+    "artisan_id": 801,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/charmy.fifi/"
+  },
+  {
+    "id": 14495,
+    "artisan_id": 801,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/charmyfifi"
+  },
+  {
+    "id": 14496,
+    "artisan_id": 801,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/charmy.fifi/"
+  },
+  {
+    "id": 14497,
+    "artisan_id": 801,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@charmyfifi"
+  },
+  {
+    "id": 14498,
+    "artisan_id": 801,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/charmyfifi"
+  },
+  {
+    "id": 14499,
+    "artisan_id": 801,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/1OU1XPl4/fursuit-making-progress"
+  },
+  {
+    "id": 14500,
+    "artisan_id": 801,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/charmyfifi"
+  },
+  {
+    "id": 14501,
+    "artisan_id": 801,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@fificatttt"
+  },
+  {
+    "id": 14502,
+    "artisan_id": 802,
+    "type": "URL_PRICES",
+    "url": "https://www.instagram.com/s/aGlnaGxpZ2h0OjE3ODU4OTM1MzQ3MTg0NjYz"
+  },
+  {
+    "id": 14503,
+    "artisan_id": 802,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/profile.php?id=100083475575269"
+  },
+  {
+    "id": 14504,
+    "artisan_id": 802,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/furrical_blessing/"
+  },
+  {
+    "id": 14505,
+    "artisan_id": 802,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@furrical_blessing"
   }
 ]
