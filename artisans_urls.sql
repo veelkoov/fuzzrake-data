@@ -4034,7 +4034,6 @@ INSERT INTO artisans_urls VALUES(12574,651,'URL_PRICES','https://astrissuits.wix
 INSERT INTO artisans_urls VALUES(12575,651,'URL_COMMISSIONS','https://www.instagram.com/astris_fursuits/');
 INSERT INTO artisans_urls VALUES(12576,651,'URL_FACEBOOK','https://www.facebook.com/AstrisSuits/');
 INSERT INTO artisans_urls VALUES(12577,651,'URL_INSTAGRAM','https://www.instagram.com/astris_fursuits/');
-INSERT INTO artisans_urls VALUES(12578,651,'URL_LINKLIST','https://linktr.ee/thimblegoatbit');
 INSERT INTO artisans_urls VALUES(12579,651,'URL_QUEUE','https://trello.com/b/ISQUSTU0/fursuit-commission-progress');
 INSERT INTO artisans_urls VALUES(12580,579,'URL_TWITTER','https://twitter.com/ConeYote');
 INSERT INTO artisans_urls VALUES(12581,579,'URL_INSTAGRAM','https://www.instagram.com/coneyote/');

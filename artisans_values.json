@@ -88527,37 +88527,37 @@
     "id": 4272,
     "artisan_id": 651,
     "field_name": "PRODUCTION_MODELS",
-    "value": "Standard commissions"
+    "value": "Premades"
   },
   {
     "id": 4273,
     "artisan_id": 651,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Attached handpaws and feetpaws"
   },
   {
     "id": 4274,
     "artisan_id": 651,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Attached tail"
   },
   {
     "id": 4275,
     "artisan_id": 651,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 4276,
     "artisan_id": 651,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Follow-me eyes"
   },
   {
     "id": 4277,
     "artisan_id": 651,
     "field_name": "FEATURES",
-    "value": "Removable horns/antlers"
+    "value": "Indoor feet"
   },
   {
     "id": 4278,
@@ -88648,6 +88648,42 @@
     "artisan_id": 651,
     "field_name": "STYLES",
     "value": "Toony"
+  },
+  {
+    "id": 20303,
+    "artisan_id": 651,
+    "field_name": "DATE_UPDATED",
+    "value": "2024-12-29 19:13:34"
+  },
+  {
+    "id": 20304,
+    "artisan_id": 651,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Standard commissions"
+  },
+  {
+    "id": 20305,
+    "artisan_id": 651,
+    "field_name": "FEATURES",
+    "value": "Movable jaw"
+  },
+  {
+    "id": 20306,
+    "artisan_id": 651,
+    "field_name": "FEATURES",
+    "value": "Outdoor feet"
+  },
+  {
+    "id": 20307,
+    "artisan_id": 651,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 20308,
+    "artisan_id": 651,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
   },
   {
     "id": 2481,
