@@ -35116,5 +35116,119 @@
     "artisan_id": 802,
     "type": "URL_TIKTOK",
     "url": "https://www.tiktok.com/@furrical_blessing"
+  },
+  {
+    "id": 14506,
+    "artisan_id": 803,
+    "type": "URL_WEBSITE",
+    "url": "https://www.jurassicatstudios.com/"
+  },
+  {
+    "id": 14507,
+    "artisan_id": 803,
+    "type": "URL_PRICES",
+    "url": "https://www.jurassicatstudios.com/pricing"
+  },
+  {
+    "id": 14508,
+    "artisan_id": 803,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.jurassicatstudios.com/"
+  },
+  {
+    "id": 14509,
+    "artisan_id": 803,
+    "type": "URL_FAQ",
+    "url": "https://www.jurassicatstudios.com/frequentlyaskedquestions"
+  },
+  {
+    "id": 14510,
+    "artisan_id": 803,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/jurassicatstudios/"
+  },
+  {
+    "id": 14511,
+    "artisan_id": 803,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/JurassiCats"
+  },
+  {
+    "id": 14512,
+    "artisan_id": 803,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/JurassiCatStudios/"
+  },
+  {
+    "id": 14513,
+    "artisan_id": 803,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/jurassicat_studios/"
+  },
+  {
+    "id": 14514,
+    "artisan_id": 803,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/JurassiCat_Studios"
+  },
+  {
+    "id": 14515,
+    "artisan_id": 803,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/1VRvlTCS/commissions"
+  },
+  {
+    "id": 14516,
+    "artisan_id": 803,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:jurassicat_studios"
+  },
+  {
+    "id": 14517,
+    "artisan_id": 803,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/jurassicatstudios.bsky.social"
+  },
+  {
+    "id": 14518,
+    "artisan_id": 803,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/+LHAgLzS_rfA3MGFk"
+  },
+  {
+    "id": 14519,
+    "artisan_id": 803,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@jurassicat_studios"
+  },
+  {
+    "id": 14520,
+    "artisan_id": 804,
+    "type": "URL_WEBSITE",
+    "url": "https://www.tsfcreations.com/"
+  },
+  {
+    "id": 14521,
+    "artisan_id": 804,
+    "type": "URL_PRICES",
+    "url": "https://www.tsfcreations.com/fursuit-commissions"
+  },
+  {
+    "id": 14522,
+    "artisan_id": 804,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.tsfcreations.com/fursuit-commissions"
+  },
+  {
+    "id": 14523,
+    "artisan_id": 804,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/tsfcreations/"
+  },
+  {
+    "id": 14524,
+    "artisan_id": 804,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@tsfcreations"
   }
 ]
