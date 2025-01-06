@@ -5873,4 +5873,18 @@ INSERT INTO artisans_urls VALUES(14521,804,'URL_PRICES','https://www.tsfcreation
 INSERT INTO artisans_urls VALUES(14522,804,'URL_COMMISSIONS','https://www.tsfcreations.com/fursuit-commissions');
 INSERT INTO artisans_urls VALUES(14523,804,'URL_INSTAGRAM','https://www.instagram.com/tsfcreations/');
 INSERT INTO artisans_urls VALUES(14524,804,'URL_TIKTOK','https://www.tiktok.com/@tsfcreations');
+INSERT INTO artisans_urls VALUES(14525,805,'URL_WEBSITE','https://redcrocodilecreati.wixsite.com/mysite');
+INSERT INTO artisans_urls VALUES(14526,805,'URL_PRICES','https://redcrocodilecreati.wixsite.com/mysite');
+INSERT INTO artisans_urls VALUES(14527,805,'URL_COMMISSIONS','https://www.instagram.com/red_crocodile_creations/');
+INSERT INTO artisans_urls VALUES(14528,805,'URL_TWITTER','https://twitter.com/thatboicalcifer');
+INSERT INTO artisans_urls VALUES(14529,805,'URL_INSTAGRAM','https://www.instagram.com/red_crocodile_creations/');
+INSERT INTO artisans_urls VALUES(14530,805,'URL_TELEGRAM_CHANNEL','https://t.me/+GnAuNqAIMephYTc0');
+INSERT INTO artisans_urls VALUES(14531,805,'URL_TIKTOK','https://www.tiktok.com/@bigboicalcifer');
+INSERT INTO artisans_urls VALUES(14532,806,'URL_PRICES','https://docs.google.com/document/d/1J4iW0tu8Eccnv58__KEDFEkqStmjA2fX1d5oatvflAw/mobilebasic');
+INSERT INTO artisans_urls VALUES(14533,806,'URL_COMMISSIONS','https://www.instagram.com/starlights._.cavern/');
+INSERT INTO artisans_urls VALUES(14534,806,'URL_INSTAGRAM','https://www.instagram.com/starlights._.cavern/');
+INSERT INTO artisans_urls VALUES(14535,806,'URL_LINKLIST','https://starlightscavern.carrd.co/');
+INSERT INTO artisans_urls VALUES(14536,806,'URL_ETSY','https://www.etsy.com/shop/starlightscavern/');
+INSERT INTO artisans_urls VALUES(14537,806,'URL_QUEUE','https://trello.com/b/HqXAfpIQ/starlightscavern');
+INSERT INTO artisans_urls VALUES(14538,806,'URL_TIKTOK','https://www.tiktok.com/@luv...sunny');
 COMMIT;

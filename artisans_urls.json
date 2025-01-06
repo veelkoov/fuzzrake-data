@@ -35230,5 +35230,89 @@
     "artisan_id": 804,
     "type": "URL_TIKTOK",
     "url": "https://www.tiktok.com/@tsfcreations"
+  },
+  {
+    "id": 14525,
+    "artisan_id": 805,
+    "type": "URL_WEBSITE",
+    "url": "https://redcrocodilecreati.wixsite.com/mysite"
+  },
+  {
+    "id": 14526,
+    "artisan_id": 805,
+    "type": "URL_PRICES",
+    "url": "https://redcrocodilecreati.wixsite.com/mysite"
+  },
+  {
+    "id": 14527,
+    "artisan_id": 805,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/red_crocodile_creations/"
+  },
+  {
+    "id": 14528,
+    "artisan_id": 805,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/thatboicalcifer"
+  },
+  {
+    "id": 14529,
+    "artisan_id": 805,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/red_crocodile_creations/"
+  },
+  {
+    "id": 14530,
+    "artisan_id": 805,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/+GnAuNqAIMephYTc0"
+  },
+  {
+    "id": 14531,
+    "artisan_id": 805,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@bigboicalcifer"
+  },
+  {
+    "id": 14532,
+    "artisan_id": 806,
+    "type": "URL_PRICES",
+    "url": "https://docs.google.com/document/d/1J4iW0tu8Eccnv58__KEDFEkqStmjA2fX1d5oatvflAw/mobilebasic"
+  },
+  {
+    "id": 14533,
+    "artisan_id": 806,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/starlights._.cavern/"
+  },
+  {
+    "id": 14534,
+    "artisan_id": 806,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/starlights._.cavern/"
+  },
+  {
+    "id": 14535,
+    "artisan_id": 806,
+    "type": "URL_LINKLIST",
+    "url": "https://starlightscavern.carrd.co/"
+  },
+  {
+    "id": 14536,
+    "artisan_id": 806,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/starlightscavern/"
+  },
+  {
+    "id": 14537,
+    "artisan_id": 806,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/HqXAfpIQ/starlightscavern"
+  },
+  {
+    "id": 14538,
+    "artisan_id": 806,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@luv...sunny"
   }
 ]
