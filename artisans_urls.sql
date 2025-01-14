@@ -5887,4 +5887,5 @@ INSERT INTO artisans_urls VALUES(14535,806,'URL_LINKLIST','https://starlightscav
 INSERT INTO artisans_urls VALUES(14536,806,'URL_ETSY','https://www.etsy.com/shop/starlightscavern/');
 INSERT INTO artisans_urls VALUES(14537,806,'URL_QUEUE','https://trello.com/b/HqXAfpIQ/starlightscavern');
 INSERT INTO artisans_urls VALUES(14538,806,'URL_TIKTOK','https://www.tiktok.com/@luv...sunny');
+INSERT INTO artisans_urls VALUES(14539,294,'URL_FURSUITREVIEW','https://fursuitreview.com/m/beast-fantasia/');
 COMMIT;

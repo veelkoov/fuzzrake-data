@@ -10158,6 +10158,12 @@
     "url": "https://www.beastfantasia.com/costumes"
   },
   {
+    "id": 14539,
+    "artisan_id": 294,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/beast-fantasia/"
+  },
+  {
     "id": 1350,
     "artisan_id": 295,
     "type": "URL_TWITTER",
