@@ -2242,8 +2242,6 @@ INSERT INTO artisans_urls VALUES(10319,479,'URL_FUR_AFFINITY','https://www.furaf
 INSERT INTO artisans_urls VALUES(10320,479,'URL_OTHER','You can find my pricing guidelines and contact info from my FurAffinity. Looking forward to hearing from you!');
 INSERT INTO artisans_urls VALUES(10322,279,'URL_INSTAGRAM','https://www.instagram.com/kemoyagi/');
 INSERT INTO artisans_urls VALUES(10323,279,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/kemoyagi');
-INSERT INTO artisans_urls VALUES(10324,480,'URL_WEBSITE','https://www.mantacraft.com/');
-INSERT INTO artisans_urls VALUES(10325,480,'URL_PRICES','https://www.mantacraft.com/pricing.html');
 INSERT INTO artisans_urls VALUES(10326,481,'URL_WEBSITE','http://www.treebarkcreations.com/');
 INSERT INTO artisans_urls VALUES(10327,481,'URL_PRICES','https://therabbitssoul.wixsite.com/treebarkcreations/prices');
 INSERT INTO artisans_urls VALUES(10328,481,'URL_COMMISSIONS','https://therabbitssoul.wixsite.com/treebarkcreations');
