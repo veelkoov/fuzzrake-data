@@ -4413,5 +4413,15 @@
     "id": 886,
     "artisan_id": 806,
     "maker_id": "STRLGHT"
+  },
+  {
+    "id": 887,
+    "artisan_id": 807,
+    "maker_id": "DDRFURS"
+  },
+  {
+    "id": 888,
+    "artisan_id": 808,
+    "maker_id": "NOVAFUR"
   }
 ]

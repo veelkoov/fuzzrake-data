@@ -31458,6 +31458,12 @@
     "url": "https://www.threads.net/@spareferret"
   },
   {
+    "id": 14557,
+    "artisan_id": 734,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/spareferretstudio"
+  },
+  {
     "id": 13701,
     "artisan_id": 735,
     "type": "URL_WEBSITE",
@@ -35308,5 +35314,107 @@
     "artisan_id": 806,
     "type": "URL_TIKTOK",
     "url": "https://www.tiktok.com/@luv...sunny"
+  },
+  {
+    "id": 14540,
+    "artisan_id": 807,
+    "type": "URL_PRICES",
+    "url": "https://docs.google.com/document/d/1UMtRDaT6fG6pEy9lqAlaRm7SKvMV84O7AqMycqMCW_I/edit?usp=sharing"
+  },
+  {
+    "id": 14541,
+    "artisan_id": 807,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/ddrfursuits/"
+  },
+  {
+    "id": 14542,
+    "artisan_id": 807,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/ddrfursuits/"
+  },
+  {
+    "id": 14543,
+    "artisan_id": 807,
+    "type": "URL_LINKLIST",
+    "url": "https://ddrfursuits.carrd.co/"
+  },
+  {
+    "id": 14544,
+    "artisan_id": 807,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@elijahpilijah"
+  },
+  {
+    "id": 14545,
+    "artisan_id": 808,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/nova-fur/"
+  },
+  {
+    "id": 14546,
+    "artisan_id": 808,
+    "type": "URL_WEBSITE",
+    "url": "https://novafur.wixsite.com/novafur"
+  },
+  {
+    "id": 14547,
+    "artisan_id": 808,
+    "type": "URL_PRICES",
+    "url": "https://novafur.wixsite.com/novafur/commission"
+  },
+  {
+    "id": 14548,
+    "artisan_id": 808,
+    "type": "URL_COMMISSIONS",
+    "url": "https://novafur.wixsite.com/novafur"
+  },
+  {
+    "id": 14549,
+    "artisan_id": 808,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/Nova_fur"
+  },
+  {
+    "id": 14550,
+    "artisan_id": 808,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/nova_fur/"
+  },
+  {
+    "id": 14551,
+    "artisan_id": 808,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/Novafur"
+  },
+  {
+    "id": 14552,
+    "artisan_id": 808,
+    "type": "URL_QUEUE",
+    "url": "https://novafur.wixsite.com/novafur"
+  },
+  {
+    "id": 14553,
+    "artisan_id": 808,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:nova_fur"
+  },
+  {
+    "id": 14554,
+    "artisan_id": 808,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/novafur.bsky.social"
+  },
+  {
+    "id": 14555,
+    "artisan_id": 808,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/novafurcommissions"
+  },
+  {
+    "id": 14556,
+    "artisan_id": 808,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@Nova_fur"
   }
 ]
