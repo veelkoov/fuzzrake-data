@@ -3913,4 +3913,15 @@ INSERT INTO events VALUES(3925,'2025-01-12 00:09:10.920','CS_UPDATED','CoralCand
 INSERT INTO events VALUES(3926,'2025-01-12 00:09:11.055','CS_UPDATED','Claws&Roses Studio',0,0,0,'','https://clawsnrosesstudio.carrd.co/','','Commissions','',1);
 INSERT INTO events VALUES(3927,'2025-01-12 12:09:07.126','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','','Quotes',0);
 INSERT INTO events VALUES(3928,'2025-01-12 12:09:07.298','CS_UPDATED','Claws&Roses Studio',0,0,0,'','https://clawsnrosesstudio.carrd.co/','','','Commissions',0);
+INSERT INTO events VALUES(3929,'2025-01-06 19:44:00','DATA_UPDATED','',0,0,1,'9221928f363b44076d0da9784e4acae89467bd0d','','','','',0);
+INSERT INTO events VALUES(3930,'2025-01-15 00:09:19.519','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','Quotes','',1);
+INSERT INTO events VALUES(3931,'2025-01-15 12:09:40.073','CS_UPDATED','Scruff and Tumble Fursuits',0,0,0,'','https://scruffandtumblefursuits.com/','','','Commissions',0);
+INSERT INTO events VALUES(3932,'2025-01-15 12:09:40.226','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','','Quotes',0);
+INSERT INTO events VALUES(3933,'2025-01-16 12:09:03.350','CS_UPDATED','Atora Fursuit Studio',0,0,0,'','https://www.instagram.com/atora.fursuit.studio/profilecard/?igsh=ZHY1dmJ2eDMxdHV2','','','Commissions',0);
+INSERT INTO events VALUES(3934,'2025-01-16 20:03:00','DATA_UPDATED','',2,1,0,'c1a07585c95bc0384c2e3c960fcccb322b862451','','','','',0);
+INSERT INTO events VALUES(3935,'2025-01-17 00:09:07.074','CS_UPDATED','ByCats4Cats',0,0,0,'','http://bycats4cats.com/quote/','','',replace('Commissions\nOrders','\n',char(10)),0);
+INSERT INTO events VALUES(3936,'2025-01-17 00:09:07.639','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','Quotes','',1);
+INSERT INTO events VALUES(3937,'2025-01-17 12:09:11.644','CS_UPDATED','CoralCandyFursuits',0,0,0,'','https://coralcandy.carrd.co/','','','Quotes',0);
+INSERT INTO events VALUES(3938,'2025-01-17 12:09:11.805','CS_UPDATED','Rad Goat Fursuits',0,0,0,'','https://www.instagram.com/radgoatfursuits/','','','Commissions',0);
+INSERT INTO events VALUES(3939,'2025-01-19 12:09:08.532','CS_UPDATED','Junky Fluff Creations',0,0,0,'','https://www.instagram.com/junkyfluff.creations/','','Parts','',0);
 COMMIT;
