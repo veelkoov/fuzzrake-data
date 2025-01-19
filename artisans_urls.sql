@@ -4748,7 +4748,6 @@ INSERT INTO artisans_urls VALUES(13334,288,'URL_FURSUITREVIEW','https://fursuitr
 INSERT INTO artisans_urls VALUES(13335,703,'URL_FURSUITREVIEW','https://fursuitreview.com/m/saika/');
 INSERT INTO artisans_urls VALUES(13336,463,'URL_WEBSITE','https://www.foxesinboxesfursuits.com/');
 INSERT INTO artisans_urls VALUES(13337,463,'URL_PRICES','https://www.foxesinboxesfursuits.com/pricing');
-INSERT INTO artisans_urls VALUES(13338,463,'URL_COMMISSIONS','https://www.foxesinboxesfursuits.com/');
 INSERT INTO artisans_urls VALUES(13339,463,'URL_FAQ','https://www.foxesinboxesfursuits.com/faqs');
 INSERT INTO artisans_urls VALUES(13340,587,'URL_TWITTER','https://twitter.com/arcanesorcery_');
 INSERT INTO artisans_urls VALUES(13341,587,'URL_INSTAGRAM','https://www.instagram.com/stxrcane/');
@@ -5904,4 +5903,6 @@ INSERT INTO artisans_urls VALUES(14554,808,'URL_BLUESKY','https://bsky.app/profi
 INSERT INTO artisans_urls VALUES(14555,808,'URL_TELEGRAM_CHANNEL','https://t.me/novafurcommissions');
 INSERT INTO artisans_urls VALUES(14556,808,'URL_TIKTOK','https://www.tiktok.com/@Nova_fur');
 INSERT INTO artisans_urls VALUES(14557,734,'URL_TELEGRAM_CHANNEL','https://t.me/spareferretstudio');
+INSERT INTO artisans_urls VALUES(14558,463,'URL_COMMISSIONS','https://www.foxesinboxesfursuits.com/pricing');
+INSERT INTO artisans_urls VALUES(14559,463,'URL_BLUESKY','https://bsky.app/profile/foxesinboxes.bsky.social');
 COMMIT;

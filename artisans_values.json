@@ -53679,7 +53679,7 @@
     "id": 1883,
     "artisan_id": 463,
     "field_name": "DATE_UPDATED",
-    "value": "2024-02-20 13:41:57"
+    "value": "2025-01-19 22:39:19"
   },
   {
     "id": 1884,
@@ -53733,91 +53733,91 @@
     "id": 8085,
     "artisan_id": 463,
     "field_name": "FEATURES",
-    "value": "Attached tail"
+    "value": "Adjustable eyebrows"
   },
   {
     "id": 8086,
     "artisan_id": 463,
     "field_name": "FEATURES",
-    "value": "Exchangeable hairs"
+    "value": "Attached tail"
   },
   {
     "id": 8087,
     "artisan_id": 463,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Exchangeable hairs"
   },
   {
     "id": 8088,
     "artisan_id": 463,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 8089,
     "artisan_id": 463,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "Follow-me eyes"
   },
   {
     "id": 8090,
     "artisan_id": 463,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Indoor feet"
   },
   {
     "id": 8091,
     "artisan_id": 463,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "Outdoor feet"
   },
   {
     "id": 8092,
     "artisan_id": 463,
     "field_name": "FEATURES",
-    "value": "Removable horns/antlers"
+    "value": "Removable eyelids"
   },
   {
     "id": 8093,
     "artisan_id": 463,
     "field_name": "OTHER_FEATURES",
-    "value": "Fit for glasses"
+    "value": "Pickable nose"
   },
   {
     "id": 8094,
     "artisan_id": 463,
     "field_name": "OTHER_FEATURES",
-    "value": "Puffy handpaws"
+    "value": "Fit for glasses"
   },
   {
     "id": 8095,
     "artisan_id": 463,
     "field_name": "OTHER_FEATURES",
-    "value": "Floor draggers"
+    "value": "Hidden pocket"
   },
   {
     "id": 8096,
     "artisan_id": 463,
     "field_name": "OTHER_FEATURES",
-    "value": "Zip on tails"
+    "value": "Wings"
   },
   {
     "id": 8097,
     "artisan_id": 463,
     "field_name": "OTHER_FEATURES",
-    "value": "Squeakers"
+    "value": "Puffy handpaws"
   },
   {
     "id": 8098,
     "artisan_id": 463,
     "field_name": "OTHER_FEATURES",
-    "value": "Poseable tongue"
+    "value": "Plush claws"
   },
   {
     "id": 8099,
     "artisan_id": 463,
     "field_name": "OTHER_FEATURES",
-    "value": "Waterproof eyes"
+    "value": "Squeakers"
   },
   {
     "id": 8100,
@@ -53829,133 +53829,283 @@
     "id": 8101,
     "artisan_id": 463,
     "field_name": "OTHER_FEATURES",
-    "value": "Plush claws"
+    "value": "Removable padding"
   },
   {
     "id": 8102,
     "artisan_id": 463,
     "field_name": "OTHER_FEATURES",
-    "value": "Removable digi padding"
+    "value": "Poseable tongue"
   },
   {
     "id": 8103,
     "artisan_id": 463,
     "field_name": "OTHER_FEATURES",
-    "value": "Sockpaws"
+    "value": "Waterproof eyes"
   },
   {
     "id": 8104,
     "artisan_id": 463,
     "field_name": "OTHER_FEATURES",
-    "value": "2D eyes"
+    "value": "Piercings"
   },
   {
     "id": 8105,
     "artisan_id": 463,
     "field_name": "OTHER_FEATURES",
-    "value": "Adult features"
+    "value": "Floor dragger"
   },
   {
     "id": 8106,
     "artisan_id": 463,
     "field_name": "OTHER_FEATURES",
-    "value": "Plush piercings"
+    "value": "Zip on tails"
   },
   {
     "id": 8107,
     "artisan_id": 463,
     "field_name": "OTHER_FEATURES",
-    "value": "Removable head lining"
+    "value": "2D eyes"
   },
   {
     "id": 8108,
     "artisan_id": 463,
     "field_name": "OTHER_FEATURES",
-    "value": "Crotch zippers"
+    "value": "Just ask"
   },
   {
     "id": 8109,
     "artisan_id": 463,
     "field_name": "OTHER_FEATURES",
-    "value": "Hidden pocket in tail"
+    "value": "Sockpaws"
   },
   {
     "id": 8110,
     "artisan_id": 463,
     "field_name": "OTHER_FEATURES",
-    "value": "Pockets on fullsuits"
+    "value": "Anything magnetic"
   },
   {
     "id": 8111,
     "artisan_id": 463,
     "field_name": "OTHER_FEATURES",
-    "value": "Five-finger handpaws"
+    "value": "Arm sleeves"
   },
   {
     "id": 8112,
     "artisan_id": 463,
     "field_name": "OTHER_FEATURES",
-    "value": "Lined handpaws"
+    "value": "Plush teeth"
   },
   {
     "id": 8113,
     "artisan_id": 463,
     "field_name": "OTHER_FEATURES",
-    "value": "Squinted eyes"
+    "value": "Removable wings"
   },
   {
     "id": 8114,
     "artisan_id": 463,
     "field_name": "OTHER_FEATURES",
-    "value": "Feetpaw sandals"
+    "value": "Hair"
   },
   {
     "id": 8115,
     "artisan_id": 463,
     "field_name": "OTHER_FEATURES",
-    "value": "Anything magnetic"
+    "value": "Lined handpaws"
   },
   {
     "id": 8116,
     "artisan_id": 463,
     "field_name": "ORDER_TYPES",
-    "value": "Full digitigrade"
+    "value": "Bodysuits (as parts/separate)"
   },
   {
     "id": 8117,
     "artisan_id": 463,
     "field_name": "ORDER_TYPES",
-    "value": "Full plantigrade"
+    "value": "Feetpaws (as parts/separate)"
   },
   {
     "id": 8118,
     "artisan_id": 463,
     "field_name": "ORDER_TYPES",
-    "value": "Head (as parts/separate)"
+    "value": "Full digitigrade"
   },
   {
     "id": 8119,
     "artisan_id": 463,
     "field_name": "ORDER_TYPES",
-    "value": "Mini partial (head + handpaws + tail)"
+    "value": "Full plantigrade"
   },
   {
     "id": 8120,
     "artisan_id": 463,
     "field_name": "ORDER_TYPES",
-    "value": "Partial (head + handpaws + tail + feetpaws)"
+    "value": "Handpaws (as parts/separate)"
   },
   {
     "id": 8121,
     "artisan_id": 463,
     "field_name": "ORDER_TYPES",
-    "value": "Three-fourth (head + handpaws + tail + legs/pants + feetpaws)"
+    "value": "Head (as parts/separate)"
   },
   {
     "id": 8122,
     "artisan_id": 463,
     "field_name": "STYLES",
     "value": "Toony"
+  },
+  {
+    "id": 20455,
+    "artisan_id": 463,
+    "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 20456,
+    "artisan_id": 463,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 20457,
+    "artisan_id": 463,
+    "field_name": "ORDER_TYPES",
+    "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 20458,
+    "artisan_id": 463,
+    "field_name": "ORDER_TYPES",
+    "value": "Three-fourth (head + handpaws + tail + legs/pants + feetpaws)"
+  },
+  {
+    "id": 20459,
+    "artisan_id": 463,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Arm sleeves"
+  },
+  {
+    "id": 20460,
+    "artisan_id": 463,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Wings"
+  },
+  {
+    "id": 20461,
+    "artisan_id": 463,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Legs"
+  },
+  {
+    "id": 20462,
+    "artisan_id": 463,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
+  },
+  {
+    "id": 20463,
+    "artisan_id": 463,
+    "field_name": "OTHER_FEATURES",
+    "value": "Digitigrade feetpaws"
+  },
+  {
+    "id": 20464,
+    "artisan_id": 463,
+    "field_name": "OTHER_FEATURES",
+    "value": "Feetpaw sandals"
+  },
+  {
+    "id": 20465,
+    "artisan_id": 463,
+    "field_name": "OTHER_FEATURES",
+    "value": "Horns"
+  },
+  {
+    "id": 20466,
+    "artisan_id": 463,
+    "field_name": "OTHER_FEATURES",
+    "value": "Pockets"
+  },
+  {
+    "id": 20467,
+    "artisan_id": 463,
+    "field_name": "OTHER_FEATURES",
+    "value": "Adult features"
+  },
+  {
+    "id": 20468,
+    "artisan_id": 463,
+    "field_name": "OTHER_FEATURES",
+    "value": "Care instructions"
+  },
+  {
+    "id": 20469,
+    "artisan_id": 463,
+    "field_name": "OTHER_FEATURES",
+    "value": "Five-finger handpaws"
+  },
+  {
+    "id": 20470,
+    "artisan_id": 463,
+    "field_name": "OTHER_FEATURES",
+    "value": "Hidden pocket in tail"
+  },
+  {
+    "id": 20471,
+    "artisan_id": 463,
+    "field_name": "OTHER_FEATURES",
+    "value": "Removable padding"
+  },
+  {
+    "id": 20472,
+    "artisan_id": 463,
+    "field_name": "OTHER_FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 20473,
+    "artisan_id": 463,
+    "field_name": "OTHER_FEATURES",
+    "value": "Removable jewelry"
+  },
+  {
+    "id": 20474,
+    "artisan_id": 463,
+    "field_name": "OTHER_FEATURES",
+    "value": "Squinted eyes"
+  },
+  {
+    "id": 20475,
+    "artisan_id": 463,
+    "field_name": "OTHER_FEATURES",
+    "value": "Crotch zippers"
+  },
+  {
+    "id": 20476,
+    "artisan_id": 463,
+    "field_name": "OTHER_FEATURES",
+    "value": "Custom Head Bags"
+  },
+  {
+    "id": 20477,
+    "artisan_id": 463,
+    "field_name": "OTHER_FEATURES",
+    "value": "Removable head lining"
+  },
+  {
+    "id": 20478,
+    "artisan_id": 463,
+    "field_name": "OTHER_FEATURES",
+    "value": "Slim feetpaws"
+  },
+  {
+    "id": 20479,
+    "artisan_id": 463,
+    "field_name": "OTHER_FEATURES",
+    "value": "Short curly hair"
   },
   {
     "id": 1415,

@@ -17730,12 +17730,6 @@
     "url": "https://www.foxesinboxesfursuits.com/pricing"
   },
   {
-    "id": 13338,
-    "artisan_id": 463,
-    "type": "URL_COMMISSIONS",
-    "url": "https://www.foxesinboxesfursuits.com/"
-  },
-  {
     "id": 13339,
     "artisan_id": 463,
     "type": "URL_FAQ",
@@ -17746,6 +17740,18 @@
     "artisan_id": 463,
     "type": "URL_FURSUITREVIEW",
     "url": "https://fursuitreview.com/m/foxes-in-boxes-fursuits/"
+  },
+  {
+    "id": 14558,
+    "artisan_id": 463,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.foxesinboxesfursuits.com/pricing"
+  },
+  {
+    "id": 14559,
+    "artisan_id": 463,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/foxesinboxes.bsky.social"
   },
   {
     "id": 10070,
