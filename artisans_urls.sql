@@ -4934,7 +4934,6 @@ INSERT INTO artisans_urls VALUES(13564,226,'URL_COMMISSIONS','https://twitter.co
 INSERT INTO artisans_urls VALUES(13565,583,'URL_WEBSITE','https://untitledmuttsuits.carrd.co/');
 INSERT INTO artisans_urls VALUES(13566,583,'URL_PRICES','https://untitledmuttsuits.carrd.co/#prices');
 INSERT INTO artisans_urls VALUES(13567,583,'URL_COMMISSIONS','https://untitledmuttsuits.carrd.co/');
-INSERT INTO artisans_urls VALUES(13568,583,'URL_OTHER_SHOP','https://untitledmuttshop.com/');
 INSERT INTO artisans_urls VALUES(13569,619,'URL_PRICES','https://www.instagram.com/lexyaus_fursuits/');
 INSERT INTO artisans_urls VALUES(13570,619,'URL_MASTODON','https://furries.club/@Lexyaus_fursuits');
 INSERT INTO artisans_urls VALUES(13571,619,'URL_FURTRACK','https://www.furtrack.com/index/maker:lexyaus');
@@ -5624,14 +5623,12 @@ INSERT INTO artisans_urls VALUES(14273,785,'URL_INSTAGRAM','https://www.instagra
 INSERT INTO artisans_urls VALUES(14274,785,'URL_FURRY_AMINO','http://aminoapps.com/p/rulx79');
 INSERT INTO artisans_urls VALUES(14275,785,'URL_BLUESKY','https://bsky.app/profile/eeveemakesfurs.bsky.social');
 INSERT INTO artisans_urls VALUES(14276,786,'URL_WEBSITE','https://mroggdog.wixsite.com/mysite');
-INSERT INTO artisans_urls VALUES(14277,786,'URL_COMMISSIONS','https://www.instagram.com/mr_ogg_dog/');
 INSERT INTO artisans_urls VALUES(14278,786,'URL_FAQ','https://mroggdog.wixsite.com/mysite/faq');
 INSERT INTO artisans_urls VALUES(14279,786,'URL_TUMBLR','https://www.tumblr.com/mr-oggdog');
 INSERT INTO artisans_urls VALUES(14280,786,'URL_INSTAGRAM','https://www.instagram.com/mr_ogg_dog/');
 INSERT INTO artisans_urls VALUES(14281,786,'URL_LINKLIST','https://mroggdog.carrd.co/');
 INSERT INTO artisans_urls VALUES(14282,786,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/store/mr-oggdog');
 INSERT INTO artisans_urls VALUES(14283,786,'URL_OTHER_SHOP','https://www.mercari.com/u/211445394/?sv=0');
-INSERT INTO artisans_urls VALUES(14284,786,'URL_FURTRACK','https://www.furtrack.com/index/maker:mroggdog');
 INSERT INTO artisans_urls VALUES(14285,786,'URL_TIKTOK','https://www.tiktok.com/@mr_ogg_dog');
 INSERT INTO artisans_urls VALUES(14286,787,'URL_WEBSITE','https://pawparadesuits.weebly.com/store/c1/Featured_Products.html');
 INSERT INTO artisans_urls VALUES(14287,787,'URL_PRICES','https://app.calconic.com/public/calculator/666399f581f22d002a6d3fc2?layouts=true');
@@ -5905,4 +5902,9 @@ INSERT INTO artisans_urls VALUES(14556,808,'URL_TIKTOK','https://www.tiktok.com/
 INSERT INTO artisans_urls VALUES(14557,734,'URL_TELEGRAM_CHANNEL','https://t.me/spareferretstudio');
 INSERT INTO artisans_urls VALUES(14558,463,'URL_COMMISSIONS','https://www.foxesinboxesfursuits.com/pricing');
 INSERT INTO artisans_urls VALUES(14559,463,'URL_BLUESKY','https://bsky.app/profile/foxesinboxes.bsky.social');
+INSERT INTO artisans_urls VALUES(14560,786,'URL_COMMISSIONS','https://mroggdog.wixsite.com/mysite/commissions');
+INSERT INTO artisans_urls VALUES(14561,786,'URL_YOUTUBE','https://www.youtube.com/@mroggdog');
+INSERT INTO artisans_urls VALUES(14562,786,'URL_BLUESKY','https://bsky.app/profile/mroggdog.bsky.social');
+INSERT INTO artisans_urls VALUES(14563,786,'URL_DONATIONS','https://ko-fi.com/mroggdog');
+INSERT INTO artisans_urls VALUES(14564,583,'URL_QUEUE','https://trello.com/b/KmoXJT9H/untitledmutt-fursuit-queue');
 COMMIT;

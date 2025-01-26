@@ -23586,10 +23586,10 @@
     "url": "https://untitledmuttsuits.carrd.co/"
   },
   {
-    "id": 13568,
+    "id": 14564,
     "artisan_id": 583,
-    "type": "URL_OTHER_SHOP",
-    "url": "https://untitledmuttshop.com/"
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/KmoXJT9H/untitledmutt-fursuit-queue"
   },
   {
     "id": 11819,
@@ -34260,12 +34260,6 @@
     "url": "https://mroggdog.wixsite.com/mysite"
   },
   {
-    "id": 14277,
-    "artisan_id": 786,
-    "type": "URL_COMMISSIONS",
-    "url": "https://www.instagram.com/mr_ogg_dog/"
-  },
-  {
     "id": 14278,
     "artisan_id": 786,
     "type": "URL_FAQ",
@@ -34302,16 +34296,34 @@
     "url": "https://www.mercari.com/u/211445394/?sv=0"
   },
   {
-    "id": 14284,
-    "artisan_id": 786,
-    "type": "URL_FURTRACK",
-    "url": "https://www.furtrack.com/index/maker:mroggdog"
-  },
-  {
     "id": 14285,
     "artisan_id": 786,
     "type": "URL_TIKTOK",
     "url": "https://www.tiktok.com/@mr_ogg_dog"
+  },
+  {
+    "id": 14560,
+    "artisan_id": 786,
+    "type": "URL_COMMISSIONS",
+    "url": "https://mroggdog.wixsite.com/mysite/commissions"
+  },
+  {
+    "id": 14561,
+    "artisan_id": 786,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@mroggdog"
+  },
+  {
+    "id": 14562,
+    "artisan_id": 786,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/mroggdog.bsky.social"
+  },
+  {
+    "id": 14563,
+    "artisan_id": 786,
+    "type": "URL_DONATIONS",
+    "url": "https://ko-fi.com/mroggdog"
   },
   {
     "id": 14286,

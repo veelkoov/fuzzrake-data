@@ -76005,7 +76005,7 @@
     "id": 2973,
     "artisan_id": 583,
     "field_name": "DATE_UPDATED",
-    "value": "2024-06-09 18:45:24"
+    "value": "2025-01-26 21:08:50"
   },
   {
     "id": 18158,
@@ -113445,7 +113445,7 @@
     "id": 19749,
     "artisan_id": 786,
     "field_name": "ORDER_TYPES",
-    "value": "Tails (as parts/separate)"
+    "value": "Partial (head + handpaws + tail + feetpaws)"
   },
   {
     "id": 19750,
@@ -113457,49 +113457,49 @@
     "id": 19751,
     "artisan_id": 786,
     "field_name": "FEATURES",
-    "value": "Adjustable/wiggle ears"
+    "value": "Adjustable eyebrows"
   },
   {
     "id": 19752,
     "artisan_id": 786,
     "field_name": "FEATURES",
-    "value": "Attached handpaws and feetpaws"
+    "value": "Adjustable/wiggle ears"
   },
   {
     "id": 19753,
     "artisan_id": 786,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Attached handpaws and feetpaws"
   },
   {
     "id": 19754,
     "artisan_id": 786,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 19755,
     "artisan_id": 786,
     "field_name": "FEATURES",
-    "value": "LED eyes"
+    "value": "Follow-me eyes"
   },
   {
     "id": 19756,
     "artisan_id": 786,
     "field_name": "FEATURES",
-    "value": "LED/EL lights"
+    "value": "LED eyes"
   },
   {
     "id": 19757,
     "artisan_id": 786,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "LED/EL lights"
   },
   {
     "id": 19758,
     "artisan_id": 786,
     "field_name": "FEATURES",
-    "value": "Washable heads"
+    "value": "Removable eyelids"
   },
   {
     "id": 19759,
@@ -113548,6 +113548,54 @@
     "artisan_id": 786,
     "field_name": "DOES_NSFW",
     "value": "False"
+  },
+  {
+    "id": 20480,
+    "artisan_id": 786,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-01-26 21:05:50"
+  },
+  {
+    "id": 20481,
+    "artisan_id": 786,
+    "field_name": "OTHER_STYLES",
+    "value": "Horror"
+  },
+  {
+    "id": 20482,
+    "artisan_id": 786,
+    "field_name": "OTHER_STYLES",
+    "value": "Fleece"
+  },
+  {
+    "id": 20483,
+    "artisan_id": 786,
+    "field_name": "OTHER_STYLES",
+    "value": "Wrinkled"
+  },
+  {
+    "id": 20484,
+    "artisan_id": 786,
+    "field_name": "ORDER_TYPES",
+    "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 20485,
+    "artisan_id": 786,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
+  },
+  {
+    "id": 20486,
+    "artisan_id": 786,
+    "field_name": "FEATURES",
+    "value": "Washable heads"
+  },
+  {
+    "id": 20487,
+    "artisan_id": 786,
+    "field_name": "OTHER_FEATURES",
+    "value": "Bendable tails"
   },
   {
     "id": 19767,
