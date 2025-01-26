@@ -12,3 +12,9 @@
 /creators_species.*
 /kotlin_data.*
 /species.*
+
+# Too much noise, primarily information about operations, low-value
+/events.*
+
+# Temporary system data, operational
+/messenger_messages.*
