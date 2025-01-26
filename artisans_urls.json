@@ -35434,5 +35434,137 @@
     "artisan_id": 808,
     "type": "URL_TIKTOK",
     "url": "https://www.tiktok.com/@Nova_fur"
+  },
+  {
+    "id": 14565,
+    "artisan_id": 809,
+    "type": "URL_WEBSITE",
+    "url": "https://mane-event.carrd.co/"
+  },
+  {
+    "id": 14566,
+    "artisan_id": 809,
+    "type": "URL_PRICES",
+    "url": "https://mane-event.carrd.co/"
+  },
+  {
+    "id": 14567,
+    "artisan_id": 809,
+    "type": "URL_COMMISSIONS",
+    "url": "https://bsky.app/profile/yote-yammers.bsky.social"
+  },
+  {
+    "id": 14568,
+    "artisan_id": 809,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/yote_yammers/"
+  },
+  {
+    "id": 14569,
+    "artisan_id": 809,
+    "type": "URL_LINKLIST",
+    "url": "https://yote-yammers.carrd.co/"
+  },
+  {
+    "id": 14570,
+    "artisan_id": 809,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/vUXofg3h/yote-yammers-art-commissions"
+  },
+  {
+    "id": 14571,
+    "artisan_id": 809,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/yote-yammers.bsky.social"
+  },
+  {
+    "id": 14572,
+    "artisan_id": 809,
+    "type": "URL_DONATIONS",
+    "url": "https://ko-fi.com/yote_yammers"
+  },
+  {
+    "id": 14573,
+    "artisan_id": 809,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/Yote_YammersArt"
+  },
+  {
+    "id": 14574,
+    "artisan_id": 810,
+    "type": "URL_PRICES",
+    "url": "https://docs.google.com/document/d/1AZtKa03Kir8yMX5BaWWeqKvfciztbxHHxmvJPftcEQE/edit?usp=sharing"
+  },
+  {
+    "id": 14575,
+    "artisan_id": 810,
+    "type": "URL_COMMISSIONS",
+    "url": "https://trello.com/b/khwdnbMf/fursuit-commissions"
+  },
+  {
+    "id": 14576,
+    "artisan_id": 810,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/profile.php?id=61571709255787"
+  },
+  {
+    "id": 14577,
+    "artisan_id": 810,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/the_brendal_cave/"
+  },
+  {
+    "id": 14578,
+    "artisan_id": 810,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/0brendal0"
+  },
+  {
+    "id": 14579,
+    "artisan_id": 810,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/brendalscave"
+  },
+  {
+    "id": 14580,
+    "artisan_id": 810,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/khwdnbMf/fursuit-commissions"
+  },
+  {
+    "id": 14581,
+    "artisan_id": 810,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@brendal0000"
+  },
+  {
+    "id": 14582,
+    "artisan_id": 811,
+    "type": "URL_WEBSITE",
+    "url": "https://muttmart.weebly.com/"
+  },
+  {
+    "id": 14583,
+    "artisan_id": 811,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/mutt.mart/"
+  },
+  {
+    "id": 14584,
+    "artisan_id": 811,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/mutt.mart/"
+  },
+  {
+    "id": 14585,
+    "artisan_id": 811,
+    "type": "URL_OTHER",
+    "url": "https://muttmart.carrd.co/"
+  },
+  {
+    "id": 14586,
+    "artisan_id": 811,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/muttmart.bsky.social"
   }
 ]

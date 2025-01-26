@@ -4423,5 +4423,20 @@
     "id": 888,
     "artisan_id": 808,
     "maker_id": "NOVAFUR"
+  },
+  {
+    "id": 889,
+    "artisan_id": 809,
+    "maker_id": "MANEVNT"
+  },
+  {
+    "id": 890,
+    "artisan_id": 810,
+    "maker_id": "BRENDAL"
+  },
+  {
+    "id": 891,
+    "artisan_id": 811,
+    "maker_id": "MUTTMRT"
   }
 ]
