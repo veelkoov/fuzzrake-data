@@ -56895,49 +56895,49 @@
     "id": 11574,
     "artisan_id": 480,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Exchangeable hairs"
   },
   {
     "id": 11575,
     "artisan_id": 480,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 11576,
     "artisan_id": 480,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "Follow-me eyes"
   },
   {
     "id": 11577,
     "artisan_id": 480,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "In-head fans"
   },
   {
     "id": 11578,
     "artisan_id": 480,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "Indoor feet"
   },
   {
     "id": 11579,
     "artisan_id": 480,
     "field_name": "ORDER_TYPES",
-    "value": "Head (as parts/separate)"
+    "value": "Feetpaws (as parts/separate)"
   },
   {
     "id": 11580,
     "artisan_id": 480,
     "field_name": "ORDER_TYPES",
-    "value": "Mini partial (head + handpaws + tail)"
+    "value": "Handpaws (as parts/separate)"
   },
   {
     "id": 11581,
     "artisan_id": 480,
     "field_name": "ORDER_TYPES",
-    "value": "Partial (head + handpaws + tail + feetpaws)"
+    "value": "Head (as parts/separate)"
   },
   {
     "id": 11582,
@@ -56949,13 +56949,103 @@
     "id": 11583,
     "artisan_id": 480,
     "field_name": "STYLES",
-    "value": "Semi Toony"
+    "value": "Kigurumi"
   },
   {
     "id": 11584,
     "artisan_id": 480,
     "field_name": "STYLES",
+    "value": "Semi Toony"
+  },
+  {
+    "id": 20588,
+    "artisan_id": 480,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-01-26 22:22:22"
+  },
+  {
+    "id": 20589,
+    "artisan_id": 480,
+    "field_name": "STYLES",
     "value": "Toony"
+  },
+  {
+    "id": 20590,
+    "artisan_id": 480,
+    "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 20591,
+    "artisan_id": 480,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 20592,
+    "artisan_id": 480,
+    "field_name": "ORDER_TYPES",
+    "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 20593,
+    "artisan_id": 480,
+    "field_name": "ORDER_TYPES",
+    "value": "Three-fourth (head + handpaws + tail + legs/pants + feetpaws)"
+  },
+  {
+    "id": 20594,
+    "artisan_id": 480,
+    "field_name": "FEATURES",
+    "value": "Movable jaw"
+  },
+  {
+    "id": 20595,
+    "artisan_id": 480,
+    "field_name": "FEATURES",
+    "value": "Outdoor feet"
+  },
+  {
+    "id": 20596,
+    "artisan_id": 480,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 20597,
+    "artisan_id": 480,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
+  },
+  {
+    "id": 20598,
+    "artisan_id": 480,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 20599,
+    "artisan_id": 480,
+    "field_name": "NSFW_WEBSITE",
+    "value": "False"
+  },
+  {
+    "id": 20600,
+    "artisan_id": 480,
+    "field_name": "NSFW_SOCIAL",
+    "value": "False"
+  },
+  {
+    "id": 20601,
+    "artisan_id": 480,
+    "field_name": "DOES_NSFW",
+    "value": "False"
+  },
+  {
+    "id": 20602,
+    "artisan_id": 480,
+    "field_name": "WORKS_WITH_MINORS",
+    "value": "False"
   },
   {
     "id": 1432,
@@ -99717,7 +99807,7 @@
     "id": 2919,
     "artisan_id": 706,
     "field_name": "DATE_UPDATED",
-    "value": "2024-11-12 20:25:20"
+    "value": "2025-01-29 21:19:08"
   },
   {
     "id": 5554,

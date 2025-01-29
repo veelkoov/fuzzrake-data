@@ -18360,6 +18360,60 @@
     "url": "You can find my pricing guidelines and contact info from my FurAffinity. Looking forward to hearing from you!"
   },
   {
+    "id": 14587,
+    "artisan_id": 480,
+    "type": "URL_WEBSITE",
+    "url": "https://mantacraft.carrd.co/"
+  },
+  {
+    "id": 14588,
+    "artisan_id": 480,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/mantacrafts"
+  },
+  {
+    "id": 14589,
+    "artisan_id": 480,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/mantacraftstudios/"
+  },
+  {
+    "id": 14590,
+    "artisan_id": 480,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/MantacraftStudios"
+  },
+  {
+    "id": 14591,
+    "artisan_id": 480,
+    "type": "URL_OTHER_SHOP",
+    "url": "https://ko-fi.com/mantacraftstudios/shop"
+  },
+  {
+    "id": 14592,
+    "artisan_id": 480,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/9lqlYDHe/marsh-queue"
+  },
+  {
+    "id": 14593,
+    "artisan_id": 480,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/mantacrafts.bsky.social"
+  },
+  {
+    "id": 14594,
+    "artisan_id": 480,
+    "type": "URL_DONATIONS",
+    "url": "https://ko-fi.com/mantacraftstudios"
+  },
+  {
+    "id": 14595,
+    "artisan_id": 480,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@mantacraftstudios"
+  },
+  {
     "id": 10326,
     "artisan_id": 481,
     "type": "URL_WEBSITE",
@@ -30132,18 +30186,6 @@
     "url": "https://www.furtrack.com/index/maker:cedarwoods"
   },
   {
-    "id": 13402,
-    "artisan_id": 706,
-    "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/469954"
-  },
-  {
-    "id": 13404,
-    "artisan_id": 706,
-    "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/469955"
-  },
-  {
     "id": 13458,
     "artisan_id": 706,
     "type": "URL_PHOTOS",
@@ -30156,46 +30198,64 @@
     "url": "https://www.furtrack.com/p/547499"
   },
   {
-    "id": 13460,
+    "id": 14596,
+    "artisan_id": 706,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/reedart"
+  },
+  {
+    "id": 14597,
     "artisan_id": 706,
     "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/547495"
+    "url": "https://www.furtrack.com/p/524170"
   },
   {
-    "id": 13466,
+    "id": 14598,
     "artisan_id": 706,
-    "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/469954.jpg"
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/897936"
   },
   {
-    "id": 13467,
+    "id": 14599,
     "artisan_id": 706,
-    "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/469955.jpg"
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/547498"
   },
   {
-    "id": 13468,
+    "id": 14600,
+    "artisan_id": 706,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/cedar-woods.bsky.social"
+  },
+  {
+    "id": 14601,
     "artisan_id": 706,
     "type": "URL_MINIATURES",
     "url": "https://orca2.furtrack.com/thumb/524168.jpg"
   },
   {
-    "id": 13469,
+    "id": 14602,
     "artisan_id": 706,
     "type": "URL_MINIATURES",
     "url": "https://orca2.furtrack.com/thumb/547499.jpg"
   },
   {
-    "id": 13470,
+    "id": 14603,
     "artisan_id": 706,
     "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/547495.jpg"
+    "url": "https://orca2.furtrack.com/thumb/524170.jpg"
   },
   {
-    "id": 14346,
+    "id": 14604,
     "artisan_id": 706,
-    "type": "URL_WEBSITE",
-    "url": "https://linktr.ee/reedart"
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/897936.jpg"
+  },
+  {
+    "id": 14605,
+    "artisan_id": 706,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/547498.jpg"
   },
   {
     "id": 13405,
