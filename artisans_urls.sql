@@ -5939,4 +5939,7 @@ INSERT INTO artisans_urls VALUES(14602,706,'URL_MINIATURES','https://orca2.furtr
 INSERT INTO artisans_urls VALUES(14603,706,'URL_MINIATURES','https://orca2.furtrack.com/thumb/524170.jpg');
 INSERT INTO artisans_urls VALUES(14604,706,'URL_MINIATURES','https://orca2.furtrack.com/thumb/897936.jpg');
 INSERT INTO artisans_urls VALUES(14605,706,'URL_MINIATURES','https://orca2.furtrack.com/thumb/547498.jpg');
+INSERT INTO artisans_urls VALUES(14606,589,'URL_WEBSITE','https://ritafoxfursuits.com/');
+INSERT INTO artisans_urls VALUES(14607,589,'URL_PRICES','https://ritafoxfursuits.com/service');
+INSERT INTO artisans_urls VALUES(14608,589,'URL_COMMISSIONS','https://ritafoxfursuits.com/');
 COMMIT;

@@ -77337,91 +77337,73 @@
     "id": 14403,
     "artisan_id": 589,
     "field_name": "OTHER_FEATURES",
-    "value": "I make hair with wigs"
+    "value": "Wig hair"
   },
   {
     "id": 14404,
     "artisan_id": 589,
     "field_name": "ORDER_TYPES",
-    "value": "Bodysuits (as parts/separate)"
+    "value": "Full plantigrade"
   },
   {
     "id": 14405,
     "artisan_id": 589,
     "field_name": "ORDER_TYPES",
-    "value": "Feetpaws (as parts/separate)"
+    "value": "Head (as parts/separate)"
   },
   {
     "id": 14406,
     "artisan_id": 589,
     "field_name": "ORDER_TYPES",
-    "value": "Full digitigrade"
+    "value": "Mini partial (head + handpaws + tail)"
   },
   {
     "id": 14407,
     "artisan_id": 589,
     "field_name": "ORDER_TYPES",
-    "value": "Full plantigrade"
-  },
-  {
-    "id": 14408,
-    "artisan_id": 589,
-    "field_name": "ORDER_TYPES",
-    "value": "Handpaws (as parts/separate)"
-  },
-  {
-    "id": 14409,
-    "artisan_id": 589,
-    "field_name": "ORDER_TYPES",
-    "value": "Head (as parts/separate)"
-  },
-  {
-    "id": 14410,
-    "artisan_id": 589,
-    "field_name": "ORDER_TYPES",
-    "value": "Mini partial (head + handpaws + tail)"
-  },
-  {
-    "id": 14411,
-    "artisan_id": 589,
-    "field_name": "ORDER_TYPES",
     "value": "Partial (head + handpaws + tail + feetpaws)"
-  },
-  {
-    "id": 14412,
-    "artisan_id": 589,
-    "field_name": "ORDER_TYPES",
-    "value": "Tails (as parts/separate)"
-  },
-  {
-    "id": 14413,
-    "artisan_id": 589,
-    "field_name": "ORDER_TYPES",
-    "value": "Three-fourth (head + handpaws + tail + legs/pants + feetpaws)"
   },
   {
     "id": 14414,
     "artisan_id": 589,
     "field_name": "STYLES",
-    "value": "Realistic"
+    "value": "Semi Realistic"
   },
   {
     "id": 14415,
     "artisan_id": 589,
     "field_name": "STYLES",
-    "value": "Semi Realistic"
+    "value": "Semi Toony"
   },
   {
     "id": 14416,
     "artisan_id": 589,
     "field_name": "STYLES",
-    "value": "Semi Toony"
+    "value": "Toony"
   },
   {
-    "id": 14417,
+    "id": 20603,
     "artisan_id": 589,
-    "field_name": "STYLES",
-    "value": "Toony"
+    "field_name": "DATE_UPDATED",
+    "value": "2025-01-29 22:33:03"
+  },
+  {
+    "id": 20604,
+    "artisan_id": 589,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Open to doing digi experimentally."
+  },
+  {
+    "id": 20605,
+    "artisan_id": 589,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 20606,
+    "artisan_id": 589,
+    "field_name": "OTHER_FEATURES",
+    "value": "zippers"
   },
   {
     "id": 2057,

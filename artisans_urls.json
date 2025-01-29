@@ -23898,6 +23898,24 @@
     "url": "https://www.ebay.com/usr/ritafox?_trksid=p2047675.m3561.l2559"
   },
   {
+    "id": 14606,
+    "artisan_id": 589,
+    "type": "URL_WEBSITE",
+    "url": "https://ritafoxfursuits.com/"
+  },
+  {
+    "id": 14607,
+    "artisan_id": 589,
+    "type": "URL_PRICES",
+    "url": "https://ritafoxfursuits.com/service"
+  },
+  {
+    "id": 14608,
+    "artisan_id": 589,
+    "type": "URL_COMMISSIONS",
+    "url": "https://ritafoxfursuits.com/"
+  },
+  {
     "id": 11878,
     "artisan_id": 590,
     "type": "URL_WEBSITE",
