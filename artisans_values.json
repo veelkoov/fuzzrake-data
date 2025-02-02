@@ -68175,7 +68175,7 @@
     "id": 1713,
     "artisan_id": 541,
     "field_name": "DATE_UPDATED",
-    "value": "2024-10-20 16:30:17"
+    "value": "2025-02-02 10:08:42"
   },
   {
     "id": 14611,
@@ -68277,16 +68277,40 @@
     "id": 14627,
     "artisan_id": 541,
     "field_name": "STYLES",
-    "value": "Kigurumi"
-  },
-  {
-    "id": 19567,
-    "artisan_id": 541,
-    "field_name": "STYLES",
     "value": "Toony"
   },
   {
     "id": 19568,
+    "artisan_id": 541,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 20607,
+    "artisan_id": 541,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Micro partial (head + tail)"
+  },
+  {
+    "id": 20608,
+    "artisan_id": 541,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Full partial (head + handpaws + armsleeves + tail + feetpaws)"
+  },
+  {
+    "id": 20609,
+    "artisan_id": 541,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Armsleeves (as parts/separate)"
+  },
+  {
+    "id": 20610,
+    "artisan_id": 541,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Wings (as parts/separate)"
+  },
+  {
+    "id": 20611,
     "artisan_id": 541,
     "field_name": "FEATURES",
     "value": "Removable horns/antlers"

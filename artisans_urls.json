@@ -21468,22 +21468,40 @@
     "url": "https://www.instagram.com/saberfang/"
   },
   {
-    "id": 11226,
-    "artisan_id": 541,
-    "type": "URL_LINKLIST",
-    "url": "https://linktr.ee/LichiSaber"
-  },
-  {
     "id": 11227,
     "artisan_id": 541,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/ipdmhK3v/saberfang-costumes"
   },
   {
-    "id": 14212,
+    "id": 14609,
     "artisan_id": 541,
     "type": "URL_PRICES",
-    "url": "https://trello.com/c/1aZ4eIFJ"
+    "url": "https://trello.com/c/r0tZG9uq"
+  },
+  {
+    "id": 14610,
+    "artisan_id": 541,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/saberfang"
+  },
+  {
+    "id": 14611,
+    "artisan_id": 541,
+    "type": "URL_OTHER_SHOP",
+    "url": "https://www.vinted.pl/member/95627531-koyotek"
+  },
+  {
+    "id": 14612,
+    "artisan_id": 541,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/saberfangg"
+  },
+  {
+    "id": 14613,
+    "artisan_id": 541,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@saberfangg"
   },
   {
     "id": 11262,

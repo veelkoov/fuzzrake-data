@@ -2904,7 +2904,6 @@ INSERT INTO artisans_urls VALUES(11215,539,'URL_COMMISSIONS','https://www.furaff
 INSERT INTO artisans_urls VALUES(11216,539,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/fedorafursuits/');
 INSERT INTO artisans_urls VALUES(11223,540,'URL_LINKLIST','https://linkr.bio/32l9r');
 INSERT INTO artisans_urls VALUES(11225,541,'URL_INSTAGRAM','https://www.instagram.com/saberfang/');
-INSERT INTO artisans_urls VALUES(11226,541,'URL_LINKLIST','https://linktr.ee/LichiSaber');
 INSERT INTO artisans_urls VALUES(11227,541,'URL_QUEUE','https://trello.com/b/ipdmhK3v/saberfang-costumes');
 INSERT INTO artisans_urls VALUES(11228,401,'URL_WEBSITE','http://www.twistedleopardcreations.com/');
 INSERT INTO artisans_urls VALUES(11229,363,'URL_QUEUE','https://trello.com/b/aCRv4ibA/sbc-queue-info');
@@ -5555,7 +5554,6 @@ INSERT INTO artisans_urls VALUES(14208,779,'URL_QUEUE','https://docs.google.com/
 INSERT INTO artisans_urls VALUES(14209,779,'URL_FURTRACK','https://www.furtrack.com/index/maker:vauxiboxi');
 INSERT INTO artisans_urls VALUES(14210,737,'URL_COMMISSIONS','https://trello.com/b/eJrMR2cl/queen-hiss-creations');
 INSERT INTO artisans_urls VALUES(14211,427,'URL_COMMISSIONS','https://howlmetalhorrors.com/');
-INSERT INTO artisans_urls VALUES(14212,541,'URL_PRICES','https://trello.com/c/1aZ4eIFJ');
 INSERT INTO artisans_urls VALUES(14213,627,'URL_FURTRACK','https://www.furtrack.com/index/maker:ghost_and_goats');
 INSERT INTO artisans_urls VALUES(14214,627,'URL_PHOTOS','https://www.furtrack.com/p/658895');
 INSERT INTO artisans_urls VALUES(14215,627,'URL_PHOTOS','https://www.furtrack.com/p/508216');
@@ -5942,4 +5940,9 @@ INSERT INTO artisans_urls VALUES(14605,706,'URL_MINIATURES','https://orca2.furtr
 INSERT INTO artisans_urls VALUES(14606,589,'URL_WEBSITE','https://ritafoxfursuits.com/');
 INSERT INTO artisans_urls VALUES(14607,589,'URL_PRICES','https://ritafoxfursuits.com/service');
 INSERT INTO artisans_urls VALUES(14608,589,'URL_COMMISSIONS','https://ritafoxfursuits.com/');
+INSERT INTO artisans_urls VALUES(14609,541,'URL_PRICES','https://trello.com/c/r0tZG9uq');
+INSERT INTO artisans_urls VALUES(14610,541,'URL_LINKLIST','https://linktr.ee/saberfang');
+INSERT INTO artisans_urls VALUES(14611,541,'URL_OTHER_SHOP','https://www.vinted.pl/member/95627531-koyotek');
+INSERT INTO artisans_urls VALUES(14612,541,'URL_TELEGRAM_CHANNEL','https://t.me/saberfangg');
+INSERT INTO artisans_urls VALUES(14613,541,'URL_TIKTOK','https://www.tiktok.com/@saberfangg');
 COMMIT;
