@@ -5945,4 +5945,5 @@ INSERT INTO artisans_urls VALUES(14610,541,'URL_LINKLIST','https://linktr.ee/sab
 INSERT INTO artisans_urls VALUES(14611,541,'URL_OTHER_SHOP','https://www.vinted.pl/member/95627531-koyotek');
 INSERT INTO artisans_urls VALUES(14612,541,'URL_TELEGRAM_CHANNEL','https://t.me/saberfangg');
 INSERT INTO artisans_urls VALUES(14613,541,'URL_TIKTOK','https://www.tiktok.com/@saberfangg');
+INSERT INTO artisans_urls VALUES(14614,719,'URL_FURSUITREVIEW','https://fursuitreview.com/m/kecrowcreations/');
 COMMIT;
