@@ -5946,4 +5946,6 @@ INSERT INTO artisans_urls VALUES(14611,541,'URL_OTHER_SHOP','https://www.vinted.
 INSERT INTO artisans_urls VALUES(14612,541,'URL_TELEGRAM_CHANNEL','https://t.me/saberfangg');
 INSERT INTO artisans_urls VALUES(14613,541,'URL_TIKTOK','https://www.tiktok.com/@saberfangg');
 INSERT INTO artisans_urls VALUES(14614,719,'URL_FURSUITREVIEW','https://fursuitreview.com/m/kecrowcreations/');
+INSERT INTO artisans_urls VALUES(14615,781,'URL_PRICES','https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDk1MzQzMzIyNDY2ODQ1?igsh=MW45MDFwaTh4OWk1bg==');
+INSERT INTO artisans_urls VALUES(14616,781,'URL_TIKTOK','https://www.tiktok.com/@sakuraxfur');
 COMMIT;

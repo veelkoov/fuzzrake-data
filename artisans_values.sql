@@ -19650,4 +19650,5 @@ INSERT INTO artisans_values VALUES(20608,541,'OTHER_ORDER_TYPES','Full partial (
 INSERT INTO artisans_values VALUES(20609,541,'OTHER_ORDER_TYPES','Armsleeves (as parts/separate)');
 INSERT INTO artisans_values VALUES(20610,541,'OTHER_ORDER_TYPES','Wings (as parts/separate)');
 INSERT INTO artisans_values VALUES(20611,541,'FEATURES','Removable horns/antlers');
+INSERT INTO artisans_values VALUES(20612,781,'DATE_UPDATED','2025-02-06 18:03:21');
 COMMIT;
