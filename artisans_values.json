@@ -118248,6 +118248,12 @@
     "value": "True"
   },
   {
+    "id": 20698,
+    "artisan_id": 813,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-02-10 20:51:24"
+  },
+  {
     "id": 20671,
     "artisan_id": 814,
     "field_name": "DATE_ADDED",

@@ -5990,4 +5990,15 @@ INSERT INTO artisans_urls VALUES(14655,814,'URL_FURTRACK','https://www.furtrack.
 INSERT INTO artisans_urls VALUES(14656,814,'URL_BLUESKY','https://bsky.app/profile/snowfallwarning.bsky.social');
 INSERT INTO artisans_urls VALUES(14657,814,'URL_DONATIONS','https://ko-fi.com/snowfallwarning');
 INSERT INTO artisans_urls VALUES(14658,814,'URL_TELEGRAM_CHANNEL','https://t.me/snowfallwarningcreations');
+INSERT INTO artisans_urls VALUES(14659,813,'URL_FURTRACK','https://www.furtrack.com/index/maker:soulstruckstudios');
+INSERT INTO artisans_urls VALUES(14660,813,'URL_PHOTOS','https://www.furtrack.com/p/914500');
+INSERT INTO artisans_urls VALUES(14661,813,'URL_PHOTOS','https://www.furtrack.com/p/914499');
+INSERT INTO artisans_urls VALUES(14662,813,'URL_PHOTOS','https://www.furtrack.com/p/914503');
+INSERT INTO artisans_urls VALUES(14663,813,'URL_PHOTOS','https://www.furtrack.com/p/914502');
+INSERT INTO artisans_urls VALUES(14664,813,'URL_PHOTOS','https://www.furtrack.com/p/914501');
+INSERT INTO artisans_urls VALUES(14665,813,'URL_MINIATURES','https://orca2.furtrack.com/thumb/914500.jpg');
+INSERT INTO artisans_urls VALUES(14666,813,'URL_MINIATURES','https://orca2.furtrack.com/thumb/914499.jpg');
+INSERT INTO artisans_urls VALUES(14667,813,'URL_MINIATURES','https://orca2.furtrack.com/thumb/914503.jpg');
+INSERT INTO artisans_urls VALUES(14668,813,'URL_MINIATURES','https://orca2.furtrack.com/thumb/914502.jpg');
+INSERT INTO artisans_urls VALUES(14669,813,'URL_MINIATURES','https://orca2.furtrack.com/thumb/914501.jpg');
 COMMIT;
