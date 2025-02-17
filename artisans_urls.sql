@@ -6003,4 +6003,5 @@ INSERT INTO artisans_urls VALUES(14668,813,'URL_MINIATURES','https://orca2.furtr
 INSERT INTO artisans_urls VALUES(14669,813,'URL_MINIATURES','https://orca2.furtrack.com/thumb/914501.jpg');
 INSERT INTO artisans_urls VALUES(14670,734,'URL_FURSUITREVIEW','https://fursuitreview.com/m/spareferret-studio/');
 INSERT INTO artisans_urls VALUES(14671,708,'URL_QUEUE','https://trello.com/b/dowheLdv/queue-fools-errand-fursuits');
+INSERT INTO artisans_urls VALUES(14672,535,'URL_FURSUITREVIEW','https://fursuitreview.com/m/kiki-chaos-creations/');
 COMMIT;
