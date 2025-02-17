@@ -95289,7 +95289,7 @@
     "id": 12016,
     "artisan_id": 687,
     "field_name": "PRODUCTION_MODELS",
-    "value": "Standard commissions"
+    "value": "Artistic liberty commissions"
   },
   {
     "id": 12017,
@@ -95565,13 +95565,25 @@
     "id": 12062,
     "artisan_id": 687,
     "field_name": "STYLES",
-    "value": "Semi Toony"
+    "value": "Toony"
   },
   {
-    "id": 12063,
+    "id": 20699,
     "artisan_id": 687,
-    "field_name": "STYLES",
-    "value": "Toony"
+    "field_name": "DATE_UPDATED",
+    "value": "2025-02-17 20:22:12"
+  },
+  {
+    "id": 20700,
+    "artisan_id": 687,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Premades"
+  },
+  {
+    "id": 20701,
+    "artisan_id": 687,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Standard commissions"
   },
   {
     "id": 2722,

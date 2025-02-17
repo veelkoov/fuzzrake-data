@@ -29298,30 +29298,6 @@
     "url": "https://trello.com/b/MZPHjoVA/bodozo-creations-fursuit-commissions"
   },
   {
-    "id": 13065,
-    "artisan_id": 687,
-    "type": "URL_WEBSITE",
-    "url": "https://minispawsomecreations.weebly.com/"
-  },
-  {
-    "id": 13066,
-    "artisan_id": 687,
-    "type": "URL_PRICES",
-    "url": "https://minispawsomecreations.weebly.com/quote.html"
-  },
-  {
-    "id": 13067,
-    "artisan_id": 687,
-    "type": "URL_COMMISSIONS",
-    "url": "https://minispawsomecreations.weebly.com/"
-  },
-  {
-    "id": 13068,
-    "artisan_id": 687,
-    "type": "URL_FAQ",
-    "url": "https://minispawsomecreations.weebly.com/faq.html"
-  },
-  {
     "id": 13069,
     "artisan_id": 687,
     "type": "URL_INSTAGRAM",
@@ -29344,6 +29320,30 @@
     "artisan_id": 687,
     "type": "URL_FURSUITREVIEW",
     "url": "https://fursuitreview.com/m/minis-pawsome-creations/"
+  },
+  {
+    "id": 14673,
+    "artisan_id": 687,
+    "type": "URL_WEBSITE",
+    "url": "https://miniscreation.squarespace.com/"
+  },
+  {
+    "id": 14674,
+    "artisan_id": 687,
+    "type": "URL_PRICES",
+    "url": "https://miniscreation.squarespace.com/services"
+  },
+  {
+    "id": 14675,
+    "artisan_id": 687,
+    "type": "URL_COMMISSIONS",
+    "url": "https://miniscreation.squarespace.com/"
+  },
+  {
+    "id": 14676,
+    "artisan_id": 687,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@minis.pawsome.creations"
   },
   {
     "id": 13072,

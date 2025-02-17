@@ -4495,10 +4495,6 @@ INSERT INTO artisans_urls VALUES(13061,686,'URL_TWITTER','https://twitter.com/bo
 INSERT INTO artisans_urls VALUES(13062,686,'URL_INSTAGRAM','https://www.instagram.com/bodoz0/');
 INSERT INTO artisans_urls VALUES(13063,686,'URL_LINKLIST','https://linktr.ee/Bodozo');
 INSERT INTO artisans_urls VALUES(13064,686,'URL_QUEUE','https://trello.com/b/MZPHjoVA/bodozo-creations-fursuit-commissions');
-INSERT INTO artisans_urls VALUES(13065,687,'URL_WEBSITE','https://minispawsomecreations.weebly.com/');
-INSERT INTO artisans_urls VALUES(13066,687,'URL_PRICES','https://minispawsomecreations.weebly.com/quote.html');
-INSERT INTO artisans_urls VALUES(13067,687,'URL_COMMISSIONS','https://minispawsomecreations.weebly.com/');
-INSERT INTO artisans_urls VALUES(13068,687,'URL_FAQ','https://minispawsomecreations.weebly.com/faq.html');
 INSERT INTO artisans_urls VALUES(13069,687,'URL_INSTAGRAM','https://www.instagram.com/minispawsomecreations/');
 INSERT INTO artisans_urls VALUES(13070,687,'URL_YOUTUBE','https://www.youtube.com/channel/UCjqbv1xtzgV5QgidKInGVMQ');
 INSERT INTO artisans_urls VALUES(13071,687,'URL_QUEUE','https://trello.com/b/la3gQazg/minis-pawsome-creations-commission-queue');
@@ -6004,4 +6000,8 @@ INSERT INTO artisans_urls VALUES(14669,813,'URL_MINIATURES','https://orca2.furtr
 INSERT INTO artisans_urls VALUES(14670,734,'URL_FURSUITREVIEW','https://fursuitreview.com/m/spareferret-studio/');
 INSERT INTO artisans_urls VALUES(14671,708,'URL_QUEUE','https://trello.com/b/dowheLdv/queue-fools-errand-fursuits');
 INSERT INTO artisans_urls VALUES(14672,535,'URL_FURSUITREVIEW','https://fursuitreview.com/m/kiki-chaos-creations/');
+INSERT INTO artisans_urls VALUES(14673,687,'URL_WEBSITE','https://miniscreation.squarespace.com/');
+INSERT INTO artisans_urls VALUES(14674,687,'URL_PRICES','https://miniscreation.squarespace.com/services');
+INSERT INTO artisans_urls VALUES(14675,687,'URL_COMMISSIONS','https://miniscreation.squarespace.com/');
+INSERT INTO artisans_urls VALUES(14676,687,'URL_TIKTOK','https://www.tiktok.com/@minis.pawsome.creations');
 COMMIT;
