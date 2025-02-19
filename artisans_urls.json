@@ -26412,28 +26412,34 @@
     "url": "https://www.furtrack.com/index/maker:goldkoicreations"
   },
   {
-    "id": 14024,
+    "id": 14697,
     "artisan_id": 642,
     "type": "URL_WEBSITE",
-    "url": "https://sites.google.com/view/goldkoicreations"
+    "url": "https://goldkoicreations.carrd.co/"
   },
   {
-    "id": 14025,
+    "id": 14698,
     "artisan_id": 642,
     "type": "URL_PRICES",
-    "url": "https://sites.google.com/view/goldkoicreations/price-guide"
+    "url": "https://goldkoicreations.carrd.co/#comms"
   },
   {
-    "id": 14026,
+    "id": 14699,
     "artisan_id": 642,
     "type": "URL_FAQ",
-    "url": "https://sites.google.com/view/goldkoicreations/faq"
+    "url": "https://goldkoicreations.carrd.co/#faq"
   },
   {
-    "id": 14027,
+    "id": 14700,
     "artisan_id": 642,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/bewilderedpike"
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/goldkoicreations.bsky.social"
+  },
+  {
+    "id": 14701,
+    "artisan_id": 642,
+    "type": "URL_DONATIONS",
+    "url": "https://ko-fi.com/confusedpike"
   },
   {
     "id": 12452,

@@ -5365,10 +5365,6 @@ INSERT INTO artisans_urls VALUES(14020,726,'URL_FUR_AFFINITY','https://www.furaf
 INSERT INTO artisans_urls VALUES(14021,726,'URL_LINKLIST','https://linktr.ee/weaver_owl');
 INSERT INTO artisans_urls VALUES(14022,726,'URL_THE_DEALERS_DEN','https://www.thedealersden.com/other-items/weaverowl/144809');
 INSERT INTO artisans_urls VALUES(14023,726,'URL_QUEUE','https://trello.com/b/p3FRIwyQ/weaverowl');
-INSERT INTO artisans_urls VALUES(14024,642,'URL_WEBSITE','https://sites.google.com/view/goldkoicreations');
-INSERT INTO artisans_urls VALUES(14025,642,'URL_PRICES','https://sites.google.com/view/goldkoicreations/price-guide');
-INSERT INTO artisans_urls VALUES(14026,642,'URL_FAQ','https://sites.google.com/view/goldkoicreations/faq');
-INSERT INTO artisans_urls VALUES(14027,642,'URL_TWITTER','https://twitter.com/bewilderedpike');
 INSERT INTO artisans_urls VALUES(14028,549,'URL_WEBSITE','http://moonfull.ca/');
 INSERT INTO artisans_urls VALUES(14029,549,'URL_TWITTER','https://twitter.com/MoonfullSuits');
 INSERT INTO artisans_urls VALUES(14030,763,'URL_COMMISSIONS','https://www.instagram.com/straw_creations_de/');
@@ -6023,4 +6019,9 @@ INSERT INTO artisans_urls VALUES(14693,815,'URL_MINIATURES','https://orca2.furtr
 INSERT INTO artisans_urls VALUES(14694,815,'URL_MINIATURES','https://orca2.furtrack.com/thumb/924326.jpg');
 INSERT INTO artisans_urls VALUES(14695,815,'URL_MINIATURES','https://orca2.furtrack.com/thumb/924325.jpg');
 INSERT INTO artisans_urls VALUES(14696,815,'URL_MINIATURES','https://orca2.furtrack.com/thumb/924328.jpg');
+INSERT INTO artisans_urls VALUES(14697,642,'URL_WEBSITE','https://goldkoicreations.carrd.co/');
+INSERT INTO artisans_urls VALUES(14698,642,'URL_PRICES','https://goldkoicreations.carrd.co/#comms');
+INSERT INTO artisans_urls VALUES(14699,642,'URL_FAQ','https://goldkoicreations.carrd.co/#faq');
+INSERT INTO artisans_urls VALUES(14700,642,'URL_BLUESKY','https://bsky.app/profile/goldkoicreations.bsky.social');
+INSERT INTO artisans_urls VALUES(14701,642,'URL_DONATIONS','https://ko-fi.com/confusedpike');
 COMMIT;
