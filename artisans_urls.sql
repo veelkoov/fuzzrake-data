@@ -3056,7 +3056,6 @@ INSERT INTO artisans_urls VALUES(11426,554,'URL_SCRITCH','https://scritch.es/cin
 INSERT INTO artisans_urls VALUES(11427,554,'URL_FURTRACK','https://www.furtrack.com/user/CinDery');
 INSERT INTO artisans_urls VALUES(11428,554,'URL_TELEGRAM_CHANNEL','https://t.me/CinDery');
 INSERT INTO artisans_urls VALUES(11431,555,'URL_DEVIANTART','https://www.deviantart.com/deadpozzum');
-INSERT INTO artisans_urls VALUES(11432,555,'URL_TWITTER','https://twitter.com/DeadPozzum');
 INSERT INTO artisans_urls VALUES(11433,555,'URL_INSTAGRAM','https://www.instagram.com/DeadPozzum/');
 INSERT INTO artisans_urls VALUES(11434,555,'URL_YOUTUBE','https://www.youtube.com/channel/UCJEOmUXCHOBFU3BBGYyEpuQ');
 INSERT INTO artisans_urls VALUES(11437,269,'URL_WEBSITE','https://www.carnivcreations.com/');
@@ -6024,4 +6023,8 @@ INSERT INTO artisans_urls VALUES(14698,642,'URL_PRICES','https://goldkoicreation
 INSERT INTO artisans_urls VALUES(14699,642,'URL_FAQ','https://goldkoicreations.carrd.co/#faq');
 INSERT INTO artisans_urls VALUES(14700,642,'URL_BLUESKY','https://bsky.app/profile/goldkoicreations.bsky.social');
 INSERT INTO artisans_urls VALUES(14701,642,'URL_DONATIONS','https://ko-fi.com/confusedpike');
+INSERT INTO artisans_urls VALUES(14702,555,'URL_FURTRACK','https://www.furtrack.com/index/maker:deadpozzum');
+INSERT INTO artisans_urls VALUES(14703,555,'URL_PHOTOS','https://www.furtrack.com/p/935373');
+INSERT INTO artisans_urls VALUES(14704,555,'URL_BLUESKY','https://bsky.app/profile/deadpozzum.bsky.social');
+INSERT INTO artisans_urls VALUES(14705,555,'URL_TELEGRAM_CHANNEL','https://t.me/deadpozzumsuits');
 COMMIT;

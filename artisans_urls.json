@@ -22278,12 +22278,6 @@
     "url": "https://www.deviantart.com/deadpozzum"
   },
   {
-    "id": 11432,
-    "artisan_id": 555,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/DeadPozzum"
-  },
-  {
     "id": 11433,
     "artisan_id": 555,
     "type": "URL_INSTAGRAM",
@@ -22330,6 +22324,30 @@
     "artisan_id": 555,
     "type": "URL_COMMISSIONS",
     "url": "https://deadpozzum.uwu.ai/#fursuitcommissions"
+  },
+  {
+    "id": 14702,
+    "artisan_id": 555,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:deadpozzum"
+  },
+  {
+    "id": 14703,
+    "artisan_id": 555,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/935373"
+  },
+  {
+    "id": 14704,
+    "artisan_id": 555,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/deadpozzum.bsky.social"
+  },
+  {
+    "id": 14705,
+    "artisan_id": 555,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/deadpozzumsuits"
   },
   {
     "id": 11439,
