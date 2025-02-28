@@ -36160,5 +36160,173 @@
     "artisan_id": 816,
     "type": "URL_TIKTOK",
     "url": "https://www.tiktok.com/@streusel_creation"
+  },
+  {
+    "id": 14707,
+    "artisan_id": 817,
+    "type": "URL_WEBSITE",
+    "url": "https://studio-seraphim-fursuits.jimdosite.com/"
+  },
+  {
+    "id": 14708,
+    "artisan_id": 817,
+    "type": "URL_COMMISSIONS",
+    "url": "https://studio-seraphim-fursuits.jimdosite.com/commissions/"
+  },
+  {
+    "id": 14709,
+    "artisan_id": 817,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/studio_seraphim"
+  },
+  {
+    "id": 14710,
+    "artisan_id": 817,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/studio.seraphim/"
+  },
+  {
+    "id": 14711,
+    "artisan_id": 818,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/aspenleafstudios/"
+  },
+  {
+    "id": 14712,
+    "artisan_id": 818,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/Aspen_five"
+  },
+  {
+    "id": 14713,
+    "artisan_id": 818,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/aspenleafstudios"
+  },
+  {
+    "id": 14714,
+    "artisan_id": 818,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.TheDealersDen.com/store/aspen-leaf-studios"
+  },
+  {
+    "id": 14715,
+    "artisan_id": 818,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/+U48R-lqNLJk5YTE5"
+  },
+  {
+    "id": 14716,
+    "artisan_id": 819,
+    "type": "URL_WEBSITE",
+    "url": "https://www.chloehatler.com/fursuits"
+  },
+  {
+    "id": 14717,
+    "artisan_id": 819,
+    "type": "URL_PRICES",
+    "url": "https://www.chloehatler.com/pricing"
+  },
+  {
+    "id": 14718,
+    "artisan_id": 819,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.chloehatler.com/fursuits"
+  },
+  {
+    "id": 14719,
+    "artisan_id": 819,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/sunnysideupfurs"
+  },
+  {
+    "id": 14720,
+    "artisan_id": 819,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/sunnysideupfursuits/"
+  },
+  {
+    "id": 14721,
+    "artisan_id": 819,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@ChloeHatler"
+  },
+  {
+    "id": 14722,
+    "artisan_id": 819,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/C2FVfY8M/sunny-side-up-costumes-creations-project-queue"
+  },
+  {
+    "id": 14723,
+    "artisan_id": 819,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:sunnysideupcostumesandcreations"
+  },
+  {
+    "id": 14724,
+    "artisan_id": 819,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/880681"
+  },
+  {
+    "id": 14725,
+    "artisan_id": 819,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/879187"
+  },
+  {
+    "id": 14726,
+    "artisan_id": 819,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/chloehatler.bsky.social"
+  },
+  {
+    "id": 14727,
+    "artisan_id": 819,
+    "type": "URL_DONATIONS",
+    "url": "https://ko-fi.com/chloehatler"
+  },
+  {
+    "id": 14733,
+    "artisan_id": 819,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/880681.jpg"
+  },
+  {
+    "id": 14734,
+    "artisan_id": 819,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/879187.jpg"
+  },
+  {
+    "id": 14728,
+    "artisan_id": 820,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/knoxinabox.exe/"
+  },
+  {
+    "id": 14729,
+    "artisan_id": 820,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@knoxinabox"
+  },
+  {
+    "id": 14730,
+    "artisan_id": 820,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/knoxinabox"
+  },
+  {
+    "id": 14731,
+    "artisan_id": 820,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/KnoxInABoxCreations"
+  },
+  {
+    "id": 14732,
+    "artisan_id": 820,
+    "type": "URL_DONATIONS",
+    "url": "https://ko-fi.com/knoxinaboxexe"
   }
 ]
