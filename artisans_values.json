@@ -74691,7 +74691,7 @@
     "id": 2068,
     "artisan_id": 577,
     "field_name": "DATE_UPDATED",
-    "value": "2024-03-17 18:45:57"
+    "value": "2025-02-28 19:48:32"
   },
   {
     "id": 2874,
@@ -74733,85 +74733,85 @@
     "id": 14153,
     "artisan_id": 577,
     "field_name": "FEATURES",
-    "value": "Attached handpaws and feetpaws"
+    "value": "Adjustable eyebrows"
   },
   {
     "id": 14154,
     "artisan_id": 577,
     "field_name": "FEATURES",
-    "value": "Electronics/animatronics"
+    "value": "Attached handpaws and feetpaws"
   },
   {
     "id": 14155,
     "artisan_id": 577,
     "field_name": "FEATURES",
-    "value": "Exchangeable hairs"
+    "value": "Attached tail"
   },
   {
     "id": 14156,
     "artisan_id": 577,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Electronics/animatronics"
   },
   {
     "id": 14157,
     "artisan_id": 577,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Exchangeable hairs"
   },
   {
     "id": 14158,
     "artisan_id": 577,
     "field_name": "FEATURES",
-    "value": "In-head fans"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 14159,
     "artisan_id": 577,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "Follow-me eyes"
   },
   {
     "id": 14160,
     "artisan_id": 577,
     "field_name": "FEATURES",
-    "value": "LED eyes"
+    "value": "In-head fans"
   },
   {
     "id": 14161,
     "artisan_id": 577,
     "field_name": "FEATURES",
-    "value": "LED/EL lights"
+    "value": "Indoor feet"
   },
   {
     "id": 14162,
     "artisan_id": 577,
     "field_name": "FEATURES",
-    "value": "Movable jaw"
+    "value": "LED eyes"
   },
   {
     "id": 14163,
     "artisan_id": 577,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "LED/EL lights"
   },
   {
     "id": 14164,
     "artisan_id": 577,
     "field_name": "FEATURES",
-    "value": "Removable blush"
+    "value": "Movable jaw"
   },
   {
     "id": 14165,
     "artisan_id": 577,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "Outdoor feet"
   },
   {
     "id": 14166,
     "artisan_id": 577,
     "field_name": "FEATURES",
-    "value": "Removable horns/antlers"
+    "value": "Removable blush"
   },
   {
     "id": 14167,
@@ -74829,7 +74829,7 @@
     "id": 14169,
     "artisan_id": 577,
     "field_name": "OTHER_FEATURES",
-    "value": "Silicon toony/semi-realistic nose"
+    "value": "Arm-wings"
   },
   {
     "id": 14170,
@@ -74895,7 +74895,7 @@
     "id": 14180,
     "artisan_id": 577,
     "field_name": "OTHER_ORDER_TYPES",
-    "value": "Wings"
+    "value": "Different size wings"
   },
   {
     "id": 14181,
@@ -74913,7 +74913,67 @@
     "id": 14183,
     "artisan_id": 577,
     "field_name": "OTHER_STYLES",
-    "value": "All my heads are 3D-printed with moving jaw included."
+    "value": "All toony heads are 3D-printed with moving jaw included, Kemono heads have static jaw."
+  },
+  {
+    "id": 20895,
+    "artisan_id": 577,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Detachable bodysuits and parts"
+  },
+  {
+    "id": 20896,
+    "artisan_id": 577,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 20897,
+    "artisan_id": 577,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
+  },
+  {
+    "id": 20898,
+    "artisan_id": 577,
+    "field_name": "OTHER_FEATURES",
+    "value": "Plush or 3D printed claws"
+  },
+  {
+    "id": 20899,
+    "artisan_id": 577,
+    "field_name": "OTHER_FEATURES",
+    "value": "Fursuit accessories"
+  },
+  {
+    "id": 20900,
+    "artisan_id": 577,
+    "field_name": "OTHER_FEATURES",
+    "value": "Zip on feetpaws"
+  },
+  {
+    "id": 20901,
+    "artisan_id": 577,
+    "field_name": "OTHER_FEATURES",
+    "value": "UV glow eyes"
+  },
+  {
+    "id": 20902,
+    "artisan_id": 577,
+    "field_name": "OTHER_FEATURES",
+    "value": "Sockpaws"
+  },
+  {
+    "id": 20903,
+    "artisan_id": 577,
+    "field_name": "OTHER_FEATURES",
+    "value": "Head fans"
+  },
+  {
+    "id": 20904,
+    "artisan_id": 577,
+    "field_name": "OTHER_FEATURES",
+    "value": "and more!"
   },
   {
     "id": 1956,

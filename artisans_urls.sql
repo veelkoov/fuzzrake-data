@@ -6056,4 +6056,6 @@ INSERT INTO artisans_urls VALUES(14731,820,'URL_ETSY','https://www.etsy.com/shop
 INSERT INTO artisans_urls VALUES(14732,820,'URL_DONATIONS','https://ko-fi.com/knoxinaboxexe');
 INSERT INTO artisans_urls VALUES(14733,819,'URL_MINIATURES','https://orca2.furtrack.com/thumb/880681.jpg');
 INSERT INTO artisans_urls VALUES(14734,819,'URL_MINIATURES','https://orca2.furtrack.com/thumb/879187.jpg');
+INSERT INTO artisans_urls VALUES(14735,577,'URL_BLUESKY','https://bsky.app/profile/randomrituals.bsky.social');
+INSERT INTO artisans_urls VALUES(14736,577,'URL_TIKTOK','https://www.tiktok.com/@randomrituals');
 COMMIT;
