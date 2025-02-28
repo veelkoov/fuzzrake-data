@@ -6027,4 +6027,5 @@ INSERT INTO artisans_urls VALUES(14702,555,'URL_FURTRACK','https://www.furtrack.
 INSERT INTO artisans_urls VALUES(14703,555,'URL_PHOTOS','https://www.furtrack.com/p/935373');
 INSERT INTO artisans_urls VALUES(14704,555,'URL_BLUESKY','https://bsky.app/profile/deadpozzum.bsky.social');
 INSERT INTO artisans_urls VALUES(14705,555,'URL_TELEGRAM_CHANNEL','https://t.me/deadpozzumsuits');
+INSERT INTO artisans_urls VALUES(14706,555,'URL_MINIATURES','https://orca2.furtrack.com/thumb/935373.jpg');
 COMMIT;
