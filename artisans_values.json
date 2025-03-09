@@ -119607,7 +119607,7 @@
     "id": 20888,
     "artisan_id": 820,
     "field_name": "OTHER_FEATURES",
-    "value": "Changeable soles on feetpaws"
+    "value": "Changeable feetpaw soles"
   },
   {
     "id": 20889,
@@ -119644,5 +119644,11 @@
     "artisan_id": 820,
     "field_name": "DOES_NSFW",
     "value": "False"
+  },
+  {
+    "id": 20905,
+    "artisan_id": 820,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-03-09 18:25:09"
   }
 ]
