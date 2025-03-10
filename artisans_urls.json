@@ -14148,12 +14148,6 @@
     "url": "https://28ghostiez.com/#"
   },
   {
-    "id": 13251,
-    "artisan_id": 395,
-    "type": "URL_FAQ",
-    "url": "https://28ghostiez.com/#faq"
-  },
-  {
     "id": 13252,
     "artisan_id": 395,
     "type": "URL_QUEUE",
@@ -14166,46 +14160,70 @@
     "url": "https://www.furtrack.com/index/maker:28ghostiez"
   },
   {
-    "id": 13255,
-    "artisan_id": 395,
-    "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/206635"
-  },
-  {
-    "id": 13256,
-    "artisan_id": 395,
-    "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/118405"
-  },
-  {
     "id": 13257,
     "artisan_id": 395,
     "type": "URL_OTHER",
     "url": "https://www.furtrack.com/index/maker:28ghostiez"
   },
   {
-    "id": 13258,
+    "id": 14737,
     "artisan_id": 395,
     "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/66785"
+    "url": "https://www.furtrack.com/p/494872"
   },
   {
-    "id": 13259,
+    "id": 14738,
     "artisan_id": 395,
-    "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/206635.jpg"
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/935831"
   },
   {
-    "id": 13260,
+    "id": 14739,
     "artisan_id": 395,
-    "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/118405.jpg"
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/932698"
   },
   {
-    "id": 13261,
+    "id": 14740,
+    "artisan_id": 395,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/409218"
+  },
+  {
+    "id": 14741,
+    "artisan_id": 395,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/28ghostiez.com"
+  },
+  {
+    "id": 14742,
+    "artisan_id": 395,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/+SGVSBSM13CxiN2Mx"
+  },
+  {
+    "id": 14743,
     "artisan_id": 395,
     "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/66785.jpg"
+    "url": "https://orca2.furtrack.com/thumb/494872.jpg"
+  },
+  {
+    "id": 14744,
+    "artisan_id": 395,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/935831.jpg"
+  },
+  {
+    "id": 14745,
+    "artisan_id": 395,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/932698.jpg"
+  },
+  {
+    "id": 14746,
+    "artisan_id": 395,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/409218.jpg"
   },
   {
     "id": 9416,

@@ -41793,7 +41793,7 @@
     "id": 1674,
     "artisan_id": 395,
     "field_name": "DATE_UPDATED",
-    "value": "2024-09-01 17:47:17"
+    "value": "2025-03-10 20:45:13"
   },
   {
     "id": 1675,
@@ -41817,7 +41817,7 @@
     "id": 1678,
     "artisan_id": 395,
     "field_name": "DOES_NSFW",
-    "value": "False"
+    "value": "True"
   },
   {
     "id": 1679,
@@ -41895,22 +41895,16 @@
     "id": 3384,
     "artisan_id": 395,
     "field_name": "FEATURES",
-    "value": "LED eyes"
+    "value": "Outdoor feet"
   },
   {
     "id": 3385,
     "artisan_id": 395,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
-  },
-  {
-    "id": 3386,
-    "artisan_id": 395,
-    "field_name": "FEATURES",
     "value": "Removable eyelids"
   },
   {
-    "id": 3387,
+    "id": 3386,
     "artisan_id": 395,
     "field_name": "FEATURES",
     "value": "Removable horns/antlers"
