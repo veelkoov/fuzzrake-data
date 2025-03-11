@@ -93309,19 +93309,19 @@
     "id": 19192,
     "artisan_id": 675,
     "field_name": "FEATURES",
-    "value": "LED eyes"
+    "value": "Outdoor feet"
   },
   {
     "id": 19193,
     "artisan_id": 675,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Removable eyelids"
   },
   {
     "id": 19194,
     "artisan_id": 675,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "Removable horns/antlers"
   },
   {
     "id": 19195,
@@ -93333,19 +93333,31 @@
     "id": 19196,
     "artisan_id": 675,
     "field_name": "ORDER_TYPES",
-    "value": "Mini partial (head + handpaws + tail)"
+    "value": "Head (as parts/separate)"
   },
   {
     "id": 19197,
     "artisan_id": 675,
     "field_name": "ORDER_TYPES",
-    "value": "Partial (head + handpaws + tail + feetpaws)"
+    "value": "Mini partial (head + handpaws + tail)"
   },
   {
     "id": 19198,
     "artisan_id": 675,
     "field_name": "STYLES",
     "value": "Toony"
+  },
+  {
+    "id": 20906,
+    "artisan_id": 675,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-03-11 19:31:57"
+  },
+  {
+    "id": 20907,
+    "artisan_id": 675,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
   },
   {
     "id": 2634,
