@@ -32964,12 +32964,6 @@
     "url": "https://www.instagram.com/defileddragonfurs/"
   },
   {
-    "id": 13969,
-    "artisan_id": 758,
-    "type": "URL_ETSY",
-    "url": "https://www.etsy.com/shop/DefiledDragonFurs"
-  },
-  {
     "id": 13970,
     "artisan_id": 758,
     "type": "URL_THE_DEALERS_DEN",
@@ -33838,6 +33832,30 @@
     "artisan_id": 773,
     "type": "URL_MINIATURES",
     "url": "https://orca2.furtrack.com/thumb/751283.jpg"
+  },
+  {
+    "id": 14790,
+    "artisan_id": 773,
+    "type": "URL_MASTODON",
+    "url": "https://mastodon.social/@AkaniCreations"
+  },
+  {
+    "id": 14791,
+    "artisan_id": 773,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/AkaniCreations/"
+  },
+  {
+    "id": 14792,
+    "artisan_id": 773,
+    "type": "URL_TUMBLR",
+    "url": "https://www.tumblr.com/akanicreations"
+  },
+  {
+    "id": 14793,
+    "artisan_id": 773,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/+9laKENVNxvswZDY8"
   },
   {
     "id": 14121,
@@ -36376,5 +36394,167 @@
     "artisan_id": 820,
     "type": "URL_DONATIONS",
     "url": "https://ko-fi.com/knoxinaboxexe"
+  },
+  {
+    "id": 14763,
+    "artisan_id": 821,
+    "type": "URL_WEBSITE",
+    "url": "https://inevitablegoose.com/"
+  },
+  {
+    "id": 14764,
+    "artisan_id": 821,
+    "type": "URL_PRICES",
+    "url": "https://inevitablegoose.com/fursuits/commissions/"
+  },
+  {
+    "id": 14765,
+    "artisan_id": 821,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/xXinevitablegooseXx/"
+  },
+  {
+    "id": 14766,
+    "artisan_id": 821,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/or3T2GEg/inevitablegoose-fursuits"
+  },
+  {
+    "id": 14767,
+    "artisan_id": 821,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:inevitablegoose"
+  },
+  {
+    "id": 14768,
+    "artisan_id": 821,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/inevitablegoose.bsky.social"
+  },
+  {
+    "id": 14769,
+    "artisan_id": 821,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@inevitablegoose"
+  },
+  {
+    "id": 14770,
+    "artisan_id": 822,
+    "type": "URL_WEBSITE",
+    "url": "https://linktr.ee/daynightskull"
+  },
+  {
+    "id": 14771,
+    "artisan_id": 822,
+    "type": "URL_PRICES",
+    "url": "https://www.reddit.com/r/fursuit/comments/1iw39b4/taking_fursuit_commission/"
+  },
+  {
+    "id": 14772,
+    "artisan_id": 822,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.facebook.com/profile.php?id=100073630310652"
+  },
+  {
+    "id": 14773,
+    "artisan_id": 822,
+    "type": "URL_DEVIANTART",
+    "url": "https://www.deviantart.com/daylightfur"
+  },
+  {
+    "id": 14774,
+    "artisan_id": 822,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/Daynight0509"
+  },
+  {
+    "id": 14775,
+    "artisan_id": 822,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/profile.php?id=100073630310652"
+  },
+  {
+    "id": 14776,
+    "artisan_id": 822,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/daynight_studios/"
+  },
+  {
+    "id": 14777,
+    "artisan_id": 822,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/daynightskull"
+  },
+  {
+    "id": 14778,
+    "artisan_id": 822,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:daynightfur"
+  },
+  {
+    "id": 14779,
+    "artisan_id": 822,
+    "type": "URL_OTHER",
+    "url": "https://www.xiaohongshu.com/user/profile/63495be7000000001901c8ef?xhsshare=CopyLink&appuid=63495be7000000001901c8ef&apptime=1699233858"
+  },
+  {
+    "id": 14780,
+    "artisan_id": 823,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://www.instagram.com/raccoon.ovo/"
+  },
+  {
+    "id": 14781,
+    "artisan_id": 823,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/raccoon.ovo/"
+  },
+  {
+    "id": 14782,
+    "artisan_id": 823,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@raccoon.ovo"
+  },
+  {
+    "id": 14783,
+    "artisan_id": 824,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/yukinodeericorn/"
+  },
+  {
+    "id": 14784,
+    "artisan_id": 824,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/yukino.deericorn/"
+  },
+  {
+    "id": 14785,
+    "artisan_id": 824,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/deericorncreations/"
+  },
+  {
+    "id": 14786,
+    "artisan_id": 824,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/deericorncreations"
+  },
+  {
+    "id": 14787,
+    "artisan_id": 824,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/r5tKPzuY/deericorn-creations-commission-queue"
+  },
+  {
+    "id": 14788,
+    "artisan_id": 824,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/deericorncreations"
+  },
+  {
+    "id": 14789,
+    "artisan_id": 824,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@deericorncreations"
   }
 ]
