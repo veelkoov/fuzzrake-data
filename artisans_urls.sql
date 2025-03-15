@@ -6094,4 +6094,8 @@ INSERT INTO artisans_urls VALUES(14790,773,'URL_MASTODON','https://mastodon.soci
 INSERT INTO artisans_urls VALUES(14791,773,'URL_FACEBOOK','https://www.facebook.com/AkaniCreations/');
 INSERT INTO artisans_urls VALUES(14792,773,'URL_TUMBLR','https://www.tumblr.com/akanicreations');
 INSERT INTO artisans_urls VALUES(14793,773,'URL_TELEGRAM_CHANNEL','https://t.me/+9laKENVNxvswZDY8');
+INSERT INTO artisans_urls VALUES(14794,441,'URL_OTHER_SHOP','https://alecrimcarmim.gumroad.com/');
+INSERT INTO artisans_urls VALUES(14795,441,'URL_BLUESKY','https://bsky.app/profile/alecrimcarmim.bsky.social');
+INSERT INTO artisans_urls VALUES(14796,441,'URL_TELEGRAM_CHANNEL','https://t.me/alecrimcarmim');
+INSERT INTO artisans_urls VALUES(14797,441,'URL_TIKTOK','http://tiktok.com/@alecrimcarmim');
 COMMIT;

@@ -16656,6 +16656,30 @@
     "url": "https://orca2.furtrack.com/thumb/816456.jpg"
   },
   {
+    "id": 14794,
+    "artisan_id": 441,
+    "type": "URL_OTHER_SHOP",
+    "url": "https://alecrimcarmim.gumroad.com/"
+  },
+  {
+    "id": 14795,
+    "artisan_id": 441,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/alecrimcarmim.bsky.social"
+  },
+  {
+    "id": 14796,
+    "artisan_id": 441,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/alecrimcarmim"
+  },
+  {
+    "id": 14797,
+    "artisan_id": 441,
+    "type": "URL_TIKTOK",
+    "url": "http://tiktok.com/@alecrimcarmim"
+  },
+  {
     "id": 9867,
     "artisan_id": 442,
     "type": "URL_TWITTER",
