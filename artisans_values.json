@@ -101166,6 +101166,12 @@
     "value": "Semi Toony"
   },
   {
+    "id": 21033,
+    "artisan_id": 713,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-03-23 18:40:33"
+  },
+  {
     "id": 2913,
     "artisan_id": 714,
     "field_name": "DATE_ADDED",
@@ -120040,6 +120046,12 @@
     "artisan_id": 822,
     "field_name": "DOES_NSFW",
     "value": "False"
+  },
+  {
+    "id": 21034,
+    "artisan_id": 822,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-03-23 18:38:11"
   },
   {
     "id": 20969,

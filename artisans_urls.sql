@@ -4803,8 +4803,6 @@ INSERT INTO artisans_urls VALUES(13443,712,'URL_WEBSITE','https://protogendreams
 INSERT INTO artisans_urls VALUES(13444,712,'URL_PRICES','https://protogendreamstudios.com/models-showcase');
 INSERT INTO artisans_urls VALUES(13445,712,'URL_INSTAGRAM','https://www.instagram.com/protogendreamstudios/');
 INSERT INTO artisans_urls VALUES(13446,712,'URL_YOUTUBE','https://www.youtube.com/@ProtogenDreamStudios');
-INSERT INTO artisans_urls VALUES(13447,713,'URL_COMMISSIONS','https://twitter.com/ReeseTheBass');
-INSERT INTO artisans_urls VALUES(13448,713,'URL_TWITTER','https://twitter.com/ReeseTheBass');
 INSERT INTO artisans_urls VALUES(13449,713,'URL_YOUTUBE','https://www.youtube.com/channel/UC73NhTTtQOP3wCc1tmQCFRA');
 INSERT INTO artisans_urls VALUES(13450,614,'URL_FURSUITREVIEW','https://fursuitreview.com/m/retrongrade/');
 INSERT INTO artisans_urls VALUES(13451,714,'URL_PRICES','https://docs.google.com/document/d/1-ypRCV0E4Y16bA0JErcqF0ZF5ytcDUELLiTqwnQwfso/edit');
@@ -6098,4 +6096,8 @@ INSERT INTO artisans_urls VALUES(14794,441,'URL_OTHER_SHOP','https://alecrimcarm
 INSERT INTO artisans_urls VALUES(14795,441,'URL_BLUESKY','https://bsky.app/profile/alecrimcarmim.bsky.social');
 INSERT INTO artisans_urls VALUES(14796,441,'URL_TELEGRAM_CHANNEL','https://t.me/alecrimcarmim');
 INSERT INTO artisans_urls VALUES(14797,441,'URL_TIKTOK','http://tiktok.com/@alecrimcarmim');
+INSERT INTO artisans_urls VALUES(14798,577,'URL_FURSUITREVIEW','https://fursuitreview.com/m/random-rituals/');
+INSERT INTO artisans_urls VALUES(14799,713,'URL_COMMISSIONS','https://bsky.app/profile/reesetbstudios.bsky.social');
+INSERT INTO artisans_urls VALUES(14800,713,'URL_INSTAGRAM','https://www.instagram.com/reesetbstudios/');
+INSERT INTO artisans_urls VALUES(14801,713,'URL_BLUESKY','https://bsky.app/profile/reesetbstudios.bsky.social');
 COMMIT;

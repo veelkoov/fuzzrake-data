@@ -30624,22 +30624,28 @@
     "url": "https://www.youtube.com/@ProtogenDreamStudios"
   },
   {
-    "id": 13447,
-    "artisan_id": 713,
-    "type": "URL_COMMISSIONS",
-    "url": "https://twitter.com/ReeseTheBass"
-  },
-  {
-    "id": 13448,
-    "artisan_id": 713,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/ReeseTheBass"
-  },
-  {
     "id": 13449,
     "artisan_id": 713,
     "type": "URL_YOUTUBE",
     "url": "https://www.youtube.com/channel/UC73NhTTtQOP3wCc1tmQCFRA"
+  },
+  {
+    "id": 14799,
+    "artisan_id": 713,
+    "type": "URL_COMMISSIONS",
+    "url": "https://bsky.app/profile/reesetbstudios.bsky.social"
+  },
+  {
+    "id": 14800,
+    "artisan_id": 713,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/reesetbstudios/"
+  },
+  {
+    "id": 14801,
+    "artisan_id": 713,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/reesetbstudios.bsky.social"
   },
   {
     "id": 13451,
