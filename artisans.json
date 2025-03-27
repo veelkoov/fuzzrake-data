@@ -19898,5 +19898,30 @@
     "payment_methods": "PayPal\nBank transfers",
     "currencies_accepted": "USD\nBRL",
     "species_comment": "Willing to try any species not listed! Just ask me"
+  },
+  {
+    "id": 825,
+    "maker_id": "DOKI232",
+    "name": "Clubfursonas",
+    "formerly": "Dokiifurry232",
+    "intro": "we are a new fursuit studio, we have two amazing artists now operating in China(shenzhen city) we are true furry lovers, nice to meet you too!",
+    "since": "2024-04",
+    "country": "CN",
+    "state": "",
+    "city": "Shenzhen",
+    "payment_plans": "now we do 50/50, half to confirm the project and let us start to makding, second half should be paid when we done making and received the confirmation from costumer, all payment finished, then we ship them to customer.",
+    "species_does": "Most species\nAnimals are fine",
+    "species_doesnt": "Insect-Inspired Character Art",
+    "notes": "",
+    "contact_allowed": "FEEDBACK",
+    "contact_info_obfuscated": "do*****rt@1*****m",
+    "inactive_reason": "",
+    "production_models_comment": "Currently, all our orders, including those in progress, are fully customized commissions. No premades are available unless under special circumstances:\n\nA client cancels an order after completion,\nWe assist former clients in reselling their secondhand/pre-owned items.\nThis ensures every project is uniquely tailored to client specifications.",
+    "styles_comment": "kemono, toony and kigurumi are our artists sepcialties. Realistic they are keeping practicing, but no offical order now.",
+    "order_types_comment": "",
+    "features_comment": "",
+    "payment_methods": "PayPal\ncreditcard",
+    "currencies_accepted": "USD",
+    "species_comment": "wolf, dog, cat and fox inspired characters are what we have made most"
   }
 ]

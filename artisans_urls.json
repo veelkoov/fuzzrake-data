@@ -36604,5 +36604,41 @@
     "artisan_id": 824,
     "type": "URL_TIKTOK",
     "url": "https://www.tiktok.com/@deericorncreations"
+  },
+  {
+    "id": 14807,
+    "artisan_id": 825,
+    "type": "URL_WEBSITE",
+    "url": "https://clubfursonas.com/"
+  },
+  {
+    "id": 14808,
+    "artisan_id": 825,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.reddit.com/u/ThoughtTypical8740/s/6krAYPnN92"
+  },
+  {
+    "id": 14809,
+    "artisan_id": 825,
+    "type": "URL_FAQ",
+    "url": "https://clubfursonas.com/"
+  },
+  {
+    "id": 14810,
+    "artisan_id": 825,
+    "type": "URL_OTHER",
+    "url": "https://www.reddit.com/u/ThoughtTypical8740/s/6krAYPnN92"
+  },
+  {
+    "id": 14811,
+    "artisan_id": 825,
+    "type": "URL_OTHER",
+    "url": "https://www.tiktok.com/@irene198853?_t=ZT-8umUBkGCS4Z&_r=1"
+  },
+  {
+    "id": 14812,
+    "artisan_id": 825,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@dokiifurry232"
   }
 ]

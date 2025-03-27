@@ -6102,4 +6102,10 @@ INSERT INTO artisans_urls VALUES(14803,436,'URL_BLUESKY','https://bsky.app/profi
 INSERT INTO artisans_urls VALUES(14804,436,'URL_DONATIONS','https://ko-fi.com/starcanearts');
 INSERT INTO artisans_urls VALUES(14805,436,'URL_TELEGRAM_CHANNEL','https://t.me/StarcaneArts');
 INSERT INTO artisans_urls VALUES(14806,436,'URL_TIKTOK','https://www.tiktok.com/@starcanearts');
+INSERT INTO artisans_urls VALUES(14807,825,'URL_WEBSITE','https://clubfursonas.com/');
+INSERT INTO artisans_urls VALUES(14808,825,'URL_COMMISSIONS','https://www.reddit.com/u/ThoughtTypical8740/s/6krAYPnN92');
+INSERT INTO artisans_urls VALUES(14809,825,'URL_FAQ','https://clubfursonas.com/');
+INSERT INTO artisans_urls VALUES(14810,825,'URL_OTHER','https://www.reddit.com/u/ThoughtTypical8740/s/6krAYPnN92');
+INSERT INTO artisans_urls VALUES(14811,825,'URL_OTHER','https://www.tiktok.com/@irene198853?_t=ZT-8umUBkGCS4Z&_r=1');
+INSERT INTO artisans_urls VALUES(14812,825,'URL_TIKTOK','https://www.tiktok.com/@dokiifurry232');
 COMMIT;
