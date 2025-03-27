@@ -16272,12 +16272,6 @@
     "url": "https://www.starcanearts.com/"
   },
   {
-    "id": 9821,
-    "artisan_id": 436,
-    "type": "URL_PRICES",
-    "url": "https://www.starcanearts.com/pricing"
-  },
-  {
     "id": 9822,
     "artisan_id": 436,
     "type": "URL_DEVIANTART",
@@ -16302,12 +16296,6 @@
     "url": "https://trello.com/b/Al4t6QxW/starcane-arts-queue"
   },
   {
-    "id": 9826,
-    "artisan_id": 436,
-    "type": "URL_COMMISSIONS",
-    "url": "https://www.starcanearts.com/pricing"
-  },
-  {
     "id": 11204,
     "artisan_id": 436,
     "type": "URL_FURSUITREVIEW",
@@ -16320,10 +16308,34 @@
     "url": "https://starcanearts.carrd.co/"
   },
   {
-    "id": 11852,
+    "id": 14802,
     "artisan_id": 436,
     "type": "URL_FURTRACK",
-    "url": "https://www.furtrack.com/index/starcane_arts"
+    "url": "https://www.furtrack.com/index/maker:starcane_arts"
+  },
+  {
+    "id": 14803,
+    "artisan_id": 436,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/starcanearts.bsky.social"
+  },
+  {
+    "id": 14804,
+    "artisan_id": 436,
+    "type": "URL_DONATIONS",
+    "url": "https://ko-fi.com/starcanearts"
+  },
+  {
+    "id": 14805,
+    "artisan_id": 436,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/StarcaneArts"
+  },
+  {
+    "id": 14806,
+    "artisan_id": 436,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@starcanearts"
   },
   {
     "id": 9827,

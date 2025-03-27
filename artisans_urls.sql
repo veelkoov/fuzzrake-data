@@ -1861,12 +1861,10 @@ INSERT INTO artisans_urls VALUES(9816,435,'URL_QUEUE','https://trello.com/b/t927
 INSERT INTO artisans_urls VALUES(9818,435,'URL_COMMISSIONS','https://twitter.com/achookitty');
 INSERT INTO artisans_urls VALUES(9819,324,'URL_TWITTER','https://twitter.com/DrakainaC');
 INSERT INTO artisans_urls VALUES(9820,436,'URL_WEBSITE','https://www.starcanearts.com/');
-INSERT INTO artisans_urls VALUES(9821,436,'URL_PRICES','https://www.starcanearts.com/pricing');
 INSERT INTO artisans_urls VALUES(9822,436,'URL_DEVIANTART','https://www.deviantart.com/starcanearts');
 INSERT INTO artisans_urls VALUES(9823,436,'URL_TWITTER','https://twitter.com/StarcaneArts');
 INSERT INTO artisans_urls VALUES(9824,436,'URL_INSTAGRAM','https://www.instagram.com/starcanearts/');
 INSERT INTO artisans_urls VALUES(9825,436,'URL_QUEUE','https://trello.com/b/Al4t6QxW/starcane-arts-queue');
-INSERT INTO artisans_urls VALUES(9826,436,'URL_COMMISSIONS','https://www.starcanearts.com/pricing');
 INSERT INTO artisans_urls VALUES(9827,437,'URL_WEBSITE','https://runawayworkshop.com/');
 INSERT INTO artisans_urls VALUES(9828,437,'URL_PRICES','https://runawayworkshop.com/pages/custom-fursuits-and-parts-pricing');
 INSERT INTO artisans_urls VALUES(9829,437,'URL_TWITTER','https://twitter.com/AW_Runaway');
@@ -3380,7 +3378,6 @@ INSERT INTO artisans_urls VALUES(11844,107,'URL_OTHER_SHOP','https://ko-fi.com/s
 INSERT INTO artisans_urls VALUES(11845,107,'URL_QUEUE','https://trello.com/b/Dhlvk8dE/star-feather-suits-queue');
 INSERT INTO artisans_urls VALUES(11850,587,'URL_QUEUE','https://trello.com/b/dgsfZi8P/stxrcane-commission-queue-%F0%9F%94%AE');
 INSERT INTO artisans_urls VALUES(11851,436,'URL_LINKLIST','https://starcanearts.carrd.co/');
-INSERT INTO artisans_urls VALUES(11852,436,'URL_FURTRACK','https://www.furtrack.com/index/starcane_arts');
 INSERT INTO artisans_urls VALUES(11853,588,'URL_FURSUITREVIEW','https://fursuitreview.com/m/cosmell-cosplay/');
 INSERT INTO artisans_urls VALUES(11854,588,'URL_WEBSITE','https://www.cosmellcosplay.com/');
 INSERT INTO artisans_urls VALUES(11855,588,'URL_PRICES','https://www.cosmellcosplay.com/commissions');
@@ -6100,4 +6097,9 @@ INSERT INTO artisans_urls VALUES(14798,577,'URL_FURSUITREVIEW','https://fursuitr
 INSERT INTO artisans_urls VALUES(14799,713,'URL_COMMISSIONS','https://bsky.app/profile/reesetbstudios.bsky.social');
 INSERT INTO artisans_urls VALUES(14800,713,'URL_INSTAGRAM','https://www.instagram.com/reesetbstudios/');
 INSERT INTO artisans_urls VALUES(14801,713,'URL_BLUESKY','https://bsky.app/profile/reesetbstudios.bsky.social');
+INSERT INTO artisans_urls VALUES(14802,436,'URL_FURTRACK','https://www.furtrack.com/index/maker:starcane_arts');
+INSERT INTO artisans_urls VALUES(14803,436,'URL_BLUESKY','https://bsky.app/profile/starcanearts.bsky.social');
+INSERT INTO artisans_urls VALUES(14804,436,'URL_DONATIONS','https://ko-fi.com/starcanearts');
+INSERT INTO artisans_urls VALUES(14805,436,'URL_TELEGRAM_CHANNEL','https://t.me/StarcaneArts');
+INSERT INTO artisans_urls VALUES(14806,436,'URL_TIKTOK','https://www.tiktok.com/@starcanearts');
 COMMIT;
