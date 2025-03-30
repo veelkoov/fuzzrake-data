@@ -6122,4 +6122,12 @@ INSERT INTO artisans_urls VALUES(14829,296,'URL_MINIATURES','https://orca2.furtr
 INSERT INTO artisans_urls VALUES(14830,296,'URL_MINIATURES','https://orca2.furtrack.com/thumb/995517.jpg');
 INSERT INTO artisans_urls VALUES(14831,296,'URL_MINIATURES','https://orca2.furtrack.com/thumb/647255.jpg');
 INSERT INTO artisans_urls VALUES(14832,296,'URL_MINIATURES','https://orca2.furtrack.com/thumb/689618.jpg');
+INSERT INTO artisans_urls VALUES(14833,826,'URL_WEBSITE','https://stellarstudi0s.weebly.com/');
+INSERT INTO artisans_urls VALUES(14834,826,'URL_PRICES','https://stellarstudi0s.weebly.com/prices.html');
+INSERT INTO artisans_urls VALUES(14835,826,'URL_COMMISSIONS','https://stellarstudi0s.weebly.com/');
+INSERT INTO artisans_urls VALUES(14836,826,'URL_INSTAGRAM','https://www.instagram.com/stellarstudi0s/');
+INSERT INTO artisans_urls VALUES(14837,827,'URL_WEBSITE','https://redhotkarma.uwu.ai/');
+INSERT INTO artisans_urls VALUES(14838,827,'URL_PRICES','https://redhotkarma.uwu.ai/#fursuitcommissions');
+INSERT INTO artisans_urls VALUES(14839,827,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/redhotkarma/');
+INSERT INTO artisans_urls VALUES(14840,827,'URL_INSTAGRAM','https://www.instagram.com/redhotsuits/');
 COMMIT;

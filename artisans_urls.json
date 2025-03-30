@@ -36724,5 +36724,53 @@
     "artisan_id": 825,
     "type": "URL_TIKTOK",
     "url": "https://www.tiktok.com/@dokiifurry232"
+  },
+  {
+    "id": 14833,
+    "artisan_id": 826,
+    "type": "URL_WEBSITE",
+    "url": "https://stellarstudi0s.weebly.com/"
+  },
+  {
+    "id": 14834,
+    "artisan_id": 826,
+    "type": "URL_PRICES",
+    "url": "https://stellarstudi0s.weebly.com/prices.html"
+  },
+  {
+    "id": 14835,
+    "artisan_id": 826,
+    "type": "URL_COMMISSIONS",
+    "url": "https://stellarstudi0s.weebly.com/"
+  },
+  {
+    "id": 14836,
+    "artisan_id": 826,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/stellarstudi0s/"
+  },
+  {
+    "id": 14837,
+    "artisan_id": 827,
+    "type": "URL_WEBSITE",
+    "url": "https://redhotkarma.uwu.ai/"
+  },
+  {
+    "id": 14838,
+    "artisan_id": 827,
+    "type": "URL_PRICES",
+    "url": "https://redhotkarma.uwu.ai/#fursuitcommissions"
+  },
+  {
+    "id": 14839,
+    "artisan_id": 827,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/redhotkarma/"
+  },
+  {
+    "id": 14840,
+    "artisan_id": 827,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/redhotsuits/"
   }
 ]
