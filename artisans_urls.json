@@ -10188,22 +10188,10 @@
     "url": "https://www.colorcarnage.com/"
   },
   {
-    "id": 1354,
-    "artisan_id": 296,
-    "type": "URL_PRICES",
-    "url": "https://www.colorcarnage.com/pricing"
-  },
-  {
     "id": 1355,
     "artisan_id": 296,
     "type": "URL_TWITTER",
     "url": "https://twitter.com/ColorCarnage"
-  },
-  {
-    "id": 1356,
-    "artisan_id": 296,
-    "type": "URL_FACEBOOK",
-    "url": "https://www.facebook.com/ColorCarnage/"
   },
   {
     "id": 1357,
@@ -10228,6 +10216,102 @@
     "artisan_id": 296,
     "type": "URL_FURSUITREVIEW",
     "url": "https://fursuitreview.com/m/color-carnage/"
+  },
+  {
+    "id": 14817,
+    "artisan_id": 296,
+    "type": "URL_PRICES",
+    "url": "https://www.colorcarnage.com/"
+  },
+  {
+    "id": 14818,
+    "artisan_id": 296,
+    "type": "URL_FAQ",
+    "url": "https://www.colorcarnage.com/"
+  },
+  {
+    "id": 14819,
+    "artisan_id": 296,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:color_carnage"
+  },
+  {
+    "id": 14820,
+    "artisan_id": 296,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/647310"
+  },
+  {
+    "id": 14821,
+    "artisan_id": 296,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/550026"
+  },
+  {
+    "id": 14822,
+    "artisan_id": 296,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/995517"
+  },
+  {
+    "id": 14823,
+    "artisan_id": 296,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/647255"
+  },
+  {
+    "id": 14824,
+    "artisan_id": 296,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/689618"
+  },
+  {
+    "id": 14825,
+    "artisan_id": 296,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/colorcarnage.bsky.social"
+  },
+  {
+    "id": 14826,
+    "artisan_id": 296,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/ColorCarnageWIP"
+  },
+  {
+    "id": 14827,
+    "artisan_id": 296,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@colorcarnage?lang=en"
+  },
+  {
+    "id": 14828,
+    "artisan_id": 296,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/647310.jpg"
+  },
+  {
+    "id": 14829,
+    "artisan_id": 296,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/550026.jpg"
+  },
+  {
+    "id": 14830,
+    "artisan_id": 296,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/995517.jpg"
+  },
+  {
+    "id": 14831,
+    "artisan_id": 296,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/647255.jpg"
+  },
+  {
+    "id": 14832,
+    "artisan_id": 296,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/689618.jpg"
   },
   {
     "id": 1360,
@@ -35412,30 +35496,6 @@
     "url": "https://www.tiktok.com/@furrical_blessing"
   },
   {
-    "id": 14506,
-    "artisan_id": 803,
-    "type": "URL_WEBSITE",
-    "url": "https://www.jurassicatstudios.com/"
-  },
-  {
-    "id": 14507,
-    "artisan_id": 803,
-    "type": "URL_PRICES",
-    "url": "https://www.jurassicatstudios.com/pricing"
-  },
-  {
-    "id": 14508,
-    "artisan_id": 803,
-    "type": "URL_COMMISSIONS",
-    "url": "https://www.jurassicatstudios.com/"
-  },
-  {
-    "id": 14509,
-    "artisan_id": 803,
-    "type": "URL_FAQ",
-    "url": "https://www.jurassicatstudios.com/frequentlyaskedquestions"
-  },
-  {
     "id": 14510,
     "artisan_id": 803,
     "type": "URL_FUR_AFFINITY",
@@ -35494,6 +35554,30 @@
     "artisan_id": 803,
     "type": "URL_TIKTOK",
     "url": "https://www.tiktok.com/@jurassicat_studios"
+  },
+  {
+    "id": 14813,
+    "artisan_id": 803,
+    "type": "URL_WEBSITE",
+    "url": "https://jurassicatstudios.squarespace.com/"
+  },
+  {
+    "id": 14814,
+    "artisan_id": 803,
+    "type": "URL_PRICES",
+    "url": "https://jurassicatstudios.squarespace.com/pricing"
+  },
+  {
+    "id": 14815,
+    "artisan_id": 803,
+    "type": "URL_COMMISSIONS",
+    "url": "https://jurassicatstudios.squarespace.com/"
+  },
+  {
+    "id": 14816,
+    "artisan_id": 803,
+    "type": "URL_FAQ",
+    "url": "https://jurassicatstudios.squarespace.com/frequentlyaskedquestions"
   },
   {
     "id": 14520,

@@ -29628,6 +29628,216 @@
     "value": "Semi Realistic"
   },
   {
+    "id": 21079,
+    "artisan_id": 296,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-03-30 14:18:24"
+  },
+  {
+    "id": 21080,
+    "artisan_id": 296,
+    "field_name": "LANGUAGES",
+    "value": "English"
+  },
+  {
+    "id": 21081,
+    "artisan_id": 296,
+    "field_name": "LANGUAGES",
+    "value": "French"
+  },
+  {
+    "id": 21082,
+    "artisan_id": 296,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Artistic liberty commissions"
+  },
+  {
+    "id": 21083,
+    "artisan_id": 296,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Premades"
+  },
+  {
+    "id": 21084,
+    "artisan_id": 296,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Standard commissions"
+  },
+  {
+    "id": 21085,
+    "artisan_id": 296,
+    "field_name": "STYLES",
+    "value": "Toony"
+  },
+  {
+    "id": 21086,
+    "artisan_id": 296,
+    "field_name": "ORDER_TYPES",
+    "value": "Full digitigrade"
+  },
+  {
+    "id": 21087,
+    "artisan_id": 296,
+    "field_name": "ORDER_TYPES",
+    "value": "Full plantigrade"
+  },
+  {
+    "id": 21088,
+    "artisan_id": 296,
+    "field_name": "ORDER_TYPES",
+    "value": "Head (as parts/separate)"
+  },
+  {
+    "id": 21089,
+    "artisan_id": 296,
+    "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 21090,
+    "artisan_id": 296,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 21091,
+    "artisan_id": 296,
+    "field_name": "FEATURES",
+    "value": "Adjustable/wiggle ears"
+  },
+  {
+    "id": 21092,
+    "artisan_id": 296,
+    "field_name": "FEATURES",
+    "value": "Attached handpaws and feetpaws"
+  },
+  {
+    "id": 21093,
+    "artisan_id": 296,
+    "field_name": "FEATURES",
+    "value": "Attached tail"
+  },
+  {
+    "id": 21094,
+    "artisan_id": 296,
+    "field_name": "FEATURES",
+    "value": "Exchangeable hairs"
+  },
+  {
+    "id": 21095,
+    "artisan_id": 296,
+    "field_name": "FEATURES",
+    "value": "Exchangeable tongues"
+  },
+  {
+    "id": 21096,
+    "artisan_id": 296,
+    "field_name": "FEATURES",
+    "value": "Follow-me eyes"
+  },
+  {
+    "id": 21097,
+    "artisan_id": 296,
+    "field_name": "FEATURES",
+    "value": "Indoor feet"
+  },
+  {
+    "id": 21098,
+    "artisan_id": 296,
+    "field_name": "FEATURES",
+    "value": "Outdoor feet"
+  },
+  {
+    "id": 21099,
+    "artisan_id": 296,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 21100,
+    "artisan_id": 296,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
+  },
+  {
+    "id": 21101,
+    "artisan_id": 296,
+    "field_name": "FEATURES",
+    "value": "Washable heads"
+  },
+  {
+    "id": 21102,
+    "artisan_id": 296,
+    "field_name": "OTHER_FEATURES",
+    "value": "UV eyes"
+  },
+  {
+    "id": 21103,
+    "artisan_id": 296,
+    "field_name": "OTHER_FEATURES",
+    "value": "pockets"
+  },
+  {
+    "id": 21104,
+    "artisan_id": 296,
+    "field_name": "OTHER_FEATURES",
+    "value": "zip-off tail"
+  },
+  {
+    "id": 21105,
+    "artisan_id": 296,
+    "field_name": "OTHER_FEATURES",
+    "value": "zip-off feet"
+  },
+  {
+    "id": 21106,
+    "artisan_id": 296,
+    "field_name": "OTHER_FEATURES",
+    "value": "zip-off hands"
+  },
+  {
+    "id": 21107,
+    "artisan_id": 296,
+    "field_name": "OTHER_FEATURES",
+    "value": "extra zippers"
+  },
+  {
+    "id": 21108,
+    "artisan_id": 296,
+    "field_name": "OTHER_FEATURES",
+    "value": "Pickable nose"
+  },
+  {
+    "id": 21109,
+    "artisan_id": 296,
+    "field_name": "OTHER_FEATURES",
+    "value": "Arm sleeves"
+  },
+  {
+    "id": 21110,
+    "artisan_id": 296,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 21111,
+    "artisan_id": 296,
+    "field_name": "NSFW_WEBSITE",
+    "value": "True"
+  },
+  {
+    "id": 21112,
+    "artisan_id": 296,
+    "field_name": "NSFW_SOCIAL",
+    "value": "True"
+  },
+  {
+    "id": 21113,
+    "artisan_id": 296,
+    "field_name": "DOES_NSFW",
+    "value": "True"
+  },
+  {
     "id": 8523,
     "artisan_id": 301,
     "field_name": "LANGUAGES",
@@ -116776,6 +116986,12 @@
     "artisan_id": 803,
     "field_name": "WORKS_WITH_MINORS",
     "value": "False"
+  },
+  {
+    "id": 21078,
+    "artisan_id": 803,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-03-30 14:14:47"
   },
   {
     "id": 20343,
