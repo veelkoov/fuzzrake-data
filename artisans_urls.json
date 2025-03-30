@@ -36772,5 +36772,17 @@
     "artisan_id": 827,
     "type": "URL_INSTAGRAM",
     "url": "https://www.instagram.com/redhotsuits/"
+  },
+  {
+    "id": 14841,
+    "artisan_id": 828,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/morgan_tgk"
+  },
+  {
+    "id": 14842,
+    "artisan_id": 828,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@morgan_.102"
   }
 ]

@@ -6130,4 +6130,6 @@ INSERT INTO artisans_urls VALUES(14837,827,'URL_WEBSITE','https://redhotkarma.uw
 INSERT INTO artisans_urls VALUES(14838,827,'URL_PRICES','https://redhotkarma.uwu.ai/#fursuitcommissions');
 INSERT INTO artisans_urls VALUES(14839,827,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/redhotkarma/');
 INSERT INTO artisans_urls VALUES(14840,827,'URL_INSTAGRAM','https://www.instagram.com/redhotsuits/');
+INSERT INTO artisans_urls VALUES(14841,828,'URL_TELEGRAM_CHANNEL','https://t.me/morgan_tgk');
+INSERT INTO artisans_urls VALUES(14842,828,'URL_TIKTOK','https://www.tiktok.com/@morgan_.102');
 COMMIT;

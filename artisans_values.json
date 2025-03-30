@@ -121102,5 +121102,257 @@
     "artisan_id": 827,
     "field_name": "WORKS_WITH_MINORS",
     "value": "True"
+  },
+  {
+    "id": 21154,
+    "artisan_id": 828,
+    "field_name": "DATE_ADDED",
+    "value": "2025-03-30 19:49:57"
+  },
+  {
+    "id": 21155,
+    "artisan_id": 828,
+    "field_name": "LANGUAGES",
+    "value": "English"
+  },
+  {
+    "id": 21156,
+    "artisan_id": 828,
+    "field_name": "LANGUAGES",
+    "value": "Russian"
+  },
+  {
+    "id": 21157,
+    "artisan_id": 828,
+    "field_name": "LANGUAGES",
+    "value": "Hebrew"
+  },
+  {
+    "id": 21158,
+    "artisan_id": 828,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Premades"
+  },
+  {
+    "id": 21159,
+    "artisan_id": 828,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Standard commissions"
+  },
+  {
+    "id": 21160,
+    "artisan_id": 828,
+    "field_name": "STYLES",
+    "value": "Kemono"
+  },
+  {
+    "id": 21161,
+    "artisan_id": 828,
+    "field_name": "STYLES",
+    "value": "Semi Realistic"
+  },
+  {
+    "id": 21162,
+    "artisan_id": 828,
+    "field_name": "STYLES",
+    "value": "Semi Toony"
+  },
+  {
+    "id": 21163,
+    "artisan_id": 828,
+    "field_name": "STYLES",
+    "value": "Toony"
+  },
+  {
+    "id": 21164,
+    "artisan_id": 828,
+    "field_name": "ORDER_TYPES",
+    "value": "Bodysuits (as parts/separate)"
+  },
+  {
+    "id": 21165,
+    "artisan_id": 828,
+    "field_name": "ORDER_TYPES",
+    "value": "Feetpaws (as parts/separate)"
+  },
+  {
+    "id": 21166,
+    "artisan_id": 828,
+    "field_name": "ORDER_TYPES",
+    "value": "Full digitigrade"
+  },
+  {
+    "id": 21167,
+    "artisan_id": 828,
+    "field_name": "ORDER_TYPES",
+    "value": "Full plantigrade"
+  },
+  {
+    "id": 21168,
+    "artisan_id": 828,
+    "field_name": "ORDER_TYPES",
+    "value": "Handpaws (as parts/separate)"
+  },
+  {
+    "id": 21169,
+    "artisan_id": 828,
+    "field_name": "ORDER_TYPES",
+    "value": "Head (as parts/separate)"
+  },
+  {
+    "id": 21170,
+    "artisan_id": 828,
+    "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 21171,
+    "artisan_id": 828,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 21172,
+    "artisan_id": 828,
+    "field_name": "ORDER_TYPES",
+    "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 21173,
+    "artisan_id": 828,
+    "field_name": "ORDER_TYPES",
+    "value": "Three-fourth (head + handpaws + tail + legs/pants + feetpaws)"
+  },
+  {
+    "id": 21174,
+    "artisan_id": 828,
+    "field_name": "FEATURES",
+    "value": "Adjustable eyebrows"
+  },
+  {
+    "id": 21175,
+    "artisan_id": 828,
+    "field_name": "FEATURES",
+    "value": "Adjustable/wiggle ears"
+  },
+  {
+    "id": 21176,
+    "artisan_id": 828,
+    "field_name": "FEATURES",
+    "value": "Attached handpaws and feetpaws"
+  },
+  {
+    "id": 21177,
+    "artisan_id": 828,
+    "field_name": "FEATURES",
+    "value": "Attached tail"
+  },
+  {
+    "id": 21178,
+    "artisan_id": 828,
+    "field_name": "FEATURES",
+    "value": "Electronics/animatronics"
+  },
+  {
+    "id": 21179,
+    "artisan_id": 828,
+    "field_name": "FEATURES",
+    "value": "Exchangeable hairs"
+  },
+  {
+    "id": 21180,
+    "artisan_id": 828,
+    "field_name": "FEATURES",
+    "value": "Exchangeable tongues"
+  },
+  {
+    "id": 21181,
+    "artisan_id": 828,
+    "field_name": "FEATURES",
+    "value": "Follow-me eyes"
+  },
+  {
+    "id": 21182,
+    "artisan_id": 828,
+    "field_name": "FEATURES",
+    "value": "In-head fans"
+  },
+  {
+    "id": 21183,
+    "artisan_id": 828,
+    "field_name": "FEATURES",
+    "value": "Indoor feet"
+  },
+  {
+    "id": 21184,
+    "artisan_id": 828,
+    "field_name": "FEATURES",
+    "value": "LED eyes"
+  },
+  {
+    "id": 21185,
+    "artisan_id": 828,
+    "field_name": "FEATURES",
+    "value": "LED/EL lights"
+  },
+  {
+    "id": 21186,
+    "artisan_id": 828,
+    "field_name": "FEATURES",
+    "value": "Movable jaw"
+  },
+  {
+    "id": 21187,
+    "artisan_id": 828,
+    "field_name": "FEATURES",
+    "value": "Outdoor feet"
+  },
+  {
+    "id": 21188,
+    "artisan_id": 828,
+    "field_name": "FEATURES",
+    "value": "Removable blush"
+  },
+  {
+    "id": 21189,
+    "artisan_id": 828,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 21190,
+    "artisan_id": 828,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
+  },
+  {
+    "id": 21191,
+    "artisan_id": 828,
+    "field_name": "FEATURES",
+    "value": "Washable heads"
+  },
+  {
+    "id": 21192,
+    "artisan_id": 828,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 21193,
+    "artisan_id": 828,
+    "field_name": "NSFW_WEBSITE",
+    "value": "False"
+  },
+  {
+    "id": 21194,
+    "artisan_id": 828,
+    "field_name": "NSFW_SOCIAL",
+    "value": "False"
+  },
+  {
+    "id": 21195,
+    "artisan_id": 828,
+    "field_name": "DOES_NSFW",
+    "value": "True"
   }
 ]
