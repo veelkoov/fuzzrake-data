@@ -36760,5 +36760,131 @@
     "artisan_id": 828,
     "type": "URL_TIKTOK",
     "url": "https://www.tiktok.com/@morgan_.102"
+  },
+  {
+    "id": 14843,
+    "artisan_id": 829,
+    "type": "URL_COMMISSIONS",
+    "url": "https://linktr.ee/sodayeena"
+  },
+  {
+    "id": 14844,
+    "artisan_id": 829,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/sodayeena"
+  },
+  {
+    "id": 14845,
+    "artisan_id": 829,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/sodayeena/"
+  },
+  {
+    "id": 14846,
+    "artisan_id": 829,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/sodayeena"
+  },
+  {
+    "id": 14847,
+    "artisan_id": 829,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/SodaYeena"
+  },
+  {
+    "id": 14848,
+    "artisan_id": 829,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/invite/b/65dfaa7423c75d3177108e2a/ATTI55abdcf607a22b59513632c372913ea7346C28C7/sodayeenas-fursuit-queue"
+  },
+  {
+    "id": 14849,
+    "artisan_id": 829,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:sodayeena"
+  },
+  {
+    "id": 14850,
+    "artisan_id": 829,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/sodayeena.bsky.social"
+  },
+  {
+    "id": 14851,
+    "artisan_id": 829,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/sodayeenafursuits"
+  },
+  {
+    "id": 14852,
+    "artisan_id": 829,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@sodayeena"
+  },
+  {
+    "id": 14853,
+    "artisan_id": 830,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/aceyboos/"
+  },
+  {
+    "id": 14854,
+    "artisan_id": 830,
+    "type": "URL_WEBSITE",
+    "url": "https://aceybooscreations.carrd.co/"
+  },
+  {
+    "id": 14855,
+    "artisan_id": 830,
+    "type": "URL_PRICES",
+    "url": "https://aceybooscreations.carrd.co/#prices"
+  },
+  {
+    "id": 14856,
+    "artisan_id": 830,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/aceyboos"
+  },
+  {
+    "id": 14857,
+    "artisan_id": 830,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/aceyboos/"
+  },
+  {
+    "id": 14858,
+    "artisan_id": 830,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/aceyboos"
+  },
+  {
+    "id": 14859,
+    "artisan_id": 830,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/jkjqdxji/to-do"
+  },
+  {
+    "id": 14860,
+    "artisan_id": 830,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:aceyboos"
+  },
+  {
+    "id": 14861,
+    "artisan_id": 830,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/aceyboo.bsky.social"
+  },
+  {
+    "id": 14862,
+    "artisan_id": 830,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/+HhX77Pga73cyMjVh"
+  },
+  {
+    "id": 14863,
+    "artisan_id": 830,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@aceyboos"
   }
 ]
