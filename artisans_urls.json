@@ -3060,30 +3060,6 @@
     "url": "https://www.lobitoworks.com/commissions.html"
   },
   {
-    "id": 395,
-    "artisan_id": 112,
-    "type": "URL_WEBSITE",
-    "url": "http://www.bouncybatworks.com/"
-  },
-  {
-    "id": 396,
-    "artisan_id": 112,
-    "type": "URL_FUR_AFFINITY",
-    "url": "https://www.furaffinity.net/user/bouncybatworks/"
-  },
-  {
-    "id": 397,
-    "artisan_id": 112,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/BouncyBatWorks"
-  },
-  {
-    "id": 398,
-    "artisan_id": 112,
-    "type": "URL_TUMBLR",
-    "url": "http://bouncybatworks.tumblr.com/"
-  },
-  {
     "id": 399,
     "artisan_id": 113,
     "type": "URL_FURSUITREVIEW",

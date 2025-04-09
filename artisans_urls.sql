@@ -332,10 +332,6 @@ INSERT INTO artisans_urls VALUES(381,108,'URL_WEBSITE','http://sugarcrittersstud
 INSERT INTO artisans_urls VALUES(385,109,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/lobitaworks/');
 INSERT INTO artisans_urls VALUES(386,109,'URL_DEVIANTART','https://www.deviantart.com/lobitaworks');
 INSERT INTO artisans_urls VALUES(391,109,'URL_YOUTUBE','https://www.youtube.com/channel/UC05TWLwvNHIo4qNQMHULDew');
-INSERT INTO artisans_urls VALUES(395,112,'URL_WEBSITE','http://www.bouncybatworks.com/');
-INSERT INTO artisans_urls VALUES(396,112,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/bouncybatworks/');
-INSERT INTO artisans_urls VALUES(397,112,'URL_TWITTER','https://twitter.com/BouncyBatWorks');
-INSERT INTO artisans_urls VALUES(398,112,'URL_TUMBLR','http://bouncybatworks.tumblr.com/');
 INSERT INTO artisans_urls VALUES(399,113,'URL_FURSUITREVIEW','https://fursuitreview.com/m/goldenmaw/');
 INSERT INTO artisans_urls VALUES(400,113,'URL_WEBSITE','https://www.goldenmaw.com/');
 INSERT INTO artisans_urls VALUES(401,113,'URL_PRICES','https://www.goldenmaw.com/prices');
