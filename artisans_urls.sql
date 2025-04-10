@@ -1437,7 +1437,6 @@ INSERT INTO artisans_urls VALUES(9247,375,'URL_FACEBOOK','https://www.facebook.c
 INSERT INTO artisans_urls VALUES(9248,375,'URL_QUEUE','https://trello.com/b/7fr8oeRQ/rising-sun-kemono-fursuit-tracking');
 INSERT INTO artisans_urls VALUES(9249,375,'URL_SCRITCH','https://scritch.es/rskemono');
 INSERT INTO artisans_urls VALUES(9250,375,'URL_COMMISSIONS','https://www.rskemono.com/');
-INSERT INTO artisans_urls VALUES(9256,376,'URL_FACEBOOK','https://www.facebook.com/Nyxia.Creations/');
 INSERT INTO artisans_urls VALUES(9259,376,'URL_QUEUE','https://trello.com/b/nnr4Xws5/nyxia-creations-commission-queue');
 INSERT INTO artisans_urls VALUES(9261,377,'URL_PRICES','https://www.furaffinity.net/user/brokenstitchessuits/');
 INSERT INTO artisans_urls VALUES(9262,377,'URL_FUR_AFFINITY','https://www.furaffinity.net/user/brokenstitchessuits/');
@@ -4100,7 +4099,6 @@ INSERT INTO artisans_urls VALUES(12659,656,'URL_MINIATURES','https://storage.scr
 INSERT INTO artisans_urls VALUES(12660,555,'URL_PRICES','https://docs.google.com/document/d/1KjNxSppRMmCUo1rOUfKWv8EpWY6_V0wCKIRQlIqX8Tk/edit');
 INSERT INTO artisans_urls VALUES(12661,376,'URL_WEBSITE','https://nyxiacreations.co.uk/');
 INSERT INTO artisans_urls VALUES(12662,376,'URL_PRICES','https://nyxiacreations.co.uk/#fursuitprices');
-INSERT INTO artisans_urls VALUES(12663,376,'URL_COMMISSIONS','https://t.me/nyxiacreationschannel');
 INSERT INTO artisans_urls VALUES(12664,376,'URL_FAQ','https://nyxiacreations.co.uk/#faq');
 INSERT INTO artisans_urls VALUES(12665,376,'URL_TWITTER','https://twitter.com/Nyxia_Creations');
 INSERT INTO artisans_urls VALUES(12666,376,'URL_INSTAGRAM','https://www.instagram.com/Astra_Nyxia/');
@@ -6149,4 +6147,20 @@ INSERT INTO artisans_urls VALUES(14860,830,'URL_FURTRACK','https://www.furtrack.
 INSERT INTO artisans_urls VALUES(14861,830,'URL_BLUESKY','https://bsky.app/profile/aceyboo.bsky.social');
 INSERT INTO artisans_urls VALUES(14862,830,'URL_TELEGRAM_CHANNEL','https://t.me/+HhX77Pga73cyMjVh');
 INSERT INTO artisans_urls VALUES(14863,830,'URL_TIKTOK','https://www.tiktok.com/@aceyboos');
+INSERT INTO artisans_urls VALUES(14864,376,'URL_YOUTUBE','https://www.youtube.com/@NyxiaCreations');
+INSERT INTO artisans_urls VALUES(14865,376,'URL_OTHER_SHOP','https://ko-fi.com/astranyxia/shop');
+INSERT INTO artisans_urls VALUES(14866,376,'URL_SCRITCH','https://scritch.es/makers/nyxia-creations');
+INSERT INTO artisans_urls VALUES(14867,376,'URL_FURTRACK','https://www.furtrack.com/index/maker:nyxia_creations');
+INSERT INTO artisans_urls VALUES(14868,376,'URL_PHOTOS','https://www.furtrack.com/p/998361');
+INSERT INTO artisans_urls VALUES(14869,376,'URL_PHOTOS','https://www.furtrack.com/p/929957');
+INSERT INTO artisans_urls VALUES(14870,376,'URL_PHOTOS','https://www.furtrack.com/p/543687');
+INSERT INTO artisans_urls VALUES(14871,376,'URL_PHOTOS','https://www.furtrack.com/p/634461');
+INSERT INTO artisans_urls VALUES(14872,376,'URL_BLUESKY','https://bsky.app/profile/nyxiacreations.bsky.social');
+INSERT INTO artisans_urls VALUES(14873,376,'URL_DONATIONS','https://ko-fi.com/astranyxia');
+INSERT INTO artisans_urls VALUES(14874,376,'URL_TELEGRAM_CHANNEL','https://t.me/nyxiacreationschannel');
+INSERT INTO artisans_urls VALUES(14875,376,'URL_TIKTOK','https://www.tiktok.com/@nyxia_creations');
+INSERT INTO artisans_urls VALUES(14876,376,'URL_MINIATURES','https://orca2.furtrack.com/thumb/998361.jpg');
+INSERT INTO artisans_urls VALUES(14877,376,'URL_MINIATURES','https://orca2.furtrack.com/thumb/929957.jpg');
+INSERT INTO artisans_urls VALUES(14878,376,'URL_MINIATURES','https://orca2.furtrack.com/thumb/543687.jpg');
+INSERT INTO artisans_urls VALUES(14879,376,'URL_MINIATURES','https://orca2.furtrack.com/thumb/634461.jpg');
 COMMIT;

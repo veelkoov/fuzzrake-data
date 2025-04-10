@@ -13338,12 +13338,6 @@
     "url": "https://fursuitreview.com/m/rskemono/"
   },
   {
-    "id": 9256,
-    "artisan_id": 376,
-    "type": "URL_FACEBOOK",
-    "url": "https://www.facebook.com/Nyxia.Creations/"
-  },
-  {
     "id": 9259,
     "artisan_id": 376,
     "type": "URL_QUEUE",
@@ -13368,12 +13362,6 @@
     "url": "https://nyxiacreations.co.uk/#fursuitprices"
   },
   {
-    "id": 12663,
-    "artisan_id": 376,
-    "type": "URL_COMMISSIONS",
-    "url": "https://t.me/nyxiacreationschannel"
-  },
-  {
     "id": 12664,
     "artisan_id": 376,
     "type": "URL_FAQ",
@@ -13396,6 +13384,102 @@
     "artisan_id": 376,
     "type": "URL_LINKLIST",
     "url": "https://linktr.ee/astra.nyxia"
+  },
+  {
+    "id": 14864,
+    "artisan_id": 376,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@NyxiaCreations"
+  },
+  {
+    "id": 14865,
+    "artisan_id": 376,
+    "type": "URL_OTHER_SHOP",
+    "url": "https://ko-fi.com/astranyxia/shop"
+  },
+  {
+    "id": 14866,
+    "artisan_id": 376,
+    "type": "URL_SCRITCH",
+    "url": "https://scritch.es/makers/nyxia-creations"
+  },
+  {
+    "id": 14867,
+    "artisan_id": 376,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:nyxia_creations"
+  },
+  {
+    "id": 14868,
+    "artisan_id": 376,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/998361"
+  },
+  {
+    "id": 14869,
+    "artisan_id": 376,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/929957"
+  },
+  {
+    "id": 14870,
+    "artisan_id": 376,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/543687"
+  },
+  {
+    "id": 14871,
+    "artisan_id": 376,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/634461"
+  },
+  {
+    "id": 14872,
+    "artisan_id": 376,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/nyxiacreations.bsky.social"
+  },
+  {
+    "id": 14873,
+    "artisan_id": 376,
+    "type": "URL_DONATIONS",
+    "url": "https://ko-fi.com/astranyxia"
+  },
+  {
+    "id": 14874,
+    "artisan_id": 376,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/nyxiacreationschannel"
+  },
+  {
+    "id": 14875,
+    "artisan_id": 376,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@nyxia_creations"
+  },
+  {
+    "id": 14876,
+    "artisan_id": 376,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/998361.jpg"
+  },
+  {
+    "id": 14877,
+    "artisan_id": 376,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/929957.jpg"
+  },
+  {
+    "id": 14878,
+    "artisan_id": 376,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/543687.jpg"
+  },
+  {
+    "id": 14879,
+    "artisan_id": 376,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/634461.jpg"
   },
   {
     "id": 9261,

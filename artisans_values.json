@@ -38643,7 +38643,7 @@
     "id": 2518,
     "artisan_id": 376,
     "field_name": "DATE_UPDATED",
-    "value": "2023-08-12 16:55:22"
+    "value": "2025-04-10 18:36:48"
   },
   {
     "id": 2519,
@@ -38733,13 +38733,13 @@
     "id": 12988,
     "artisan_id": 376,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Movable jaw"
   },
   {
     "id": 12989,
     "artisan_id": 376,
     "field_name": "FEATURES",
-    "value": "Removable horns/antlers"
+    "value": "Outdoor feet"
   },
   {
     "id": 12990,
@@ -38811,13 +38811,13 @@
     "id": 13001,
     "artisan_id": 376,
     "field_name": "OTHER_ORDER_TYPES",
-    "value": "Jewellery"
+    "value": "Badges"
   },
   {
     "id": 13002,
     "artisan_id": 376,
     "field_name": "OTHER_ORDER_TYPES",
-    "value": "Cosplay"
+    "value": "Clothing"
   },
   {
     "id": 13003,
@@ -38836,6 +38836,24 @@
     "artisan_id": 376,
     "field_name": "STYLES",
     "value": "Toony"
+  },
+  {
+    "id": 21249,
+    "artisan_id": 376,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Cosplay"
+  },
+  {
+    "id": 21250,
+    "artisan_id": 376,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
+  },
+  {
+    "id": 21251,
+    "artisan_id": 376,
+    "field_name": "FEATURES",
+    "value": "Washable heads"
   },
   {
     "id": 5006,
