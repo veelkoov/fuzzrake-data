@@ -10,10 +10,10 @@
 /artisans_urls_states.*
 /artisans_volatile_data.*
 /creators_species.*
-/kotlin_data.*
 /species.*
 
 # Too much noise, primarily information about operations, low-value
+/doctrine_migration_versions.*
 /events.*
 
 # Temporary system data, operational
