@@ -100740,6 +100740,12 @@
     "value": "2024-03-17 19:53:22"
   },
   {
+    "id": 21252,
+    "artisan_id": 710,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-04-13 11:55:22"
+  },
+  {
     "id": 2890,
     "artisan_id": 710,
     "field_name": "DOES_NSFW",
@@ -100755,31 +100761,43 @@
     "id": 13591,
     "artisan_id": 710,
     "field_name": "FEATURES",
-    "value": "Exchangeable hairs"
+    "value": "Attached tail"
   },
   {
     "id": 13592,
     "artisan_id": 710,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Exchangeable hairs"
   },
   {
     "id": 13593,
     "artisan_id": 710,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 13594,
     "artisan_id": 710,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "Follow-me eyes"
   },
   {
     "id": 13595,
     "artisan_id": 710,
     "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 21254,
+    "artisan_id": 710,
+    "field_name": "FEATURES",
     "value": "Removable horns/antlers"
+  },
+  {
+    "id": 21255,
+    "artisan_id": 710,
+    "field_name": "FEATURES",
+    "value": "Washable heads"
   },
   {
     "id": 13585,
@@ -100825,6 +100843,12 @@
   },
   {
     "id": 13599,
+    "artisan_id": 710,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 21253,
     "artisan_id": 710,
     "field_name": "ORDER_TYPES",
     "value": "Tails (as parts/separate)"
