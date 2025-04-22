@@ -36976,5 +36976,77 @@
     "artisan_id": 830,
     "type": "URL_WEBSITE",
     "url": "https://aceybooscreations.carrd.co/"
+  },
+  {
+    "id": 14886,
+    "artisan_id": 831,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/starpawstudios.bsky.social"
+  },
+  {
+    "id": 14882,
+    "artisan_id": 831,
+    "type": "URL_COMMISSIONS",
+    "url": "https://bsky.app/profile/starpawstudios.bsky.social"
+  },
+  {
+    "id": 14883,
+    "artisan_id": 831,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/starpawstudios/"
+  },
+  {
+    "id": 14885,
+    "artisan_id": 831,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/starpawstudios/"
+  },
+  {
+    "id": 14881,
+    "artisan_id": 831,
+    "type": "URL_PRICES",
+    "url": "https://www.furaffinity.net/commissions/starpawstudios"
+  },
+  {
+    "id": 14884,
+    "artisan_id": 831,
+    "type": "URL_TUMBLR",
+    "url": "https://www.tumblr.com/starpawstudios"
+  },
+  {
+    "id": 14892,
+    "artisan_id": 832,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/squirrel-suits.bsky.social"
+  },
+  {
+    "id": 14888,
+    "artisan_id": 832,
+    "type": "URL_COMMISSIONS",
+    "url": "https://twitter.com/SquirrelSuits"
+  },
+  {
+    "id": 14891,
+    "artisan_id": 832,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/incarceratedsquirrel"
+  },
+  {
+    "id": 14887,
+    "artisan_id": 832,
+    "type": "URL_PRICES",
+    "url": "https://docs.google.com/document/d/1uO3IYqxsZhFAWh7awf-5mZIkNIA_a4yPVewCECI5sHM/edit?tab=t.0#heading=h.vknd5hfyhoj6"
+  },
+  {
+    "id": 14890,
+    "artisan_id": 832,
+    "type": "URL_TUMBLR",
+    "url": "https://www.tumblr.com/squirrel-suits"
+  },
+  {
+    "id": 14889,
+    "artisan_id": 832,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/SquirrelSuits"
   }
 ]
