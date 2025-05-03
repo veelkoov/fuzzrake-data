@@ -19294,5 +19294,29 @@
     "payment_methods": "PayPal",
     "currencies_accepted": "GBP\nUSD",
     "species_comment": "willing to try anything just ask"
+  },
+  {
+    "id": 833,
+    "creator_id": "BRKNGDG",
+    "name": "Barking Dog Fursuits",
+    "formerly": "",
+    "intro": "",
+    "since": "2020-03",
+    "country": "GB",
+    "state": "",
+    "city": "",
+    "payment_plans": "30% non-refundable deposit up-front. 4 months to complete payment onward.\nShipping is paid after product is complete, client has 2 months to send this payment.",
+    "species_does": "Most species",
+    "species_doesnt": "",
+    "notes": "",
+    "contact_allowed": "FEEDBACK",
+    "inactive_reason": "",
+    "production_models_comment": "I usually work on character commissions, but I’m willing to do artistic liberty and pre-mades.",
+    "styles_comment": "Toony is my speciality.",
+    "order_types_comment": "",
+    "features_comment": "I don’t work with 3D Printed head-bases (TPU is an exception).",
+    "payment_methods": "Paypal Invoice.",
+    "currencies_accepted": "GBP",
+    "species_comment": ""
   }
 ]

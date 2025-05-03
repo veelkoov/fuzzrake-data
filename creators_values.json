@@ -122104,5 +122104,191 @@
     "creator_id": 832,
     "field_name": "STYLES",
     "value": "Toony"
+  },
+  {
+    "id": 21350,
+    "creator_id": 833,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 21324,
+    "creator_id": 833,
+    "field_name": "DATE_ADDED",
+    "value": "2025-05-03 20:37:06"
+  },
+  {
+    "id": 21353,
+    "creator_id": 833,
+    "field_name": "DOES_NSFW",
+    "value": "False"
+  },
+  {
+    "id": 21338,
+    "creator_id": 833,
+    "field_name": "FEATURES",
+    "value": "Exchangeable tongues"
+  },
+  {
+    "id": 21339,
+    "creator_id": 833,
+    "field_name": "FEATURES",
+    "value": "Follow-me eyes"
+  },
+  {
+    "id": 21340,
+    "creator_id": 833,
+    "field_name": "FEATURES",
+    "value": "Indoor feet"
+  },
+  {
+    "id": 21341,
+    "creator_id": 833,
+    "field_name": "FEATURES",
+    "value": "Outdoor feet"
+  },
+  {
+    "id": 21342,
+    "creator_id": 833,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 21325,
+    "creator_id": 833,
+    "field_name": "LANGUAGES",
+    "value": "English"
+  },
+  {
+    "id": 21352,
+    "creator_id": 833,
+    "field_name": "NSFW_SOCIAL",
+    "value": "False"
+  },
+  {
+    "id": 21351,
+    "creator_id": 833,
+    "field_name": "NSFW_WEBSITE",
+    "value": "False"
+  },
+  {
+    "id": 21330,
+    "creator_id": 833,
+    "field_name": "ORDER_TYPES",
+    "value": "Feetpaws (as parts/separate)"
+  },
+  {
+    "id": 21331,
+    "creator_id": 833,
+    "field_name": "ORDER_TYPES",
+    "value": "Handpaws (as parts/separate)"
+  },
+  {
+    "id": 21332,
+    "creator_id": 833,
+    "field_name": "ORDER_TYPES",
+    "value": "Head (as parts/separate)"
+  },
+  {
+    "id": 21333,
+    "creator_id": 833,
+    "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 21334,
+    "creator_id": 833,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 21335,
+    "creator_id": 833,
+    "field_name": "ORDER_TYPES",
+    "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 21343,
+    "creator_id": 833,
+    "field_name": "OTHER_FEATURES",
+    "value": "Adjustable Velcro Head Straps"
+  },
+  {
+    "id": 21348,
+    "creator_id": 833,
+    "field_name": "OTHER_FEATURES",
+    "value": "Finger Escapes on Hand Paws"
+  },
+  {
+    "id": 21347,
+    "creator_id": 833,
+    "field_name": "OTHER_FEATURES",
+    "value": "Gore Detail on Tail Base"
+  },
+  {
+    "id": 21346,
+    "creator_id": 833,
+    "field_name": "OTHER_FEATURES",
+    "value": "Hidden Belt Loop"
+  },
+  {
+    "id": 21349,
+    "creator_id": 833,
+    "field_name": "OTHER_FEATURES",
+    "value": "Interchangeable Feet Paw Bases (Indoor & Outdoor)"
+  },
+  {
+    "id": 21345,
+    "creator_id": 833,
+    "field_name": "OTHER_FEATURES",
+    "value": "Pickable nose"
+  },
+  {
+    "id": 21344,
+    "creator_id": 833,
+    "field_name": "OTHER_FEATURES",
+    "value": "Removeable/Permanent Piercings"
+  },
+  {
+    "id": 21337,
+    "creator_id": 833,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Arm sleeves"
+  },
+  {
+    "id": 21336,
+    "creator_id": 833,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Wings"
+  },
+  {
+    "id": 21326,
+    "creator_id": 833,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Artistic liberty commissions"
+  },
+  {
+    "id": 21327,
+    "creator_id": 833,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Premades"
+  },
+  {
+    "id": 21328,
+    "creator_id": 833,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Standard commissions"
+  },
+  {
+    "id": 21329,
+    "creator_id": 833,
+    "field_name": "STYLES",
+    "value": "Toony"
+  },
+  {
+    "id": 21354,
+    "creator_id": 833,
+    "field_name": "WORKS_WITH_MINORS",
+    "value": "False"
   }
 ]

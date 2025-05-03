@@ -37102,5 +37102,59 @@
     "creator_id": 832,
     "type": "URL_TWITTER",
     "url": "https://twitter.com/SquirrelSuits"
+  },
+  {
+    "id": 14929,
+    "creator_id": 833,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/barkingdogfursuits.bsky.social"
+  },
+  {
+    "id": 14924,
+    "creator_id": 833,
+    "type": "URL_COMMISSIONS",
+    "url": "https://bsky.app/profile/barkingdogfursuits.bsky.social"
+  },
+  {
+    "id": 14925,
+    "creator_id": 833,
+    "type": "URL_COMMISSIONS",
+    "url": "https://twitter.com/barkingdogsuits"
+  },
+  {
+    "id": 14927,
+    "creator_id": 833,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/barkingdogfursuits/"
+  },
+  {
+    "id": 14923,
+    "creator_id": 833,
+    "type": "URL_PRICES",
+    "url": "https://barkingdogfursuits.crd.co/#prices"
+  },
+  {
+    "id": 14928,
+    "creator_id": 833,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/j5xxMboN/barking-dog-fursuits-queue"
+  },
+  {
+    "id": 14930,
+    "creator_id": 833,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@barkingdogfursuits"
+  },
+  {
+    "id": 14926,
+    "creator_id": 833,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/barkingdogsuits"
+  },
+  {
+    "id": 14922,
+    "creator_id": 833,
+    "type": "URL_WEBSITE",
+    "url": "https://barkingdogfursuits.crd.co/"
   }
 ]
