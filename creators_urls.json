@@ -37132,5 +37132,161 @@
     "creator_id": 833,
     "type": "URL_WEBSITE",
     "url": "https://barkingdogfursuits.crd.co/"
+  },
+  {
+    "id": 14944,
+    "creator_id": 834,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/furbittenstudios.bsky.social"
+  },
+  {
+    "id": 14961,
+    "creator_id": 834,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.furbittenstudios.com/"
+  },
+  {
+    "id": 14943,
+    "creator_id": 834,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/FurBittenStudiosLLC"
+  },
+  {
+    "id": 14940,
+    "creator_id": 834,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/FurBittenStudios/"
+  },
+  {
+    "id": 14938,
+    "creator_id": 834,
+    "type": "URL_FAQ",
+    "url": "https://www.furbittenstudios.com/faq"
+  },
+  {
+    "id": 14941,
+    "creator_id": 834,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/furbitten_studios/"
+  },
+  {
+    "id": 14942,
+    "creator_id": 834,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/FurBittenStudios"
+  },
+  {
+    "id": 14936,
+    "creator_id": 834,
+    "type": "URL_PRICES",
+    "url": "https://www.furbittenstudios.com/fursuit-pricing"
+  },
+  {
+    "id": 14945,
+    "creator_id": 834,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@furbitten_studios"
+  },
+  {
+    "id": 14939,
+    "creator_id": 834,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/furbittenStudio"
+  },
+  {
+    "id": 14935,
+    "creator_id": 834,
+    "type": "URL_WEBSITE",
+    "url": "https://www.furbittenstudios.com/"
+  },
+  {
+    "id": 14947,
+    "creator_id": 835,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.furaffinity.net/user/frixstark/"
+  },
+  {
+    "id": 14948,
+    "creator_id": 835,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/frixstark/"
+  },
+  {
+    "id": 14950,
+    "creator_id": 835,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/frix_stark_aka.kocicak/"
+  },
+  {
+    "id": 14951,
+    "creator_id": 835,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/frix_stark"
+  },
+  {
+    "id": 14952,
+    "creator_id": 835,
+    "type": "URL_OTHER_SHOP",
+    "url": "https://frix-shop.uwu.ai/"
+  },
+  {
+    "id": 14949,
+    "creator_id": 835,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/Frix_Stark"
+  },
+  {
+    "id": 14946,
+    "creator_id": 835,
+    "type": "URL_WEBSITE",
+    "url": "https://frix-stark.uwu.ai/"
+  },
+  {
+    "id": 14959,
+    "creator_id": 836,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/thattreeshrew.bsky.social"
+  },
+  {
+    "id": 14955,
+    "creator_id": 836,
+    "type": "URL_COMMISSIONS",
+    "url": "https://thattreeshrewfursuits.carrd.co/#section03"
+  },
+  {
+    "id": 14957,
+    "creator_id": 836,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/thattreeshrew/"
+  },
+  {
+    "id": 14954,
+    "creator_id": 836,
+    "type": "URL_PRICES",
+    "url": "https://thattreeshrewfursuits.carrd.co/#section03"
+  },
+  {
+    "id": 14960,
+    "creator_id": 836,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@thattreeshrew"
+  },
+  {
+    "id": 14956,
+    "creator_id": 836,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/Thattreeshrew"
+  },
+  {
+    "id": 14953,
+    "creator_id": 836,
+    "type": "URL_WEBSITE",
+    "url": "https://thattreeshrewfursuits.carrd.co/#"
+  },
+  {
+    "id": 14958,
+    "creator_id": 836,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@thattreeshrew"
   }
 ]
