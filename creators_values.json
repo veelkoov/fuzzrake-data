@@ -38487,7 +38487,7 @@
     "id": 1899,
     "creator_id": 375,
     "field_name": "DATE_UPDATED",
-    "value": "2022-10-18 20:08:51"
+    "value": "2025-05-17 17:22:47"
   },
   {
     "id": 1903,
@@ -38505,52 +38505,64 @@
     "id": 14376,
     "creator_id": 375,
     "field_name": "FEATURES",
-    "value": "Electronics/animatronics"
+    "value": "Attached tail"
   },
   {
     "id": 14377,
     "creator_id": 375,
     "field_name": "FEATURES",
-    "value": "Exchangeable hairs"
+    "value": "Electronics/animatronics"
   },
   {
     "id": 14378,
     "creator_id": 375,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Exchangeable hairs"
   },
   {
     "id": 14379,
     "creator_id": 375,
     "field_name": "FEATURES",
-    "value": "In-head fans"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 14380,
     "creator_id": 375,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "Follow-me eyes"
   },
   {
     "id": 14381,
     "creator_id": 375,
     "field_name": "FEATURES",
-    "value": "LED eyes"
+    "value": "In-head fans"
   },
   {
     "id": 14382,
     "creator_id": 375,
     "field_name": "FEATURES",
-    "value": "LED/EL lights"
+    "value": "Indoor feet"
   },
   {
     "id": 14383,
     "creator_id": 375,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "LED eyes"
   },
   {
     "id": 14384,
+    "creator_id": 375,
+    "field_name": "FEATURES",
+    "value": "LED/EL lights"
+  },
+  {
+    "id": 21420,
+    "creator_id": 375,
+    "field_name": "FEATURES",
+    "value": "Outdoor feet"
+  },
+  {
+    "id": 21421,
     "creator_id": 375,
     "field_name": "FEATURES",
     "value": "Removable horns/antlers"

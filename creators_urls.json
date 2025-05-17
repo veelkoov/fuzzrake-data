@@ -13260,10 +13260,10 @@
     "url": "https://www.rskemono.com/"
   },
   {
-    "id": 9247,
+    "id": 14963,
     "creator_id": 375,
     "type": "URL_FACEBOOK",
-    "url": "https://www.facebook.com/Rising-Sun-Kemono-102430807936204/"
+    "url": "https://www.facebook.com/rskemono/"
   },
   {
     "id": 9936,
@@ -13282,12 +13282,6 @@
     "creator_id": 375,
     "type": "URL_PRICES",
     "url": "https://www.rskemono.com/collections/custom-comissions"
-  },
-  {
-    "id": 9248,
-    "creator_id": 375,
-    "type": "URL_QUEUE",
-    "url": "https://trello.com/b/7fr8oeRQ/rising-sun-kemono-fursuit-tracking"
   },
   {
     "id": 9249,
