@@ -25776,6 +25776,12 @@
     "url": "https://www.gentlefur.com/"
   },
   {
+    "id": 14997,
+    "creator_id": 623,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/mooncurlcreations.bsky.social"
+  },
+  {
     "id": 12210,
     "creator_id": 623,
     "type": "URL_FACEBOOK",
@@ -25786,6 +25792,12 @@
     "creator_id": 623,
     "type": "URL_FAQ",
     "url": "https://docs.google.com/document/d/1dCWv-HdTcHCYILZTwCgFlFtMOle9JIKBfTnyRIFOr18/edit?usp=drivesdk"
+  },
+  {
+    "id": 14992,
+    "creator_id": 623,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:mooncurlcreations"
   },
   {
     "id": 12211,
@@ -25800,16 +25812,64 @@
     "url": "https://linktr.ee/MoonCurlCreations"
   },
   {
+    "id": 15002,
+    "creator_id": 623,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1062298.jpg"
+  },
+  {
+    "id": 15001,
+    "creator_id": 623,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/523021.jpg"
+  },
+  {
+    "id": 14999,
+    "creator_id": 623,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/604406.jpg"
+  },
+  {
+    "id": 15000,
+    "creator_id": 623,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/637956.jpg"
+  },
+  {
+    "id": 14996,
+    "creator_id": 623,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1062298"
+  },
+  {
+    "id": 14995,
+    "creator_id": 623,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/523021"
+  },
+  {
+    "id": 14993,
+    "creator_id": 623,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/604406"
+  },
+  {
+    "id": 14994,
+    "creator_id": 623,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/637956"
+  },
+  {
     "id": 12213,
     "creator_id": 623,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/ubwcMwZ3/fursuit-commissions"
   },
   {
-    "id": 12209,
+    "id": 14998,
     "creator_id": 623,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/varuna_husky"
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/mooncurlchannel"
   },
   {
     "id": 12215,

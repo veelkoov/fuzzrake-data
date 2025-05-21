@@ -83592,6 +83592,12 @@
     "value": "2023-04-07 18:37:18"
   },
   {
+    "id": 21501,
+    "creator_id": 623,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-05-21 18:59:55"
+  },
+  {
     "id": 2281,
     "creator_id": 623,
     "field_name": "DOES_NSFW",
@@ -83601,52 +83607,58 @@
     "id": 12285,
     "creator_id": 623,
     "field_name": "FEATURES",
-    "value": "Attached tail"
+    "value": "Attached handpaws and feetpaws"
   },
   {
     "id": 12286,
     "creator_id": 623,
     "field_name": "FEATURES",
-    "value": "Exchangeable hairs"
+    "value": "Attached tail"
   },
   {
     "id": 12287,
     "creator_id": 623,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Exchangeable hairs"
   },
   {
     "id": 12288,
     "creator_id": 623,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 12289,
     "creator_id": 623,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "Follow-me eyes"
   },
   {
     "id": 12290,
     "creator_id": 623,
     "field_name": "FEATURES",
-    "value": "LED/EL lights"
+    "value": "Indoor feet"
   },
   {
     "id": 12291,
     "creator_id": 623,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "LED/EL lights"
   },
   {
     "id": 12292,
     "creator_id": 623,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "Outdoor feet"
   },
   {
     "id": 12293,
+    "creator_id": 623,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 21508,
     "creator_id": 623,
     "field_name": "FEATURES",
     "value": "Removable horns/antlers"
@@ -83667,13 +83679,13 @@
     "id": 2280,
     "creator_id": 623,
     "field_name": "NSFW_SOCIAL",
-    "value": "False"
+    "value": "True"
   },
   {
     "id": 2279,
     "creator_id": 623,
     "field_name": "NSFW_WEBSITE",
-    "value": "False"
+    "value": "True"
   },
   {
     "id": 12294,
@@ -83691,37 +83703,91 @@
     "id": 12296,
     "creator_id": 623,
     "field_name": "ORDER_TYPES",
-    "value": "Full plantigrade"
+    "value": "Full digitigrade"
   },
   {
     "id": 12297,
     "creator_id": 623,
     "field_name": "ORDER_TYPES",
-    "value": "Handpaws (as parts/separate)"
+    "value": "Full plantigrade"
   },
   {
     "id": 12298,
     "creator_id": 623,
     "field_name": "ORDER_TYPES",
-    "value": "Head (as parts/separate)"
+    "value": "Handpaws (as parts/separate)"
   },
   {
     "id": 12299,
     "creator_id": 623,
     "field_name": "ORDER_TYPES",
-    "value": "Mini partial (head + handpaws + tail)"
+    "value": "Head (as parts/separate)"
   },
   {
     "id": 12300,
     "creator_id": 623,
     "field_name": "ORDER_TYPES",
-    "value": "Partial (head + handpaws + tail + feetpaws)"
+    "value": "Mini partial (head + handpaws + tail)"
   },
   {
     "id": 12301,
     "creator_id": 623,
     "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 21502,
+    "creator_id": 623,
+    "field_name": "ORDER_TYPES",
     "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 21503,
+    "creator_id": 623,
+    "field_name": "ORDER_TYPES",
+    "value": "Three-fourth (head + handpaws + tail + legs/pants + feetpaws)"
+  },
+  {
+    "id": 21510,
+    "creator_id": 623,
+    "field_name": "OTHER_FEATURES",
+    "value": "Adjustable straps in head"
+  },
+  {
+    "id": 21511,
+    "creator_id": 623,
+    "field_name": "OTHER_FEATURES",
+    "value": "Mantled beast visor experience"
+  },
+  {
+    "id": 21509,
+    "creator_id": 623,
+    "field_name": "OTHER_FEATURES",
+    "value": "Pickable nose"
+  },
+  {
+    "id": 21505,
+    "creator_id": 623,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Arm sleeves"
+  },
+  {
+    "id": 21504,
+    "creator_id": 623,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Can make standalone digi legs; DTD might be required"
+  },
+  {
+    "id": 21507,
+    "creator_id": 623,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Feet hooves"
+  },
+  {
+    "id": 21506,
+    "creator_id": 623,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Wings"
   },
   {
     "id": 12282,
