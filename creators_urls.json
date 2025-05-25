@@ -37522,5 +37522,83 @@
     "creator_id": 839,
     "type": "URL_WEBSITE",
     "url": "https://synthware-studios.netlify.app/"
+  },
+  {
+    "id": 15027,
+    "creator_id": 840,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/squidstumes/"
+  },
+  {
+    "id": 15029,
+    "creator_id": 840,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:squidstumes"
+  },
+  {
+    "id": 15028,
+    "creator_id": 840,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/squidstumes/"
+  },
+  {
+    "id": 15030,
+    "creator_id": 840,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@squiddystumes/"
+  },
+  {
+    "id": 15033,
+    "creator_id": 841,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/lavender_sky_studios/profilecard/"
+  },
+  {
+    "id": 15037,
+    "creator_id": 841,
+    "type": "URL_DONATIONS",
+    "url": "https://ko-fi.com/lavender_sky_studios"
+  },
+  {
+    "id": 15034,
+    "creator_id": 841,
+    "type": "URL_FAQ",
+    "url": "https://clberggreen.wixsite.com/lavenderskystudios/blank-3"
+  },
+  {
+    "id": 15035,
+    "creator_id": 841,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/lavender_sky_studios/profilecard/"
+  },
+  {
+    "id": 15036,
+    "creator_id": 841,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/lavender_sky_studios"
+  },
+  {
+    "id": 15032,
+    "creator_id": 841,
+    "type": "URL_PRICES",
+    "url": "https://clberggreen.wixsite.com/lavenderskystudios"
+  },
+  {
+    "id": 15038,
+    "creator_id": 841,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://www.instagram.com/channel/AbapkTMpMhuAJSCb/"
+  },
+  {
+    "id": 15039,
+    "creator_id": 841,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@lavender_sky_studios"
+  },
+  {
+    "id": 15031,
+    "creator_id": 841,
+    "type": "URL_WEBSITE",
+    "url": "https://clberggreen.wixsite.com/lavenderskystudios"
   }
 ]
