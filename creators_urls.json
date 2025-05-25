@@ -14226,6 +14226,12 @@
     "url": "https://28ghostiez.com/#"
   },
   {
+    "id": 15003,
+    "creator_id": 395,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/28ghostiez/"
+  },
+  {
     "id": 13253,
     "creator_id": 395,
     "type": "URL_FURTRACK",
@@ -37036,6 +37042,12 @@
     "creator_id": 831,
     "type": "URL_COMMISSIONS",
     "url": "https://bsky.app/profile/starpawstudios.bsky.social"
+  },
+  {
+    "id": 15004,
+    "creator_id": 831,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/starpaw-studios/"
   },
   {
     "id": 14883,
