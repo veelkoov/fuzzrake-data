@@ -46134,6 +46134,12 @@
     "value": "2021-01-19 18:26:27"
   },
   {
+    "id": 21643,
+    "creator_id": 420,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-06-07 19:51:23"
+  },
+  {
     "id": 1253,
     "creator_id": 420,
     "field_name": "DOES_NSFW",
@@ -46149,22 +46155,28 @@
     "id": 11619,
     "creator_id": 420,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Exchangeable hairs"
   },
   {
     "id": 11620,
     "creator_id": 420,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 11621,
     "creator_id": 420,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Follow-me eyes"
   },
   {
     "id": 11622,
+    "creator_id": 420,
+    "field_name": "FEATURES",
+    "value": "Outdoor feet"
+  },
+  {
+    "id": 21644,
     "creator_id": 420,
     "field_name": "FEATURES",
     "value": "Removable eyelids"
@@ -123844,5 +123856,155 @@
     "creator_id": 841,
     "field_name": "WORKS_WITH_MINORS",
     "value": "True"
+  },
+  {
+    "id": 21638,
+    "creator_id": 842,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 21618,
+    "creator_id": 842,
+    "field_name": "DATE_ADDED",
+    "value": "2025-06-07 19:44:55"
+  },
+  {
+    "id": 21641,
+    "creator_id": 842,
+    "field_name": "DOES_NSFW",
+    "value": "False"
+  },
+  {
+    "id": 21630,
+    "creator_id": 842,
+    "field_name": "FEATURES",
+    "value": "Adjustable/wiggle ears"
+  },
+  {
+    "id": 21631,
+    "creator_id": 842,
+    "field_name": "FEATURES",
+    "value": "Attached tail"
+  },
+  {
+    "id": 21632,
+    "creator_id": 842,
+    "field_name": "FEATURES",
+    "value": "Exchangeable tongues"
+  },
+  {
+    "id": 21633,
+    "creator_id": 842,
+    "field_name": "FEATURES",
+    "value": "Follow-me eyes"
+  },
+  {
+    "id": 21634,
+    "creator_id": 842,
+    "field_name": "FEATURES",
+    "value": "Indoor feet"
+  },
+  {
+    "id": 21635,
+    "creator_id": 842,
+    "field_name": "FEATURES",
+    "value": "Outdoor feet"
+  },
+  {
+    "id": 21636,
+    "creator_id": 842,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 21637,
+    "creator_id": 842,
+    "field_name": "FEATURES",
+    "value": "Washable heads"
+  },
+  {
+    "id": 21619,
+    "creator_id": 842,
+    "field_name": "LANGUAGES",
+    "value": "English"
+  },
+  {
+    "id": 21640,
+    "creator_id": 842,
+    "field_name": "NSFW_SOCIAL",
+    "value": "False"
+  },
+  {
+    "id": 21639,
+    "creator_id": 842,
+    "field_name": "NSFW_WEBSITE",
+    "value": "False"
+  },
+  {
+    "id": 21625,
+    "creator_id": 842,
+    "field_name": "ORDER_TYPES",
+    "value": "Full digitigrade"
+  },
+  {
+    "id": 21626,
+    "creator_id": 842,
+    "field_name": "ORDER_TYPES",
+    "value": "Full plantigrade"
+  },
+  {
+    "id": 21627,
+    "creator_id": 842,
+    "field_name": "ORDER_TYPES",
+    "value": "Head (as parts/separate)"
+  },
+  {
+    "id": 21628,
+    "creator_id": 842,
+    "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 21629,
+    "creator_id": 842,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 21620,
+    "creator_id": 842,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Premades"
+  },
+  {
+    "id": 21621,
+    "creator_id": 842,
+    "field_name": "STYLES",
+    "value": "Kemono"
+  },
+  {
+    "id": 21622,
+    "creator_id": 842,
+    "field_name": "STYLES",
+    "value": "Semi Realistic"
+  },
+  {
+    "id": 21623,
+    "creator_id": 842,
+    "field_name": "STYLES",
+    "value": "Semi Toony"
+  },
+  {
+    "id": 21624,
+    "creator_id": 842,
+    "field_name": "STYLES",
+    "value": "Toony"
+  },
+  {
+    "id": 21642,
+    "creator_id": 842,
+    "field_name": "WORKS_WITH_MINORS",
+    "value": "False"
   }
 ]

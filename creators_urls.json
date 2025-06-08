@@ -15528,6 +15528,12 @@
     "url": "https://twitter.com/RetrieverCrafts"
   },
   {
+    "id": 15081,
+    "creator_id": 420,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/maskedmerchant.bsky.social"
+  },
+  {
     "id": 9678,
     "creator_id": 420,
     "type": "URL_COMMISSIONS",
@@ -15544,6 +15550,12 @@
     "creator_id": 420,
     "type": "URL_ETSY",
     "url": "https://www.etsy.com/shop/MaskedMerchantGoods"
+  },
+  {
+    "id": 15080,
+    "creator_id": 420,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:masked_merchant"
   },
   {
     "id": 9671,
@@ -15564,6 +15576,12 @@
     "url": "https://linktr.ee/maskedmerchantz"
   },
   {
+    "id": 15079,
+    "creator_id": 420,
+    "type": "URL_OTHER_SHOP",
+    "url": "https://www.etsy.com/shop/MaskedMerchantGoods"
+  },
+  {
     "id": 9670,
     "creator_id": 420,
     "type": "URL_PRICES",
@@ -15574,6 +15592,12 @@
     "creator_id": 420,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/8NgVGch1"
+  },
+  {
+    "id": 15082,
+    "creator_id": 420,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/MaskedMerchantZ"
   },
   {
     "id": 9673,
@@ -37654,5 +37678,35 @@
     "creator_id": 841,
     "type": "URL_WEBSITE",
     "url": "https://clberggreen.wixsite.com/lavenderskystudios"
+  },
+  {
+    "id": 15074,
+    "creator_id": 842,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.etsy.com/shop/OpaliteComet"
+  },
+  {
+    "id": 15075,
+    "creator_id": 842,
+    "type": "URL_DEVIANTART",
+    "url": "https://www.deviantart.com/tem123456"
+  },
+  {
+    "id": 15078,
+    "creator_id": 842,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/OpaliteComet"
+  },
+  {
+    "id": 15076,
+    "creator_id": 842,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/us_rat18915"
+  },
+  {
+    "id": 15077,
+    "creator_id": 842,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/channel/UChTq8w3HzYBTmH1Bhci6vlA"
   }
 ]
