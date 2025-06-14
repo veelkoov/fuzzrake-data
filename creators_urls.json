@@ -37750,5 +37750,89 @@
     "creator_id": 842,
     "type": "URL_YOUTUBE",
     "url": "https://www.youtube.com/channel/UChTq8w3HzYBTmH1Bhci6vlA"
+  },
+  {
+    "id": 15105,
+    "creator_id": 843,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/starryariart.com"
+  },
+  {
+    "id": 15096,
+    "creator_id": 843,
+    "type": "URL_COMMISSIONS",
+    "url": "https://t.me/starryariarts"
+  },
+  {
+    "id": 15097,
+    "creator_id": 843,
+    "type": "URL_FAQ",
+    "url": "https://www.starryariart.com/faq"
+  },
+  {
+    "id": 15103,
+    "creator_id": 843,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:starryariart"
+  },
+  {
+    "id": 15098,
+    "creator_id": 843,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/starryariart/"
+  },
+  {
+    "id": 15100,
+    "creator_id": 843,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/starryariart/"
+  },
+  {
+    "id": 15107,
+    "creator_id": 843,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/81055.jpg"
+  },
+  {
+    "id": 15101,
+    "creator_id": 843,
+    "type": "URL_OTHER_SHOP",
+    "url": "https://www.starryariart.com/"
+  },
+  {
+    "id": 15104,
+    "creator_id": 843,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/81055"
+  },
+  {
+    "id": 15095,
+    "creator_id": 843,
+    "type": "URL_PRICES",
+    "url": "https://www.starryariart.com/copy-of-digital-commissions"
+  },
+  {
+    "id": 15102,
+    "creator_id": 843,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/cF72ZSJG/aris-commissions"
+  },
+  {
+    "id": 15106,
+    "creator_id": 843,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/starryariarts"
+  },
+  {
+    "id": 15099,
+    "creator_id": 843,
+    "type": "URL_TUMBLR",
+    "url": "https://www.tumblr.com/starryariart"
+  },
+  {
+    "id": 15094,
+    "creator_id": 843,
+    "type": "URL_WEBSITE",
+    "url": "https://www.starryariart.com/"
   }
 ]

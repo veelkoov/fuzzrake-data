@@ -124030,5 +124030,131 @@
     "creator_id": 842,
     "field_name": "WORKS_WITH_MINORS",
     "value": "False"
+  },
+  {
+    "id": 21666,
+    "creator_id": 843,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 21649,
+    "creator_id": 843,
+    "field_name": "DATE_ADDED",
+    "value": "2025-06-14 22:34:58"
+  },
+  {
+    "id": 21669,
+    "creator_id": 843,
+    "field_name": "DOES_NSFW",
+    "value": "False"
+  },
+  {
+    "id": 21662,
+    "creator_id": 843,
+    "field_name": "FEATURES",
+    "value": "Exchangeable tongues"
+  },
+  {
+    "id": 21663,
+    "creator_id": 843,
+    "field_name": "FEATURES",
+    "value": "Indoor feet"
+  },
+  {
+    "id": 21664,
+    "creator_id": 843,
+    "field_name": "FEATURES",
+    "value": "Outdoor feet"
+  },
+  {
+    "id": 21665,
+    "creator_id": 843,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 21650,
+    "creator_id": 843,
+    "field_name": "LANGUAGES",
+    "value": "English"
+  },
+  {
+    "id": 21651,
+    "creator_id": 843,
+    "field_name": "LANGUAGES",
+    "value": "Spanish (limited)"
+  },
+  {
+    "id": 21668,
+    "creator_id": 843,
+    "field_name": "NSFW_SOCIAL",
+    "value": "True"
+  },
+  {
+    "id": 21667,
+    "creator_id": 843,
+    "field_name": "NSFW_WEBSITE",
+    "value": "True"
+  },
+  {
+    "id": 21656,
+    "creator_id": 843,
+    "field_name": "ORDER_TYPES",
+    "value": "Feetpaws (as parts/separate)"
+  },
+  {
+    "id": 21657,
+    "creator_id": 843,
+    "field_name": "ORDER_TYPES",
+    "value": "Handpaws (as parts/separate)"
+  },
+  {
+    "id": 21658,
+    "creator_id": 843,
+    "field_name": "ORDER_TYPES",
+    "value": "Head (as parts/separate)"
+  },
+  {
+    "id": 21659,
+    "creator_id": 843,
+    "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 21660,
+    "creator_id": 843,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 21661,
+    "creator_id": 843,
+    "field_name": "ORDER_TYPES",
+    "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 21652,
+    "creator_id": 843,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Artistic liberty commissions"
+  },
+  {
+    "id": 21653,
+    "creator_id": 843,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Premades"
+  },
+  {
+    "id": 21654,
+    "creator_id": 843,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Standard commissions"
+  },
+  {
+    "id": 21655,
+    "creator_id": 843,
+    "field_name": "STYLES",
+    "value": "Toony"
   }
 ]

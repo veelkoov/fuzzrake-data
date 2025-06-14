@@ -19534,5 +19534,29 @@
     "payment_methods": "PayPal",
     "currencies_accepted": "USD",
     "species_comment": ""
+  },
+  {
+    "id": 843,
+    "creator_id": "STRYARI",
+    "name": "Starry Ari Art LLC",
+    "formerly": "StarryAriArt (formerly known as AriArtistryAffairs)",
+    "intro": "I am Ari! A small, queer fursuit maker. I love doing toony style suits and working with people who are passionate about their fursona designs. Please feel free to reach out any time!",
+    "since": "2020-06",
+    "country": "US",
+    "state": "Georgia",
+    "city": "Atlanta",
+    "payment_plans": "Commissions worth $500 or more are eligible for payment plans. 30% non-refundable down payment (upfront), with a minimum payment of $150 per month until the commission is paid. Stackable fine of $10 per day late may apply.",
+    "species_does": "Felines\nCanines\nMost species",
+    "species_doesnt": "",
+    "notes": "",
+    "contact_allowed": "FEEDBACK",
+    "inactive_reason": "",
+    "production_models_comment": "",
+    "styles_comment": "",
+    "order_types_comment": "",
+    "features_comment": "Prefer to use flat/2D eyes, but willing to do 3D if commissioner selects and pays for a premade pair.",
+    "payment_methods": "Credit\nDebit\nBank Transfer (via Square)\nPayPal (not preferred)\nCash (in person)",
+    "currencies_accepted": "USD",
+    "species_comment": "Willing to do just about anything, just more comfortable with the below."
   }
 ]
