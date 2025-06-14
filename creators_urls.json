@@ -21648,10 +21648,22 @@
     "url": "https://www.youtube.com/channel/UClXpB4Nf7K2btwr-XMhobDA"
   },
   {
+    "id": 15091,
+    "creator_id": 539,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/fedorafursuits.bsky.social"
+  },
+  {
     "id": 11215,
     "creator_id": 539,
     "type": "URL_COMMISSIONS",
     "url": "https://www.furaffinity.net/user/fedorafursuits/"
+  },
+  {
+    "id": 15092,
+    "creator_id": 539,
+    "type": "URL_DONATIONS",
+    "url": "https://www.patreon.com/FedoraFursuits"
   },
   {
     "id": 11216,
@@ -21666,16 +21678,28 @@
     "url": "https://www.instagram.com/fedorafursuits/"
   },
   {
+    "id": 15090,
+    "creator_id": 539,
+    "type": "URL_PRICES",
+    "url": "https://docs.google.com/document/d/1QVXPJRg3Yr17tKZXoiaameQZk4__d--m3W6APDCJR0E/"
+  },
+  {
     "id": 12352,
     "creator_id": 539,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/OP2soPlx/fedoras-fursuits"
   },
   {
-    "id": 12283,
+    "id": 15093,
     "creator_id": 539,
     "type": "URL_TELEGRAM_CHANNEL",
-    "url": "https://t.me/Fedora_Fursuits"
+    "url": "https://t.me/FedoraFursuit"
+  },
+  {
+    "id": 15089,
+    "creator_id": 539,
+    "type": "URL_WEBSITE",
+    "url": "https://fedorafursuits.com/"
   },
   {
     "id": 11223,
@@ -26598,6 +26622,12 @@
     "url": "https://fluffydemoncreations.com/"
   },
   {
+    "id": 15086,
+    "creator_id": 638,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/untamedcanine.bsky.social"
+  },
+  {
     "id": 12419,
     "creator_id": 638,
     "type": "URL_COMMISSIONS",
@@ -26628,16 +26658,28 @@
     "url": "https://trello.com/b/RlBf9kIw/untamedcanines-trello"
   },
   {
-    "id": 13769,
+    "id": 15087,
     "creator_id": 638,
     "type": "URL_TELEGRAM_CHANNEL",
-    "url": "https://t.me/untamedcanine"
+    "url": "https://t.me/UntamedcanineChannel"
   },
   {
-    "id": 12418,
+    "id": 15088,
+    "creator_id": 638,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@untamedcanine"
+  },
+  {
+    "id": 15085,
+    "creator_id": 638,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/ntamedcanine"
+  },
+  {
+    "id": 15084,
     "creator_id": 638,
     "type": "URL_WEBSITE",
-    "url": "https://untamedcanine.carrd.co/"
+    "url": "https://untamedcanine.com"
   },
   {
     "id": 12428,

@@ -68109,7 +68109,7 @@
     "id": 1609,
     "creator_id": 539,
     "field_name": "DATE_UPDATED",
-    "value": "2023-05-21 11:02:29"
+    "value": "2025-06-14 21:29:16"
   },
   {
     "id": 1607,
@@ -68217,49 +68217,61 @@
     "id": 7549,
     "creator_id": 539,
     "field_name": "ORDER_TYPES",
-    "value": "Feetpaws (as parts/separate)"
+    "value": "Bodysuits (as parts/separate)"
   },
   {
     "id": 7550,
     "creator_id": 539,
     "field_name": "ORDER_TYPES",
-    "value": "Full digitigrade"
+    "value": "Feetpaws (as parts/separate)"
   },
   {
     "id": 7551,
     "creator_id": 539,
     "field_name": "ORDER_TYPES",
-    "value": "Full plantigrade"
+    "value": "Full digitigrade"
   },
   {
     "id": 7552,
     "creator_id": 539,
     "field_name": "ORDER_TYPES",
-    "value": "Handpaws (as parts/separate)"
+    "value": "Full plantigrade"
   },
   {
     "id": 7553,
     "creator_id": 539,
     "field_name": "ORDER_TYPES",
-    "value": "Head (as parts/separate)"
+    "value": "Handpaws (as parts/separate)"
   },
   {
     "id": 7554,
     "creator_id": 539,
     "field_name": "ORDER_TYPES",
-    "value": "Mini partial (head + handpaws + tail)"
+    "value": "Head (as parts/separate)"
   },
   {
     "id": 7555,
     "creator_id": 539,
     "field_name": "ORDER_TYPES",
-    "value": "Partial (head + handpaws + tail + feetpaws)"
+    "value": "Mini partial (head + handpaws + tail)"
   },
   {
     "id": 7556,
     "creator_id": 539,
     "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 21645,
+    "creator_id": 539,
+    "field_name": "ORDER_TYPES",
     "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 21646,
+    "creator_id": 539,
+    "field_name": "ORDER_TYPES",
+    "value": "Three-fourth (head + handpaws + tail + legs/pants + feetpaws)"
   },
   {
     "id": 7541,
@@ -68368,6 +68380,18 @@
     "creator_id": 539,
     "field_name": "OTHER_FEATURES",
     "value": "Zipper on back of head"
+  },
+  {
+    "id": 21647,
+    "creator_id": 539,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Giant Plump Mochi Footpaws"
+  },
+  {
+    "id": 21648,
+    "creator_id": 539,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Giant Plump Mochi Handpaws"
   },
   {
     "id": 7515,
@@ -86577,7 +86601,7 @@
     "id": 3070,
     "creator_id": 638,
     "field_name": "DATE_UPDATED",
-    "value": "2024-09-01 17:54:04"
+    "value": "2025-06-14 21:11:57"
   },
   {
     "id": 3071,
