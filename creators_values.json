@@ -12315,13 +12315,13 @@
     "id": 1588,
     "creator_id": 185,
     "field_name": "DATE_UPDATED",
-    "value": "2025-05-03 08:09:50"
+    "value": "2025-06-24 16:16:59"
   },
   {
     "id": 1592,
     "creator_id": 185,
     "field_name": "DOES_NSFW",
-    "value": "False"
+    "value": "True"
   },
   {
     "id": 6264,
@@ -12345,46 +12345,52 @@
     "id": 6267,
     "creator_id": 185,
     "field_name": "FEATURES",
-    "value": "Exchangeable hairs"
+    "value": "Attached tail"
   },
   {
     "id": 6268,
     "creator_id": 185,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Exchangeable hairs"
   },
   {
     "id": 6269,
     "creator_id": 185,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 6270,
     "creator_id": 185,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "Follow-me eyes"
   },
   {
     "id": 6271,
     "creator_id": 185,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Indoor feet"
   },
   {
     "id": 6272,
     "creator_id": 185,
     "field_name": "FEATURES",
-    "value": "Removable blush"
+    "value": "Outdoor feet"
   },
   {
     "id": 6273,
     "creator_id": 185,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "Removable blush"
   },
   {
     "id": 21323,
+    "creator_id": 185,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 21754,
     "creator_id": 185,
     "field_name": "FEATURES",
     "value": "Removable horns/antlers"
@@ -12417,28 +12423,40 @@
     "id": 6276,
     "creator_id": 185,
     "field_name": "ORDER_TYPES",
-    "value": "Handpaws (as parts/separate)"
+    "value": "Full digitigrade"
   },
   {
     "id": 6277,
     "creator_id": 185,
     "field_name": "ORDER_TYPES",
-    "value": "Head (as parts/separate)"
+    "value": "Full plantigrade"
   },
   {
     "id": 6278,
     "creator_id": 185,
     "field_name": "ORDER_TYPES",
-    "value": "Mini partial (head + handpaws + tail)"
+    "value": "Handpaws (as parts/separate)"
   },
   {
     "id": 6279,
     "creator_id": 185,
     "field_name": "ORDER_TYPES",
-    "value": "Partial (head + handpaws + tail + feetpaws)"
+    "value": "Head (as parts/separate)"
   },
   {
     "id": 6280,
+    "creator_id": 185,
+    "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 21752,
+    "creator_id": 185,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 21753,
     "creator_id": 185,
     "field_name": "ORDER_TYPES",
     "value": "Tails (as parts/separate)"
@@ -12531,28 +12549,22 @@
     "id": 6292,
     "creator_id": 185,
     "field_name": "STYLES",
-    "value": "Kemono"
+    "value": "Realistic"
   },
   {
     "id": 6293,
     "creator_id": 185,
     "field_name": "STYLES",
-    "value": "Realistic"
+    "value": "Semi Realistic"
   },
   {
     "id": 6294,
     "creator_id": 185,
     "field_name": "STYLES",
-    "value": "Semi Realistic"
-  },
-  {
-    "id": 6295,
-    "creator_id": 185,
-    "field_name": "STYLES",
     "value": "Semi Toony"
   },
   {
-    "id": 21322,
+    "id": 6295,
     "creator_id": 185,
     "field_name": "STYLES",
     "value": "Toony"
