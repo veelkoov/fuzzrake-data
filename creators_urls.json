@@ -34434,6 +34434,18 @@
     "url": "https://cascadefursuits.weebly.com/"
   },
   {
+    "id": 15140,
+    "creator_id": 777,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/lovesicksuits/"
+  },
+  {
+    "id": 15141,
+    "creator_id": 777,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/LoveSickSuits"
+  },
+  {
     "id": 14183,
     "creator_id": 777,
     "type": "URL_FAQ",
@@ -34446,6 +34458,12 @@
     "url": "https://fursuitreview.com/m/love-sick-suits/"
   },
   {
+    "id": 15142,
+    "creator_id": 777,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:lovesicksuits"
+  },
+  {
     "id": 14185,
     "creator_id": 777,
     "type": "URL_INSTAGRAM",
@@ -34456,6 +34474,12 @@
     "creator_id": 777,
     "type": "URL_PRICES",
     "url": "https://lovesicksuits.carrd.co/#pricing"
+  },
+  {
+    "id": 15143,
+    "creator_id": 777,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/lovesicksuits"
   },
   {
     "id": 14184,

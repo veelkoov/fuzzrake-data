@@ -112680,10 +112680,16 @@
     "value": "2024-10-06 17:50:49"
   },
   {
+    "id": 21756,
+    "creator_id": 777,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-07-06 20:17:39"
+  },
+  {
     "id": 3323,
     "creator_id": 777,
     "field_name": "DOES_NSFW",
-    "value": "False"
+    "value": "True"
   },
   {
     "id": 11495,
@@ -112701,16 +112707,22 @@
     "id": 11497,
     "creator_id": 777,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "In-head fans"
   },
   {
     "id": 11498,
     "creator_id": 777,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Indoor feet"
   },
   {
     "id": 11499,
+    "creator_id": 777,
+    "field_name": "FEATURES",
+    "value": "Outdoor feet"
+  },
+  {
+    "id": 21757,
     "creator_id": 777,
     "field_name": "FEATURES",
     "value": "Removable eyelids"
@@ -112776,6 +112788,12 @@
     "value": "Tails (as parts/separate)"
   },
   {
+    "id": 21758,
+    "creator_id": 777,
+    "field_name": "OTHER_FEATURES",
+    "value": "3D printed TPU headbases"
+  },
+  {
     "id": 11503,
     "creator_id": 777,
     "field_name": "OTHER_FEATURES",
@@ -112786,6 +112804,24 @@
     "creator_id": 777,
     "field_name": "OTHER_FEATURES",
     "value": "Big tails"
+  },
+  {
+    "id": 21761,
+    "creator_id": 777,
+    "field_name": "OTHER_FEATURES",
+    "value": "Fans"
+  },
+  {
+    "id": 21759,
+    "creator_id": 777,
+    "field_name": "OTHER_FEATURES",
+    "value": "Magnetics (tongue, eyelids etc)"
+  },
+  {
+    "id": 21760,
+    "creator_id": 777,
+    "field_name": "OTHER_FEATURES",
+    "value": "NFC tags"
   },
   {
     "id": 11500,
