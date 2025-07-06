@@ -936,10 +936,34 @@
     "url": "https://craftyvulpine.com/"
   },
   {
+    "id": 15129,
+    "creator_id": 24,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/curious-creatures.bsky.social"
+  },
+  {
+    "id": 15131,
+    "creator_id": 24,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/curiouscreaturephotos/"
+  },
+  {
+    "id": 15130,
+    "creator_id": 24,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/rainbowlemur"
+  },
+  {
     "id": 111,
     "creator_id": 24,
     "type": "URL_WEBSITE",
     "url": "http://thoughtdemons.wixsite.com/curiouscreatures"
+  },
+  {
+    "id": 15132,
+    "creator_id": 24,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/user/Chikkennoodul"
   },
   {
     "id": 118,
@@ -27342,6 +27366,12 @@
     "url": "https://twitter.com/fawn_faith"
   },
   {
+    "id": 15137,
+    "creator_id": 651,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/astrisfursuits.bsky.social"
+  },
+  {
     "id": 12575,
     "creator_id": 651,
     "type": "URL_COMMISSIONS",
@@ -27360,16 +27390,22 @@
     "url": "https://fursuitreview.com/m/astris-fursuits/"
   },
   {
+    "id": 15136,
+    "creator_id": 651,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:astris_fursuits"
+  },
+  {
     "id": 12577,
     "creator_id": 651,
     "type": "URL_INSTAGRAM",
     "url": "https://www.instagram.com/astris_fursuits/"
   },
   {
-    "id": 12574,
+    "id": 15134,
     "creator_id": 651,
     "type": "URL_PRICES",
-    "url": "https://astrissuits.wixsite.com/astris-fursuits/pricing"
+    "url": "https://www.astrisfursuits.com/pricing"
   },
   {
     "id": 12579,
@@ -27378,10 +27414,28 @@
     "url": "https://trello.com/b/ISQUSTU0/fursuit-commission-progress"
   },
   {
-    "id": 12573,
+    "id": 15138,
+    "creator_id": 651,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/AstrisFursuitsUpdates"
+  },
+  {
+    "id": 15139,
+    "creator_id": 651,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@astris_fursuits"
+  },
+  {
+    "id": 15135,
+    "creator_id": 651,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/astris_fursuits"
+  },
+  {
+    "id": 15133,
     "creator_id": 651,
     "type": "URL_WEBSITE",
-    "url": "https://astrissuits.wixsite.com/astris-fursuits"
+    "url": "https://www.astrisfursuits.com/"
   },
   {
     "id": 12587,
@@ -31176,10 +31230,16 @@
     "url": "https://trello.com/b/p8l5eqUE/commissions"
   },
   {
-    "id": 13590,
+    "id": 15128,
+    "creator_id": 721,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/alpineanthros.bsky.social"
+  },
+  {
+    "id": 15125,
     "creator_id": 721,
     "type": "URL_COMMISSIONS",
-    "url": "https://twitter.com/VixenFursuits"
+    "url": "https://twitter.com/AlpineAnthros"
   },
   {
     "id": 13589,
@@ -31194,10 +31254,10 @@
     "url": "https://www.furtrack.com/index/maker:angelvixenstudios"
   },
   {
-    "id": 13592,
+    "id": 15127,
     "creator_id": 721,
     "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/vixenfursuits/"
+    "url": "https://www.instagram.com/alpineanthros/"
   },
   {
     "id": 13594,
@@ -31212,10 +31272,10 @@
     "url": "https://www.thedealersden.com/store/vixen-fursuits"
   },
   {
-    "id": 13591,
+    "id": 15126,
     "creator_id": 721,
     "type": "URL_TWITTER",
-    "url": "https://twitter.com/VixenFursuits"
+    "url": "https://twitter.com/AlpineAnthros"
   },
   {
     "id": 13598,

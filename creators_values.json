@@ -89343,7 +89343,7 @@
     "id": 20303,
     "creator_id": 651,
     "field_name": "DATE_UPDATED",
-    "value": "2024-12-29 19:13:34"
+    "value": "2025-06-29 07:02:30"
   },
   {
     "id": 2479,
@@ -89385,22 +89385,16 @@
     "id": 20305,
     "creator_id": 651,
     "field_name": "FEATURES",
-    "value": "Movable jaw"
+    "value": "Outdoor feet"
   },
   {
     "id": 20306,
     "creator_id": 651,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
-  },
-  {
-    "id": 20307,
-    "creator_id": 651,
-    "field_name": "FEATURES",
     "value": "Removable eyelids"
   },
   {
-    "id": 20308,
+    "id": 20307,
     "creator_id": 651,
     "field_name": "FEATURES",
     "value": "Removable horns/antlers"
@@ -89487,7 +89481,7 @@
     "id": 4278,
     "creator_id": 651,
     "field_name": "OTHER_FEATURES",
-    "value": "Pockets in bodysuits, zip on feet for bodysuits, piercings"
+    "value": "Pockets in bodysuits, zip on feet for bodysuits, piercings, long fur based hair"
   },
   {
     "id": 4289,
@@ -89517,16 +89511,10 @@
     "id": 4290,
     "creator_id": 651,
     "field_name": "STYLES",
-    "value": "Kemono"
-  },
-  {
-    "id": 4291,
-    "creator_id": 651,
-    "field_name": "STYLES",
     "value": "Semi Toony"
   },
   {
-    "id": 4292,
+    "id": 4291,
     "creator_id": 651,
     "field_name": "STYLES",
     "value": "Toony"
@@ -103014,6 +103002,12 @@
     "value": "2024-06-09 19:30:06"
   },
   {
+    "id": 21755,
+    "creator_id": 721,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-06-26 01:14:41"
+  },
+  {
     "id": 2984,
     "creator_id": 721,
     "field_name": "DOES_NSFW",
@@ -103156,54 +103150,6 @@
     "creator_id": 721,
     "field_name": "ORDER_TYPES",
     "value": "Three-fourth (head + handpaws + tail + legs/pants + feetpaws)"
-  },
-  {
-    "id": 18388,
-    "creator_id": 721,
-    "field_name": "OTHER_FEATURES",
-    "value": "Dye sublimated eyes"
-  },
-  {
-    "id": 18391,
-    "creator_id": 721,
-    "field_name": "OTHER_FEATURES",
-    "value": "Form fitting"
-  },
-  {
-    "id": 18390,
-    "creator_id": 721,
-    "field_name": "OTHER_FEATURES",
-    "value": "Mochi paws"
-  },
-  {
-    "id": 18389,
-    "creator_id": 721,
-    "field_name": "OTHER_FEATURES",
-    "value": "Removable padding"
-  },
-  {
-    "id": 18387,
-    "creator_id": 721,
-    "field_name": "OTHER_FEATURES",
-    "value": "Resin claws"
-  },
-  {
-    "id": 18386,
-    "creator_id": 721,
-    "field_name": "OTHER_FEATURES",
-    "value": "Resin nose"
-  },
-  {
-    "id": 18385,
-    "creator_id": 721,
-    "field_name": "OTHER_FEATURES",
-    "value": "Resin teeth"
-  },
-  {
-    "id": 18404,
-    "creator_id": 721,
-    "field_name": "OTHER_STYLES",
-    "value": "Feminine"
   },
   {
     "id": 18372,
