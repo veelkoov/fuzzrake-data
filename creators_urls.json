@@ -38100,10 +38100,22 @@
     "url": "https://www.instagram.com/thegiantblu3.studios/"
   },
   {
+    "id": 15183,
+    "creator_id": 850,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/thegiantblu3"
+  },
+  {
     "id": 15169,
     "creator_id": 850,
     "type": "URL_PRICES",
     "url": "https://docs.google.com/document/d/1ErC_NX7t0eOS4cx1FRqWshUScSYQt9H4ZGrl2vJ2s7k/edit?usp=sharing"
+  },
+  {
+    "id": 15184,
+    "creator_id": 850,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/ncSKu8NB/thegiantblu3studios"
   },
   {
     "id": 15172,
