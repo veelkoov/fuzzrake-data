@@ -35892,6 +35892,12 @@
     "url": "https://www.etsy.com/shop/starlightscavern/"
   },
   {
+    "id": 15197,
+    "creator_id": 806,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:starlightscavern"
+  },
+  {
     "id": 14534,
     "creator_id": 806,
     "type": "URL_INSTAGRAM",
@@ -35904,10 +35910,52 @@
     "url": "https://starlightscavern.carrd.co/"
   },
   {
-    "id": 14532,
+    "id": 15203,
+    "creator_id": 806,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1278389.jpg"
+  },
+  {
+    "id": 15202,
+    "creator_id": 806,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1278392.jpg"
+  },
+  {
+    "id": 15201,
+    "creator_id": 806,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1278393.jpg"
+  },
+  {
+    "id": 15196,
+    "creator_id": 806,
+    "type": "URL_OTHER_SHOP",
+    "url": "https://www.etsy.com/shop/StarlightsCavern"
+  },
+  {
+    "id": 15200,
+    "creator_id": 806,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1278389"
+  },
+  {
+    "id": 15199,
+    "creator_id": 806,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1278392"
+  },
+  {
+    "id": 15198,
+    "creator_id": 806,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1278393"
+  },
+  {
+    "id": 15195,
     "creator_id": 806,
     "type": "URL_PRICES",
-    "url": "https://docs.google.com/document/d/1J4iW0tu8Eccnv58__KEDFEkqStmjA2fX1d5oatvflAw/mobilebasic"
+    "url": "https://starlightscavernprices.carrd.co/"
   },
   {
     "id": 14537,
@@ -37966,6 +38014,12 @@
     "creator_id": 847,
     "type": "URL_YOUTUBE",
     "url": "https://www.youtube.com/@moononiastar3366"
+  },
+  {
+    "id": 15194,
+    "creator_id": 848,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/user/pws.studios"
   },
   {
     "id": 15158,

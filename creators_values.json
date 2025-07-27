@@ -117618,6 +117618,12 @@
     "value": "2025-01-06 19:34:54"
   },
   {
+    "id": 21917,
+    "creator_id": 806,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-07-27 18:10:50"
+  },
+  {
     "id": 20401,
     "creator_id": 806,
     "field_name": "FEATURES",
@@ -117645,7 +117651,19 @@
     "id": 20405,
     "creator_id": 806,
     "field_name": "FEATURES",
+    "value": "Movable jaw"
+  },
+  {
+    "id": 21922,
+    "creator_id": 806,
+    "field_name": "FEATURES",
     "value": "Outdoor feet"
+  },
+  {
+    "id": 21923,
+    "creator_id": 806,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
   },
   {
     "id": 20390,
@@ -117669,37 +117687,61 @@
     "id": 20395,
     "creator_id": 806,
     "field_name": "ORDER_TYPES",
-    "value": "Feetpaws (as parts/separate)"
+    "value": "Bodysuits (as parts/separate)"
   },
   {
     "id": 20396,
     "creator_id": 806,
     "field_name": "ORDER_TYPES",
-    "value": "Handpaws (as parts/separate)"
+    "value": "Feetpaws (as parts/separate)"
   },
   {
     "id": 20397,
     "creator_id": 806,
     "field_name": "ORDER_TYPES",
-    "value": "Head (as parts/separate)"
+    "value": "Full digitigrade"
   },
   {
     "id": 20398,
     "creator_id": 806,
     "field_name": "ORDER_TYPES",
-    "value": "Mini partial (head + handpaws + tail)"
+    "value": "Full plantigrade"
   },
   {
     "id": 20399,
     "creator_id": 806,
     "field_name": "ORDER_TYPES",
-    "value": "Partial (head + handpaws + tail + feetpaws)"
+    "value": "Handpaws (as parts/separate)"
   },
   {
     "id": 20400,
     "creator_id": 806,
     "field_name": "ORDER_TYPES",
+    "value": "Head (as parts/separate)"
+  },
+  {
+    "id": 21918,
+    "creator_id": 806,
+    "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 21919,
+    "creator_id": 806,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 21920,
+    "creator_id": 806,
+    "field_name": "ORDER_TYPES",
     "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 21921,
+    "creator_id": 806,
+    "field_name": "ORDER_TYPES",
+    "value": "Three-fourth (head + handpaws + tail + legs/pants + feetpaws)"
   },
   {
     "id": 20391,
@@ -124966,6 +125008,12 @@
     "creator_id": 848,
     "field_name": "DATE_ADDED",
     "value": "2025-07-07 20:14:23"
+  },
+  {
+    "id": 21916,
+    "creator_id": 848,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-07-27 18:08:54"
   },
   {
     "id": 21840,
