@@ -125614,5 +125614,269 @@
     "creator_id": 851,
     "field_name": "STYLES",
     "value": "Semi Toony"
+  },
+  {
+    "id": 21939,
+    "creator_id": 852,
+    "field_name": "AGES",
+    "value": "MIXED"
+  },
+  {
+    "id": 21924,
+    "creator_id": 852,
+    "field_name": "DATE_ADDED",
+    "value": "2025-07-29 17:52:05"
+  },
+  {
+    "id": 21936,
+    "creator_id": 852,
+    "field_name": "FEATURES",
+    "value": "Exchangeable tongues"
+  },
+  {
+    "id": 21937,
+    "creator_id": 852,
+    "field_name": "FEATURES",
+    "value": "Follow-me eyes"
+  },
+  {
+    "id": 21938,
+    "creator_id": 852,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 21925,
+    "creator_id": 852,
+    "field_name": "LANGUAGES",
+    "value": "English"
+  },
+  {
+    "id": 21941,
+    "creator_id": 852,
+    "field_name": "NSFW_SOCIAL",
+    "value": "True"
+  },
+  {
+    "id": 21940,
+    "creator_id": 852,
+    "field_name": "NSFW_WEBSITE",
+    "value": "True"
+  },
+  {
+    "id": 21930,
+    "creator_id": 852,
+    "field_name": "ORDER_TYPES",
+    "value": "Feetpaws (as parts/separate)"
+  },
+  {
+    "id": 21931,
+    "creator_id": 852,
+    "field_name": "ORDER_TYPES",
+    "value": "Handpaws (as parts/separate)"
+  },
+  {
+    "id": 21932,
+    "creator_id": 852,
+    "field_name": "ORDER_TYPES",
+    "value": "Head (as parts/separate)"
+  },
+  {
+    "id": 21933,
+    "creator_id": 852,
+    "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 21934,
+    "creator_id": 852,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 21935,
+    "creator_id": 852,
+    "field_name": "ORDER_TYPES",
+    "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 21926,
+    "creator_id": 852,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Premades"
+  },
+  {
+    "id": 21927,
+    "creator_id": 852,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Standard commissions"
+  },
+  {
+    "id": 21928,
+    "creator_id": 852,
+    "field_name": "STYLES",
+    "value": "Kemono"
+  },
+  {
+    "id": 21929,
+    "creator_id": 852,
+    "field_name": "STYLES",
+    "value": "Toony"
+  },
+  {
+    "id": 21964,
+    "creator_id": 853,
+    "field_name": "AGES",
+    "value": "MINORS"
+  },
+  {
+    "id": 21942,
+    "creator_id": 853,
+    "field_name": "DATE_ADDED",
+    "value": "2025-07-29 17:56:52"
+  },
+  {
+    "id": 21957,
+    "creator_id": 853,
+    "field_name": "FEATURES",
+    "value": "Exchangeable hairs"
+  },
+  {
+    "id": 21958,
+    "creator_id": 853,
+    "field_name": "FEATURES",
+    "value": "Exchangeable tongues"
+  },
+  {
+    "id": 21959,
+    "creator_id": 853,
+    "field_name": "FEATURES",
+    "value": "Follow-me eyes"
+  },
+  {
+    "id": 21960,
+    "creator_id": 853,
+    "field_name": "FEATURES",
+    "value": "In-head fans"
+  },
+  {
+    "id": 21961,
+    "creator_id": 853,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 21962,
+    "creator_id": 853,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
+  },
+  {
+    "id": 21943,
+    "creator_id": 853,
+    "field_name": "LANGUAGES",
+    "value": "English"
+  },
+  {
+    "id": 21966,
+    "creator_id": 853,
+    "field_name": "NSFW_SOCIAL",
+    "value": "False"
+  },
+  {
+    "id": 21965,
+    "creator_id": 853,
+    "field_name": "NSFW_WEBSITE",
+    "value": "False"
+  },
+  {
+    "id": 21948,
+    "creator_id": 853,
+    "field_name": "ORDER_TYPES",
+    "value": "Handpaws (as parts/separate)"
+  },
+  {
+    "id": 21949,
+    "creator_id": 853,
+    "field_name": "ORDER_TYPES",
+    "value": "Head (as parts/separate)"
+  },
+  {
+    "id": 21950,
+    "creator_id": 853,
+    "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 21951,
+    "creator_id": 853,
+    "field_name": "ORDER_TYPES",
+    "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 21963,
+    "creator_id": 853,
+    "field_name": "OTHER_FEATURES",
+    "value": "Just ask"
+  },
+  {
+    "id": 21952,
+    "creator_id": 853,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Arm sleeves"
+  },
+  {
+    "id": 21954,
+    "creator_id": 853,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Bases"
+  },
+  {
+    "id": 21956,
+    "creator_id": 853,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Fursuit Jewelry"
+  },
+  {
+    "id": 21955,
+    "creator_id": 853,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Fursuit plush props"
+  },
+  {
+    "id": 21953,
+    "creator_id": 853,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Wings"
+  },
+  {
+    "id": 21944,
+    "creator_id": 853,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Artistic liberty commissions"
+  },
+  {
+    "id": 21945,
+    "creator_id": 853,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Premades"
+  },
+  {
+    "id": 21946,
+    "creator_id": 853,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Standard commissions"
+  },
+  {
+    "id": 21947,
+    "creator_id": 853,
+    "field_name": "STYLES",
+    "value": "Toony"
+  },
+  {
+    "id": 21967,
+    "creator_id": 853,
+    "field_name": "WORKS_WITH_MINORS",
+    "value": "True"
   }
 ]

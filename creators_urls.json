@@ -2742,10 +2742,10 @@
     "url": "https://www.facebook.com/willowcreativ/"
   },
   {
-    "id": 10934,
+    "id": 15205,
     "creator_id": 98,
     "type": "URL_FAQ",
-    "url": "https://willow-creative.nl/about/faq/"
+    "url": "https://willowcreativ.com/about/faq/"
   },
   {
     "id": 11232,
@@ -2754,10 +2754,10 @@
     "url": "https://www.instagram.com/willowcreativ/"
   },
   {
-    "id": 10939,
+    "id": 15206,
     "creator_id": 98,
     "type": "URL_OTHER_SHOP",
-    "url": "https://willow-creative.nl/store/"
+    "url": "https://willowcreativ.com/store/"
   },
   {
     "id": 11230,
@@ -2766,10 +2766,10 @@
     "url": "https://twitter.com/WillowCreativ/"
   },
   {
-    "id": 10933,
+    "id": 15204,
     "creator_id": 98,
     "type": "URL_WEBSITE",
-    "url": "https://willow-creative.nl/"
+    "url": "https://willowcreativ.com/"
   },
   {
     "id": 363,
@@ -33870,6 +33870,12 @@
     "url": "https://twitter.com/Maross_catfox"
   },
   {
+    "id": 15215,
+    "creator_id": 770,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/puzzoz/"
+  },
+  {
     "id": 14086,
     "creator_id": 770,
     "type": "URL_FUR_AFFINITY",
@@ -38188,5 +38194,53 @@
     "creator_id": 851,
     "type": "URL_WEBSITE",
     "url": "https://kitsunealchemy.com/"
+  },
+  {
+    "id": 15207,
+    "creator_id": 852,
+    "type": "URL_COMMISSIONS",
+    "url": "https://trello.com/b/5qIFIZEp/candygutzsuits"
+  },
+  {
+    "id": 15208,
+    "creator_id": 852,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/candy.gutz.suits/"
+  },
+  {
+    "id": 15212,
+    "creator_id": 852,
+    "type": "URL_DONATIONS",
+    "url": "https://ko-fi.com/candygutz"
+  },
+  {
+    "id": 15209,
+    "creator_id": 852,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/CelestialStarsx/"
+  },
+  {
+    "id": 15210,
+    "creator_id": 852,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/candy.gutz.suits/"
+  },
+  {
+    "id": 15211,
+    "creator_id": 852,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/5qIFIZEp/candygutzsuits"
+  },
+  {
+    "id": 15214,
+    "creator_id": 853,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/aminutetillmidnight"
+  },
+  {
+    "id": 15213,
+    "creator_id": 853,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/a_minutetill_midnight/"
   }
 ]
