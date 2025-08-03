@@ -79236,70 +79236,16 @@
     "value": "2023-01-15 13:31:35"
   },
   {
+    "id": 21968,
+    "creator_id": 597,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-08-02 09:49:24"
+  },
+  {
     "id": 2109,
     "creator_id": 597,
     "field_name": "DOES_NSFW",
     "value": "True"
-  },
-  {
-    "id": 3862,
-    "creator_id": 597,
-    "field_name": "FEATURES",
-    "value": "Adjustable eyebrows"
-  },
-  {
-    "id": 3863,
-    "creator_id": 597,
-    "field_name": "FEATURES",
-    "value": "Adjustable/wiggle ears"
-  },
-  {
-    "id": 3864,
-    "creator_id": 597,
-    "field_name": "FEATURES",
-    "value": "Attached tail"
-  },
-  {
-    "id": 3865,
-    "creator_id": 597,
-    "field_name": "FEATURES",
-    "value": "Exchangeable hairs"
-  },
-  {
-    "id": 3866,
-    "creator_id": 597,
-    "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
-  },
-  {
-    "id": 3867,
-    "creator_id": 597,
-    "field_name": "FEATURES",
-    "value": "Follow-me eyes"
-  },
-  {
-    "id": 3868,
-    "creator_id": 597,
-    "field_name": "FEATURES",
-    "value": "Indoor feet"
-  },
-  {
-    "id": 3869,
-    "creator_id": 597,
-    "field_name": "FEATURES",
-    "value": "Outdoor feet"
-  },
-  {
-    "id": 3870,
-    "creator_id": 597,
-    "field_name": "FEATURES",
-    "value": "Removable eyelids"
-  },
-  {
-    "id": 3871,
-    "creator_id": 597,
-    "field_name": "FEATURES",
-    "value": "Removable horns/antlers"
   },
   {
     "id": 3859,
@@ -79318,96 +79264,6 @@
     "creator_id": 597,
     "field_name": "NSFW_WEBSITE",
     "value": "False"
-  },
-  {
-    "id": 3872,
-    "creator_id": 597,
-    "field_name": "ORDER_TYPES",
-    "value": "Bodysuits (as parts/separate)"
-  },
-  {
-    "id": 3873,
-    "creator_id": 597,
-    "field_name": "ORDER_TYPES",
-    "value": "Feetpaws (as parts/separate)"
-  },
-  {
-    "id": 3874,
-    "creator_id": 597,
-    "field_name": "ORDER_TYPES",
-    "value": "Full digitigrade"
-  },
-  {
-    "id": 3875,
-    "creator_id": 597,
-    "field_name": "ORDER_TYPES",
-    "value": "Full plantigrade"
-  },
-  {
-    "id": 3876,
-    "creator_id": 597,
-    "field_name": "ORDER_TYPES",
-    "value": "Handpaws (as parts/separate)"
-  },
-  {
-    "id": 3877,
-    "creator_id": 597,
-    "field_name": "ORDER_TYPES",
-    "value": "Head (as parts/separate)"
-  },
-  {
-    "id": 3878,
-    "creator_id": 597,
-    "field_name": "ORDER_TYPES",
-    "value": "Mini partial (head + handpaws + tail)"
-  },
-  {
-    "id": 3879,
-    "creator_id": 597,
-    "field_name": "ORDER_TYPES",
-    "value": "Partial (head + handpaws + tail + feetpaws)"
-  },
-  {
-    "id": 3880,
-    "creator_id": 597,
-    "field_name": "ORDER_TYPES",
-    "value": "Tails (as parts/separate)"
-  },
-  {
-    "id": 3882,
-    "creator_id": 597,
-    "field_name": "OTHER_ORDER_TYPES",
-    "value": "Accessories"
-  },
-  {
-    "id": 3881,
-    "creator_id": 597,
-    "field_name": "OTHER_ORDER_TYPES",
-    "value": "Custom foam bases"
-  },
-  {
-    "id": 3860,
-    "creator_id": 597,
-    "field_name": "PRODUCTION_MODELS",
-    "value": "Artistic liberty commissions"
-  },
-  {
-    "id": 3861,
-    "creator_id": 597,
-    "field_name": "PRODUCTION_MODELS",
-    "value": "Standard commissions"
-  },
-  {
-    "id": 3883,
-    "creator_id": 597,
-    "field_name": "STYLES",
-    "value": "Semi Toony"
-  },
-  {
-    "id": 3884,
-    "creator_id": 597,
-    "field_name": "STYLES",
-    "value": "Toony"
   },
   {
     "id": 2116,
