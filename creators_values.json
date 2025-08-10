@@ -2919,7 +2919,7 @@
     "id": 2694,
     "creator_id": 44,
     "field_name": "DATE_UPDATED",
-    "value": "2023-10-15 18:47:53"
+    "value": "2025-08-08 21:16:23"
   },
   {
     "id": 2698,
@@ -68613,7 +68613,7 @@
     "id": 1713,
     "creator_id": 541,
     "field_name": "DATE_UPDATED",
-    "value": "2025-02-02 10:08:42"
+    "value": "2025-08-08 21:14:54"
   },
   {
     "id": 14616,
@@ -68718,25 +68718,19 @@
     "value": "Tails (as parts/separate)"
   },
   {
-    "id": 20609,
+    "id": 21969,
+    "creator_id": 541,
+    "field_name": "OTHER_FEATURES",
+    "value": "Interchangeable feetpaw soles"
+  },
+  {
+    "id": 20607,
     "creator_id": 541,
     "field_name": "OTHER_ORDER_TYPES",
     "value": "Armsleeves (as parts/separate)"
   },
   {
     "id": 20608,
-    "creator_id": 541,
-    "field_name": "OTHER_ORDER_TYPES",
-    "value": "Full partial (head + handpaws + armsleeves + tail + feetpaws)"
-  },
-  {
-    "id": 20607,
-    "creator_id": 541,
-    "field_name": "OTHER_ORDER_TYPES",
-    "value": "Micro partial (head + tail)"
-  },
-  {
-    "id": 20610,
     "creator_id": 541,
     "field_name": "OTHER_ORDER_TYPES",
     "value": "Wings (as parts/separate)"

@@ -12299,7 +12299,7 @@
     "city": "",
     "payment_plans": "100% upfront\n20% upfront and the rest after the base is done\nMonthly payments",
     "species_does": "Most species",
-    "species_doesnt": "Sergals",
+    "species_doesnt": "Sergals\nBugs",
     "notes": "",
     "contact_allowed": "FEEDBACK",
     "inactive_reason": "",
@@ -12307,7 +12307,7 @@
     "styles_comment": "",
     "order_types_comment": "",
     "features_comment": "",
-    "payment_methods": "Bank transfers\nBLIK\nPayment on Vinted/Etsy",
+    "payment_methods": "Bank transfers\nBLIK\nPayment by vinted",
     "currencies_accepted": "PLN\nEUR",
     "species_comment": ""
   },

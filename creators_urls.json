@@ -1554,10 +1554,10 @@
     "url": "https://donthugcacti.com/"
   },
   {
-    "id": 13015,
+    "id": 15216,
     "creator_id": 44,
     "type": "URL_COMMISSIONS",
-    "url": "https://deliciousdisguises.com/"
+    "url": "https://deliciousdisguises.com/quotes"
   },
   {
     "id": 183,
@@ -35844,6 +35844,12 @@
     "url": "https://www.instagram.com/red_crocodile_creations/"
   },
   {
+    "id": 15218,
+    "creator_id": 805,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/red-crocodile-creations/"
+  },
+  {
     "id": 14529,
     "creator_id": 805,
     "type": "URL_INSTAGRAM",
@@ -38050,6 +38056,12 @@
     "creator_id": 849,
     "type": "URL_FAQ",
     "url": "https://docs.google.com/document/d/1hKqxecJpTxBtQw9MUOmV846JyHibwb5VyM4YWxw5j84/mobilebasic"
+  },
+  {
+    "id": 15217,
+    "creator_id": 849,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/wahsuits/"
   },
   {
     "id": 15166,
