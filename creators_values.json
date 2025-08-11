@@ -113514,6 +113514,12 @@
     "value": "2024-10-20 17:17:01"
   },
   {
+    "id": 21970,
+    "creator_id": 783,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-08-10 13:20:37"
+  },
+  {
     "id": 19678,
     "creator_id": 783,
     "field_name": "DOES_NSFW",
@@ -113631,7 +113637,7 @@
     "id": 19660,
     "creator_id": 783,
     "field_name": "OTHER_STYLES",
-    "value": "Fleece"
+    "value": "Fleece suits, oldschool toon style"
   },
   {
     "id": 19656,
@@ -125199,46 +125205,64 @@
     "id": 21915,
     "creator_id": 850,
     "field_name": "DATE_UPDATED",
-    "value": "2025-07-15 18:47:40"
+    "value": "2025-08-10 13:21:11"
   },
   {
     "id": 21881,
     "creator_id": 850,
     "field_name": "FEATURES",
-    "value": "Exchangeable hairs"
+    "value": "Adjustable/wiggle ears"
   },
   {
     "id": 21882,
     "creator_id": 850,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Exchangeable hairs"
   },
   {
     "id": 21883,
     "creator_id": 850,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 21884,
     "creator_id": 850,
     "field_name": "FEATURES",
-    "value": "Movable jaw"
+    "value": "Follow-me eyes"
   },
   {
     "id": 21885,
     "creator_id": 850,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Indoor feet"
   },
   {
     "id": 21886,
     "creator_id": 850,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "Movable jaw"
   },
   {
     "id": 21887,
+    "creator_id": 850,
+    "field_name": "FEATURES",
+    "value": "Outdoor feet"
+  },
+  {
+    "id": 21971,
+    "creator_id": 850,
+    "field_name": "FEATURES",
+    "value": "Removable blush"
+  },
+  {
+    "id": 21972,
+    "creator_id": 850,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 21973,
     "creator_id": 850,
     "field_name": "FEATURES",
     "value": "Removable horns/antlers"

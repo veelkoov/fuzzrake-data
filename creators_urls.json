@@ -34722,6 +34722,18 @@
     "url": "https://www.youtube.com/@muttsi705"
   },
   {
+    "id": 15225,
+    "creator_id": 783,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/crunchchute.bsky.social"
+  },
+  {
+    "id": 15224,
+    "creator_id": 783,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:crunchchute"
+  },
+  {
     "id": 14257,
     "creator_id": 783,
     "type": "URL_INSTAGRAM",
@@ -34732,12 +34744,6 @@
     "creator_id": 783,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/71OepIIL"
-  },
-  {
-    "id": 14256,
-    "creator_id": 783,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/crunchchute"
   },
   {
     "id": 14260,
@@ -35890,6 +35896,12 @@
     "creator_id": 806,
     "type": "URL_ETSY",
     "url": "https://www.etsy.com/shop/starlightscavern/"
+  },
+  {
+    "id": 15226,
+    "creator_id": 806,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/starlights-cavern/"
   },
   {
     "id": 15197,
