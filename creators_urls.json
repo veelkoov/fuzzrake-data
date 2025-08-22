@@ -24708,22 +24708,28 @@
     "url": "https://bunnypaws.co.uk/"
   },
   {
-    "id": 13205,
+    "id": 15234,
+    "creator_id": 600,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/akohusky.bsky.social"
+  },
+  {
+    "id": 15232,
     "creator_id": 600,
     "type": "URL_COMMISSIONS",
-    "url": "https://www.furaffinity.net/user/akohusky/"
+    "url": "https://bsky.app/profile/akohusky.bsky.social"
+  },
+  {
+    "id": 15233,
+    "creator_id": 600,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/user/AkoHusky"
   },
   {
     "id": 13206,
     "creator_id": 600,
     "type": "URL_FUR_AFFINITY",
     "url": "https://www.furaffinity.net/user/akohusky/"
-  },
-  {
-    "id": 12565,
-    "creator_id": 600,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/akohusky/"
   },
   {
     "id": 12566,
@@ -24736,12 +24742,6 @@
     "creator_id": 600,
     "type": "URL_MINIATURES",
     "url": "https://storage.scritch.es/scritch/298c11160c7dc87b318bc93102a7d3592f905844/thumbnail_19d09eda-278b-4531-9d09-14aacf3873bc.jpeg#r270"
-  },
-  {
-    "id": 13208,
-    "creator_id": 600,
-    "type": "URL_OTHER_SHOP",
-    "url": "https://ko-fi.com/akohusky"
   },
   {
     "id": 11998,
@@ -24772,12 +24772,6 @@
     "creator_id": 600,
     "type": "URL_TUMBLR",
     "url": "https://www.tumblr.com/akohusky"
-  },
-  {
-    "id": 12564,
-    "creator_id": 600,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/AkosLab"
   },
   {
     "id": 11994,
@@ -26796,40 +26790,10 @@
     "url": "https://bloodng0re.carrd.co/"
   },
   {
-    "id": 12458,
+    "id": 15231,
     "creator_id": 644,
-    "type": "URL_FAQ",
-    "url": "https://platinumbladestudios.webador.de/faq"
-  },
-  {
-    "id": 12459,
-    "creator_id": 644,
-    "type": "URL_FUR_AFFINITY",
-    "url": "https://www.furaffinity.net/user/platinumbladestudios/"
-  },
-  {
-    "id": 12460,
-    "creator_id": 644,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/platinumbladestudios/"
-  },
-  {
-    "id": 13784,
-    "creator_id": 644,
-    "type": "URL_OTHER_SHOP",
-    "url": "https://www.kleinanzeigen.de/s-bestandsliste.html?userId=122836296\nhttps://www.ebay.de/usr/platinumbladestudios"
-  },
-  {
-    "id": 12457,
-    "creator_id": 644,
-    "type": "URL_PRICES",
-    "url": "https://platinumbladestudios.webador.de/bestellablauf/preisliste"
-  },
-  {
-    "id": 12456,
-    "creator_id": 644,
-    "type": "URL_WEBSITE",
-    "url": "https://platinumbladestudios.webador.de/"
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/platinumfursuits"
   },
   {
     "id": 12477,
@@ -28726,6 +28690,12 @@
     "creator_id": 672,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/m1OgW6hx/fursuit-queue"
+  },
+  {
+    "id": 15230,
+    "creator_id": 672,
+    "type": "URL_TUMBLR",
+    "url": "https://bubblegums-bakery.tumblr.com/"
   },
   {
     "id": 12849,
@@ -36300,10 +36270,10 @@
     "url": "https://scritch.es/pictures/d2a316f9-05d4-4d7d-bd45-884047d1054e"
   },
   {
-    "id": 14618,
+    "id": 15228,
     "creator_id": 812,
     "type": "URL_PRICES",
-    "url": "https://puffsworkshop.wixsite.com/puff-s-fluffy-creati/pricing"
+    "url": "https://puffsworkshop.wixsite.com/tailsandthreads"
   },
   {
     "id": 14626,
@@ -36336,16 +36306,16 @@
     "url": "https://twitter.com/Puffs_creations"
   },
   {
-    "id": 14617,
+    "id": 15227,
     "creator_id": 812,
     "type": "URL_WEBSITE",
-    "url": "https://puffsworkshop.wixsite.com/puff-s-fluffy-creati"
+    "url": "https://puffsworkshop.wixsite.com/tailsandthreads"
   },
   {
-    "id": 14622,
+    "id": 15229,
     "creator_id": 812,
     "type": "URL_YOUTUBE",
-    "url": "https://www.youtube.com/@PuffsFluffyCreations"
+    "url": "https://www.youtube.com/@TailsAndThreadsByRio"
   },
   {
     "id": 14648,

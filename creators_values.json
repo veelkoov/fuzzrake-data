@@ -79659,7 +79659,7 @@
     "id": 2433,
     "creator_id": 600,
     "field_name": "DATE_UPDATED",
-    "value": "2024-02-07 18:43:46"
+    "value": "2025-08-21 19:47:50"
   },
   {
     "id": 2131,
@@ -79702,6 +79702,12 @@
     "creator_id": 600,
     "field_name": "FEATURES",
     "value": "Removable eyelids"
+  },
+  {
+    "id": 21985,
+    "creator_id": 600,
+    "field_name": "FEATURES",
+    "value": "Washable heads"
   },
   {
     "id": 3714,
@@ -79761,13 +79767,13 @@
     "id": 3724,
     "creator_id": 600,
     "field_name": "OTHER_FEATURES",
-    "value": "Pickable noses"
+    "value": "Pickable nose"
   },
   {
     "id": 3723,
     "creator_id": 600,
     "field_name": "OTHER_FEATURES",
-    "value": "Sandals for indoor feet paws"
+    "value": "Removeable indoor foot paw pad"
   },
   {
     "id": 3732,
@@ -79791,10 +79797,16 @@
     "id": 3715,
     "creator_id": 600,
     "field_name": "PRODUCTION_MODELS",
-    "value": "Premades"
+    "value": "Artistic liberty commissions"
   },
   {
     "id": 3716,
+    "creator_id": 600,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Premades"
+  },
+  {
+    "id": 21984,
     "creator_id": 600,
     "field_name": "PRODUCTION_MODELS",
     "value": "Standard commissions"
@@ -87639,13 +87651,13 @@
     "id": 3079,
     "creator_id": 644,
     "field_name": "DATE_UPDATED",
-    "value": "2024-07-28 15:04:55"
+    "value": "2025-08-21 19:46:03"
   },
   {
     "id": 2432,
     "creator_id": 644,
     "field_name": "DOES_NSFW",
-    "value": "True"
+    "value": "False"
   },
   {
     "id": 13668,
@@ -87657,19 +87669,31 @@
     "id": 13669,
     "creator_id": 644,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Exchangeable hairs"
   },
   {
     "id": 13670,
     "creator_id": 644,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 13671,
     "creator_id": 644,
     "field_name": "FEATURES",
+    "value": "Follow-me eyes"
+  },
+  {
+    "id": 21980,
+    "creator_id": 644,
+    "field_name": "FEATURES",
     "value": "Removable eyelids"
+  },
+  {
+    "id": 21981,
+    "creator_id": 644,
+    "field_name": "FEATURES",
+    "value": "Washable heads"
   },
   {
     "id": 13664,
@@ -87699,31 +87723,13 @@
     "id": 13678,
     "creator_id": 644,
     "field_name": "ORDER_TYPES",
-    "value": "Feetpaws (as parts/separate)"
+    "value": "Head (as parts/separate)"
   },
   {
     "id": 13679,
     "creator_id": 644,
     "field_name": "ORDER_TYPES",
-    "value": "Handpaws (as parts/separate)"
-  },
-  {
-    "id": 13680,
-    "creator_id": 644,
-    "field_name": "ORDER_TYPES",
-    "value": "Head (as parts/separate)"
-  },
-  {
-    "id": 13681,
-    "creator_id": 644,
-    "field_name": "ORDER_TYPES",
     "value": "Mini partial (head + handpaws + tail)"
-  },
-  {
-    "id": 13682,
-    "creator_id": 644,
-    "field_name": "ORDER_TYPES",
-    "value": "Tails (as parts/separate)"
   },
   {
     "id": 13672,
@@ -87738,12 +87744,6 @@
     "value": "Pickable nose"
   },
   {
-    "id": 13677,
-    "creator_id": 644,
-    "field_name": "OTHER_FEATURES",
-    "value": "adult size"
-  },
-  {
     "id": 13673,
     "creator_id": 644,
     "field_name": "OTHER_FEATURES",
@@ -87753,7 +87753,7 @@
     "id": 13676,
     "creator_id": 644,
     "field_name": "OTHER_FEATURES",
-    "value": "kids size"
+    "value": "kids or adult size"
   },
   {
     "id": 13675,
@@ -87765,37 +87765,13 @@
     "id": 13683,
     "creator_id": 644,
     "field_name": "OTHER_ORDER_TYPES",
-    "value": "Cosplay ears"
-  },
-  {
-    "id": 13687,
-    "creator_id": 644,
-    "field_name": "OTHER_ORDER_TYPES",
-    "value": "Head bases"
+    "value": "Maker supplies (patterns, licenses, kits, etc.)"
   },
   {
     "id": 13684,
     "creator_id": 644,
     "field_name": "OTHER_ORDER_TYPES",
-    "value": "Illustration"
-  },
-  {
-    "id": 13685,
-    "creator_id": 644,
-    "field_name": "OTHER_ORDER_TYPES",
-    "value": "Patterns"
-  },
-  {
-    "id": 13686,
-    "creator_id": 644,
-    "field_name": "OTHER_ORDER_TYPES",
-    "value": "bandanas"
-  },
-  {
-    "id": 13688,
-    "creator_id": 644,
-    "field_name": "OTHER_ORDER_TYPES",
-    "value": "eye sockets and printed mesh"
+    "value": "rentals"
   },
   {
     "id": 13693,
@@ -87819,25 +87795,19 @@
     "id": 13689,
     "creator_id": 644,
     "field_name": "STYLES",
-    "value": "Anime"
+    "value": "Semi Toony"
   },
   {
     "id": 13690,
     "creator_id": 644,
     "field_name": "STYLES",
-    "value": "Semi Realistic"
-  },
-  {
-    "id": 13691,
-    "creator_id": 644,
-    "field_name": "STYLES",
-    "value": "Semi Toony"
-  },
-  {
-    "id": 13692,
-    "creator_id": 644,
-    "field_name": "STYLES",
     "value": "Toony"
+  },
+  {
+    "id": 21982,
+    "creator_id": 644,
+    "field_name": "WORKS_WITH_MINORS",
+    "value": "True"
   },
   {
     "id": 2442,
@@ -93114,6 +93084,12 @@
     "value": "2023-09-27 19:05:07"
   },
   {
+    "id": 21978,
+    "creator_id": 672,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-08-19 18:59:44"
+  },
+  {
     "id": 2616,
     "creator_id": 672,
     "field_name": "DOES_NSFW",
@@ -93160,6 +93136,12 @@
     "creator_id": 672,
     "field_name": "FEATURES",
     "value": "Removable eyelids"
+  },
+  {
+    "id": 21979,
+    "creator_id": 672,
+    "field_name": "FEATURES",
+    "value": "Washable heads"
   },
   {
     "id": 5029,
@@ -118497,7 +118479,7 @@
     "id": 20630,
     "creator_id": 812,
     "field_name": "AGES",
-    "value": "MINORS"
+    "value": "ADULTS"
   },
   {
     "id": 20613,
@@ -118509,7 +118491,13 @@
     "id": 21355,
     "creator_id": 812,
     "field_name": "DATE_UPDATED",
-    "value": "2025-05-09 15:56:22"
+    "value": "2025-08-17 16:33:44"
+  },
+  {
+    "id": 21977,
+    "creator_id": 812,
+    "field_name": "DOES_NSFW",
+    "value": "False"
   },
   {
     "id": 20625,
@@ -120015,7 +120003,7 @@
     "id": 20905,
     "creator_id": 820,
     "field_name": "DATE_UPDATED",
-    "value": "2025-03-09 18:25:09"
+    "value": "2025-08-15 16:51:03"
   },
   {
     "id": 20894,
@@ -120072,6 +120060,12 @@
     "value": "Removable horns/antlers"
   },
   {
+    "id": 21974,
+    "creator_id": 820,
+    "field_name": "FEATURES",
+    "value": "Washable heads"
+  },
+  {
     "id": 20867,
     "creator_id": 820,
     "field_name": "LANGUAGES",
@@ -120126,10 +120120,22 @@
     "value": "Tails (as parts/separate)"
   },
   {
+    "id": 21976,
+    "creator_id": 820,
+    "field_name": "OTHER_FEATURES",
+    "value": "Disability/sensory accommodations"
+  },
+  {
     "id": 20888,
     "creator_id": 820,
     "field_name": "OTHER_FEATURES",
-    "value": "Changeable feetpaw soles"
+    "value": "Exchangeable 2d & 3d eyes"
+  },
+  {
+    "id": 20889,
+    "creator_id": 820,
+    "field_name": "OTHER_FEATURES",
+    "value": "Exchangeable feetpaw soles"
   },
   {
     "id": 20887,
@@ -120138,13 +120144,13 @@
     "value": "Removable eyes"
   },
   {
-    "id": 20890,
+    "id": 21975,
     "creator_id": 820,
     "field_name": "OTHER_FEATURES",
     "value": "Zipper attached feetpaws"
   },
   {
-    "id": 20889,
+    "id": 20890,
     "creator_id": 820,
     "field_name": "OTHER_FEATURES",
     "value": "Zipper attached tail"
@@ -125608,6 +125614,12 @@
     "creator_id": 853,
     "field_name": "DATE_ADDED",
     "value": "2025-07-29 17:56:52"
+  },
+  {
+    "id": 21983,
+    "creator_id": 853,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-08-21 19:46:44"
   },
   {
     "id": 21957,
