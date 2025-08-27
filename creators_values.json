@@ -104283,13 +104283,25 @@
     "id": 3026,
     "creator_id": 729,
     "field_name": "AGES",
-    "value": "MINORS"
+    "value": "ADULTS"
   },
   {
     "id": 3025,
     "creator_id": 729,
     "field_name": "DATE_ADDED",
     "value": "2024-06-23 17:16:31"
+  },
+  {
+    "id": 21986,
+    "creator_id": 729,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-08-26 18:07:33"
+  },
+  {
+    "id": 21990,
+    "creator_id": 729,
+    "field_name": "DOES_NSFW",
+    "value": "False"
   },
   {
     "id": 5880,
@@ -104331,10 +104343,16 @@
     "id": 5886,
     "creator_id": 729,
     "field_name": "FEATURES",
-    "value": "Removable horns/antlers"
+    "value": "Removable eyelids"
   },
   {
     "id": 5887,
+    "creator_id": 729,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
+  },
+  {
+    "id": 21989,
     "creator_id": 729,
     "field_name": "FEATURES",
     "value": "Washable heads"
@@ -104367,22 +104385,34 @@
     "id": 5888,
     "creator_id": 729,
     "field_name": "ORDER_TYPES",
-    "value": "Handpaws (as parts/separate)"
+    "value": "Feetpaws (as parts/separate)"
   },
   {
     "id": 5889,
     "creator_id": 729,
     "field_name": "ORDER_TYPES",
-    "value": "Head (as parts/separate)"
+    "value": "Handpaws (as parts/separate)"
   },
   {
     "id": 5890,
     "creator_id": 729,
     "field_name": "ORDER_TYPES",
-    "value": "Mini partial (head + handpaws + tail)"
+    "value": "Head (as parts/separate)"
   },
   {
     "id": 5891,
+    "creator_id": 729,
+    "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 21987,
+    "creator_id": 729,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 21988,
     "creator_id": 729,
     "field_name": "ORDER_TYPES",
     "value": "Tails (as parts/separate)"
@@ -104407,12 +104437,6 @@
   },
   {
     "id": 5892,
-    "creator_id": 729,
-    "field_name": "STYLES",
-    "value": "Semi Toony"
-  },
-  {
-    "id": 5893,
     "creator_id": 729,
     "field_name": "STYLES",
     "value": "Toony"
