@@ -14076,12 +14076,6 @@
     "url": "https://www.furtrack.com/p/65"
   },
   {
-    "id": 9382,
-    "creator_id": 391,
-    "type": "URL_PRICES",
-    "url": "https://transfurence.carrd.co/#comm"
-  },
-  {
     "id": 9388,
     "creator_id": 391,
     "type": "URL_QUEUE",
@@ -14092,18 +14086,6 @@
     "creator_id": 391,
     "type": "URL_TWITTER",
     "url": "https://twitter.com/transfurence"
-  },
-  {
-    "id": 9381,
-    "creator_id": 391,
-    "type": "URL_WEBSITE",
-    "url": "https://transfurence.carrd.co/"
-  },
-  {
-    "id": 9387,
-    "creator_id": 391,
-    "type": "URL_YOUTUBE",
-    "url": "https://www.youtube.com/channel/UCLrDfzEvf0Fa9pwRqzZzIVA"
   },
   {
     "id": 9398,
@@ -23754,42 +23736,6 @@
     "url": "https://twitter.com/ConeYote"
   },
   {
-    "id": 11758,
-    "creator_id": 581,
-    "type": "URL_COMMISSIONS",
-    "url": "https://sites.google.com/view/copper-works/queue"
-  },
-  {
-    "id": 11757,
-    "creator_id": 581,
-    "type": "URL_COMMISSIONS",
-    "url": "https://www.instagram.com/paws.n.needles.pro/"
-  },
-  {
-    "id": 11759,
-    "creator_id": 581,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/paws.n.needles.pro/"
-  },
-  {
-    "id": 11756,
-    "creator_id": 581,
-    "type": "URL_PRICES",
-    "url": "https://sites.google.com/view/copper-works/price-guide"
-  },
-  {
-    "id": 11760,
-    "creator_id": 581,
-    "type": "URL_QUEUE",
-    "url": "https://sites.google.com/view/copper-works/queue"
-  },
-  {
-    "id": 11755,
-    "creator_id": 581,
-    "type": "URL_WEBSITE",
-    "url": "https://sites.google.com/view/copper-works/home"
-  },
-  {
     "id": 11768,
     "creator_id": 582,
     "type": "URL_COMMISSIONS",
@@ -26952,12 +26898,6 @@
     "url": "https://twitter.com/fruiteafursuits"
   },
   {
-    "id": 12496,
-    "creator_id": 647,
-    "type": "URL_COMMISSIONS",
-    "url": "https://www.hivefursuits.com/commissions"
-  },
-  {
     "id": 12498,
     "creator_id": 647,
     "type": "URL_FACEBOOK",
@@ -27042,12 +26982,6 @@
     "url": "https://scritch.es/pictures/f2ace6df-5058-43fc-9377-cbbaedc3ea9b"
   },
   {
-    "id": 12495,
-    "creator_id": 647,
-    "type": "URL_PRICES",
-    "url": "https://www.hivefursuits.com/pricing"
-  },
-  {
     "id": 12503,
     "creator_id": 647,
     "type": "URL_QUEUE",
@@ -27070,12 +27004,6 @@
     "creator_id": 647,
     "type": "URL_TWITTER",
     "url": "https://twitter.com/hivefursuits"
-  },
-  {
-    "id": 12494,
-    "creator_id": 647,
-    "type": "URL_WEBSITE",
-    "url": "https://www.hivefursuits.com/"
   },
   {
     "id": 12500,
@@ -31588,12 +31516,6 @@
     "creator_id": 729,
     "type": "URL_TELEGRAM_CHANNEL",
     "url": "https://t.me/claws_n_roses"
-  },
-  {
-    "id": 13652,
-    "creator_id": 729,
-    "type": "URL_TUMBLR",
-    "url": "https://www.tumblr.com/blog/shiriqi0"
   },
   {
     "id": 13649,
