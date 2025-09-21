@@ -12768,10 +12768,22 @@
     "url": "https://fursuitreview.com/m/79th-element/"
   },
   {
+    "id": 15317,
+    "creator_id": 368,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/thegothbear.bsky.social"
+  },
+  {
     "id": 13098,
     "creator_id": 368,
     "type": "URL_COMMISSIONS",
     "url": "https://gothbear.carrd.co/"
+  },
+  {
+    "id": 15314,
+    "creator_id": 368,
+    "type": "URL_ETSY",
+    "url": "https://thegothbear.etsy.com/"
   },
   {
     "id": 13095,
@@ -12780,10 +12792,10 @@
     "url": "https://fursuitreview.com/m/the-goth-bear/"
   },
   {
-    "id": 9682,
+    "id": 15316,
     "creator_id": 368,
-    "type": "URL_FUR_AFFINITY",
-    "url": "https://www.furaffinity.net/user/saltyseasadness/"
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:thegothbear"
   },
   {
     "id": 13100,
@@ -12804,6 +12816,24 @@
     "url": "https://trello.com/b/QkdlOLY7/tgb-queue"
   },
   {
+    "id": 15318,
+    "creator_id": 368,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/gothbear"
+  },
+  {
+    "id": 15315,
+    "creator_id": 368,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/store/the-goth-bear"
+  },
+  {
+    "id": 15319,
+    "creator_id": 368,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@thegothbear"
+  },
+  {
     "id": 13099,
     "creator_id": 368,
     "type": "URL_TWITTER",
@@ -12814,6 +12844,12 @@
     "creator_id": 368,
     "type": "URL_WEBSITE",
     "url": "https://gothbear.carrd.co/"
+  },
+  {
+    "id": 15313,
+    "creator_id": 368,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@agothbear"
   },
   {
     "id": 9191,
@@ -26658,6 +26694,12 @@
     "url": "https://trello.com/b/fCKUZnfh/fursuit-progress"
   },
   {
+    "id": 15312,
+    "creator_id": 642,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/gkcupdates"
+  },
+  {
     "id": 13279,
     "creator_id": 642,
     "type": "URL_THE_DEALERS_DEN",
@@ -31450,6 +31492,12 @@
     "creator_id": 727,
     "type": "URL_THE_DEALERS_DEN",
     "url": "https://www.thedealersden.com/store/hellbeast-creations"
+  },
+  {
+    "id": 15308,
+    "creator_id": 727,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@hellbeast_creations"
   },
   {
     "id": 13635,
@@ -36426,12 +36474,6 @@
     "url": "https://t.me/snowfallwarningcreations"
   },
   {
-    "id": 14653,
-    "creator_id": 814,
-    "type": "URL_TUMBLR",
-    "url": "https://www.tumblr.com/bigjimbopickens"
-  },
-  {
     "id": 14650,
     "creator_id": 814,
     "type": "URL_WEBSITE",
@@ -38424,10 +38466,10 @@
     "url": "https://bsky.app/profile/crashh-ed.bsky.social"
   },
   {
-    "id": 15298,
+    "id": 15311,
     "creator_id": 858,
     "type": "URL_COMMISSIONS",
-    "url": "https://www.instagram.com/crashlandsuits/"
+    "url": "https://crash235landing.wixsite.com/crashlandingfursuits"
   },
   {
     "id": 15305,
@@ -38454,6 +38496,12 @@
     "url": "https://www.instagram.com/crashlandsuits/"
   },
   {
+    "id": 15310,
+    "creator_id": 858,
+    "type": "URL_PRICES",
+    "url": "https://crash235landing.wixsite.com/crashlandingfursuits"
+  },
+  {
     "id": 15302,
     "creator_id": 858,
     "type": "URL_QUEUE",
@@ -38470,5 +38518,167 @@
     "creator_id": 858,
     "type": "URL_TIKTOK",
     "url": "https://www.tiktok.com/@crashbbandicoot"
+  },
+  {
+    "id": 15309,
+    "creator_id": 858,
+    "type": "URL_WEBSITE",
+    "url": "https://crash235landing.wixsite.com/crashlandingfursuits"
+  },
+  {
+    "id": 15328,
+    "creator_id": 859,
+    "type": "URL_DONATIONS",
+    "url": "https://ko-fi.com/kaiyuwolf"
+  },
+  {
+    "id": 15326,
+    "creator_id": 859,
+    "type": "URL_ETSY",
+    "url": "https://kaiyuwolfart.etsy.com/"
+  },
+  {
+    "id": 15322,
+    "creator_id": 859,
+    "type": "URL_FAQ",
+    "url": "https://kaiyuwolf.wixsite.com/kaiyuwolf/faq"
+  },
+  {
+    "id": 15324,
+    "creator_id": 859,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/kaiyuwolf/"
+  },
+  {
+    "id": 15321,
+    "creator_id": 859,
+    "type": "URL_PRICES",
+    "url": "https://kaiyuwolf.wixsite.com/kaiyuwolf/pricing"
+  },
+  {
+    "id": 15327,
+    "creator_id": 859,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/0Ztu76Ty/kaiyu-wolf-art-projects"
+  },
+  {
+    "id": 15329,
+    "creator_id": 859,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/kaiyuwolfart"
+  },
+  {
+    "id": 15330,
+    "creator_id": 859,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@kaiyuwolf"
+  },
+  {
+    "id": 15323,
+    "creator_id": 859,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/KaiyuWolf"
+  },
+  {
+    "id": 15320,
+    "creator_id": 859,
+    "type": "URL_WEBSITE",
+    "url": "https://kaiyuwolf.wixsite.com/kaiyuwolf"
+  },
+  {
+    "id": 15325,
+    "creator_id": 859,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@kaiyuwolf"
+  },
+  {
+    "id": 15333,
+    "creator_id": 860,
+    "type": "URL_COMMISSIONS",
+    "url": "https://alpharatnests.ca/"
+  },
+  {
+    "id": 15343,
+    "creator_id": 860,
+    "type": "URL_DONATIONS",
+    "url": "https://ko-fi.com/pyree"
+  },
+  {
+    "id": 15338,
+    "creator_id": 860,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:alpharat"
+  },
+  {
+    "id": 15334,
+    "creator_id": 860,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/alpharatnests/"
+  },
+  {
+    "id": 15335,
+    "creator_id": 860,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/alpharat"
+  },
+  {
+    "id": 15336,
+    "creator_id": 860,
+    "type": "URL_OTHER_SHOP",
+    "url": "https://ko-fi.com/pyree/shop"
+  },
+  {
+    "id": 15342,
+    "creator_id": 860,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1108324"
+  },
+  {
+    "id": 15340,
+    "creator_id": 860,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1409465"
+  },
+  {
+    "id": 15341,
+    "creator_id": 860,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1409468"
+  },
+  {
+    "id": 15339,
+    "creator_id": 860,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/791765"
+  },
+  {
+    "id": 15332,
+    "creator_id": 860,
+    "type": "URL_PRICES",
+    "url": "https://alpharatnests.ca/#pricing"
+  },
+  {
+    "id": 15337,
+    "creator_id": 860,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/vDxAiLW1/alpharatnests"
+  },
+  {
+    "id": 15344,
+    "creator_id": 860,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/alpharats"
+  },
+  {
+    "id": 15345,
+    "creator_id": 860,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@alpharatnests"
+  },
+  {
+    "id": 15331,
+    "creator_id": 860,
+    "type": "URL_WEBSITE",
+    "url": "https://alpharatnests.ca/"
   }
 ]
