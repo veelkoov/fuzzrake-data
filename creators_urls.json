@@ -31398,10 +31398,22 @@
     "url": "https://www.tiktok.com/@weaver_owl"
   },
   {
+    "id": 15346,
+    "creator_id": 727,
+    "type": "URL_COMMISSIONS",
+    "url": "https://hellbeastcreations.carrd.co/"
+  },
+  {
     "id": 13639,
     "creator_id": 727,
     "type": "URL_ETSY",
     "url": "https://www.etsy.com/shop/HellBeastCreations"
+  },
+  {
+    "id": 15347,
+    "creator_id": 727,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:hellbeast_creations"
   },
   {
     "id": 13637,
@@ -31414,6 +31426,30 @@
     "creator_id": 727,
     "type": "URL_LINKLIST",
     "url": "https://linktr.ee/HellBeastCreations"
+  },
+  {
+    "id": 15350,
+    "creator_id": 727,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1412856.jpg"
+  },
+  {
+    "id": 15351,
+    "creator_id": 727,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1412858.jpg"
+  },
+  {
+    "id": 15348,
+    "creator_id": 727,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1412856"
+  },
+  {
+    "id": 15349,
+    "creator_id": 727,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1412858"
   },
   {
     "id": 13636,
