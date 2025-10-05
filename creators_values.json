@@ -32166,10 +32166,16 @@
     "value": "ADULTS"
   },
   {
+    "id": 22242,
+    "creator_id": 323,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-10-01 18:23:30"
+  },
+  {
     "id": 1201,
     "creator_id": 323,
     "field_name": "DOES_NSFW",
-    "value": "False"
+    "value": "True"
   },
   {
     "id": 10358,
@@ -32355,7 +32361,7 @@
     "id": 918,
     "creator_id": 323,
     "field_name": "WORKS_WITH_MINORS",
-    "value": "True"
+    "value": "False"
   },
   {
     "id": 3205,
@@ -43680,6 +43686,12 @@
     "value": "ADULTS"
   },
   {
+    "id": 22251,
+    "creator_id": 405,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-10-05 08:16:13"
+  },
+  {
     "id": 1359,
     "creator_id": 405,
     "field_name": "DOES_NSFW",
@@ -43827,7 +43839,7 @@
     "id": 15303,
     "creator_id": 405,
     "field_name": "OTHER_FEATURES",
-    "value": "Fir for glasses"
+    "value": "Fit for glasses"
   },
   {
     "id": 15307,
@@ -43863,31 +43875,25 @@
     "id": 15314,
     "creator_id": 405,
     "field_name": "STYLES",
-    "value": "Anime"
+    "value": "Realistic"
   },
   {
     "id": 15315,
     "creator_id": 405,
     "field_name": "STYLES",
-    "value": "Kigurumi"
+    "value": "Semi Realistic"
   },
   {
     "id": 15316,
     "creator_id": 405,
     "field_name": "STYLES",
-    "value": "Realistic"
+    "value": "Semi Toony"
   },
   {
     "id": 15317,
     "creator_id": 405,
     "field_name": "STYLES",
-    "value": "Semi Realistic"
-  },
-  {
-    "id": 15318,
-    "creator_id": 405,
-    "field_name": "STYLES",
-    "value": "Semi Toony"
+    "value": "Toony"
   },
   {
     "id": 2952,
@@ -74841,7 +74847,7 @@
     "id": 2534,
     "creator_id": 575,
     "field_name": "DATE_UPDATED",
-    "value": "2023-08-20 19:38:31"
+    "value": "2025-09-25 19:25:26"
   },
   {
     "id": 1932,
@@ -75165,7 +75171,7 @@
     "id": 2068,
     "creator_id": 577,
     "field_name": "DATE_UPDATED",
-    "value": "2025-02-28 19:48:32"
+    "value": "2025-10-01 18:26:06"
   },
   {
     "id": 1944,
@@ -75457,6 +75463,18 @@
   },
   {
     "id": 14182,
+    "creator_id": 577,
+    "field_name": "STYLES",
+    "value": "Realistic"
+  },
+  {
+    "id": 22243,
+    "creator_id": 577,
+    "field_name": "STYLES",
+    "value": "Semi Toony"
+  },
+  {
+    "id": 22244,
     "creator_id": 577,
     "field_name": "STYLES",
     "value": "Toony"
@@ -112737,7 +112755,7 @@
     "id": 21756,
     "creator_id": 777,
     "field_name": "DATE_UPDATED",
-    "value": "2025-07-06 20:17:39"
+    "value": "2025-10-05 08:07:57"
   },
   {
     "id": 3323,
@@ -112782,6 +112800,12 @@
     "value": "Removable eyelids"
   },
   {
+    "id": 22246,
+    "creator_id": 777,
+    "field_name": "FEATURES",
+    "value": "Washable heads"
+  },
+  {
     "id": 11490,
     "creator_id": 777,
     "field_name": "LANGUAGES",
@@ -112797,13 +112821,13 @@
     "id": 3322,
     "creator_id": 777,
     "field_name": "NSFW_SOCIAL",
-    "value": "False"
+    "value": "True"
   },
   {
     "id": 3321,
     "creator_id": 777,
     "field_name": "NSFW_WEBSITE",
-    "value": "False"
+    "value": "True"
   },
   {
     "id": 11504,
@@ -112845,7 +112869,7 @@
     "id": 21758,
     "creator_id": 777,
     "field_name": "OTHER_FEATURES",
-    "value": "3D printed TPU headbases"
+    "value": "3D printed TPU headbases (custom models on request)"
   },
   {
     "id": 11503,
@@ -112866,6 +112890,12 @@
     "value": "Fans"
   },
   {
+    "id": 22249,
+    "creator_id": 777,
+    "field_name": "OTHER_FEATURES",
+    "value": "Handpainted eyes"
+  },
+  {
     "id": 21759,
     "creator_id": 777,
     "field_name": "OTHER_FEATURES",
@@ -112878,6 +112908,12 @@
     "value": "NFC tags"
   },
   {
+    "id": 22250,
+    "creator_id": 777,
+    "field_name": "OTHER_FEATURES",
+    "value": "Other little details and quirks on request"
+  },
+  {
     "id": 11500,
     "creator_id": 777,
     "field_name": "OTHER_FEATURES",
@@ -112888,6 +112924,24 @@
     "creator_id": 777,
     "field_name": "OTHER_FEATURES",
     "value": "Plush claws"
+  },
+  {
+    "id": 22247,
+    "creator_id": 777,
+    "field_name": "OTHER_FEATURES",
+    "value": "Squeakers"
+  },
+  {
+    "id": 22248,
+    "creator_id": 777,
+    "field_name": "OTHER_FEATURES",
+    "value": "Washable heads (except for the eyes!)"
+  },
+  {
+    "id": 22245,
+    "creator_id": 777,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "I do bodysuits / fullsuits if you can come in for fittings and adjustments in person."
   },
   {
     "id": 11492,
@@ -127238,6 +127292,156 @@
   {
     "id": 22228,
     "creator_id": 860,
+    "field_name": "STYLES",
+    "value": "Toony"
+  },
+  {
+    "id": 22263,
+    "creator_id": 861,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 22252,
+    "creator_id": 861,
+    "field_name": "DATE_ADDED",
+    "value": "2025-10-05 08:27:03"
+  },
+  {
+    "id": 22266,
+    "creator_id": 861,
+    "field_name": "DOES_NSFW",
+    "value": "False"
+  },
+  {
+    "id": 22260,
+    "creator_id": 861,
+    "field_name": "FEATURES",
+    "value": "Attached tail"
+  },
+  {
+    "id": 22261,
+    "creator_id": 861,
+    "field_name": "FEATURES",
+    "value": "Exchangeable hairs"
+  },
+  {
+    "id": 22253,
+    "creator_id": 861,
+    "field_name": "LANGUAGES",
+    "value": "English"
+  },
+  {
+    "id": 22265,
+    "creator_id": 861,
+    "field_name": "NSFW_SOCIAL",
+    "value": "True"
+  },
+  {
+    "id": 22264,
+    "creator_id": 861,
+    "field_name": "NSFW_WEBSITE",
+    "value": "True"
+  },
+  {
+    "id": 22258,
+    "creator_id": 861,
+    "field_name": "ORDER_TYPES",
+    "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 22262,
+    "creator_id": 861,
+    "field_name": "OTHER_FEATURES",
+    "value": "The waggy tails are made with silicone and react to body movement"
+  },
+  {
+    "id": 22259,
+    "creator_id": 861,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Silicone tail cores along with fur sleeves"
+  },
+  {
+    "id": 22254,
+    "creator_id": 861,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Artistic liberty commissions"
+  },
+  {
+    "id": 22255,
+    "creator_id": 861,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Premades"
+  },
+  {
+    "id": 22256,
+    "creator_id": 861,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Standard commissions"
+  },
+  {
+    "id": 22257,
+    "creator_id": 861,
+    "field_name": "STYLES",
+    "value": "Realistic"
+  },
+  {
+    "id": 22273,
+    "creator_id": 862,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 22267,
+    "creator_id": 862,
+    "field_name": "DATE_ADDED",
+    "value": "2025-10-05 08:35:41"
+  },
+  {
+    "id": 22276,
+    "creator_id": 862,
+    "field_name": "DOES_NSFW",
+    "value": "False"
+  },
+  {
+    "id": 22268,
+    "creator_id": 862,
+    "field_name": "LANGUAGES",
+    "value": "English"
+  },
+  {
+    "id": 22275,
+    "creator_id": 862,
+    "field_name": "NSFW_SOCIAL",
+    "value": "True"
+  },
+  {
+    "id": 22274,
+    "creator_id": 862,
+    "field_name": "NSFW_WEBSITE",
+    "value": "True"
+  },
+  {
+    "id": 22269,
+    "creator_id": 862,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Premades"
+  },
+  {
+    "id": 22270,
+    "creator_id": 862,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Standard commissions"
+  },
+  {
+    "id": 22271,
+    "creator_id": 862,
+    "field_name": "STYLES",
+    "value": "Semi Toony"
+  },
+  {
+    "id": 22272,
+    "creator_id": 862,
     "field_name": "STYLES",
     "value": "Toony"
   }

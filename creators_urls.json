@@ -11220,6 +11220,12 @@
     "url": "https://www.youtube.com/user/amaterasukitsune"
   },
   {
+    "id": 15361,
+    "creator_id": 323,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/kabber.bsky.social"
+  },
+  {
     "id": 10373,
     "creator_id": 323,
     "type": "URL_COMMISSIONS",
@@ -11230,12 +11236,6 @@
     "creator_id": 323,
     "type": "URL_ETSY",
     "url": "https://www.etsy.com/shop/KabberCreations"
-  },
-  {
-    "id": 10375,
-    "creator_id": 323,
-    "type": "URL_FURRY_AMINO",
-    "url": "https://aminoapps.com/c/furry-amino/page/user/kabber-but-spooky/lXlD_v5VtRfD6xGwjV0PvwvMwgXD8wRP2rmfq"
   },
   {
     "id": 13510,
@@ -11268,16 +11268,10 @@
     "url": "https://trello.com/b/DEkPmGra/kabber-creations"
   },
   {
-    "id": 1500,
-    "creator_id": 323,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/KabberCreations"
-  },
-  {
-    "id": 10371,
+    "id": 15360,
     "creator_id": 323,
     "type": "URL_WEBSITE",
-    "url": "https://kabbercreations.weebly.com/"
+    "url": "https://kabbercreations.weebly.com/fursuit-commissions.html"
   },
   {
     "id": 13984,
@@ -14556,22 +14550,28 @@
     "url": "https://www.youtube.com/channel/UC2bbPyZYayvQs2TUH2hRZQg"
   },
   {
+    "id": 15378,
+    "creator_id": 405,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/shiryudesign.bsky.social"
+  },
+  {
     "id": 11062,
     "creator_id": 405,
     "type": "URL_COMMISSIONS",
     "url": "https://www.shiryudesign.de/"
   },
   {
-    "id": 9528,
+    "id": 15379,
     "creator_id": 405,
-    "type": "URL_DEVIANTART",
-    "url": "https://www.deviantart.com/shiryuakais"
+    "type": "URL_DONATIONS",
+    "url": "https://ko-fi.com/shiryudesign"
   },
   {
-    "id": 11064,
+    "id": 15370,
     "creator_id": 405,
     "type": "URL_ETSY",
-    "url": "https://www.etsy.com/shop/Shiryudesign?listing_id=1033936793"
+    "url": "https://shiryudesign.de/shop/"
   },
   {
     "id": 9530,
@@ -14580,10 +14580,10 @@
     "url": "https://www.facebook.com/Shiryudesign/"
   },
   {
-    "id": 9526,
+    "id": 15367,
     "creator_id": 405,
     "type": "URL_FAQ",
-    "url": "https://docs.google.com/document/d/1MGE72MDTsDtWxsj_OweLYm_FxppzmoreWwKaF-dVaaw/edit?usp=sharing"
+    "url": "https://shiryudesign.de/?v=5f02f0889301#faq"
   },
   {
     "id": 9535,
@@ -14610,34 +14610,76 @@
     "url": "http://linktr.ee/Shiryudesign"
   },
   {
-    "id": 11076,
+    "id": 15385,
     "creator_id": 405,
     "type": "URL_MINIATURES",
-    "url": "https://storage.scritch.es/scritch/26b3b0a630758f1792f8226d736c08318efa0ae0/thumbnail_5219f03d-a6f5-43eb-8efe-c3651afa30aa.jpeg#d30"
+    "url": "https://orca2.furtrack.com/thumb/1266339.jpg"
   },
   {
-    "id": 11068,
+    "id": 15386,
     "creator_id": 405,
     "type": "URL_MINIATURES",
-    "url": "https://storage.scritch.es/scritch/e4eaaaa251f9dbdb19f66e05588c9fa1989bca17/thumbnail_7cfb23eb-cbda-4fcc-9698-876c8ec25b5b.png"
+    "url": "https://orca2.furtrack.com/thumb/1386418.jpg"
   },
   {
-    "id": 11065,
+    "id": 15384,
+    "creator_id": 405,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/174962.jpg"
+  },
+  {
+    "id": 15383,
+    "creator_id": 405,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/947122.jpg"
+  },
+  {
+    "id": 15382,
+    "creator_id": 405,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/954141.jpg"
+  },
+  {
+    "id": 15372,
+    "creator_id": 405,
+    "type": "URL_OTHER_SHOP",
+    "url": "https://www.etsy.com/shop/Shiryudesign"
+  },
+  {
+    "id": 15376,
     "creator_id": 405,
     "type": "URL_PHOTOS",
-    "url": "https://scritch.es/pictures/0379a3f5-91c2-48c2-8f78-598522410911"
+    "url": "https://www.furtrack.com/p/1266339"
   },
   {
-    "id": 11066,
+    "id": 15377,
     "creator_id": 405,
     "type": "URL_PHOTOS",
-    "url": "https://scritch.es/pictures/e88149a8-334a-4372-851a-48451ae77b74"
+    "url": "https://www.furtrack.com/p/1386418"
   },
   {
-    "id": 9525,
+    "id": 15375,
+    "creator_id": 405,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/174962"
+  },
+  {
+    "id": 15374,
+    "creator_id": 405,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/947122"
+  },
+  {
+    "id": 15373,
+    "creator_id": 405,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/954141"
+  },
+  {
+    "id": 15366,
     "creator_id": 405,
     "type": "URL_PRICES",
-    "url": "https://docs.google.com/document/d/1q_3C49bYbn0AzotU-4lF-lTgxhGttxWRbFRRa5EDNzA/edit?usp=sharing"
+    "url": "https://shiryudesign.de/?v=5f02f0889301#preisliste"
   },
   {
     "id": 9533,
@@ -14652,10 +14694,28 @@
     "url": "https://scritch.es/makers/shiryu-design"
   },
   {
-    "id": 9529,
+    "id": 15380,
+    "creator_id": 405,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/shiryudesign"
+  },
+  {
+    "id": 15371,
+    "creator_id": 405,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/store/shiryudesign"
+  },
+  {
+    "id": 15381,
+    "creator_id": 405,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@shiryudesign"
+  },
+  {
+    "id": 15368,
     "creator_id": 405,
     "type": "URL_TWITTER",
-    "url": "https://twitter.com/Shiryuakai"
+    "url": "https://twitter.com/Shiryudesign_de"
   },
   {
     "id": 9524,
@@ -14664,10 +14724,10 @@
     "url": "https://shiryudesign.de/"
   },
   {
-    "id": 9532,
+    "id": 15369,
     "creator_id": 405,
     "type": "URL_YOUTUBE",
-    "url": "https://www.youtube.com/user/susanoo7"
+    "url": "https://www.youtube.com/@Shiryudesign_ger"
   },
   {
     "id": 13529,
@@ -23484,64 +23544,52 @@
     "url": "https://www.instagram.com/anima_creatures/"
   },
   {
-    "id": 12697,
+    "id": 15356,
     "creator_id": 575,
     "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/366679.jpg"
+    "url": "https://orca2.furtrack.com/thumb/1419961.jpg"
   },
   {
-    "id": 12696,
+    "id": 15359,
     "creator_id": 575,
     "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/366680.jpg"
+    "url": "https://orca2.furtrack.com/thumb/1419962.jpg"
   },
   {
-    "id": 12695,
+    "id": 15357,
     "creator_id": 575,
     "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/366681.jpg"
+    "url": "https://orca2.furtrack.com/thumb/1419964.jpg"
   },
   {
-    "id": 12694,
+    "id": 15358,
     "creator_id": 575,
     "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/366682.jpg"
+    "url": "https://orca2.furtrack.com/thumb/1419966.jpg"
   },
   {
-    "id": 12693,
-    "creator_id": 575,
-    "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/366683.jpg"
-  },
-  {
-    "id": 12692,
+    "id": 15352,
     "creator_id": 575,
     "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/366679"
+    "url": "https://www.furtrack.com/p/1419961"
   },
   {
-    "id": 12691,
+    "id": 15355,
     "creator_id": 575,
     "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/366680"
+    "url": "https://www.furtrack.com/p/1419962"
   },
   {
-    "id": 12690,
+    "id": 15353,
     "creator_id": 575,
     "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/366681"
+    "url": "https://www.furtrack.com/p/1419964"
   },
   {
-    "id": 12689,
+    "id": 15354,
     "creator_id": 575,
     "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/366682"
-  },
-  {
-    "id": 12688,
-    "creator_id": 575,
-    "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/366683"
+    "url": "https://www.furtrack.com/p/1419966"
   },
   {
     "id": 12683,
@@ -23586,10 +23634,10 @@
     "url": "https://bsky.app/profile/randomrituals.bsky.social"
   },
   {
-    "id": 13411,
+    "id": 15362,
     "creator_id": 577,
     "type": "URL_COMMISSIONS",
-    "url": "https://www.instagram.com/random_rituals/"
+    "url": "https://www.random-rituals.com"
   },
   {
     "id": 13412,
@@ -23602,6 +23650,12 @@
     "creator_id": 577,
     "type": "URL_FURSUITREVIEW",
     "url": "https://fursuitreview.com/m/random-rituals/"
+  },
+  {
+    "id": 15364,
+    "creator_id": 577,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:random_rituals"
   },
   {
     "id": 13413,
@@ -23622,10 +23676,10 @@
     "url": "https://random-rituals.com/price-list"
   },
   {
-    "id": 11717,
+    "id": 15365,
     "creator_id": 577,
     "type": "URL_TELEGRAM_CHANNEL",
-    "url": "https://t.me/+zXfKPwucVwViMzM0"
+    "url": "https://t.me/RandomRituals"
   },
   {
     "id": 14736,
@@ -23634,10 +23688,10 @@
     "url": "https://www.tiktok.com/@randomrituals"
   },
   {
-    "id": 11713,
+    "id": 15363,
     "creator_id": 577,
     "type": "URL_TWITTER",
-    "url": "https://twitter.com/Random_hell_"
+    "url": "https://twitter.com/random_rituals"
   },
   {
     "id": 11711,
@@ -38656,5 +38710,53 @@
     "creator_id": 860,
     "type": "URL_WEBSITE",
     "url": "https://alpharatnests.ca/"
+  },
+  {
+    "id": 15391,
+    "creator_id": 861,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/echolalialore.bsky.social"
+  },
+  {
+    "id": 15389,
+    "creator_id": 861,
+    "type": "URL_COMMISSIONS",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSc1s0OeI1r0mETuc_13wn3E4ngPy6zZbM-LX57BCa84YlOFxg/viewform"
+  },
+  {
+    "id": 15388,
+    "creator_id": 861,
+    "type": "URL_PRICES",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSc1s0OeI1r0mETuc_13wn3E4ngPy6zZbM-LX57BCa84YlOFxg/viewform"
+  },
+  {
+    "id": 15392,
+    "creator_id": 861,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@echolaliaswaggytails"
+  },
+  {
+    "id": 15390,
+    "creator_id": 861,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/echolalialore"
+  },
+  {
+    "id": 15387,
+    "creator_id": 861,
+    "type": "URL_WEBSITE",
+    "url": "https://echolalialore.carrd.co/"
+  },
+  {
+    "id": 15394,
+    "creator_id": 862,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/deep.dish_creations/"
+  },
+  {
+    "id": 15393,
+    "creator_id": 862,
+    "type": "URL_PRICES",
+    "url": "https://photos.app.goo.gl/bB4UizyxZbf7yDgM7"
   }
 ]
