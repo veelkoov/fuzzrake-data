@@ -30660,16 +30660,16 @@
     "url": "https://foolserrandfursuits.carrd.co/"
   },
   {
+    "id": 15396,
+    "creator_id": 709,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/scorchedlav.bsky.social"
+  },
+  {
     "id": 13424,
     "creator_id": 709,
     "type": "URL_COMMISSIONS",
     "url": "https://trello.com/c/5ZUu4AAz/1-welcome-to-my-trello"
-  },
-  {
-    "id": 13426,
-    "creator_id": 709,
-    "type": "URL_DEVIANTART",
-    "url": "https://www.deviantart.com/scorchedlavender"
   },
   {
     "id": 13430,
@@ -30678,16 +30678,16 @@
     "url": "https://www.etsy.com/shop/fireflyfurs/"
   },
   {
-    "id": 13425,
-    "creator_id": 709,
-    "type": "URL_FUR_AFFINITY",
-    "url": "https://www.furaffinity.net/user/scorchedlavender/"
-  },
-  {
     "id": 13428,
     "creator_id": 709,
     "type": "URL_INSTAGRAM",
     "url": "https://www.instagram.com/scorchedlavender/"
+  },
+  {
+    "id": 15395,
+    "creator_id": 709,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/scorchedlavender"
   },
   {
     "id": 13423,
@@ -38758,5 +38758,107 @@
     "creator_id": 862,
     "type": "URL_PRICES",
     "url": "https://photos.app.goo.gl/bB4UizyxZbf7yDgM7"
+  },
+  {
+    "id": 15402,
+    "creator_id": 863,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/snoutcaster.bsky.social"
+  },
+  {
+    "id": 15397,
+    "creator_id": 863,
+    "type": "URL_COMMISSIONS",
+    "url": "https://t.me/Altasden"
+  },
+  {
+    "id": 15399,
+    "creator_id": 863,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:altawoof"
+  },
+  {
+    "id": 15398,
+    "creator_id": 863,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/snoutcaster/"
+  },
+  {
+    "id": 15405,
+    "creator_id": 863,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/771834.jpg"
+  },
+  {
+    "id": 15404,
+    "creator_id": 863,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/945029.jpg"
+  },
+  {
+    "id": 15401,
+    "creator_id": 863,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/771834"
+  },
+  {
+    "id": 15400,
+    "creator_id": 863,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/945029"
+  },
+  {
+    "id": 15403,
+    "creator_id": 863,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/Altasden"
+  },
+  {
+    "id": 15411,
+    "creator_id": 864,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/starzaras.bsky.social"
+  },
+  {
+    "id": 15409,
+    "creator_id": 864,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:star_zaras"
+  },
+  {
+    "id": 15407,
+    "creator_id": 864,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/starzaras/"
+  },
+  {
+    "id": 15413,
+    "creator_id": 864,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1331688.jpg"
+  },
+  {
+    "id": 15410,
+    "creator_id": 864,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1331688"
+  },
+  {
+    "id": 15408,
+    "creator_id": 864,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/b3jX1yH9"
+  },
+  {
+    "id": 15412,
+    "creator_id": 864,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/starzarasatelier"
+  },
+  {
+    "id": 15406,
+    "creator_id": 864,
+    "type": "URL_WEBSITE",
+    "url": "https://starzaras.carrd.co"
   }
 ]
