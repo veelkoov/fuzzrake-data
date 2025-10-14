@@ -30552,6 +30552,174 @@
     "value": "False"
   },
   {
+    "id": 22355,
+    "creator_id": 307,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 22331,
+    "creator_id": 307,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-10-14 17:47:24"
+  },
+  {
+    "id": 22358,
+    "creator_id": 307,
+    "field_name": "DOES_NSFW",
+    "value": "True"
+  },
+  {
+    "id": 22345,
+    "creator_id": 307,
+    "field_name": "FEATURES",
+    "value": "Attached handpaws and feetpaws"
+  },
+  {
+    "id": 22346,
+    "creator_id": 307,
+    "field_name": "FEATURES",
+    "value": "Attached tail"
+  },
+  {
+    "id": 22347,
+    "creator_id": 307,
+    "field_name": "FEATURES",
+    "value": "Exchangeable tongues"
+  },
+  {
+    "id": 22348,
+    "creator_id": 307,
+    "field_name": "FEATURES",
+    "value": "Follow-me eyes"
+  },
+  {
+    "id": 22349,
+    "creator_id": 307,
+    "field_name": "FEATURES",
+    "value": "In-head fans"
+  },
+  {
+    "id": 22350,
+    "creator_id": 307,
+    "field_name": "FEATURES",
+    "value": "Indoor feet"
+  },
+  {
+    "id": 22351,
+    "creator_id": 307,
+    "field_name": "FEATURES",
+    "value": "LED eyes"
+  },
+  {
+    "id": 22352,
+    "creator_id": 307,
+    "field_name": "FEATURES",
+    "value": "Outdoor feet"
+  },
+  {
+    "id": 22353,
+    "creator_id": 307,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 22354,
+    "creator_id": 307,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
+  },
+  {
+    "id": 22332,
+    "creator_id": 307,
+    "field_name": "LANGUAGES",
+    "value": "English"
+  },
+  {
+    "id": 22357,
+    "creator_id": 307,
+    "field_name": "NSFW_SOCIAL",
+    "value": "True"
+  },
+  {
+    "id": 22356,
+    "creator_id": 307,
+    "field_name": "NSFW_WEBSITE",
+    "value": "True"
+  },
+  {
+    "id": 22338,
+    "creator_id": 307,
+    "field_name": "ORDER_TYPES",
+    "value": "Bodysuits (as parts/separate)"
+  },
+  {
+    "id": 22339,
+    "creator_id": 307,
+    "field_name": "ORDER_TYPES",
+    "value": "Feetpaws (as parts/separate)"
+  },
+  {
+    "id": 22340,
+    "creator_id": 307,
+    "field_name": "ORDER_TYPES",
+    "value": "Full plantigrade"
+  },
+  {
+    "id": 22341,
+    "creator_id": 307,
+    "field_name": "ORDER_TYPES",
+    "value": "Handpaws (as parts/separate)"
+  },
+  {
+    "id": 22342,
+    "creator_id": 307,
+    "field_name": "ORDER_TYPES",
+    "value": "Head (as parts/separate)"
+  },
+  {
+    "id": 22343,
+    "creator_id": 307,
+    "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 22344,
+    "creator_id": 307,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 22333,
+    "creator_id": 307,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Artistic liberty commissions"
+  },
+  {
+    "id": 22334,
+    "creator_id": 307,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Premades"
+  },
+  {
+    "id": 22335,
+    "creator_id": 307,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Standard commissions"
+  },
+  {
+    "id": 22336,
+    "creator_id": 307,
+    "field_name": "STYLES",
+    "value": "Semi Toony"
+  },
+  {
+    "id": 22337,
+    "creator_id": 307,
+    "field_name": "STYLES",
+    "value": "Toony"
+  },
+  {
     "id": 1556,
     "creator_id": 309,
     "field_name": "AGES",

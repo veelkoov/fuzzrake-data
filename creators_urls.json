@@ -10590,6 +10590,12 @@
     "url": "https://www.beastlabs.de/"
   },
   {
+    "id": 15417,
+    "creator_id": 307,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/fursuit.rumwolf.net"
+  },
+  {
     "id": 1418,
     "creator_id": 307,
     "type": "URL_COMMISSIONS",
@@ -10606,6 +10612,30 @@
     "creator_id": 307,
     "type": "URL_FURSUITREVIEW",
     "url": "https://fursuitreview.com/m/rum-wolf-studios/"
+  },
+  {
+    "id": 15416,
+    "creator_id": 307,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:rumwolf"
+  },
+  {
+    "id": 15414,
+    "creator_id": 307,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/rumwolf/"
+  },
+  {
+    "id": 15415,
+    "creator_id": 307,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/rum.wolf/"
+  },
+  {
+    "id": 15418,
+    "creator_id": 307,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/RumWolfStudio"
   },
   {
     "id": 1417,
