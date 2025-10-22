@@ -16188,6 +16188,12 @@
     "url": "https://twitter.com/Symbisuits_"
   },
   {
+    "id": 15469,
+    "creator_id": 433,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/westernvibe-saloon/"
+  },
+  {
     "id": 9795,
     "creator_id": 433,
     "type": "URL_FURTRACK",
@@ -32116,6 +32122,12 @@
     "creator_id": 737,
     "type": "URL_COMMISSIONS",
     "url": "https://trello.com/b/eJrMR2cl/queen-hiss-creations"
+  },
+  {
+    "id": 15470,
+    "creator_id": 737,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/queen-hiss-creations/"
   },
   {
     "id": 13780,
