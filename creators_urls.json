@@ -102,6 +102,12 @@
     "url": "https://twitter.com/fossastudio24"
   },
   {
+    "id": 15483,
+    "creator_id": 4,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/furryfactory.bsky.social"
+  },
+  {
     "id": 13352,
     "creator_id": 4,
     "type": "URL_COMMISSIONS",
@@ -112,6 +118,12 @@
     "creator_id": 4,
     "type": "URL_DEVIANTART",
     "url": "https://furryfactory.deviantart.com/"
+  },
+  {
+    "id": 15476,
+    "creator_id": 4,
+    "type": "URL_ETSY",
+    "url": "https://furryfactoryshop.etsy.com/"
   },
   {
     "id": 18,
@@ -126,76 +138,82 @@
     "url": "https://www.furaffinity.net/user/furry-factory/"
   },
   {
-    "id": 13385,
+    "id": 15474,
+    "creator_id": 4,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/furryfactoryofficial/"
+  },
+  {
+    "id": 15475,
+    "creator_id": 4,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/furryfactory"
+  },
+  {
+    "id": 15487,
     "creator_id": 4,
     "type": "URL_MINIATURES",
-    "url": "https://storage.scritch.es/scritch/2ce77af89a1dccf82b8a9b139bc6d57f626ed9eb/thumbnail_28903f09-ea6c-49ed-94ed-9ac1a3c42c4e.jpeg"
+    "url": "https://storage.scritch.es/scritch/6bdc357772653cbd076158b5750af4723f0e7da0/thumbnail_308b8dc3-21be-4556-a2d1-0bd3a5a1a08e.jpeg"
   },
   {
-    "id": 13386,
+    "id": 15488,
     "creator_id": 4,
     "type": "URL_MINIATURES",
-    "url": "https://storage.scritch.es/scritch/3fceb162da61c8cc98ede5034eab9b08c958453f/thumbnail_13e37f46-3dae-49fc-bb8d-d91e9fcb081f.jpeg"
+    "url": "https://storage.scritch.es/scritch/a3e743dbb326a169a7a623309fd37b7fccb53dca/thumbnail_034ae5a3-26d7-4f74-9944-e22356872b2f.jpeg"
   },
   {
-    "id": 13382,
+    "id": 15486,
     "creator_id": 4,
     "type": "URL_MINIATURES",
-    "url": "https://storage.scritch.es/scritch/4b7db4d7fc0e51603dfdd2cd4bdc30a14a7d8387/thumbnail_66390ad2-7113-4579-8cfc-3e5af3a7edc1.jpeg"
+    "url": "https://storage.scritch.es/scritch/c833ec3e66eec3b27143f33c5e849c97b44c2efc/thumbnail_31e296a5-1adf-4b56-b7ba-d383828533e2.jpeg"
   },
   {
-    "id": 13383,
+    "id": 15490,
     "creator_id": 4,
     "type": "URL_MINIATURES",
-    "url": "https://storage.scritch.es/scritch/9dfdd5e29f84e0730801c0439b2b36b71cee5358/thumbnail_89523959-20e3-489b-94cb-c5984c561a25.jpeg"
+    "url": "https://storage.scritch.es/scritch/daf201dbae6e01f4c8da1bd5ddee62a1c0b4f260/thumbnail_368ee194-40a2-4f7f-8a83-ebcf0627fd1b.jpeg"
   },
   {
-    "id": 13384,
+    "id": 15489,
     "creator_id": 4,
     "type": "URL_MINIATURES",
-    "url": "https://storage.scritch.es/scritch/cc59423f02d76c22fef60defde7426e5ec292594/thumbnail_398095fa-13a1-4afd-bbac-e9e2e22ac307.jpeg"
+    "url": "https://storage.scritch.es/scritch/f6101f42063ea932e578035351ac531fae1288ce/thumbnail_695ba226-9386-49c0-95d9-6b4c569cb134.jpeg"
   },
   {
-    "id": 13354,
-    "creator_id": 4,
-    "type": "URL_OTHER_SHOP",
-    "url": "https://furryfactoryshop.etsy.com/"
-  },
-  {
-    "id": 13380,
+    "id": 15482,
     "creator_id": 4,
     "type": "URL_PHOTOS",
-    "url": "https://scritch.es/pictures/23df71cb-5a4c-4581-b6a7-76becb6faf2a"
+    "url": "https://scritch.es/pictures/146d0a90-3c04-40a3-9453-0ebe055872e1"
   },
   {
-    "id": 13381,
+    "id": 15478,
     "creator_id": 4,
     "type": "URL_PHOTOS",
-    "url": "https://scritch.es/pictures/421a270e-89c6-45e0-b8c7-4bae8cb40f49"
+    "url": "https://scritch.es/pictures/156b9ad2-5e4c-4004-9e49-e3c2d5439939"
   },
   {
-    "id": 13379,
+    "id": 15480,
     "creator_id": 4,
     "type": "URL_PHOTOS",
-    "url": "https://scritch.es/pictures/55f1cbed-08a2-48ec-92bb-1051bb807e28"
+    "url": "https://scritch.es/pictures/4677f94e-71b5-4cdf-becb-832e5bcbadd1"
   },
   {
-    "id": 13378,
+    "id": 15481,
     "creator_id": 4,
     "type": "URL_PHOTOS",
-    "url": "https://scritch.es/pictures/a48a16ff-de69-44d2-88f0-833425a70041"
+    "url": "https://scritch.es/pictures/bfefe953-8a48-4678-a964-f8177a7da1d7"
   },
   {
-    "id": 13377,
+    "id": 15479,
     "creator_id": 4,
     "type": "URL_PHOTOS",
-    "url": "https://scritch.es/pictures/acaed522-4e17-4f02-9844-4596c70a67fb"
+    "url": "https://scritch.es/pictures/f2466ecf-44c6-416c-afaa-e6be500a1f7b"
   },
   {
-    "id": 13351,
+    "id": 15472,
     "creator_id": 4,
     "type": "URL_PRICES",
-    "url": "https://www.furry-factory.com/pages/base-prices"
+    "url": "https://furry-factory.com/post/1356560615767/starting-prices-for-fursuit-commissions"
   },
   {
     "id": 13355,
@@ -204,10 +222,28 @@
     "url": "https://scritch.es/seth-silver"
   },
   {
-    "id": 13353,
+    "id": 15484,
+    "creator_id": 4,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/furryfactory"
+  },
+  {
+    "id": 15477,
     "creator_id": 4,
     "type": "URL_THE_DEALERS_DEN",
-    "url": "https://www.thedealersden.com/display-feedback/kayru"
+    "url": "https://www.thedealersden.com/display-feedback/furryfactory"
+  },
+  {
+    "id": 15485,
+    "creator_id": 4,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@furryfactory"
+  },
+  {
+    "id": 15473,
+    "creator_id": 4,
+    "type": "URL_TUMBLR",
+    "url": "https://www.tumblr.com/blog/furry-factory"
   },
   {
     "id": 17,
@@ -21582,6 +21618,12 @@
     "url": "https://clowncarcrittersfaq.carrd.co/"
   },
   {
+    "id": 15471,
+    "creator_id": 538,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/clown-car-critters/"
+  },
+  {
     "id": 11211,
     "creator_id": 538,
     "type": "URL_FUR_AFFINITY",
@@ -39094,5 +39136,437 @@
     "creator_id": 868,
     "type": "URL_TWITTER",
     "url": "https://x.com/fish_fursuits"
+  },
+  {
+    "id": 15492,
+    "creator_id": 869,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.dualpaw.de/"
+  },
+  {
+    "id": 15494,
+    "creator_id": 869,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/dualpawstudios/"
+  },
+  {
+    "id": 15493,
+    "creator_id": 869,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/DualPawStudios"
+  },
+  {
+    "id": 15491,
+    "creator_id": 869,
+    "type": "URL_WEBSITE",
+    "url": "https://www.dualpaw.de/"
+  },
+  {
+    "id": 15501,
+    "creator_id": 870,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/stitchwreck.bsky.social"
+  },
+  {
+    "id": 15495,
+    "creator_id": 870,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/stitchwreck/"
+  },
+  {
+    "id": 15498,
+    "creator_id": 870,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:stitchwreck"
+  },
+  {
+    "id": 15496,
+    "creator_id": 870,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/stitchwreck/"
+  },
+  {
+    "id": 15503,
+    "creator_id": 870,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1448836.jpg"
+  },
+  {
+    "id": 15500,
+    "creator_id": 870,
+    "type": "URL_OTHER",
+    "url": "https://www.instagram.com/shorkelz/"
+  },
+  {
+    "id": 15499,
+    "creator_id": 870,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1448836"
+  },
+  {
+    "id": 15497,
+    "creator_id": 870,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/HTKPhs4v/stitchwreck"
+  },
+  {
+    "id": 15502,
+    "creator_id": 870,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/stitchwreck"
+  },
+  {
+    "id": 15513,
+    "creator_id": 871,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/cricketcreations.bsky.social"
+  },
+  {
+    "id": 15510,
+    "creator_id": 871,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/CricketcreationsCo"
+  },
+  {
+    "id": 15508,
+    "creator_id": 871,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/share/1FRpA6ZfYw"
+  },
+  {
+    "id": 15512,
+    "creator_id": 871,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:cricket_creations"
+  },
+  {
+    "id": 15506,
+    "creator_id": 871,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/cricket.creations/"
+  },
+  {
+    "id": 15509,
+    "creator_id": 871,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/cricket.creations/"
+  },
+  {
+    "id": 15505,
+    "creator_id": 871,
+    "type": "URL_PRICES",
+    "url": "https://cricketcreations.weebly.com/"
+  },
+  {
+    "id": 15511,
+    "creator_id": 871,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/mWqo7RlS/fursuit-commissions"
+  },
+  {
+    "id": 15514,
+    "creator_id": 871,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/cricketcreations"
+  },
+  {
+    "id": 15515,
+    "creator_id": 871,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@cricketcreations101"
+  },
+  {
+    "id": 15507,
+    "creator_id": 871,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/cricketcreation"
+  },
+  {
+    "id": 15504,
+    "creator_id": 871,
+    "type": "URL_WEBSITE",
+    "url": "https://cricketcreations.weebly.com/"
+  },
+  {
+    "id": 15530,
+    "creator_id": 872,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/gsyfursuits.bsky.social"
+  },
+  {
+    "id": 15518,
+    "creator_id": 872,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.gsyfursuits.ca/commission-status"
+  },
+  {
+    "id": 15521,
+    "creator_id": 872,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/gsyfursuits/"
+  },
+  {
+    "id": 15524,
+    "creator_id": 872,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:go_stuff_yourself"
+  },
+  {
+    "id": 15519,
+    "creator_id": 872,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/gsyfursuits/"
+  },
+  {
+    "id": 15522,
+    "creator_id": 872,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/gsyfursuits/"
+  },
+  {
+    "id": 15535,
+    "creator_id": 872,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1244376.jpg"
+  },
+  {
+    "id": 15533,
+    "creator_id": 872,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1244385.jpg"
+  },
+  {
+    "id": 15536,
+    "creator_id": 872,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1309101.jpg"
+  },
+  {
+    "id": 15537,
+    "creator_id": 872,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/812221.jpg"
+  },
+  {
+    "id": 15534,
+    "creator_id": 872,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/990961.jpg"
+  },
+  {
+    "id": 15527,
+    "creator_id": 872,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1244376"
+  },
+  {
+    "id": 15525,
+    "creator_id": 872,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1244385"
+  },
+  {
+    "id": 15528,
+    "creator_id": 872,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1309101"
+  },
+  {
+    "id": 15529,
+    "creator_id": 872,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/812221"
+  },
+  {
+    "id": 15526,
+    "creator_id": 872,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/990961"
+  },
+  {
+    "id": 15517,
+    "creator_id": 872,
+    "type": "URL_PRICES",
+    "url": "https://www.gsyfursuits.ca/pricing"
+  },
+  {
+    "id": 15523,
+    "creator_id": 872,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/47tuNQTf/commissions"
+  },
+  {
+    "id": 15531,
+    "creator_id": 872,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/gsyfursuits"
+  },
+  {
+    "id": 15532,
+    "creator_id": 872,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@gsyfursuits"
+  },
+  {
+    "id": 15520,
+    "creator_id": 872,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/GSYFursuits"
+  },
+  {
+    "id": 15516,
+    "creator_id": 872,
+    "type": "URL_WEBSITE",
+    "url": "https://www.gsyfursuits.ca/"
+  },
+  {
+    "id": 15549,
+    "creator_id": 873,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/houndmade.bsky.social"
+  },
+  {
+    "id": 15540,
+    "creator_id": 873,
+    "type": "URL_COMMISSIONS",
+    "url": "https://houndmadesuits.carrd.co/#info"
+  },
+  {
+    "id": 15543,
+    "creator_id": 873,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/HoundmadeSuits"
+  },
+  {
+    "id": 15541,
+    "creator_id": 873,
+    "type": "URL_FAQ",
+    "url": "https://houndmadesuits.carrd.co/#info"
+  },
+  {
+    "id": 15545,
+    "creator_id": 873,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:houndmade_suits"
+  },
+  {
+    "id": 15553,
+    "creator_id": 873,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1217625.jpg"
+  },
+  {
+    "id": 15552,
+    "creator_id": 873,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1218375.jpg"
+  },
+  {
+    "id": 15554,
+    "creator_id": 873,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/949765.jpg"
+  },
+  {
+    "id": 15547,
+    "creator_id": 873,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1217625"
+  },
+  {
+    "id": 15546,
+    "creator_id": 873,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1218375"
+  },
+  {
+    "id": 15548,
+    "creator_id": 873,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/949765"
+  },
+  {
+    "id": 15539,
+    "creator_id": 873,
+    "type": "URL_PRICES",
+    "url": "https://houndmadesuits.carrd.co/#info"
+  },
+  {
+    "id": 15544,
+    "creator_id": 873,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/zSyesGn9/houndmade-suits-updates-and-queue"
+  },
+  {
+    "id": 15550,
+    "creator_id": 873,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/houndmade_suits"
+  },
+  {
+    "id": 15551,
+    "creator_id": 873,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@houndmade.suits"
+  },
+  {
+    "id": 15542,
+    "creator_id": 873,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/HoundmadeSuits"
+  },
+  {
+    "id": 15538,
+    "creator_id": 873,
+    "type": "URL_WEBSITE",
+    "url": "https://houndmadesuits.carrd.co/"
+  },
+  {
+    "id": 15557,
+    "creator_id": 874,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/idiotdragonnico/"
+  },
+  {
+    "id": 15560,
+    "creator_id": 874,
+    "type": "URL_ETSY",
+    "url": "https://nicosfurryfriends.etsy.com"
+  },
+  {
+    "id": 15558,
+    "creator_id": 874,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/idiotdragonnico/"
+  },
+  {
+    "id": 15559,
+    "creator_id": 874,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/Orange._.mutt"
+  },
+  {
+    "id": 15556,
+    "creator_id": 874,
+    "type": "URL_PRICES",
+    "url": "https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDExMjEzNjA5NjExMTUw?story_media_id=3463197280858043968_5946656018&igsh=NTB4em9yY3BpcXJv"
+  },
+  {
+    "id": 15561,
+    "creator_id": 874,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/Y50Q3NgJ/fursuit-commission-list"
+  },
+  {
+    "id": 15562,
+    "creator_id": 874,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@idiotdragonnico"
+  },
+  {
+    "id": 15555,
+    "creator_id": 874,
+    "type": "URL_WEBSITE",
+    "url": "https://linktr.ee/Orange._.mutt"
   }
 ]
