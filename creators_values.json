@@ -2424,46 +2424,160 @@
     "value": "Toony"
   },
   {
+    "id": 22668,
+    "creator_id": 33,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 22648,
+    "creator_id": 33,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-10-27 17:43:46"
+  },
+  {
+    "id": 22671,
+    "creator_id": 33,
+    "field_name": "DOES_NSFW",
+    "value": "True"
+  },
+  {
     "id": 4144,
     "creator_id": 33,
     "field_name": "FEATURES",
-    "value": "Attached tail"
+    "value": "Adjustable eyebrows"
   },
   {
     "id": 4145,
     "creator_id": 33,
     "field_name": "FEATURES",
-    "value": "Electronics/animatronics"
+    "value": "Adjustable/wiggle ears"
   },
   {
     "id": 4146,
     "creator_id": 33,
     "field_name": "FEATURES",
-    "value": "In-head fans"
+    "value": "Attached handpaws and feetpaws"
   },
   {
     "id": 4147,
     "creator_id": 33,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "Attached tail"
   },
   {
     "id": 4148,
     "creator_id": 33,
     "field_name": "FEATURES",
-    "value": "LED/EL lights"
+    "value": "Electronics/animatronics"
   },
   {
     "id": 4149,
     "creator_id": 33,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Exchangeable hairs"
   },
   {
     "id": 4150,
     "creator_id": 33,
     "field_name": "FEATURES",
+    "value": "Exchangeable tongues"
+  },
+  {
+    "id": 22658,
+    "creator_id": 33,
+    "field_name": "FEATURES",
+    "value": "In-head fans"
+  },
+  {
+    "id": 22659,
+    "creator_id": 33,
+    "field_name": "FEATURES",
+    "value": "Indoor feet"
+  },
+  {
+    "id": 22660,
+    "creator_id": 33,
+    "field_name": "FEATURES",
+    "value": "LED eyes"
+  },
+  {
+    "id": 22661,
+    "creator_id": 33,
+    "field_name": "FEATURES",
+    "value": "LED/EL lights"
+  },
+  {
+    "id": 22662,
+    "creator_id": 33,
+    "field_name": "FEATURES",
+    "value": "Movable jaw"
+  },
+  {
+    "id": 22663,
+    "creator_id": 33,
+    "field_name": "FEATURES",
+    "value": "Outdoor feet"
+  },
+  {
+    "id": 22664,
+    "creator_id": 33,
+    "field_name": "FEATURES",
+    "value": "Removable blush"
+  },
+  {
+    "id": 22665,
+    "creator_id": 33,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 22666,
+    "creator_id": 33,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
+  },
+  {
+    "id": 22667,
+    "creator_id": 33,
+    "field_name": "FEATURES",
     "value": "Washable heads"
+  },
+  {
+    "id": 22649,
+    "creator_id": 33,
+    "field_name": "LANGUAGES",
+    "value": "English"
+  },
+  {
+    "id": 22651,
+    "creator_id": 33,
+    "field_name": "LANGUAGES",
+    "value": "French"
+  },
+  {
+    "id": 22650,
+    "creator_id": 33,
+    "field_name": "LANGUAGES",
+    "value": "German"
+  },
+  {
+    "id": 22652,
+    "creator_id": 33,
+    "field_name": "LANGUAGES",
+    "value": "Spanish"
+  },
+  {
+    "id": 22670,
+    "creator_id": 33,
+    "field_name": "NSFW_SOCIAL",
+    "value": "False"
+  },
+  {
+    "id": 22669,
+    "creator_id": 33,
+    "field_name": "NSFW_WEBSITE",
+    "value": "False"
   },
   {
     "id": 4152,
@@ -2487,6 +2601,12 @@
     "id": 4155,
     "creator_id": 33,
     "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 22657,
+    "creator_id": 33,
+    "field_name": "ORDER_TYPES",
     "value": "Partial (head + handpaws + tail + feetpaws)"
   },
   {
@@ -2508,19 +2628,43 @@
     "value": "I am a custom builder, ask :)"
   },
   {
+    "id": 22653,
+    "creator_id": 33,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Standard commissions"
+  },
+  {
     "id": 4158,
     "creator_id": 33,
     "field_name": "STYLES",
-    "value": "Semi Realistic"
+    "value": "Anime"
   },
   {
     "id": 4159,
     "creator_id": 33,
     "field_name": "STYLES",
-    "value": "Semi Toony"
+    "value": "Kemono"
   },
   {
     "id": 4160,
+    "creator_id": 33,
+    "field_name": "STYLES",
+    "value": "Kigurumi"
+  },
+  {
+    "id": 22654,
+    "creator_id": 33,
+    "field_name": "STYLES",
+    "value": "Semi Realistic"
+  },
+  {
+    "id": 22655,
+    "creator_id": 33,
+    "field_name": "STYLES",
+    "value": "Semi Toony"
+  },
+  {
+    "id": 22656,
     "creator_id": 33,
     "field_name": "STYLES",
     "value": "Toony"
@@ -110013,7 +110157,7 @@
     "id": 21031,
     "creator_id": 758,
     "field_name": "DATE_UPDATED",
-    "value": "2025-03-14 22:22:06"
+    "value": "2025-10-29 19:13:17"
   },
   {
     "id": 3203,
@@ -110049,13 +110193,31 @@
     "id": 6678,
     "creator_id": 758,
     "field_name": "FEATURES",
-    "value": "Removable blush"
+    "value": "Indoor feet"
   },
   {
     "id": 6679,
     "creator_id": 758,
     "field_name": "FEATURES",
+    "value": "Removable blush"
+  },
+  {
+    "id": 22675,
+    "creator_id": 758,
+    "field_name": "FEATURES",
     "value": "Removable eyelids"
+  },
+  {
+    "id": 22676,
+    "creator_id": 758,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
+  },
+  {
+    "id": 22677,
+    "creator_id": 758,
+    "field_name": "FEATURES",
+    "value": "Washable heads"
   },
   {
     "id": 6670,
@@ -110088,10 +110250,22 @@
     "value": "Mini partial (head + handpaws + tail)"
   },
   {
+    "id": 22674,
+    "creator_id": 758,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
     "id": 6684,
     "creator_id": 758,
     "field_name": "OTHER_FEATURES",
     "value": "Accessories"
+  },
+  {
+    "id": 22678,
+    "creator_id": 758,
+    "field_name": "OTHER_FEATURES",
+    "value": "Complex hairstyles"
   },
   {
     "id": 21032,
@@ -110109,7 +110283,13 @@
     "id": 6687,
     "creator_id": 758,
     "field_name": "OTHER_ORDER_TYPES",
-    "value": "I can add armsleeves onto mini partials or do just a head and handpaws."
+    "value": "I do arm and leg sleeves too"
+  },
+  {
+    "id": 22673,
+    "creator_id": 758,
+    "field_name": "OTHER_STYLES",
+    "value": "Willing to try more Sonic or MLP inspired styles"
   },
   {
     "id": 6671,
@@ -110133,10 +110313,16 @@
     "id": 6688,
     "creator_id": 758,
     "field_name": "STYLES",
-    "value": "Semi Toony"
+    "value": "Anime"
   },
   {
     "id": 6689,
+    "creator_id": 758,
+    "field_name": "STYLES",
+    "value": "Semi Toony"
+  },
+  {
+    "id": 22672,
     "creator_id": 758,
     "field_name": "STYLES",
     "value": "Toony"
