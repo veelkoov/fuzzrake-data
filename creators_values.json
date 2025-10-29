@@ -62034,6 +62034,18 @@
     "value": "2022-01-06 19:34:39"
   },
   {
+    "id": 22679,
+    "creator_id": 504,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-10-29 19:20:05"
+  },
+  {
+    "id": 22688,
+    "creator_id": 504,
+    "field_name": "DOES_NSFW",
+    "value": "False"
+  },
+  {
     "id": 16965,
     "creator_id": 504,
     "field_name": "FEATURES",
@@ -62043,19 +62055,43 @@
     "id": 16966,
     "creator_id": 504,
     "field_name": "FEATURES",
-    "value": "In-head fans"
+    "value": "Follow-me eyes"
   },
   {
     "id": 16967,
     "creator_id": 504,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "In-head fans"
   },
   {
     "id": 16968,
     "creator_id": 504,
     "field_name": "FEATURES",
+    "value": "Indoor feet"
+  },
+  {
+    "id": 22682,
+    "creator_id": 504,
+    "field_name": "FEATURES",
+    "value": "LED eyes"
+  },
+  {
+    "id": 22683,
+    "creator_id": 504,
+    "field_name": "FEATURES",
     "value": "Outdoor feet"
+  },
+  {
+    "id": 22684,
+    "creator_id": 504,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 22685,
+    "creator_id": 504,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
   },
   {
     "id": 16960,
@@ -62068,6 +62104,18 @@
     "creator_id": 504,
     "field_name": "LANGUAGES",
     "value": "French (limited)"
+  },
+  {
+    "id": 22687,
+    "creator_id": 504,
+    "field_name": "NSFW_SOCIAL",
+    "value": "True"
+  },
+  {
+    "id": 22686,
+    "creator_id": 504,
+    "field_name": "NSFW_WEBSITE",
+    "value": "True"
   },
   {
     "id": 16973,
@@ -62130,12 +62178,6 @@
     "value": "3D printed fursuit parts"
   },
   {
-    "id": 16972,
-    "creator_id": 504,
-    "field_name": "OTHER_FEATURES",
-    "value": "Fit for glasses"
-  },
-  {
     "id": 16971,
     "creator_id": 504,
     "field_name": "OTHER_FEATURES",
@@ -62169,7 +62211,19 @@
     "id": 16982,
     "creator_id": 504,
     "field_name": "STYLES",
+    "value": "Anime"
+  },
+  {
+    "id": 22680,
+    "creator_id": 504,
+    "field_name": "STYLES",
     "value": "Kemono"
+  },
+  {
+    "id": 22681,
+    "creator_id": 504,
+    "field_name": "STYLES",
+    "value": "Kigurumi"
   },
   {
     "id": 1002,
