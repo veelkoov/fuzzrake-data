@@ -16848,34 +16848,76 @@
     "url": "https://www.youtube.com/@alecrimcarmim"
   },
   {
+    "id": 15635,
+    "creator_id": 442,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/kupferbeast.bsky.social"
+  },
+  {
+    "id": 15630,
+    "creator_id": 442,
+    "type": "URL_COMMISSIONS",
+    "url": "https://t.me/kupferbeast"
+  },
+  {
+    "id": 15636,
+    "creator_id": 442,
+    "type": "URL_DONATIONS",
+    "url": "https://ko-fi.com/kupferbeast"
+  },
+  {
     "id": 10889,
     "creator_id": 442,
     "type": "URL_FURSUITREVIEW",
     "url": "https://fursuitreview.com/m/make-a-fur/"
   },
   {
-    "id": 9868,
+    "id": 15632,
     "creator_id": 442,
     "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/makeafur/"
+    "url": "https://www.instagram.com/kupferbeast/"
   },
   {
-    "id": 11808,
+    "id": 15634,
+    "creator_id": 442,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/kupferbeast"
+  },
+  {
+    "id": 15629,
     "creator_id": 442,
     "type": "URL_PRICES",
-    "url": "https://makeafurs.carrd.co/"
+    "url": "https://kupferbeast.carrd.co"
   },
   {
-    "id": 9867,
+    "id": 15637,
+    "creator_id": 442,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/kupferbeast"
+  },
+  {
+    "id": 15638,
+    "creator_id": 442,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@kupferbeast"
+  },
+  {
+    "id": 15631,
     "creator_id": 442,
     "type": "URL_TWITTER",
-    "url": "https://twitter.com/MakeAFur"
+    "url": "https://twitter.com/KupferBeast"
   },
   {
-    "id": 11807,
+    "id": 15628,
     "creator_id": 442,
     "type": "URL_WEBSITE",
-    "url": "https://makeafurs.carrd.co/"
+    "url": "https://kupferbeast.carrd.co"
+  },
+  {
+    "id": 15633,
+    "creator_id": 442,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@kupferbeast_kb"
   },
   {
     "id": 9873,
@@ -30336,6 +30378,12 @@
     "url": "https://www.seventhmooncoyote.com/"
   },
   {
+    "id": 15639,
+    "creator_id": 701,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/seventh-moon-coyote/"
+  },
+  {
     "id": 13272,
     "creator_id": 701,
     "type": "URL_FURTRACK",
@@ -30660,16 +30708,22 @@
     "url": "https://twitter.com/FoolsErrandFS"
   },
   {
+    "id": 15594,
+    "creator_id": 708,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:foolserrandfursuits"
+  },
+  {
     "id": 13419,
     "creator_id": 708,
     "type": "URL_INSTAGRAM",
     "url": "https://www.instagram.com/foolserrandfursuits/"
   },
   {
-    "id": 13416,
+    "id": 15593,
     "creator_id": 708,
     "type": "URL_PRICES",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vQDwMDimfNDhCxXl2ULxM-Nw4EhZKxj8I8i-Vtlv-DmEtVLnkStZ76AdJFf0kXRxg7tjIUebPx9OKhD/pub"
+    "url": "https://docs.google.com/document/d/1XV6Waqog3tyQBRWQu6rhJ5mf79EOcO0v2OCxV9M06Ls/edit?usp=sharing"
   },
   {
     "id": 14671,
@@ -39634,5 +39688,203 @@
     "creator_id": 874,
     "type": "URL_WEBSITE",
     "url": "https://linktr.ee/Orange._.mutt"
+  },
+  {
+    "id": 15609,
+    "creator_id": 875,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/demolition-d1no.bsky.social"
+  },
+  {
+    "id": 15595,
+    "creator_id": 875,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.furaffinity.net/user/demolition-d1no/"
+  },
+  {
+    "id": 15601,
+    "creator_id": 875,
+    "type": "URL_FURRY_AMINO",
+    "url": "https://aminoapps.com/c/furry-amino/page/user/blade-drakken-monsterteef/pXWl_r1LtgfR10mnWLqedV0BJx01gxVV13z"
+  },
+  {
+    "id": 15602,
+    "creator_id": 875,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:demolition_d1no"
+  },
+  {
+    "id": 15596,
+    "creator_id": 875,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/demolition-d1no/"
+  },
+  {
+    "id": 15599,
+    "creator_id": 875,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/demolition_d1no/"
+  },
+  {
+    "id": 15600,
+    "creator_id": 875,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/demolition_d1no"
+  },
+  {
+    "id": 15617,
+    "creator_id": 875,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1091902.jpg"
+  },
+  {
+    "id": 15616,
+    "creator_id": 875,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1478276.jpg"
+  },
+  {
+    "id": 15619,
+    "creator_id": 875,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1478302.jpg"
+  },
+  {
+    "id": 15620,
+    "creator_id": 875,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/288137.jpg"
+  },
+  {
+    "id": 15618,
+    "creator_id": 875,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/786074.jpg"
+  },
+  {
+    "id": 15608,
+    "creator_id": 875,
+    "type": "URL_OTHER",
+    "url": "https://linktr.ee/monsterteef"
+  },
+  {
+    "id": 15604,
+    "creator_id": 875,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1091902"
+  },
+  {
+    "id": 15603,
+    "creator_id": 875,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1478276"
+  },
+  {
+    "id": 15606,
+    "creator_id": 875,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1478302"
+  },
+  {
+    "id": 15607,
+    "creator_id": 875,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/288137"
+  },
+  {
+    "id": 15605,
+    "creator_id": 875,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/786074"
+  },
+  {
+    "id": 15610,
+    "creator_id": 875,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/m0nsterteef"
+  },
+  {
+    "id": 15598,
+    "creator_id": 875,
+    "type": "URL_TUMBLR",
+    "url": "https://m0nsterteef.tumblr.com"
+  },
+  {
+    "id": 15597,
+    "creator_id": 875,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/demolition_d1no"
+  },
+  {
+    "id": 15611,
+    "creator_id": 876,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/bandwagoncefoxitin/"
+  },
+  {
+    "id": 15615,
+    "creator_id": 876,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:flashframestudios"
+  },
+  {
+    "id": 15612,
+    "creator_id": 876,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/bandwagoncefoxitin/"
+  },
+  {
+    "id": 15614,
+    "creator_id": 876,
+    "type": "URL_OTHER_SHOP",
+    "url": "https://ebay.us/m/IGL7O1"
+  },
+  {
+    "id": 15613,
+    "creator_id": 876,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@flash_framestudios"
+  },
+  {
+    "id": 15627,
+    "creator_id": 877,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/hojozilla.com"
+  },
+  {
+    "id": 15624,
+    "creator_id": 877,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/share/1FpYR9jcDM/"
+  },
+  {
+    "id": 15622,
+    "creator_id": 877,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/hojozilla/"
+  },
+  {
+    "id": 15625,
+    "creator_id": 877,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/kiyanisuit/"
+  },
+  {
+    "id": 15626,
+    "creator_id": 877,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/5pnAqKDz/hojozillas-fursuit-commission-queue"
+  },
+  {
+    "id": 15623,
+    "creator_id": 877,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/hojozilla"
+  },
+  {
+    "id": 15621,
+    "creator_id": 877,
+    "type": "URL_WEBSITE",
+    "url": "https://hojozilla.com/"
   }
 ]
