@@ -7674,12 +7674,6 @@
     "url": "https://www.youtube.com/channel/UCuA5r5brocuYJGwCcsZqmWg"
   },
   {
-    "id": 1022,
-    "creator_id": 234,
-    "type": "URL_DEVIANTART",
-    "url": "https://www.deviantart.com/ivanitko"
-  },
-  {
     "id": 1023,
     "creator_id": 234,
     "type": "URL_FACEBOOK",
@@ -37894,6 +37888,12 @@
     "creator_id": 842,
     "type": "URL_LINKLIST",
     "url": "https://linktr.ee/TEM123456__OpaliteComet"
+  },
+  {
+    "id": 15686,
+    "creator_id": 842,
+    "type": "URL_PRICES",
+    "url": "https://www.deviantart.com/tem123456/art/My-Fursuit-Price-Sheet-1236097668"
   },
   {
     "id": 15076,

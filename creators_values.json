@@ -20076,46 +20076,16 @@
     "value": "False"
   },
   {
-    "id": 7091,
+    "id": 22876,
     "creator_id": 234,
-    "field_name": "FEATURES",
-    "value": "Attached handpaws and feetpaws"
+    "field_name": "AGES",
+    "value": "MIXED"
   },
   {
-    "id": 7092,
+    "id": 22875,
     "creator_id": 234,
-    "field_name": "FEATURES",
-    "value": "Attached tail"
-  },
-  {
-    "id": 7093,
-    "creator_id": 234,
-    "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
-  },
-  {
-    "id": 7094,
-    "creator_id": 234,
-    "field_name": "FEATURES",
-    "value": "Follow-me eyes"
-  },
-  {
-    "id": 7095,
-    "creator_id": 234,
-    "field_name": "FEATURES",
-    "value": "Indoor feet"
-  },
-  {
-    "id": 7096,
-    "creator_id": 234,
-    "field_name": "FEATURES",
-    "value": "Movable jaw"
-  },
-  {
-    "id": 7097,
-    "creator_id": 234,
-    "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "field_name": "DATE_UPDATED",
+    "value": "2025-11-17 22:06:29"
   },
   {
     "id": 7087,
@@ -20130,88 +20100,22 @@
     "value": "English"
   },
   {
-    "id": 7098,
+    "id": 22878,
     "creator_id": 234,
-    "field_name": "ORDER_TYPES",
-    "value": "Bodysuits (as parts/separate)"
+    "field_name": "NSFW_SOCIAL",
+    "value": "False"
   },
   {
-    "id": 7099,
+    "id": 22877,
     "creator_id": 234,
-    "field_name": "ORDER_TYPES",
-    "value": "Feetpaws (as parts/separate)"
+    "field_name": "NSFW_WEBSITE",
+    "value": "False"
   },
   {
-    "id": 7100,
+    "id": 22879,
     "creator_id": 234,
-    "field_name": "ORDER_TYPES",
-    "value": "Full digitigrade"
-  },
-  {
-    "id": 7101,
-    "creator_id": 234,
-    "field_name": "ORDER_TYPES",
-    "value": "Full plantigrade"
-  },
-  {
-    "id": 7102,
-    "creator_id": 234,
-    "field_name": "ORDER_TYPES",
-    "value": "Handpaws (as parts/separate)"
-  },
-  {
-    "id": 7103,
-    "creator_id": 234,
-    "field_name": "ORDER_TYPES",
-    "value": "Head (as parts/separate)"
-  },
-  {
-    "id": 7104,
-    "creator_id": 234,
-    "field_name": "ORDER_TYPES",
-    "value": "Mini partial (head + handpaws + tail)"
-  },
-  {
-    "id": 7105,
-    "creator_id": 234,
-    "field_name": "ORDER_TYPES",
-    "value": "Partial (head + handpaws + tail + feetpaws)"
-  },
-  {
-    "id": 7106,
-    "creator_id": 234,
-    "field_name": "ORDER_TYPES",
-    "value": "Tails (as parts/separate)"
-  },
-  {
-    "id": 7107,
-    "creator_id": 234,
-    "field_name": "ORDER_TYPES",
-    "value": "Three-fourth (head + handpaws + tail + legs/pants + feetpaws)"
-  },
-  {
-    "id": 7108,
-    "creator_id": 234,
-    "field_name": "STYLES",
-    "value": "Kemono"
-  },
-  {
-    "id": 7109,
-    "creator_id": 234,
-    "field_name": "STYLES",
-    "value": "Semi Realistic"
-  },
-  {
-    "id": 7110,
-    "creator_id": 234,
-    "field_name": "STYLES",
-    "value": "Semi Toony"
-  },
-  {
-    "id": 7111,
-    "creator_id": 234,
-    "field_name": "STYLES",
-    "value": "Toony"
+    "field_name": "WORKS_WITH_MINORS",
+    "value": "True"
   },
   {
     "id": 1166,
@@ -124587,7 +124491,7 @@
     "id": 22101,
     "creator_id": 842,
     "field_name": "DATE_UPDATED",
-    "value": "2025-09-03 19:27:39"
+    "value": "2025-11-17 22:05:24"
   },
   {
     "id": 21641,
@@ -124599,31 +124503,31 @@
     "id": 21630,
     "creator_id": 842,
     "field_name": "FEATURES",
-    "value": "Adjustable/wiggle ears"
+    "value": "Attached tail"
   },
   {
     "id": 21631,
     "creator_id": 842,
     "field_name": "FEATURES",
-    "value": "Attached tail"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 21632,
     "creator_id": 842,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Follow-me eyes"
   },
   {
     "id": 21633,
     "creator_id": 842,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Indoor feet"
   },
   {
     "id": 21634,
     "creator_id": 842,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "LED eyes"
   },
   {
     "id": 21635,
@@ -124695,28 +124599,46 @@
     "id": 21620,
     "creator_id": 842,
     "field_name": "PRODUCTION_MODELS",
+    "value": "Artistic liberty commissions"
+  },
+  {
+    "id": 22872,
+    "creator_id": 842,
+    "field_name": "PRODUCTION_MODELS",
     "value": "Premades"
+  },
+  {
+    "id": 22873,
+    "creator_id": 842,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Standard commissions"
   },
   {
     "id": 21621,
     "creator_id": 842,
     "field_name": "STYLES",
-    "value": "Kemono"
+    "value": "Anime"
   },
   {
     "id": 21622,
     "creator_id": 842,
     "field_name": "STYLES",
-    "value": "Semi Realistic"
+    "value": "Kemono"
   },
   {
     "id": 21623,
     "creator_id": 842,
     "field_name": "STYLES",
-    "value": "Semi Toony"
+    "value": "Semi Realistic"
   },
   {
     "id": 21624,
+    "creator_id": 842,
+    "field_name": "STYLES",
+    "value": "Semi Toony"
+  },
+  {
+    "id": 22874,
     "creator_id": 842,
     "field_name": "STYLES",
     "value": "Toony"
