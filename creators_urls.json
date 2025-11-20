@@ -15996,12 +15996,6 @@
     "url": "https://www.youtube.com/channel/UCHWObhzmjsknVeoOPR3AiuQ"
   },
   {
-    "id": 9761,
-    "creator_id": 429,
-    "type": "URL_COMMISSIONS",
-    "url": "https://darkclifffurs.wixsite.com/darkcliff-furs"
-  },
-  {
     "id": 11152,
     "creator_id": 429,
     "type": "URL_ETSY",
@@ -16012,12 +16006,6 @@
     "creator_id": 429,
     "type": "URL_FURTRACK",
     "url": "https://www.furtrack.com/user/Basspain"
-  },
-  {
-    "id": 9759,
-    "creator_id": 429,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/thebamboocookie/"
   },
   {
     "id": 11410,
@@ -16066,18 +16054,6 @@
     "creator_id": 429,
     "type": "URL_PHOTOS",
     "url": "https://www.furtrack.com/p/87783"
-  },
-  {
-    "id": 9770,
-    "creator_id": 429,
-    "type": "URL_PRICES",
-    "url": "https://darkclifffurs.wixsite.com/darkcliff-furs/prices"
-  },
-  {
-    "id": 9758,
-    "creator_id": 429,
-    "type": "URL_WEBSITE",
-    "url": "https://darkclifffurs.wixsite.com/darkcliff-furs"
   },
   {
     "id": 9772,
@@ -17992,36 +17968,6 @@
     "creator_id": 463,
     "type": "URL_WEBSITE",
     "url": "https://www.foxesinboxesfursuits.com/"
-  },
-  {
-    "id": 10072,
-    "creator_id": 464,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/forest.tails.studio/"
-  },
-  {
-    "id": 10073,
-    "creator_id": 464,
-    "type": "URL_LINKLIST",
-    "url": "http://linktr.ee/foresttailsstudio"
-  },
-  {
-    "id": 10070,
-    "creator_id": 464,
-    "type": "URL_PRICES",
-    "url": "https://docs.google.com/document/d/1-VFu0Oz6RQ2dcMd4NftXFIiBBduY1pTYHp2rg0MM9PI/edit?usp=sharing"
-  },
-  {
-    "id": 10074,
-    "creator_id": 464,
-    "type": "URL_QUEUE",
-    "url": "https://trello.com/b/kwx6ACcr/forest-tails-studio-fursuit-queue"
-  },
-  {
-    "id": 10071,
-    "creator_id": 464,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/forest_tails"
   },
   {
     "id": 10076,
