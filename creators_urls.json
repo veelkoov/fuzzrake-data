@@ -39642,6 +39642,18 @@
     "url": "https://www.furaffinity.net/user/demolition-d1no/"
   },
   {
+    "id": 15689,
+    "creator_id": 875,
+    "type": "URL_DONATIONS",
+    "url": "https://ko-fi.com/monsterteef"
+  },
+  {
+    "id": 15688,
+    "creator_id": 875,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/Monsterteef"
+  },
+  {
     "id": 15601,
     "creator_id": 875,
     "type": "URL_FURRY_AMINO",
@@ -39738,10 +39750,22 @@
     "url": "https://www.furtrack.com/p/786074"
   },
   {
+    "id": 15687,
+    "creator_id": 875,
+    "type": "URL_PRICES",
+    "url": "https://docs.google.com/document/d/1Z7yrwT-p_MapB7UDLsfQPJk1CTKFZmcxVYAUymdE8D0/edit?usp=sharing"
+  },
+  {
     "id": 15610,
     "creator_id": 875,
     "type": "URL_TELEGRAM_CHANNEL",
     "url": "https://t.me/m0nsterteef"
+  },
+  {
+    "id": 15690,
+    "creator_id": 875,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@demolition_d1no"
   },
   {
     "id": 15598,
