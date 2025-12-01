@@ -7272,6 +7272,12 @@
     "url": "https://twitter.com/tay__bee"
   },
   {
+    "id": 15719,
+    "creator_id": 228,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/lilacdreamsstudio.bsky.social"
+  },
+  {
     "id": 14167,
     "creator_id": 228,
     "type": "URL_COMMISSIONS",
@@ -7312,6 +7318,12 @@
     "creator_id": 228,
     "type": "URL_TELEGRAM_CHANNEL",
     "url": "https://t.me/LilacDreamsStudio"
+  },
+  {
+    "id": 15720,
+    "creator_id": 228,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@lilacdreamst"
   },
   {
     "id": 14170,
@@ -30852,10 +30864,52 @@
     "url": "https://bsky.app/profile/reesetbstudios.bsky.social"
   },
   {
+    "id": 15700,
+    "creator_id": 713,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:reesethebassstudios"
+  },
+  {
     "id": 14800,
     "creator_id": 713,
     "type": "URL_INSTAGRAM",
     "url": "https://www.instagram.com/reesetbstudios/"
+  },
+  {
+    "id": 15704,
+    "creator_id": 713,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1006961.jpg"
+  },
+  {
+    "id": 15706,
+    "creator_id": 713,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1006967.jpg"
+  },
+  {
+    "id": 15705,
+    "creator_id": 713,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1276067.jpg"
+  },
+  {
+    "id": 15701,
+    "creator_id": 713,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1006961"
+  },
+  {
+    "id": 15703,
+    "creator_id": 713,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1006967"
+  },
+  {
+    "id": 15702,
+    "creator_id": 713,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1276067"
   },
   {
     "id": 13449,
@@ -33460,12 +33514,6 @@
     "creator_id": 760,
     "type": "URL_WEBSITE",
     "url": "https://www.kreaturium.com/"
-  },
-  {
-    "id": 14005,
-    "creator_id": 761,
-    "type": "URL_COMMISSIONS",
-    "url": "https://www.instagram.com/chaos.critters.fursuits/"
   },
   {
     "id": 14006,
@@ -39942,6 +39990,12 @@
     "url": "https://thebarkmkt.art/"
   },
   {
+    "id": 15714,
+    "creator_id": 879,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/mahnuggets.bsky.social"
+  },
+  {
     "id": 15655,
     "creator_id": 879,
     "type": "URL_COMMISSIONS",
@@ -39960,6 +40014,24 @@
     "url": "https://ko-fi.com/mahnuggets"
   },
   {
+    "id": 15708,
+    "creator_id": 879,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/profile.php?id=61583860912481"
+  },
+  {
+    "id": 15709,
+    "creator_id": 879,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:mahnuggets"
+  },
+  {
+    "id": 15707,
+    "creator_id": 879,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/mahnuggetsfur/"
+  },
+  {
     "id": 15658,
     "creator_id": 879,
     "type": "URL_INSTAGRAM",
@@ -39972,37 +40044,49 @@
     "url": "https://linktr.ee/mahnuggets"
   },
   {
-    "id": 15670,
+    "id": 15716,
     "creator_id": 879,
     "type": "URL_MINIATURES",
     "url": "https://storage.scritch.es/scritch/09d74bebdafc015ba8ef1af861552cb09858ccbe/thumbnail_8fc2eb59-7df9-445e-b011-c2e284c48922.jpeg"
   },
   {
-    "id": 15671,
+    "id": 15717,
     "creator_id": 879,
     "type": "URL_MINIATURES",
     "url": "https://storage.scritch.es/scritch/1ce316455c704d4b38a81d57b823fed50149f7c8/thumbnail_3f0ece66-8e9c-4a40-a294-c80568160b05.jpeg"
   },
   {
-    "id": 15669,
+    "id": 15715,
     "creator_id": 879,
     "type": "URL_MINIATURES",
     "url": "https://storage.scritch.es/scritch/86bd4306446af3271c5879a140deb5ec99b3eead/thumbnail_5d5a4624-bfd6-48ff-80bd-b9a996178ca0.jpeg"
   },
   {
-    "id": 15666,
+    "id": 15718,
+    "creator_id": 879,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/f0522dac4db69398b3f273bcd11a2a3557e67783/thumbnail_61f96279-39c3-4c32-8704-f34f3ac10e86.jpeg"
+  },
+  {
+    "id": 15712,
     "creator_id": 879,
     "type": "URL_PHOTOS",
     "url": "https://scritch.es/pictures/2948329c-7c17-4ce6-9ccb-be323d7da6bc"
   },
   {
-    "id": 15664,
+    "id": 15713,
+    "creator_id": 879,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/6b0a7e19-e787-4bef-9c48-2ba3b56ef3a8"
+  },
+  {
+    "id": 15710,
     "creator_id": 879,
     "type": "URL_PHOTOS",
     "url": "https://scritch.es/pictures/6b607b39-0ba6-4b30-b298-07c2b4c41649"
   },
   {
-    "id": 15665,
+    "id": 15711,
     "creator_id": 879,
     "type": "URL_PHOTOS",
     "url": "https://scritch.es/pictures/c6b26efb-c745-4057-8e0b-0a79fcea7673"
@@ -40120,5 +40204,59 @@
     "creator_id": 880,
     "type": "URL_WEBSITE",
     "url": "https://felineinferno.weebly.com/"
+  },
+  {
+    "id": 15692,
+    "creator_id": 881,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/duncekat/"
+  },
+  {
+    "id": 15693,
+    "creator_id": 881,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/store/duncekat"
+  },
+  {
+    "id": 15691,
+    "creator_id": 881,
+    "type": "URL_TUMBLR",
+    "url": "https://www.tumblr.com/duncekat"
+  },
+  {
+    "id": 15694,
+    "creator_id": 882,
+    "type": "URL_COMMISSIONS",
+    "url": "https://trello.com/b/21y8rWjM"
+  },
+  {
+    "id": 15695,
+    "creator_id": 882,
+    "type": "URL_FAQ",
+    "url": "https://docs.google.com/document/d/1WC-M1wNZ3E8_Uqx3tRLL-F9gDp-KE_jMZrsaZneVryg/edit?tab=t.0"
+  },
+  {
+    "id": 15696,
+    "creator_id": 882,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/jaxinthybox/"
+  },
+  {
+    "id": 15697,
+    "creator_id": 882,
+    "type": "URL_LINKLIST",
+    "url": "https://hydr.in/s73p"
+  },
+  {
+    "id": 15698,
+    "creator_id": 882,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/21y8rWjM/jaxbox-fursuit-queue-wips"
+  },
+  {
+    "id": 15699,
+    "creator_id": 882,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@jaxinthybox"
   }
 ]
