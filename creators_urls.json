@@ -2400,6 +2400,12 @@
     "url": "https://corgilegs.pizza/"
   },
   {
+    "id": 15725,
+    "creator_id": 77,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/onefurallstudios.bsky.social"
+  },
+  {
     "id": 310,
     "creator_id": 77,
     "type": "URL_COMMISSIONS",
@@ -2412,16 +2418,22 @@
     "url": "http://www.onefurall.com/faq"
   },
   {
-    "id": 304,
+    "id": 15724,
     "creator_id": 77,
     "type": "URL_FURSUITREVIEW",
-    "url": "https://fursuitreview.com/m/onefurall/"
+    "url": "https://fursuitreview.com/m/one-fur-all-studios/"
   },
   {
     "id": 308,
     "creator_id": 77,
     "type": "URL_FUR_AFFINITY",
     "url": "https://www.furaffinity.net/user/onefurall/"
+  },
+  {
+    "id": 15726,
+    "creator_id": 77,
+    "type": "URL_LINKLIST",
+    "url": "https://onefurallstudios.carrd.co/"
   },
   {
     "id": 306,
@@ -9264,6 +9276,12 @@
     "url": "https://twitter.com/FurryMachine"
   },
   {
+    "id": 15723,
+    "creator_id": 274,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/themenageriecostumes.com"
+  },
+  {
     "id": 1251,
     "creator_id": 274,
     "type": "URL_COMMISSIONS",
@@ -9276,10 +9294,22 @@
     "url": "https://www.facebook.com/TheMenagerieCostumes/"
   },
   {
+    "id": 15721,
+    "creator_id": 274,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/the-menagerie-costumes/"
+  },
+  {
     "id": 1248,
     "creator_id": 274,
     "type": "URL_TWITTER",
     "url": "https://twitter.com/tmcfursuits"
+  },
+  {
+    "id": 15722,
+    "creator_id": 274,
+    "type": "URL_WEBSITE",
+    "url": "https://www.themenageriecostumes.com/"
   },
   {
     "id": 1250,
