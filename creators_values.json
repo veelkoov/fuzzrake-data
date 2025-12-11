@@ -121608,6 +121608,12 @@
     "value": "2025-03-27 21:48:48"
   },
   {
+    "id": 22963,
+    "creator_id": 825,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-12-11 19:48:22"
+  },
+  {
     "id": 21076,
     "creator_id": 825,
     "field_name": "DOES_NSFW",
@@ -121617,58 +121623,70 @@
     "id": 21063,
     "creator_id": 825,
     "field_name": "FEATURES",
-    "value": "Attached tail"
+    "value": "Attached handpaws and feetpaws"
   },
   {
     "id": 21064,
     "creator_id": 825,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Attached tail"
   },
   {
     "id": 21065,
     "creator_id": 825,
     "field_name": "FEATURES",
-    "value": "In-head fans"
+    "value": "Exchangeable hairs"
   },
   {
     "id": 21066,
     "creator_id": 825,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 21067,
     "creator_id": 825,
     "field_name": "FEATURES",
-    "value": "LED eyes"
+    "value": "In-head fans"
   },
   {
     "id": 21068,
     "creator_id": 825,
     "field_name": "FEATURES",
-    "value": "Movable jaw"
+    "value": "Indoor feet"
   },
   {
     "id": 21069,
     "creator_id": 825,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "LED eyes"
   },
   {
     "id": 21070,
     "creator_id": 825,
     "field_name": "FEATURES",
-    "value": "Removable blush"
+    "value": "Movable jaw"
   },
   {
     "id": 21071,
     "creator_id": 825,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "Outdoor feet"
   },
   {
     "id": 21072,
+    "creator_id": 825,
+    "field_name": "FEATURES",
+    "value": "Removable blush"
+  },
+  {
+    "id": 22965,
+    "creator_id": 825,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 22966,
     "creator_id": 825,
     "field_name": "FEATURES",
     "value": "Removable horns/antlers"
@@ -121765,6 +121783,12 @@
   },
   {
     "id": 21046,
+    "creator_id": 825,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Premades"
+  },
+  {
+    "id": 22964,
     "creator_id": 825,
     "field_name": "PRODUCTION_MODELS",
     "value": "Standard commissions"
