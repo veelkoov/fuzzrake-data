@@ -49221,7 +49221,7 @@
     "id": 2040,
     "creator_id": 436,
     "field_name": "DATE_UPDATED",
-    "value": "2025-03-27 20:06:28"
+    "value": "2025-12-15 19:16:36"
   },
   {
     "id": 2044,
@@ -49399,6 +49399,12 @@
   },
   {
     "id": 16274,
+    "creator_id": 436,
+    "field_name": "STYLES",
+    "value": "Semi Toony"
+  },
+  {
+    "id": 22967,
     "creator_id": 436,
     "field_name": "STYLES",
     "value": "Toony"
@@ -126750,6 +126756,12 @@
     "value": "2025-08-29 19:26:45"
   },
   {
+    "id": 22968,
+    "creator_id": 855,
+    "field_name": "DATE_UPDATED",
+    "value": "2025-12-17 19:17:34"
+  },
+  {
     "id": 22072,
     "creator_id": 855,
     "field_name": "DOES_NSFW",
@@ -126813,13 +126825,13 @@
     "id": 22071,
     "creator_id": 855,
     "field_name": "NSFW_SOCIAL",
-    "value": "False"
+    "value": "True"
   },
   {
     "id": 22070,
     "creator_id": 855,
     "field_name": "NSFW_WEBSITE",
-    "value": "False"
+    "value": "True"
   },
   {
     "id": 22055,
@@ -126885,7 +126897,7 @@
     "id": 22073,
     "creator_id": 855,
     "field_name": "WORKS_WITH_MINORS",
-    "value": "True"
+    "value": "False"
   },
   {
     "id": 22098,
@@ -130665,7 +130677,7 @@
     "id": 22942,
     "creator_id": 879,
     "field_name": "DATE_UPDATED",
-    "value": "2025-11-28 20:55:35"
+    "value": "2025-12-17 19:06:59"
   },
   {
     "id": 22836,

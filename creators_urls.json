@@ -16434,6 +16434,12 @@
     "url": "https://bsky.app/profile/starcanearts.bsky.social"
   },
   {
+    "id": 15766,
+    "creator_id": 436,
+    "type": "URL_COMMISSIONS",
+    "url": "https://starcanearts.com/#Pricing"
+  },
+  {
     "id": 9822,
     "creator_id": 436,
     "type": "URL_DEVIANTART",
@@ -16464,10 +16470,16 @@
     "url": "https://www.instagram.com/starcanearts/"
   },
   {
-    "id": 11851,
+    "id": 15767,
     "creator_id": 436,
-    "type": "URL_LINKLIST",
-    "url": "https://starcanearts.carrd.co/"
+    "type": "URL_OTHER_SHOP",
+    "url": "https://ko-fi.com/starcanearts/shop"
+  },
+  {
+    "id": 15765,
+    "creator_id": 436,
+    "type": "URL_PRICES",
+    "url": "https://starcanearts.com/#Pricing"
   },
   {
     "id": 9825,
@@ -38550,6 +38562,12 @@
     "url": "https://bsky.app/profile/fursuitsandgiggles.bsky.social"
   },
   {
+    "id": 15776,
+    "creator_id": 855,
+    "type": "URL_COMMISSIONS",
+    "url": "https://fursuitsandgiggles.carrd.co/"
+  },
+  {
     "id": 15276,
     "creator_id": 855,
     "type": "URL_DONATIONS",
@@ -40110,49 +40128,49 @@
     "url": "https://linktr.ee/mahnuggets"
   },
   {
-    "id": 15716,
+    "id": 15772,
     "creator_id": 879,
     "type": "URL_MINIATURES",
     "url": "https://storage.scritch.es/scritch/09d74bebdafc015ba8ef1af861552cb09858ccbe/thumbnail_8fc2eb59-7df9-445e-b011-c2e284c48922.jpeg"
   },
   {
-    "id": 15717,
-    "creator_id": 879,
-    "type": "URL_MINIATURES",
-    "url": "https://storage.scritch.es/scritch/1ce316455c704d4b38a81d57b823fed50149f7c8/thumbnail_3f0ece66-8e9c-4a40-a294-c80568160b05.jpeg"
-  },
-  {
-    "id": 15715,
+    "id": 15775,
     "creator_id": 879,
     "type": "URL_MINIATURES",
     "url": "https://storage.scritch.es/scritch/86bd4306446af3271c5879a140deb5ec99b3eead/thumbnail_5d5a4624-bfd6-48ff-80bd-b9a996178ca0.jpeg"
   },
   {
-    "id": 15718,
+    "id": 15774,
+    "creator_id": 879,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/906436e263eff5f29ae4d27b1bd8d78715b30ef5/thumbnail_2447ed28-6d47-41aa-a4ec-61bb332c760b.jpeg"
+  },
+  {
+    "id": 15773,
     "creator_id": 879,
     "type": "URL_MINIATURES",
     "url": "https://storage.scritch.es/scritch/f0522dac4db69398b3f273bcd11a2a3557e67783/thumbnail_61f96279-39c3-4c32-8704-f34f3ac10e86.jpeg"
   },
   {
-    "id": 15712,
+    "id": 15770,
     "creator_id": 879,
     "type": "URL_PHOTOS",
-    "url": "https://scritch.es/pictures/2948329c-7c17-4ce6-9ccb-be323d7da6bc"
+    "url": "https://scritch.es/pictures/286b6531-d525-48de-bfe8-90ce9ce98239"
   },
   {
-    "id": 15713,
+    "id": 15769,
     "creator_id": 879,
     "type": "URL_PHOTOS",
     "url": "https://scritch.es/pictures/6b0a7e19-e787-4bef-9c48-2ba3b56ef3a8"
   },
   {
-    "id": 15710,
+    "id": 15771,
     "creator_id": 879,
     "type": "URL_PHOTOS",
     "url": "https://scritch.es/pictures/6b607b39-0ba6-4b30-b298-07c2b4c41649"
   },
   {
-    "id": 15711,
+    "id": 15768,
     "creator_id": 879,
     "type": "URL_PHOTOS",
     "url": "https://scritch.es/pictures/c6b26efb-c745-4057-8e0b-0a79fcea7673"
