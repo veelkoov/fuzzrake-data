@@ -57861,7 +57861,7 @@
     "id": 1773,
     "creator_id": 482,
     "field_name": "DATE_UPDATED",
-    "value": "2025-06-01 18:44:48"
+    "value": "2025-12-28 18:44:55"
   },
   {
     "id": 1777,
@@ -57897,16 +57897,28 @@
     "id": 6899,
     "creator_id": 482,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "LED eyes"
   },
   {
     "id": 19795,
     "creator_id": 482,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "LED/EL lights"
   },
   {
     "id": 19796,
+    "creator_id": 482,
+    "field_name": "FEATURES",
+    "value": "Outdoor feet"
+  },
+  {
+    "id": 22969,
+    "creator_id": 482,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 22970,
     "creator_id": 482,
     "field_name": "FEATURES",
     "value": "Washable heads"
@@ -114201,7 +114213,7 @@
     "id": 21970,
     "creator_id": 783,
     "field_name": "DATE_UPDATED",
-    "value": "2025-08-10 13:20:37"
+    "value": "2026-01-03 11:59:50"
   },
   {
     "id": 19678,
@@ -114264,37 +114276,49 @@
     "value": "Mini partial (head + handpaws + tail)"
   },
   {
-    "id": 19669,
+    "id": 19670,
     "creator_id": 783,
     "field_name": "OTHER_FEATURES",
     "value": "2D eyes"
   },
   {
+    "id": 19669,
+    "creator_id": 783,
+    "field_name": "OTHER_FEATURES",
+    "value": "Custom carved foam head bases"
+  },
+  {
     "id": 19674,
+    "creator_id": 783,
+    "field_name": "OTHER_FEATURES",
+    "value": "Hair (from faux fur)"
+  },
+  {
+    "id": 22991,
     "creator_id": 783,
     "field_name": "OTHER_FEATURES",
     "value": "Lined handpaws"
   },
   {
-    "id": 19673,
+    "id": 22990,
     "creator_id": 783,
     "field_name": "OTHER_FEATURES",
     "value": "Lined head"
   },
   {
-    "id": 19672,
+    "id": 19673,
     "creator_id": 783,
     "field_name": "OTHER_FEATURES",
     "value": "Piercings (soft/plush)"
   },
   {
-    "id": 19670,
+    "id": 19671,
     "creator_id": 783,
     "field_name": "OTHER_FEATURES",
     "value": "Velcro eyelids"
   },
   {
-    "id": 19671,
+    "id": 19672,
     "creator_id": 783,
     "field_name": "OTHER_FEATURES",
     "value": "Whiskers"
@@ -129879,7 +129903,7 @@
     "id": 22880,
     "creator_id": 875,
     "field_name": "DATE_UPDATED",
-    "value": "2025-12-06 13:15:46"
+    "value": "2026-01-03 12:03:25"
   },
   {
     "id": 22728,
@@ -131392,5 +131416,119 @@
     "creator_id": 883,
     "field_name": "WORKS_WITH_MINORS",
     "value": "False"
+  },
+  {
+    "id": 22986,
+    "creator_id": 884,
+    "field_name": "AGES",
+    "value": "ADULTS"
+  },
+  {
+    "id": 22971,
+    "creator_id": 884,
+    "field_name": "DATE_ADDED",
+    "value": "2025-12-28 19:14:27"
+  },
+  {
+    "id": 22989,
+    "creator_id": 884,
+    "field_name": "DOES_NSFW",
+    "value": "True"
+  },
+  {
+    "id": 22972,
+    "creator_id": 884,
+    "field_name": "LANGUAGES",
+    "value": "English"
+  },
+  {
+    "id": 22988,
+    "creator_id": 884,
+    "field_name": "NSFW_SOCIAL",
+    "value": "True"
+  },
+  {
+    "id": 22987,
+    "creator_id": 884,
+    "field_name": "NSFW_WEBSITE",
+    "value": "True"
+  },
+  {
+    "id": 22976,
+    "creator_id": 884,
+    "field_name": "ORDER_TYPES",
+    "value": "Bodysuits (as parts/separate)"
+  },
+  {
+    "id": 22977,
+    "creator_id": 884,
+    "field_name": "ORDER_TYPES",
+    "value": "Feetpaws (as parts/separate)"
+  },
+  {
+    "id": 22978,
+    "creator_id": 884,
+    "field_name": "ORDER_TYPES",
+    "value": "Full digitigrade"
+  },
+  {
+    "id": 22979,
+    "creator_id": 884,
+    "field_name": "ORDER_TYPES",
+    "value": "Full plantigrade"
+  },
+  {
+    "id": 22980,
+    "creator_id": 884,
+    "field_name": "ORDER_TYPES",
+    "value": "Handpaws (as parts/separate)"
+  },
+  {
+    "id": 22981,
+    "creator_id": 884,
+    "field_name": "ORDER_TYPES",
+    "value": "Head (as parts/separate)"
+  },
+  {
+    "id": 22982,
+    "creator_id": 884,
+    "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 22983,
+    "creator_id": 884,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 22984,
+    "creator_id": 884,
+    "field_name": "ORDER_TYPES",
+    "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 22985,
+    "creator_id": 884,
+    "field_name": "ORDER_TYPES",
+    "value": "Three-fourth (head + handpaws + tail + legs/pants + feetpaws)"
+  },
+  {
+    "id": 22973,
+    "creator_id": 884,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Premades"
+  },
+  {
+    "id": 22974,
+    "creator_id": 884,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Standard commissions"
+  },
+  {
+    "id": 22975,
+    "creator_id": 884,
+    "field_name": "STYLES",
+    "value": "Toony"
   }
 ]

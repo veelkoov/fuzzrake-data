@@ -18780,6 +18780,18 @@
     "url": "https://www.patreon.com/c/DogWoolLLC/"
   },
   {
+    "id": 15778,
+    "creator_id": 482,
+    "type": "URL_FAQ",
+    "url": "https://dogwool.square.site/faq"
+  },
+  {
+    "id": 15779,
+    "creator_id": 482,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:dogwoolowner"
+  },
+  {
     "id": 10351,
     "creator_id": 482,
     "type": "URL_INSTAGRAM",
@@ -18790,6 +18802,12 @@
     "creator_id": 482,
     "type": "URL_LINKLIST",
     "url": "https://linktr.ee/DogWool"
+  },
+  {
+    "id": 15782,
+    "creator_id": 482,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/875942.jpg"
   },
   {
     "id": 15063,
@@ -18804,6 +18822,12 @@
     "url": "https://dogwool.square.site/s/shop"
   },
   {
+    "id": 15780,
+    "creator_id": 482,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/875942"
+  },
+  {
     "id": 10349,
     "creator_id": 482,
     "type": "URL_PRICES",
@@ -18814,6 +18838,12 @@
     "creator_id": 482,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/HcG1qVtI/dogwool-queue"
+  },
+  {
+    "id": 15781,
+    "creator_id": 482,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/DogWoolLLC"
   },
   {
     "id": 11999,
@@ -39756,7 +39786,7 @@
     "url": "https://bsky.app/profile/demolition-d1no.bsky.social"
   },
   {
-    "id": 15595,
+    "id": 15788,
     "creator_id": 875,
     "type": "URL_COMMISSIONS",
     "url": "https://www.furaffinity.net/user/demolition-d1no/"
@@ -39870,10 +39900,10 @@
     "url": "https://www.furtrack.com/p/786074"
   },
   {
-    "id": 15687,
+    "id": 15787,
     "creator_id": 875,
     "type": "URL_PRICES",
-    "url": "https://docs.google.com/document/d/1Z7yrwT-p_MapB7UDLsfQPJk1CTKFZmcxVYAUymdE8D0/edit?usp=sharing"
+    "url": "https://d3molitiond1no.wixsite.com/demolition-d1no/about-2"
   },
   {
     "id": 15728,
@@ -39906,10 +39936,10 @@
     "url": "https://twitter.com/demolition_d1no"
   },
   {
-    "id": 15727,
+    "id": 15786,
     "creator_id": 875,
     "type": "URL_WEBSITE",
-    "url": "https://demolitiond1no.carrd.co"
+    "url": "https://d3molitiond1no.wixsite.com/demolition-d1no"
   },
   {
     "id": 15611,
@@ -40450,5 +40480,23 @@
     "creator_id": 883,
     "type": "URL_YOUTUBE",
     "url": "https://www.youtube.com/@juicydogfursuits"
+  },
+  {
+    "id": 15783,
+    "creator_id": 884,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/sleepynemuri/"
+  },
+  {
+    "id": 15784,
+    "creator_id": 884,
+    "type": "URL_MASTODON",
+    "url": "https://woof.tech/@grobinthegrove"
+  },
+  {
+    "id": 15785,
+    "creator_id": 884,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@grob-in-the-grove"
   }
 ]
