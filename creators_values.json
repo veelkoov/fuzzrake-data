@@ -85809,7 +85809,7 @@
     "id": 2350,
     "creator_id": 633,
     "field_name": "DATE_UPDATED",
-    "value": "2023-05-13 12:51:46"
+    "value": "2026-01-11 20:06:04"
   },
   {
     "id": 2349,
@@ -85821,46 +85821,58 @@
     "id": 9793,
     "creator_id": 633,
     "field_name": "FEATURES",
-    "value": "Attached tail"
+    "value": "Attached handpaws and feetpaws"
   },
   {
     "id": 9794,
     "creator_id": 633,
     "field_name": "FEATURES",
-    "value": "Exchangeable hairs"
+    "value": "Attached tail"
   },
   {
     "id": 9795,
     "creator_id": 633,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Exchangeable hairs"
   },
   {
     "id": 9796,
     "creator_id": 633,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 9797,
     "creator_id": 633,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "Follow-me eyes"
   },
   {
     "id": 9798,
     "creator_id": 633,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "In-head fans"
   },
   {
     "id": 9799,
     "creator_id": 633,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "Indoor feet"
   },
   {
     "id": 9800,
+    "creator_id": 633,
+    "field_name": "FEATURES",
+    "value": "Outdoor feet"
+  },
+  {
+    "id": 22992,
+    "creator_id": 633,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 22993,
     "creator_id": 633,
     "field_name": "FEATURES",
     "value": "Removable horns/antlers"
@@ -85941,7 +85953,7 @@
     "id": 9810,
     "creator_id": 633,
     "field_name": "OTHER_ORDER_TYPES",
-    "value": "I also make plushies."
+    "value": "Plushies"
   },
   {
     "id": 9790,
@@ -130701,7 +130713,7 @@
     "id": 22942,
     "creator_id": 879,
     "field_name": "DATE_UPDATED",
-    "value": "2025-12-17 19:06:59"
+    "value": "2026-01-11 20:08:49"
   },
   {
     "id": 22836,
@@ -130732,6 +130744,18 @@
     "creator_id": 879,
     "field_name": "ORDER_TYPES",
     "value": "Handpaws (as parts/separate)"
+  },
+  {
+    "id": 22994,
+    "creator_id": 879,
+    "field_name": "ORDER_TYPES",
+    "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 22995,
+    "creator_id": 879,
+    "field_name": "OTHER_FEATURES",
+    "value": "Hidden Belt Loop"
   },
   {
     "id": 22829,
