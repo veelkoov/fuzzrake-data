@@ -79416,6 +79416,12 @@
     "value": "2023-01-15 13:26:37"
   },
   {
+    "id": 23028,
+    "creator_id": 596,
+    "field_name": "DATE_UPDATED",
+    "value": "2026-02-01 20:20:03"
+  },
+  {
     "id": 2103,
     "creator_id": 596,
     "field_name": "DOES_NSFW",
@@ -79437,64 +79443,52 @@
     "id": 8355,
     "creator_id": 596,
     "field_name": "FEATURES",
-    "value": "Exchangeable hairs"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 8356,
     "creator_id": 596,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Follow-me eyes"
   },
   {
     "id": 8357,
     "creator_id": 596,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "In-head fans"
   },
   {
     "id": 8358,
     "creator_id": 596,
     "field_name": "FEATURES",
-    "value": "In-head fans"
+    "value": "Indoor feet"
   },
   {
     "id": 8359,
     "creator_id": 596,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "LED eyes"
   },
   {
     "id": 8360,
     "creator_id": 596,
     "field_name": "FEATURES",
-    "value": "LED eyes"
+    "value": "Outdoor feet"
   },
   {
     "id": 8361,
     "creator_id": 596,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Removable eyelids"
   },
   {
     "id": 8362,
     "creator_id": 596,
     "field_name": "FEATURES",
-    "value": "Removable blush"
-  },
-  {
-    "id": 8363,
-    "creator_id": 596,
-    "field_name": "FEATURES",
-    "value": "Removable eyelids"
-  },
-  {
-    "id": 8364,
-    "creator_id": 596,
-    "field_name": "FEATURES",
     "value": "Removable horns/antlers"
   },
   {
-    "id": 8365,
+    "id": 8363,
     "creator_id": 596,
     "field_name": "FEATURES",
     "value": "Washable heads"
@@ -79587,7 +79581,7 @@
     "id": 8378,
     "creator_id": 596,
     "field_name": "OTHER_STYLES",
-    "value": "Semi Grumpy and Grumpy"
+    "value": "Grumpy and Monster style"
   },
   {
     "id": 8350,
@@ -106689,13 +106683,25 @@
     "id": 3088,
     "creator_id": 738,
     "field_name": "AGES",
-    "value": "MINORS"
+    "value": "ADULTS"
   },
   {
     "id": 3087,
     "creator_id": 738,
     "field_name": "DATE_ADDED",
     "value": "2024-07-28 15:52:20"
+  },
+  {
+    "id": 23024,
+    "creator_id": 738,
+    "field_name": "DATE_UPDATED",
+    "value": "2026-02-01 17:32:21"
+  },
+  {
+    "id": 23026,
+    "creator_id": 738,
+    "field_name": "DOES_NSFW",
+    "value": "False"
   },
   {
     "id": 9966,
@@ -106827,10 +106833,16 @@
     "id": 9964,
     "creator_id": 738,
     "field_name": "PRODUCTION_MODELS",
-    "value": "Premades"
+    "value": "Artistic liberty commissions"
   },
   {
     "id": 9965,
+    "creator_id": 738,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Premades"
+  },
+  {
+    "id": 23025,
     "creator_id": 738,
     "field_name": "PRODUCTION_MODELS",
     "value": "Standard commissions"
@@ -108934,6 +108946,12 @@
     "creator_id": 751,
     "field_name": "DATE_ADDED",
     "value": "2024-09-08 16:10:25"
+  },
+  {
+    "id": 23027,
+    "creator_id": 751,
+    "field_name": "DATE_UPDATED",
+    "value": "2026-02-01 17:33:40"
   },
   {
     "id": 3163,
