@@ -26412,12 +26412,6 @@
     "url": "https://www.furaffinity.net/user/goldfurcreations/"
   },
   {
-    "id": 12321,
-    "creator_id": 632,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/jonathan_goldfur/"
-  },
-  {
     "id": 12337,
     "creator_id": 633,
     "type": "URL_COMMISSIONS",
@@ -28728,10 +28722,16 @@
     "url": "https://bubblegums-bakery.tumblr.com/"
   },
   {
-    "id": 12849,
+    "id": 15857,
     "creator_id": 673,
     "type": "URL_COMMISSIONS",
-    "url": "https://www.instagram.com/thistlecrux/"
+    "url": "https://www.thistlecrux.com/commission"
+  },
+  {
+    "id": 15858,
+    "creator_id": 673,
+    "type": "URL_ETSY",
+    "url": "https://thistlecrux.etsy.com/"
   },
   {
     "id": 12941,
@@ -28740,16 +28740,70 @@
     "url": "https://fursuitreview.com/m/thistlecrux/"
   },
   {
+    "id": 15859,
+    "creator_id": 673,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:thistlecrux"
+  },
+  {
     "id": 12850,
     "creator_id": 673,
     "type": "URL_INSTAGRAM",
     "url": "https://www.instagram.com/thistlecrux/"
   },
   {
-    "id": 12853,
+    "id": 15867,
     "creator_id": 673,
-    "type": "URL_OTHER",
-    "url": "Telegram"
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1522683.jpg"
+  },
+  {
+    "id": 15865,
+    "creator_id": 673,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/290558.jpg"
+  },
+  {
+    "id": 15868,
+    "creator_id": 673,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/667014.jpg"
+  },
+  {
+    "id": 15866,
+    "creator_id": 673,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/772305.jpg"
+  },
+  {
+    "id": 15862,
+    "creator_id": 673,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1522683"
+  },
+  {
+    "id": 15860,
+    "creator_id": 673,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/290558"
+  },
+  {
+    "id": 15863,
+    "creator_id": 673,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/667014"
+  },
+  {
+    "id": 15861,
+    "creator_id": 673,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/772305"
+  },
+  {
+    "id": 15856,
+    "creator_id": 673,
+    "type": "URL_PRICES",
+    "url": "https://www.thistlecrux.com/price-guide"
   },
   {
     "id": 12852,
@@ -28758,10 +28812,22 @@
     "url": "https://trello.com/b/3Zh601Ee/thistlecrux-commissions"
   },
   {
+    "id": 15864,
+    "creator_id": 673,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/thistlecrux"
+  },
+  {
     "id": 12851,
     "creator_id": 673,
     "type": "URL_THE_DEALERS_DEN",
     "url": "https://www.thedealersden.com/display-feedback/thistlecrux"
+  },
+  {
+    "id": 15855,
+    "creator_id": 673,
+    "type": "URL_WEBSITE",
+    "url": "https://thistlecrux.com"
   },
   {
     "id": 12856,
@@ -36978,10 +37044,16 @@
     "url": "https://www.youtube.com/@knoxinabox"
   },
   {
-    "id": 14768,
+    "id": 15869,
     "creator_id": 821,
-    "type": "URL_BLUESKY",
-    "url": "https://bsky.app/profile/inevitablegoose.bsky.social"
+    "type": "URL_COMMISSIONS",
+    "url": "https://inevitablegoose.com/fursuits/commissions/status.html"
+  },
+  {
+    "id": 15870,
+    "creator_id": 821,
+    "type": "URL_FAQ",
+    "url": "https://inevitablegoose.com/fursuits/commissions/"
   },
   {
     "id": 14767,

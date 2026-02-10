@@ -93630,10 +93630,16 @@
     "value": "2023-09-27 19:09:08"
   },
   {
+    "id": 23029,
+    "creator_id": 673,
+    "field_name": "DATE_UPDATED",
+    "value": "2026-02-09 11:30:19"
+  },
+  {
     "id": 2622,
     "creator_id": 673,
     "field_name": "DOES_NSFW",
-    "value": "False"
+    "value": "True"
   },
   {
     "id": 17471,
@@ -93762,6 +93768,12 @@
     "value": "Three-fourth (head + handpaws + tail + legs/pants + feetpaws)"
   },
   {
+    "id": 23034,
+    "creator_id": 673,
+    "field_name": "OTHER_FEATURES",
+    "value": "Fully removable eyes, can be mixed and matched to change expression."
+  },
+  {
     "id": 17488,
     "creator_id": 673,
     "field_name": "OTHER_ORDER_TYPES",
@@ -93789,16 +93801,40 @@
     "id": 17489,
     "creator_id": 673,
     "field_name": "STYLES",
-    "value": "Semi Realistic"
+    "value": "Anime"
   },
   {
     "id": 17490,
     "creator_id": 673,
     "field_name": "STYLES",
-    "value": "Semi Toony"
+    "value": "Kemono"
   },
   {
     "id": 17491,
+    "creator_id": 673,
+    "field_name": "STYLES",
+    "value": "Kigurumi"
+  },
+  {
+    "id": 23030,
+    "creator_id": 673,
+    "field_name": "STYLES",
+    "value": "Realistic"
+  },
+  {
+    "id": 23031,
+    "creator_id": 673,
+    "field_name": "STYLES",
+    "value": "Semi Realistic"
+  },
+  {
+    "id": 23032,
+    "creator_id": 673,
+    "field_name": "STYLES",
+    "value": "Semi Toony"
+  },
+  {
+    "id": 23033,
     "creator_id": 673,
     "field_name": "STYLES",
     "value": "Toony"
@@ -121080,10 +121116,16 @@
     "value": "2025-03-13 19:55:15"
   },
   {
+    "id": 23035,
+    "creator_id": 821,
+    "field_name": "DATE_UPDATED",
+    "value": "2026-02-09 11:39:20"
+  },
+  {
     "id": 20935,
     "creator_id": 821,
     "field_name": "DOES_NSFW",
-    "value": "True"
+    "value": "False"
   },
   {
     "id": 20920,
@@ -121161,13 +121203,13 @@
     "id": 20934,
     "creator_id": 821,
     "field_name": "NSFW_SOCIAL",
-    "value": "True"
+    "value": "False"
   },
   {
     "id": 20933,
     "creator_id": 821,
     "field_name": "NSFW_WEBSITE",
-    "value": "True"
+    "value": "False"
   },
   {
     "id": 20914,
@@ -121234,6 +121276,12 @@
     "creator_id": 821,
     "field_name": "STYLES",
     "value": "Toony"
+  },
+  {
+    "id": 23036,
+    "creator_id": 821,
+    "field_name": "WORKS_WITH_MINORS",
+    "value": "True"
   },
   {
     "id": 20965,
