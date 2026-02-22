@@ -8874,10 +8874,34 @@
     "url": "https://www.instagram.com/northernkaiju/"
   },
   {
+    "id": 15896,
+    "creator_id": 263,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/tokaisuiting.com"
+  },
+  {
     "id": 1190,
     "creator_id": 263,
     "type": "URL_COMMISSIONS",
     "url": "http://tokaisuiting.com/"
+  },
+  {
+    "id": 15897,
+    "creator_id": 263,
+    "type": "URL_DONATIONS",
+    "url": "https://ko-fi.com/tokai"
+  },
+  {
+    "id": 15885,
+    "creator_id": 263,
+    "type": "URL_FAQ",
+    "url": "https://tokaisuiting.com/tos.html"
+  },
+  {
+    "id": 15890,
+    "creator_id": 263,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:tokaisuiting"
   },
   {
     "id": 1188,
@@ -8886,10 +8910,88 @@
     "url": "https://www.furaffinity.net/user/tokai/"
   },
   {
-    "id": 1187,
+    "id": 15888,
+    "creator_id": 263,
+    "type": "URL_LINKLIST",
+    "url": "https://tokaisuiting.com/links.html"
+  },
+  {
+    "id": 15886,
+    "creator_id": 263,
+    "type": "URL_MASTODON",
+    "url": "https://mastodon.social/@TokaiSuiting"
+  },
+  {
+    "id": 15901,
+    "creator_id": 263,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1504470.jpg"
+  },
+  {
+    "id": 15898,
+    "creator_id": 263,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1703417.jpg"
+  },
+  {
+    "id": 15899,
+    "creator_id": 263,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/294036.jpg"
+  },
+  {
+    "id": 15902,
+    "creator_id": 263,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/39460.jpg"
+  },
+  {
+    "id": 15900,
+    "creator_id": 263,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/44857.jpg"
+  },
+  {
+    "id": 15889,
+    "creator_id": 263,
+    "type": "URL_OTHER_SHOP",
+    "url": "https://www.snipsandsnails.net/"
+  },
+  {
+    "id": 15894,
+    "creator_id": 263,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1504470"
+  },
+  {
+    "id": 15891,
+    "creator_id": 263,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1703417"
+  },
+  {
+    "id": 15892,
+    "creator_id": 263,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/294036"
+  },
+  {
+    "id": 15895,
+    "creator_id": 263,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/39460"
+  },
+  {
+    "id": 15893,
+    "creator_id": 263,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/44857"
+  },
+  {
+    "id": 15884,
     "creator_id": 263,
     "type": "URL_PRICES",
-    "url": "http://tokaisuiting.com/"
+    "url": "https://tokaisuiting.com/pricing.html"
   },
   {
     "id": 1189,
@@ -8902,6 +9004,12 @@
     "creator_id": 263,
     "type": "URL_WEBSITE",
     "url": "http://tokaisuiting.com/"
+  },
+  {
+    "id": 15887,
+    "creator_id": 263,
+    "type": "URL_YOUTUBE",
+    "url": "https://tokaisuiting.com/howto.html"
   },
   {
     "id": 10755,
@@ -26448,46 +26556,46 @@
     "url": "https://www.furaffinity.net/user/goldfurcreations/"
   },
   {
-    "id": 12337,
+    "id": 15878,
     "creator_id": 633,
     "type": "URL_COMMISSIONS",
-    "url": "https://trello.com/c/x2M4lhPg/34-commision-status"
+    "url": "https://www.furaffinity.net/user/kodi.kreations.uk/"
   },
   {
-    "id": 12335,
+    "id": 15881,
     "creator_id": 633,
     "type": "URL_ETSY",
-    "url": "https://www.etsy.com/shop/HoneysuckleUK"
+    "url": "https://www.etsy.com/shop/KodiKreationsUK"
   },
   {
-    "id": 12333,
+    "id": 15879,
     "creator_id": 633,
     "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/_honeysucklez_/"
+    "url": "https://www.instagram.com/kodi.kreations.uk/"
   },
   {
-    "id": 12336,
+    "id": 15880,
+    "creator_id": 633,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/kodi.kreations"
+  },
+  {
+    "id": 15882,
     "creator_id": 633,
     "type": "URL_QUEUE",
-    "url": "https://trello.com/b/vuiAIvmT/honeysuckles-home"
+    "url": "https://trello.com/b/vuiAIvmT/kodi-kreations-uk"
   },
   {
-    "id": 15790,
+    "id": 15883,
     "creator_id": 633,
     "type": "URL_TELEGRAM_CHANNEL",
-    "url": "https://t.me/honeysucklezuk"
+    "url": "https://t.me/kodikreations"
   },
   {
-    "id": 12332,
-    "creator_id": 633,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/HoneysucklezUK"
-  },
-  {
-    "id": 15789,
+    "id": 15877,
     "creator_id": 633,
     "type": "URL_WEBSITE",
-    "url": "https://trello.com/b/vuiAIvmT/honeysuckles-home"
+    "url": "https://trello.com/b/vuiAIvmT/kodi-kreations-uk"
   },
   {
     "id": 12364,
