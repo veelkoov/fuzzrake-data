@@ -61965,7 +61965,7 @@
     "id": 2655,
     "creator_id": 510,
     "field_name": "DATE_UPDATED",
-    "value": "2024-07-28 15:19:32"
+    "value": "2026-03-01 18:58:40"
   },
   {
     "id": 1226,
@@ -64038,6 +64038,12 @@
     "value": "2022-02-13 19:13:19"
   },
   {
+    "id": 23055,
+    "creator_id": 521,
+    "field_name": "DATE_UPDATED",
+    "value": "2026-03-01 20:02:31"
+  },
+  {
     "id": 1337,
     "creator_id": 521,
     "field_name": "DOES_NSFW",
@@ -64077,10 +64083,16 @@
     "id": 9948,
     "creator_id": 521,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Movable jaw"
   },
   {
     "id": 9949,
+    "creator_id": 521,
+    "field_name": "FEATURES",
+    "value": "Outdoor feet"
+  },
+  {
+    "id": 23059,
     "creator_id": 521,
     "field_name": "FEATURES",
     "value": "Removable eyelids"
@@ -64140,6 +64152,18 @@
     "value": "Tails (as parts/separate)"
   },
   {
+    "id": 23061,
+    "creator_id": 521,
+    "field_name": "OTHER_FEATURES",
+    "value": "Cheek/ear vents for better hearing and ventilation in foam heads."
+  },
+  {
+    "id": 23060,
+    "creator_id": 521,
+    "field_name": "OTHER_FEATURES",
+    "value": "De-stuffing zippers."
+  },
+  {
     "id": 9951,
     "creator_id": 521,
     "field_name": "OTHER_FEATURES",
@@ -64162,6 +64186,18 @@
     "creator_id": 521,
     "field_name": "OTHER_FEATURES",
     "value": "Zipper pockets in ears (so you can use enamel pins or button pins as piercings)."
+  },
+  {
+    "id": 23057,
+    "creator_id": 521,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Bean Bags (Accessory zipper bags that look like a paw.)"
+  },
+  {
+    "id": 23058,
+    "creator_id": 521,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Economy fursuits/Half masks. (Mix between therian mask and fursuit head.)"
   },
   {
     "id": 9940,
@@ -64189,6 +64225,12 @@
   },
   {
     "id": 9961,
+    "creator_id": 521,
+    "field_name": "STYLES",
+    "value": "Semi Toony"
+  },
+  {
+    "id": 23056,
     "creator_id": 521,
     "field_name": "STYLES",
     "value": "Toony"
@@ -75615,7 +75657,7 @@
     "id": 2973,
     "creator_id": 583,
     "field_name": "DATE_UPDATED",
-    "value": "2025-01-26 21:08:50"
+    "value": "2026-03-01 19:23:42"
   },
   {
     "id": 18163,
@@ -75633,40 +75675,46 @@
     "id": 18165,
     "creator_id": 583,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Exchangeable hairs"
   },
   {
     "id": 18166,
     "creator_id": 583,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 18167,
     "creator_id": 583,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "Follow-me eyes"
   },
   {
     "id": 18168,
     "creator_id": 583,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Indoor feet"
   },
   {
     "id": 18169,
     "creator_id": 583,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "Outdoor feet"
   },
   {
     "id": 18170,
     "creator_id": 583,
     "field_name": "FEATURES",
-    "value": "Removable horns/antlers"
+    "value": "Removable eyelids"
   },
   {
     "id": 18171,
+    "creator_id": 583,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
+  },
+  {
+    "id": 23054,
     "creator_id": 583,
     "field_name": "FEATURES",
     "value": "Washable heads"
@@ -75676,12 +75724,6 @@
     "creator_id": 583,
     "field_name": "LANGUAGES",
     "value": "English"
-  },
-  {
-    "id": 18159,
-    "creator_id": 583,
-    "field_name": "LANGUAGES",
-    "value": "German (limited)"
   },
   {
     "id": 1999,
@@ -124134,34 +124176,46 @@
     "value": "2025-08-29 19:28:47"
   },
   {
+    "id": 23048,
+    "creator_id": 856,
+    "field_name": "DATE_UPDATED",
+    "value": "2026-03-01 19:20:28"
+  },
+  {
+    "id": 23053,
+    "creator_id": 856,
+    "field_name": "DOES_NSFW",
+    "value": "True"
+  },
+  {
     "id": 22090,
     "creator_id": 856,
     "field_name": "FEATURES",
-    "value": "Attached tail"
+    "value": "Adjustable/wiggle ears"
   },
   {
     "id": 22091,
     "creator_id": 856,
     "field_name": "FEATURES",
-    "value": "Exchangeable hairs"
+    "value": "Attached tail"
   },
   {
     "id": 22092,
     "creator_id": 856,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Exchangeable hairs"
   },
   {
     "id": 22093,
     "creator_id": 856,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 22094,
     "creator_id": 856,
     "field_name": "FEATURES",
-    "value": "In-head fans"
+    "value": "Follow-me eyes"
   },
   {
     "id": 22095,
@@ -124179,7 +124233,19 @@
     "id": 22097,
     "creator_id": 856,
     "field_name": "FEATURES",
+    "value": "Removable blush"
+  },
+  {
+    "id": 23051,
+    "creator_id": 856,
+    "field_name": "FEATURES",
     "value": "Removable eyelids"
+  },
+  {
+    "id": 23052,
+    "creator_id": 856,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
   },
   {
     "id": 22077,
@@ -124215,58 +124281,58 @@
     "id": 22082,
     "creator_id": 856,
     "field_name": "ORDER_TYPES",
-    "value": "Bodysuits (as parts/separate)"
+    "value": "Feetpaws (as parts/separate)"
   },
   {
     "id": 22083,
     "creator_id": 856,
     "field_name": "ORDER_TYPES",
-    "value": "Feetpaws (as parts/separate)"
+    "value": "Handpaws (as parts/separate)"
   },
   {
     "id": 22084,
     "creator_id": 856,
     "field_name": "ORDER_TYPES",
-    "value": "Full plantigrade"
+    "value": "Head (as parts/separate)"
   },
   {
     "id": 22085,
     "creator_id": 856,
     "field_name": "ORDER_TYPES",
-    "value": "Handpaws (as parts/separate)"
+    "value": "Mini partial (head + handpaws + tail)"
   },
   {
     "id": 22086,
     "creator_id": 856,
     "field_name": "ORDER_TYPES",
-    "value": "Head (as parts/separate)"
+    "value": "Partial (head + handpaws + tail + feetpaws)"
   },
   {
     "id": 22087,
     "creator_id": 856,
     "field_name": "ORDER_TYPES",
-    "value": "Mini partial (head + handpaws + tail)"
-  },
-  {
-    "id": 22088,
-    "creator_id": 856,
-    "field_name": "ORDER_TYPES",
-    "value": "Partial (head + handpaws + tail + feetpaws)"
-  },
-  {
-    "id": 22089,
-    "creator_id": 856,
-    "field_name": "ORDER_TYPES",
     "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 23050,
+    "creator_id": 856,
+    "field_name": "OTHER_STYLES",
+    "value": "Semi-kemono"
   },
   {
     "id": 22078,
     "creator_id": 856,
     "field_name": "PRODUCTION_MODELS",
-    "value": "Premades"
+    "value": "Artistic liberty commissions"
   },
   {
     "id": 22079,
+    "creator_id": 856,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Premades"
+  },
+  {
+    "id": 23049,
     "creator_id": 856,
     "field_name": "PRODUCTION_MODELS",
     "value": "Standard commissions"
