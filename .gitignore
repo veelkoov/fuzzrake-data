@@ -4,6 +4,8 @@
 # Private stuff should never be published
 *private*
 /submissions.*
+/reset_password_requests.*
+/users.*
 
 # Volatile information, easily reproducible
 /creators_offers_statuses.*
