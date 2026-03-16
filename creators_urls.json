@@ -5520,12 +5520,6 @@
     "url": "https://www.furaffinity.net/user/ladynightlight/"
   },
   {
-    "id": 759,
-    "creator_id": 185,
-    "type": "URL_DEVIANTART",
-    "url": "https://ladynightlight.deviantart.com/"
-  },
-  {
     "id": 14899,
     "creator_id": 185,
     "type": "URL_DONATIONS",
@@ -5542,12 +5536,6 @@
     "creator_id": 185,
     "type": "URL_FACEBOOK",
     "url": "https://www.facebook.com/CreationsbyLadyNightLight/"
-  },
-  {
-    "id": 12374,
-    "creator_id": 185,
-    "type": "URL_FAQ",
-    "url": "http://ladynightlight.com/terms-of-service"
   },
   {
     "id": 9420,
@@ -5574,28 +5562,34 @@
     "url": "https://linktr.ee/ladynightlight"
   },
   {
-    "id": 14915,
+    "id": 15936,
     "creator_id": 185,
     "type": "URL_MINIATURES",
     "url": "https://storage.scritch.es/scritch/66420c0cc31e80c12a7d2665e41aa55daacb0f01/thumbnail_522ba461-0fab-40d2-a36d-bf7239168762.jpeg"
   },
   {
-    "id": 14913,
+    "id": 15932,
+    "creator_id": 185,
+    "type": "URL_MINIATURES",
+    "url": "https://storage.scritch.es/scritch/7f7f77ceef9f8176ddef5493c710e6fe80bb737b/thumbnail_c09146b2-5a86-4ab8-baa5-5d84f5b9601c.jpeg"
+  },
+  {
+    "id": 15934,
     "creator_id": 185,
     "type": "URL_MINIATURES",
     "url": "https://storage.scritch.es/scritch/b8cbec058db3c7ba682525f30f1914485f1486c0/thumbnail_c0100595-ebdb-4130-adfc-7468c08e6239.jpeg"
   },
   {
-    "id": 14914,
+    "id": 15935,
     "creator_id": 185,
     "type": "URL_MINIATURES",
     "url": "https://storage.scritch.es/scritch/c5187dc96a5a35d5c2a447cc50d2b9a5c9c7cbab/thumbnail_6a2e4dcb-3654-413e-ae78-92b154a37c48.jpeg"
   },
   {
-    "id": 14921,
+    "id": 15933,
     "creator_id": 185,
     "type": "URL_MINIATURES",
-    "url": "https://storage.scritch.es/scritch/f30b328f489d3b93059fe21408384f01517d2b6b/thumbnail_1135d83e-4841-47c9-aa1d-f75ccfe79b8b.jpeg#r90"
+    "url": "https://storage.scritch.es/scritch/f30b328f489d3b93059fe21408384f01517d2b6b/thumbnail_1135d83e-4841-47c9-aa1d-f75ccfe79b8b.jpeg"
   },
   {
     "id": 14897,
@@ -5604,34 +5598,40 @@
     "url": "https://discord.gg/UymWFQ8fK9"
   },
   {
-    "id": 14896,
+    "id": 15931,
     "creator_id": 185,
     "type": "URL_PHOTOS",
     "url": "https://scritch.es/pictures/04575f16-02d1-4cab-9635-c319a8deef23"
   },
   {
-    "id": 14894,
+    "id": 15927,
+    "creator_id": 185,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/1a27eda3-4422-4c08-b6a8-6da6e87ca81b"
+  },
+  {
+    "id": 15929,
     "creator_id": 185,
     "type": "URL_PHOTOS",
     "url": "https://scritch.es/pictures/6aabba3d-660f-46d6-a9a4-cc49231ade1e"
   },
   {
-    "id": 12376,
+    "id": 15928,
     "creator_id": 185,
     "type": "URL_PHOTOS",
     "url": "https://scritch.es/pictures/74fdfd95-036e-4d01-9e84-876d81718f52"
   },
   {
-    "id": 14895,
+    "id": 15930,
     "creator_id": 185,
     "type": "URL_PHOTOS",
     "url": "https://scritch.es/pictures/c9abd84e-6d8d-4bbe-b25a-1fce51b7c61e"
   },
   {
-    "id": 12373,
+    "id": 15926,
     "creator_id": 185,
     "type": "URL_PRICES",
-    "url": "https://www.ladynightlight.com/pricing"
+    "url": "https://linktr.ee/ladynightlight"
   },
   {
     "id": 764,
@@ -5658,22 +5658,10 @@
     "url": "https://www.tiktok.com/@ladynightlight"
   },
   {
-    "id": 760,
-    "creator_id": 185,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/LadyNightLight"
-  },
-  {
     "id": 755,
     "creator_id": 185,
     "type": "URL_WEBSITE",
     "url": "https://linktr.ee/ladynightlight"
-  },
-  {
-    "id": 763,
-    "creator_id": 185,
-    "type": "URL_YOUTUBE",
-    "url": "https://www.youtube.com/channel/UCgsyI_l04JSjjQxQH44nPtw"
   },
   {
     "id": 770,
@@ -34554,6 +34542,18 @@
     "url": "https://www.youtube.com/@AkaniCreationsOfficial"
   },
   {
+    "id": 15923,
+    "creator_id": 774,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/kyraxfox.bsky.social"
+  },
+  {
+    "id": 15921,
+    "creator_id": 774,
+    "type": "URL_COMMISSIONS",
+    "url": "https://trello.com/b/nev82gzD/kyrafox-commissions"
+  },
+  {
     "id": 14124,
     "creator_id": 774,
     "type": "URL_DEVIANTART",
@@ -34578,10 +34578,28 @@
     "url": "https://linktr.ee/kyrafox"
   },
   {
-    "id": 14122,
+    "id": 15920,
     "creator_id": 774,
     "type": "URL_PRICES",
-    "url": "http://kyraxfox.de/"
+    "url": "https://trello.com/b/nev82gzD/kyrafox-commissions"
+  },
+  {
+    "id": 15922,
+    "creator_id": 774,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/nev82gzD/kyrafox-commissions"
+  },
+  {
+    "id": 15924,
+    "creator_id": 774,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/KyraFoxworks"
+  },
+  {
+    "id": 15925,
+    "creator_id": 774,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@kyraxfox"
   },
   {
     "id": 14125,

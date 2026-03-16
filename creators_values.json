@@ -12315,7 +12315,7 @@
     "id": 1588,
     "creator_id": 185,
     "field_name": "DATE_UPDATED",
-    "value": "2025-06-24 16:16:59"
+    "value": "2026-03-16 21:18:29"
   },
   {
     "id": 1592,
@@ -12375,22 +12375,28 @@
     "id": 6272,
     "creator_id": 185,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Movable jaw"
   },
   {
     "id": 6273,
     "creator_id": 185,
     "field_name": "FEATURES",
-    "value": "Removable blush"
+    "value": "Outdoor feet"
   },
   {
     "id": 21323,
     "creator_id": 185,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "Removable blush"
   },
   {
     "id": 21754,
+    "creator_id": 185,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 23066,
     "creator_id": 185,
     "field_name": "FEATURES",
     "value": "Removable horns/antlers"
@@ -110412,6 +110418,12 @@
     "value": "2024-09-29 12:39:09"
   },
   {
+    "id": 23062,
+    "creator_id": 774,
+    "field_name": "DATE_UPDATED",
+    "value": "2026-03-16 21:10:03"
+  },
+  {
     "id": 3307,
     "creator_id": 774,
     "field_name": "DOES_NSFW",
@@ -110421,52 +110433,70 @@
     "id": 11028,
     "creator_id": 774,
     "field_name": "FEATURES",
-    "value": "Attached tail"
+    "value": "Attached handpaws and feetpaws"
   },
   {
     "id": 11029,
     "creator_id": 774,
     "field_name": "FEATURES",
-    "value": "Exchangeable hairs"
+    "value": "Attached tail"
   },
   {
     "id": 11030,
     "creator_id": 774,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Exchangeable hairs"
   },
   {
     "id": 11031,
     "creator_id": 774,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 11032,
     "creator_id": 774,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "Follow-me eyes"
   },
   {
     "id": 11033,
     "creator_id": 774,
     "field_name": "FEATURES",
-    "value": "Movable jaw"
+    "value": "In-head fans"
   },
   {
     "id": 11034,
     "creator_id": 774,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Indoor feet"
   },
   {
     "id": 11035,
     "creator_id": 774,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "LED eyes"
   },
   {
     "id": 11036,
+    "creator_id": 774,
+    "field_name": "FEATURES",
+    "value": "Movable jaw"
+  },
+  {
+    "id": 23063,
+    "creator_id": 774,
+    "field_name": "FEATURES",
+    "value": "Outdoor feet"
+  },
+  {
+    "id": 23064,
+    "creator_id": 774,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 23065,
     "creator_id": 774,
     "field_name": "FEATURES",
     "value": "Removable horns/antlers"
