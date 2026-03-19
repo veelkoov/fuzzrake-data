@@ -13764,22 +13764,10 @@
     "url": "https://www.youtube.com/channel/UCUfxhOWHPigAzQmMVzCWAKQ"
   },
   {
-    "id": 9322,
-    "creator_id": 385,
-    "type": "URL_FACEBOOK",
-    "url": "https://www.facebook.com/feelingfluffyfursuits/"
-  },
-  {
     "id": 9321,
     "creator_id": 385,
     "type": "URL_FAQ",
     "url": "https://feelingfluffycouk.wordpress.com/faq/"
-  },
-  {
-    "id": 9323,
-    "creator_id": 385,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/feelingfluffyfursuits/"
   },
   {
     "id": 9320,
@@ -13792,12 +13780,6 @@
     "creator_id": 385,
     "type": "URL_WEBSITE",
     "url": "https://feelingfluffycouk.wordpress.com/"
-  },
-  {
-    "id": 9324,
-    "creator_id": 385,
-    "type": "URL_YOUTUBE",
-    "url": "https://www.youtube.com/channel/UCN0JNv6kjvdA4k790fe2jdQ"
   },
   {
     "id": 9330,
@@ -16422,22 +16404,10 @@
     "url": "https://docs.google.com/document/d/1-UL3QNJKJ2YHK4pmQlHJ7DNNdrC90clZlt0XC4D60AE/edit"
   },
   {
-    "id": 9818,
-    "creator_id": 435,
-    "type": "URL_COMMISSIONS",
-    "url": "https://twitter.com/achookitty"
-  },
-  {
     "id": 9810,
     "creator_id": 435,
     "type": "URL_DEVIANTART",
     "url": "https://www.deviantart.com/fullsuitedglory"
-  },
-  {
-    "id": 9812,
-    "creator_id": 435,
-    "type": "URL_FACEBOOK",
-    "url": "https://www.facebook.com/kittykaijuworks/"
   },
   {
     "id": 10743,
@@ -16446,46 +16416,28 @@
     "url": "https://www.furaffinity.net/user/kittykaijuworks/"
   },
   {
-    "id": 9813,
-    "creator_id": 435,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/kittykaijuworks/"
-  },
-  {
     "id": 9815,
     "creator_id": 435,
     "type": "URL_LINKLIST",
     "url": "https://linktr.ee/KittyKaijuWorks"
   },
   {
-    "id": 10282,
+    "id": 15945,
     "creator_id": 435,
     "type": "URL_OTHER",
-    "url": "https://www.redbubble.com/people/KittyKaijuWorks/shop?asc=u\nhttps://www.tiktok.com/@fullsuitedglory?lang=en"
+    "url": "https://www.redbubble.com/people/KittyKaijuWorks/shop?asc=u"
   },
   {
-    "id": 9809,
+    "id": 15946,
     "creator_id": 435,
-    "type": "URL_PRICES",
-    "url": "https://kittykaijuworks.wixsite.com/fursuit/prices"
+    "type": "URL_OTHER",
+    "url": "https://www.tiktok.com/@fullsuitedglory?lang=en"
   },
   {
     "id": 9816,
     "creator_id": 435,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/t927R2nG/fursuit-commissions-projects"
-  },
-  {
-    "id": 9811,
-    "creator_id": 435,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/achookitty"
-  },
-  {
-    "id": 9808,
-    "creator_id": 435,
-    "type": "URL_WEBSITE",
-    "url": "https://kittykaijuworks.wixsite.com/fursuit"
   },
   {
     "id": 9814,
@@ -31362,18 +31314,6 @@
     "url": "https://kecrowcreations.carrd.co/"
   },
   {
-    "id": 13586,
-    "creator_id": 720,
-    "type": "URL_COMMISSIONS",
-    "url": "https://www.instagram.com/rotten_creations_/"
-  },
-  {
-    "id": 13587,
-    "creator_id": 720,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/rotten_creations_/"
-  },
-  {
     "id": 13588,
     "creator_id": 720,
     "type": "URL_QUEUE",
@@ -31932,22 +31872,28 @@
     "url": "https://starbirdart.carrd.co/"
   },
   {
-    "id": 13651,
+    "id": 15940,
     "creator_id": 729,
     "type": "URL_COMMISSIONS",
-    "url": "https://clawsnrosesstudio.carrd.co/"
+    "url": "https://clawwavesuits.carrd.co/"
   },
   {
-    "id": 13653,
+    "id": 15941,
+    "creator_id": 729,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/profile.php?id=61586096715408"
+  },
+  {
+    "id": 15943,
     "creator_id": 729,
     "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/claws_n_roses/"
+    "url": "https://www.instagram.com/clawwave_suits/"
   },
   {
-    "id": 13650,
+    "id": 15939,
     "creator_id": 729,
     "type": "URL_PRICES",
-    "url": "https://clawsnrosesstudio.carrd.co/"
+    "url": "https://pricewave.carrd.co/"
   },
   {
     "id": 13654,
@@ -31956,16 +31902,22 @@
     "url": "https://trello.com/b/K2ZadhiX/claws-roses-studio"
   },
   {
-    "id": 13655,
+    "id": 15944,
     "creator_id": 729,
     "type": "URL_TELEGRAM_CHANNEL",
-    "url": "https://t.me/claws_n_roses"
+    "url": "https://t.me/clawwave_suits"
   },
   {
-    "id": 13649,
+    "id": 15942,
+    "creator_id": 729,
+    "type": "URL_TUMBLR",
+    "url": "https://www.tumblr.com/blog/clawwave-suits"
+  },
+  {
+    "id": 15938,
     "creator_id": 729,
     "type": "URL_WEBSITE",
-    "url": "https://clawsnrosesstudio.carrd.co/"
+    "url": "https://clawwavesuits.carrd.co/"
   },
   {
     "id": 13657,
@@ -35514,12 +35466,6 @@
     "url": "https://www.youtube.com/channel/UCw-CpUBgLPKRvqAishsjYxw"
   },
   {
-    "id": 14335,
-    "creator_id": 790,
-    "type": "URL_COMMISSIONS",
-    "url": "https://t.me/Zatasarts"
-  },
-  {
     "id": 14340,
     "creator_id": 790,
     "type": "URL_ETSY",
@@ -35532,18 +35478,6 @@
     "url": "https://www.facebook.com/Zataaa.s/"
   },
   {
-    "id": 14336,
-    "creator_id": 790,
-    "type": "URL_FAQ",
-    "url": "https://www.zatasarts.fr/en/cgv-tos/"
-  },
-  {
-    "id": 14337,
-    "creator_id": 790,
-    "type": "URL_FUR_AFFINITY",
-    "url": "https://www.furaffinity.net/user/zata-s/"
-  },
-  {
     "id": 14339,
     "creator_id": 790,
     "type": "URL_LINKLIST",
@@ -35554,12 +35488,6 @@
     "creator_id": 790,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/z7IJmfnH/zata-s-commission-queue"
-  },
-  {
-    "id": 14334,
-    "creator_id": 790,
-    "type": "URL_WEBSITE",
-    "url": "https://www.zatasarts.fr/"
   },
   {
     "id": 14386,
@@ -39466,6 +39394,12 @@
     "creator_id": 867,
     "type": "URL_BLUESKY",
     "url": "https://bsky.app/profile/woodland-wonders.bsky.social"
+  },
+  {
+    "id": 15937,
+    "creator_id": 867,
+    "type": "URL_COMMISSIONS",
+    "url": "https://woodlandwonders.carrd.co/#commform"
   },
   {
     "id": 15433,

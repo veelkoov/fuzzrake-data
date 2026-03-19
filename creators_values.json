@@ -102837,64 +102837,82 @@
     "id": 21986,
     "creator_id": 729,
     "field_name": "DATE_UPDATED",
-    "value": "2025-08-26 18:07:33"
+    "value": "2026-03-19 18:08:03"
   },
   {
     "id": 21990,
     "creator_id": 729,
     "field_name": "DOES_NSFW",
-    "value": "False"
+    "value": "True"
   },
   {
     "id": 5880,
     "creator_id": 729,
     "field_name": "FEATURES",
-    "value": "Adjustable/wiggle ears"
+    "value": "Adjustable eyebrows"
   },
   {
     "id": 5881,
     "creator_id": 729,
     "field_name": "FEATURES",
-    "value": "Attached tail"
+    "value": "Adjustable/wiggle ears"
   },
   {
     "id": 5882,
     "creator_id": 729,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Attached handpaws and feetpaws"
   },
   {
     "id": 5883,
     "creator_id": 729,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Attached tail"
   },
   {
     "id": 5884,
     "creator_id": 729,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 5885,
     "creator_id": 729,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Follow-me eyes"
   },
   {
     "id": 5886,
     "creator_id": 729,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "Indoor feet"
   },
   {
     "id": 5887,
     "creator_id": 729,
     "field_name": "FEATURES",
-    "value": "Removable horns/antlers"
+    "value": "Outdoor feet"
   },
   {
     "id": 21989,
+    "creator_id": 729,
+    "field_name": "FEATURES",
+    "value": "Removable blush"
+  },
+  {
+    "id": 23086,
+    "creator_id": 729,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 23087,
+    "creator_id": 729,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
+  },
+  {
+    "id": 23088,
     "creator_id": 729,
     "field_name": "FEATURES",
     "value": "Washable heads"
@@ -102927,37 +102945,175 @@
     "id": 5888,
     "creator_id": 729,
     "field_name": "ORDER_TYPES",
-    "value": "Feetpaws (as parts/separate)"
+    "value": "Bodysuits (as parts/separate)"
   },
   {
     "id": 5889,
     "creator_id": 729,
     "field_name": "ORDER_TYPES",
-    "value": "Handpaws (as parts/separate)"
+    "value": "Feetpaws (as parts/separate)"
   },
   {
     "id": 5890,
     "creator_id": 729,
     "field_name": "ORDER_TYPES",
-    "value": "Head (as parts/separate)"
+    "value": "Full digitigrade"
   },
   {
     "id": 5891,
     "creator_id": 729,
     "field_name": "ORDER_TYPES",
-    "value": "Mini partial (head + handpaws + tail)"
+    "value": "Full plantigrade"
   },
   {
     "id": 21987,
     "creator_id": 729,
     "field_name": "ORDER_TYPES",
-    "value": "Partial (head + handpaws + tail + feetpaws)"
+    "value": "Handpaws (as parts/separate)"
   },
   {
     "id": 21988,
     "creator_id": 729,
     "field_name": "ORDER_TYPES",
+    "value": "Head (as parts/separate)"
+  },
+  {
+    "id": 23069,
+    "creator_id": 729,
+    "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 23070,
+    "creator_id": 729,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 23071,
+    "creator_id": 729,
+    "field_name": "ORDER_TYPES",
     "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 23072,
+    "creator_id": 729,
+    "field_name": "ORDER_TYPES",
+    "value": "Three-fourth (head + handpaws + tail + legs/pants + feetpaws)"
+  },
+  {
+    "id": 23089,
+    "creator_id": 729,
+    "field_name": "OTHER_FEATURES",
+    "value": "Pickable nose"
+  },
+  {
+    "id": 23092,
+    "creator_id": 729,
+    "field_name": "OTHER_FEATURES",
+    "value": "Plush claws"
+  },
+  {
+    "id": 23090,
+    "creator_id": 729,
+    "field_name": "OTHER_FEATURES",
+    "value": "Squeakers"
+  },
+  {
+    "id": 23094,
+    "creator_id": 729,
+    "field_name": "OTHER_FEATURES",
+    "value": "Waterproof eye mesh"
+  },
+  {
+    "id": 23093,
+    "creator_id": 729,
+    "field_name": "OTHER_FEATURES",
+    "value": "Waterproof eyes"
+  },
+  {
+    "id": 23091,
+    "creator_id": 729,
+    "field_name": "OTHER_FEATURES",
+    "value": "Whiskers"
+  },
+  {
+    "id": 23085,
+    "creator_id": 729,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "3D Prints"
+  },
+  {
+    "id": 23076,
+    "creator_id": 729,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Accessories"
+  },
+  {
+    "id": 23083,
+    "creator_id": 729,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Adult options"
+  },
+  {
+    "id": 23073,
+    "creator_id": 729,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Arm sleeves"
+  },
+  {
+    "id": 23077,
+    "creator_id": 729,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Badges"
+  },
+  {
+    "id": 23080,
+    "creator_id": 729,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Bandanas"
+  },
+  {
+    "id": 23079,
+    "creator_id": 729,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Collars"
+  },
+  {
+    "id": 23084,
+    "creator_id": 729,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Eye blanks"
+  },
+  {
+    "id": 23078,
+    "creator_id": 729,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Fursuit props"
+  },
+  {
+    "id": 23081,
+    "creator_id": 729,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Fursuit sprays"
+  },
+  {
+    "id": 23082,
+    "creator_id": 729,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Head bases"
+  },
+  {
+    "id": 23075,
+    "creator_id": 729,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Props"
+  },
+  {
+    "id": 23074,
+    "creator_id": 729,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Wings"
   },
   {
     "id": 5877,
@@ -125808,6 +125964,12 @@
     "value": "2025-10-19 11:36:01"
   },
   {
+    "id": 23067,
+    "creator_id": 867,
+    "field_name": "DATE_UPDATED",
+    "value": "2026-03-19 15:17:39"
+  },
+  {
     "id": 22421,
     "creator_id": 867,
     "field_name": "DOES_NSFW",
@@ -125860,6 +126022,12 @@
     "creator_id": 867,
     "field_name": "PRODUCTION_MODELS",
     "value": "Premades"
+  },
+  {
+    "id": 23068,
+    "creator_id": 867,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Standard commissions"
   },
   {
     "id": 22414,
