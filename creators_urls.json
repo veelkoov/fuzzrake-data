@@ -17730,16 +17730,22 @@
     "url": "https://www.youtube.com/channel/UCoGUEY7qiMKZpBRgn2lqKMQ"
   },
   {
-    "id": 10035,
+    "id": 15951,
     "creator_id": 460,
-    "type": "URL_COMMISSIONS",
-    "url": "https://twitter.com/DesertFizz"
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/desertfizz.bsky.social"
   },
   {
-    "id": 10030,
+    "id": 15949,
+    "creator_id": 460,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.desertfizz.com/"
+  },
+  {
+    "id": 15950,
     "creator_id": 460,
     "type": "URL_FAQ",
-    "url": "https://desertfizz.wixsite.com/home/faq"
+    "url": "https://www.desertfizz.com/faq"
   },
   {
     "id": 12570,
@@ -17760,10 +17766,10 @@
     "url": "http://linktr.ee/DashCoyote"
   },
   {
-    "id": 10029,
+    "id": 15948,
     "creator_id": 460,
     "type": "URL_PRICES",
-    "url": "https://desertfizz.wixsite.com/home/pricing"
+    "url": "https://www.desertfizz.com/pricing"
   },
   {
     "id": 10034,
@@ -17772,16 +17778,22 @@
     "url": "https://trello.com/b/xOu0wHqg/fursuit-commissions"
   },
   {
+    "id": 15952,
+    "creator_id": 460,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/DesertFizzUpdates"
+  },
+  {
     "id": 10031,
     "creator_id": 460,
     "type": "URL_TWITTER",
     "url": "https://twitter.com/DesertFizz"
   },
   {
-    "id": 10028,
+    "id": 15947,
     "creator_id": 460,
     "type": "URL_WEBSITE",
-    "url": "https://desertfizz.wixsite.com/home"
+    "url": "https://www.desertfizz.com/"
   },
   {
     "id": 10043,

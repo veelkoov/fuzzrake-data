@@ -53028,6 +53028,18 @@
     "value": "2021-06-12 18:42:14"
   },
   {
+    "id": 23095,
+    "creator_id": 460,
+    "field_name": "DATE_UPDATED",
+    "value": "2026-03-22 19:25:14"
+  },
+  {
+    "id": 23099,
+    "creator_id": 460,
+    "field_name": "DOES_NSFW",
+    "value": "True"
+  },
+  {
     "id": 6762,
     "creator_id": 460,
     "field_name": "FEATURES",
@@ -53082,6 +53094,12 @@
     "value": "Removable eyelids"
   },
   {
+    "id": 23096,
+    "creator_id": 460,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
+  },
+  {
     "id": 6756,
     "creator_id": 460,
     "field_name": "LANGUAGES",
@@ -53098,6 +53116,18 @@
     "creator_id": 460,
     "field_name": "LANGUAGES",
     "value": "Spanish"
+  },
+  {
+    "id": 23098,
+    "creator_id": 460,
+    "field_name": "NSFW_SOCIAL",
+    "value": "True"
+  },
+  {
+    "id": 23097,
+    "creator_id": 460,
+    "field_name": "NSFW_WEBSITE",
+    "value": "False"
   },
   {
     "id": 6771,
