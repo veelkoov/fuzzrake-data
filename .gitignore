@@ -2,9 +2,7 @@
 /.gitkeep
 
 # Private stuff should never be published
-*private*
 /submissions.*
-/reset_password_requests.*
 /users.*
 
 # Volatile information, easily reproducible
@@ -15,11 +13,12 @@
 /species.*
 
 # Too much noise, primarily information about operations, low-value
-/doctrine_migration_versions.*
 /events.*
 
-# Temporary system data, operational
+# Temporary/operational/private system data
+/doctrine_migration_versions.*
 /messenger_messages.*
+/reset_password_requests.*
 
 # See README
 *.sql
