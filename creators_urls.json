@@ -6870,12 +6870,6 @@
     "url": "https://www.patreon.com/SparkleKreations"
   },
   {
-    "id": 951,
-    "creator_id": 218,
-    "type": "URL_FACEBOOK",
-    "url": "https://www.facebook.com/SparkleKreationsLLC/"
-  },
-  {
     "id": 947,
     "creator_id": 218,
     "type": "URL_FAQ",
@@ -6916,18 +6910,6 @@
     "creator_id": 218,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/k4JwAdHr/sparkle-kreations-queue-list"
-  },
-  {
-    "id": 950,
-    "creator_id": 218,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/SparkleKreation"
-  },
-  {
-    "id": 945,
-    "creator_id": 218,
-    "type": "URL_WEBSITE",
-    "url": "http://www.sparklekreations.com/"
   },
   {
     "id": 952,
@@ -13146,12 +13128,6 @@
     "url": "https://www.vixenbrushstudios.com/"
   },
   {
-    "id": 9229,
-    "creator_id": 373,
-    "type": "URL_COMMISSIONS",
-    "url": "https://www.etsy.com/shop/violettrenchstudios"
-  },
-  {
     "id": 11731,
     "creator_id": 373,
     "type": "URL_ETSY",
@@ -13162,30 +13138,6 @@
     "creator_id": 373,
     "type": "URL_INSTAGRAM",
     "url": "https://www.instagram.com/yeenteeeth/"
-  },
-  {
-    "id": 11729,
-    "creator_id": 373,
-    "type": "URL_PRICES",
-    "url": "https://violettrenchstudios.wixsite.com/website/plans-pricing"
-  },
-  {
-    "id": 9228,
-    "creator_id": 373,
-    "type": "URL_SCRITCH",
-    "url": "https://scritch.es/violettrench"
-  },
-  {
-    "id": 9225,
-    "creator_id": 373,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/TrenchViolet"
-  },
-  {
-    "id": 11728,
-    "creator_id": 373,
-    "type": "URL_WEBSITE",
-    "url": "https://violettrenchstudios.wixsite.com/website"
   },
   {
     "id": 9227,
@@ -27894,16 +27846,10 @@
     "url": "https://www.instagram.com/drowsyseal/"
   },
   {
-    "id": 12674,
-    "creator_id": 658,
-    "type": "URL_MASTODON",
-    "url": "https://meow.social/@DrowsySeal"
-  },
-  {
-    "id": 12678,
+    "id": 15954,
     "creator_id": 658,
     "type": "URL_OTHER_SHOP",
-    "url": "https://drowsyseal.bigcartel.com/"
+    "url": "https://ko-fi.com/drowsyseal/shop"
   },
   {
     "id": 12670,
@@ -27916,6 +27862,12 @@
     "creator_id": 658,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/gonT1G1E/drowsyseal-queue"
+  },
+  {
+    "id": 15955,
+    "creator_id": 658,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/DrowsySealUpdates"
   },
   {
     "id": 12676,
@@ -28554,6 +28506,12 @@
     "url": "https://www.instagram.com/angel.the.dutchie/"
   },
   {
+    "id": 15959,
+    "creator_id": 667,
+    "type": "URL_DONATIONS",
+    "url": "https://ko-fi.com/atdfursuits"
+  },
+  {
     "id": 12799,
     "creator_id": 667,
     "type": "URL_FURTRACK",
@@ -28576,6 +28534,12 @@
     "creator_id": 667,
     "type": "URL_PRICES",
     "url": "https://angelthedutchiebus.wixsite.com/atdfursuits/prices"
+  },
+  {
+    "id": 15958,
+    "creator_id": 667,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/vxscjTKR/commission-queue"
   },
   {
     "id": 12800,
@@ -37128,6 +37092,12 @@
     "url": "https://www.youtube.com/@ChloeHatler"
   },
   {
+    "id": 15960,
+    "creator_id": 820,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/knoxinaboxexe.bsky.social"
+  },
+  {
     "id": 14732,
     "creator_id": 820,
     "type": "URL_DONATIONS",
@@ -40710,6 +40680,12 @@
     "url": "https://www.youtube.com/@juicydogfursuits"
   },
   {
+    "id": 15957,
+    "creator_id": 884,
+    "type": "URL_FAQ",
+    "url": "https://www.grobinthegrove.com/faq"
+  },
+  {
     "id": 15783,
     "creator_id": 884,
     "type": "URL_FUR_AFFINITY",
@@ -40720,6 +40696,12 @@
     "creator_id": 884,
     "type": "URL_MASTODON",
     "url": "https://woof.tech/@grobinthegrove"
+  },
+  {
+    "id": 15956,
+    "creator_id": 884,
+    "type": "URL_WEBSITE",
+    "url": "https://www.grobinthegrove.com/"
   },
   {
     "id": 15785,

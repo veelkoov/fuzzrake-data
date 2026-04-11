@@ -89268,6 +89268,12 @@
     "value": "2023-08-18 21:31:14"
   },
   {
+    "id": 23101,
+    "creator_id": 658,
+    "field_name": "DATE_UPDATED",
+    "value": "2026-04-02 13:27:52"
+  },
+  {
     "id": 2532,
     "creator_id": 658,
     "field_name": "DOES_NSFW",
@@ -89301,19 +89307,31 @@
     "id": 7141,
     "creator_id": 658,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "In-head fans"
   },
   {
     "id": 7142,
     "creator_id": 658,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Indoor feet"
   },
   {
     "id": 7143,
     "creator_id": 658,
     "field_name": "FEATURES",
+    "value": "Outdoor feet"
+  },
+  {
+    "id": 23103,
+    "creator_id": 658,
+    "field_name": "FEATURES",
     "value": "Removable eyelids"
+  },
+  {
+    "id": 23104,
+    "creator_id": 658,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
   },
   {
     "id": 7134,
@@ -89352,6 +89370,12 @@
     "value": "Mini partial (head + handpaws + tail)"
   },
   {
+    "id": 23102,
+    "creator_id": 658,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
     "id": 7151,
     "creator_id": 658,
     "field_name": "OTHER_FEATURES",
@@ -89362,6 +89386,12 @@
     "creator_id": 658,
     "field_name": "OTHER_FEATURES",
     "value": "Dropped crotch"
+  },
+  {
+    "id": 7147,
+    "creator_id": 658,
+    "field_name": "OTHER_FEATURES",
+    "value": "Dye sublimated eyes"
   },
   {
     "id": 7148,
@@ -89388,22 +89418,10 @@
     "value": "Mochi minky accents"
   },
   {
-    "id": 7153,
-    "creator_id": 658,
-    "field_name": "OTHER_FEATURES",
-    "value": "NFC chip"
-  },
-  {
     "id": 7150,
     "creator_id": 658,
     "field_name": "OTHER_FEATURES",
     "value": "Velcro eyelids"
-  },
-  {
-    "id": 7147,
-    "creator_id": 658,
-    "field_name": "OTHER_FEATURES",
-    "value": "Waterproof eyes"
   },
   {
     "id": 7146,
@@ -90804,6 +90822,12 @@
     "value": "2023-09-13 19:04:54"
   },
   {
+    "id": 23106,
+    "creator_id": 667,
+    "field_name": "DATE_UPDATED",
+    "value": "2026-04-06 17:59:51"
+  },
+  {
     "id": 2584,
     "creator_id": 667,
     "field_name": "DOES_NSFW",
@@ -90873,61 +90897,25 @@
     "id": 3464,
     "creator_id": 667,
     "field_name": "ORDER_TYPES",
-    "value": "Bodysuits (as parts/separate)"
+    "value": "Full digitigrade"
   },
   {
     "id": 3465,
     "creator_id": 667,
     "field_name": "ORDER_TYPES",
-    "value": "Feetpaws (as parts/separate)"
+    "value": "Head (as parts/separate)"
   },
   {
     "id": 3466,
     "creator_id": 667,
     "field_name": "ORDER_TYPES",
-    "value": "Full digitigrade"
+    "value": "Mini partial (head + handpaws + tail)"
   },
   {
     "id": 3467,
     "creator_id": 667,
     "field_name": "ORDER_TYPES",
-    "value": "Handpaws (as parts/separate)"
-  },
-  {
-    "id": 3468,
-    "creator_id": 667,
-    "field_name": "ORDER_TYPES",
-    "value": "Head (as parts/separate)"
-  },
-  {
-    "id": 3469,
-    "creator_id": 667,
-    "field_name": "ORDER_TYPES",
-    "value": "Mini partial (head + handpaws + tail)"
-  },
-  {
-    "id": 3470,
-    "creator_id": 667,
-    "field_name": "ORDER_TYPES",
     "value": "Partial (head + handpaws + tail + feetpaws)"
-  },
-  {
-    "id": 3471,
-    "creator_id": 667,
-    "field_name": "ORDER_TYPES",
-    "value": "Tails (as parts/separate)"
-  },
-  {
-    "id": 3472,
-    "creator_id": 667,
-    "field_name": "ORDER_TYPES",
-    "value": "Three-fourth (head + handpaws + tail + legs/pants + feetpaws)"
-  },
-  {
-    "id": 3456,
-    "creator_id": 667,
-    "field_name": "OTHER_FEATURES",
-    "value": "3D printed piercings"
   },
   {
     "id": 3453,
@@ -90936,40 +90924,16 @@
     "value": "Cheek vents"
   },
   {
-    "id": 3458,
-    "creator_id": 667,
-    "field_name": "OTHER_FEATURES",
-    "value": "Dewclaws"
-  },
-  {
-    "id": 3459,
-    "creator_id": 667,
-    "field_name": "OTHER_FEATURES",
-    "value": "Handpaw finger escapes"
-  },
-  {
-    "id": 3461,
-    "creator_id": 667,
-    "field_name": "OTHER_FEATURES",
-    "value": "Hidden belt pocket for tails"
-  },
-  {
     "id": 3455,
     "creator_id": 667,
     "field_name": "OTHER_FEATURES",
-    "value": "Magnets in muzzle"
+    "value": "Muzzle magnets"
   },
   {
     "id": 3454,
     "creator_id": 667,
     "field_name": "OTHER_FEATURES",
-    "value": "NFC tag in nose"
-  },
-  {
-    "id": 3457,
-    "creator_id": 667,
-    "field_name": "OTHER_FEATURES",
-    "value": "Paw claw sheaths"
+    "value": "NFC tags"
   },
   {
     "id": 3452,
@@ -90978,28 +90942,16 @@
     "value": "Pickable nose"
   },
   {
-    "id": 3463,
+    "id": 3456,
     "creator_id": 667,
     "field_name": "OTHER_FEATURES",
-    "value": "Removable pillow padding for digi legs"
-  },
-  {
-    "id": 3462,
-    "creator_id": 667,
-    "field_name": "OTHER_FEATURES",
-    "value": "Tail gore cutaway detail"
-  },
-  {
-    "id": 3460,
-    "creator_id": 667,
-    "field_name": "OTHER_FEATURES",
-    "value": "Zip on feetpaws"
+    "value": "Zip on/off feetpaws"
   },
   {
     "id": 3473,
     "creator_id": 667,
     "field_name": "OTHER_ORDER_TYPES",
-    "value": "3D printed fursuit jewelry"
+    "value": "Various fursuit accessories (3D printed jewelry, collars, etc.)"
   },
   {
     "id": 3442,
@@ -118371,7 +118323,7 @@
     "id": 20905,
     "creator_id": 820,
     "field_name": "DATE_UPDATED",
-    "value": "2025-08-15 16:51:03"
+    "value": "2026-04-08 22:00:07"
   },
   {
     "id": 20894,
@@ -118383,31 +118335,31 @@
     "id": 20879,
     "creator_id": 820,
     "field_name": "FEATURES",
-    "value": "Exchangeable hairs"
+    "value": "Adjustable/wiggle ears"
   },
   {
     "id": 20880,
     "creator_id": 820,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Exchangeable hairs"
   },
   {
     "id": 20881,
     "creator_id": 820,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 20882,
     "creator_id": 820,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "Follow-me eyes"
   },
   {
     "id": 20883,
     "creator_id": 820,
     "field_name": "FEATURES",
-    "value": "LED eyes"
+    "value": "Indoor feet"
   },
   {
     "id": 20884,
@@ -118494,22 +118446,34 @@
     "value": "Disability/sensory accommodations"
   },
   {
+    "id": 23109,
+    "creator_id": 820,
+    "field_name": "OTHER_FEATURES",
+    "value": "Hidden pocket"
+  },
+  {
     "id": 20888,
     "creator_id": 820,
     "field_name": "OTHER_FEATURES",
-    "value": "Exchangeable 2d & 3d eyes"
+    "value": "Interchangeable 2d & 3d eyes"
   },
   {
     "id": 20889,
     "creator_id": 820,
     "field_name": "OTHER_FEATURES",
-    "value": "Exchangeable feetpaw soles"
+    "value": "Interchangeable feetpaw soles"
   },
   {
     "id": 20887,
     "creator_id": 820,
     "field_name": "OTHER_FEATURES",
     "value": "Removable eyes"
+  },
+  {
+    "id": 23108,
+    "creator_id": 820,
+    "field_name": "OTHER_FEATURES",
+    "value": "Stuffing removal zippers"
   },
   {
     "id": 21975,
@@ -118549,6 +118513,12 @@
   },
   {
     "id": 20872,
+    "creator_id": 820,
+    "field_name": "STYLES",
+    "value": "Semi Toony"
+  },
+  {
+    "id": 23107,
     "creator_id": 820,
     "field_name": "STYLES",
     "value": "Toony"
@@ -128776,6 +128746,12 @@
     "creator_id": 884,
     "field_name": "DATE_ADDED",
     "value": "2025-12-28 19:14:27"
+  },
+  {
+    "id": 23105,
+    "creator_id": 884,
+    "field_name": "DATE_UPDATED",
+    "value": "2026-04-04 18:59:51"
   },
   {
     "id": 22989,
