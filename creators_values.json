@@ -67401,7 +67401,7 @@
     "id": 1609,
     "creator_id": 539,
     "field_name": "DATE_UPDATED",
-    "value": "2025-06-14 21:29:16"
+    "value": "2026-04-11 13:49:55"
   },
   {
     "id": 1607,
@@ -67413,76 +67413,82 @@
     "id": 7518,
     "creator_id": 539,
     "field_name": "FEATURES",
-    "value": "Adjustable/wiggle ears"
+    "value": "Adjustable eyebrows"
   },
   {
     "id": 7519,
     "creator_id": 539,
     "field_name": "FEATURES",
-    "value": "Attached handpaws and feetpaws"
+    "value": "Adjustable/wiggle ears"
   },
   {
     "id": 7520,
     "creator_id": 539,
     "field_name": "FEATURES",
-    "value": "Attached tail"
+    "value": "Attached handpaws and feetpaws"
   },
   {
     "id": 7521,
     "creator_id": 539,
     "field_name": "FEATURES",
-    "value": "Exchangeable hairs"
+    "value": "Attached tail"
   },
   {
     "id": 7522,
     "creator_id": 539,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Exchangeable hairs"
   },
   {
     "id": 7523,
     "creator_id": 539,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 7524,
     "creator_id": 539,
     "field_name": "FEATURES",
-    "value": "In-head fans"
+    "value": "Follow-me eyes"
   },
   {
     "id": 7525,
     "creator_id": 539,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "In-head fans"
   },
   {
     "id": 7526,
     "creator_id": 539,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Indoor feet"
   },
   {
     "id": 7527,
     "creator_id": 539,
     "field_name": "FEATURES",
-    "value": "Removable blush"
+    "value": "Outdoor feet"
   },
   {
     "id": 7528,
     "creator_id": 539,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "Removable blush"
   },
   {
     "id": 7529,
     "creator_id": 539,
     "field_name": "FEATURES",
-    "value": "Removable horns/antlers"
+    "value": "Removable eyelids"
   },
   {
     "id": 7530,
+    "creator_id": 539,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
+  },
+  {
+    "id": 23110,
     "creator_id": 539,
     "field_name": "FEATURES",
     "value": "Washable heads"
