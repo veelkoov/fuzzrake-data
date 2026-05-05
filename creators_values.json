@@ -34350,6 +34350,12 @@
     "value": "Toony"
   },
   {
+    "id": 23113,
+    "creator_id": 345,
+    "field_name": "DATE_UPDATED",
+    "value": "2026-05-05 18:34:43"
+  },
+  {
     "id": 1326,
     "creator_id": 345,
     "field_name": "DOES_NSFW",
@@ -34365,49 +34371,49 @@
     "id": 11705,
     "creator_id": 345,
     "field_name": "FEATURES",
-    "value": "Attached handpaws and feetpaws"
+    "value": "Exchangeable hairs"
   },
   {
     "id": 11706,
     "creator_id": 345,
     "field_name": "FEATURES",
-    "value": "Exchangeable hairs"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 11707,
     "creator_id": 345,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Follow-me eyes"
   },
   {
     "id": 11708,
     "creator_id": 345,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Indoor feet"
   },
   {
     "id": 11709,
     "creator_id": 345,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "Outdoor feet"
   },
   {
     "id": 11710,
     "creator_id": 345,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Removable blush"
   },
   {
     "id": 11711,
     "creator_id": 345,
     "field_name": "FEATURES",
-    "value": "Removable blush"
+    "value": "Removable eyelids"
   },
   {
     "id": 11712,
     "creator_id": 345,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "Removable horns/antlers"
   },
   {
     "id": 11700,
@@ -34419,7 +34425,7 @@
     "id": 1325,
     "creator_id": 345,
     "field_name": "NSFW_SOCIAL",
-    "value": "False"
+    "value": "True"
   },
   {
     "id": 1324,
@@ -34488,10 +34494,28 @@
     "value": "Three-fourth (head + handpaws + tail + legs/pants + feetpaws)"
   },
   {
+    "id": 23117,
+    "creator_id": 345,
+    "field_name": "OTHER_FEATURES",
+    "value": "Additional pockets inside on request"
+  },
+  {
+    "id": 23116,
+    "creator_id": 345,
+    "field_name": "OTHER_FEATURES",
+    "value": "Cheek vents"
+  },
+  {
     "id": 11713,
     "creator_id": 345,
     "field_name": "OTHER_FEATURES",
     "value": "Drybrushing"
+  },
+  {
+    "id": 23115,
+    "creator_id": 345,
+    "field_name": "OTHER_FEATURES",
+    "value": "Ear vents"
   },
   {
     "id": 11716,
@@ -34512,7 +34536,7 @@
     "value": "Stuffed pawpads"
   },
   {
-    "id": 11732,
+    "id": 11731,
     "creator_id": 345,
     "field_name": "OTHER_ORDER_TYPES",
     "value": "Ask about anything else"
@@ -34522,12 +34546,6 @@
     "creator_id": 345,
     "field_name": "OTHER_ORDER_TYPES",
     "value": "Fleece bodysuits"
-  },
-  {
-    "id": 11731,
-    "creator_id": 345,
-    "field_name": "OTHER_ORDER_TYPES",
-    "value": "Hoodies"
   },
   {
     "id": 11728,
@@ -34569,10 +34587,16 @@
     "id": 11733,
     "creator_id": 345,
     "field_name": "STYLES",
-    "value": "Semi Realistic"
+    "value": "Kemono"
   },
   {
     "id": 11734,
+    "creator_id": 345,
+    "field_name": "STYLES",
+    "value": "Semi Realistic"
+  },
+  {
+    "id": 23114,
     "creator_id": 345,
     "field_name": "STYLES",
     "value": "Toony"
@@ -120099,7 +120123,7 @@
     "id": 23100,
     "creator_id": 830,
     "field_name": "DATE_UPDATED",
-    "value": "2026-03-31 22:12:06"
+    "value": "2026-05-03 09:55:41"
   },
   {
     "id": 21247,
