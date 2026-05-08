@@ -128031,7 +128031,7 @@
     "id": 22942,
     "creator_id": 879,
     "field_name": "DATE_UPDATED",
-    "value": "2026-01-27 19:19:19"
+    "value": "2026-05-08 07:57:05"
   },
   {
     "id": 22836,
@@ -128079,10 +128079,16 @@
     "id": 22829,
     "creator_id": 879,
     "field_name": "PRODUCTION_MODELS",
-    "value": "Premades"
+    "value": "Artistic liberty commissions"
   },
   {
     "id": 22830,
+    "creator_id": 879,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Premades"
+  },
+  {
+    "id": 23118,
     "creator_id": 879,
     "field_name": "PRODUCTION_MODELS",
     "value": "Standard commissions"
