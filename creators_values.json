@@ -39120,6 +39120,12 @@
     "value": "Toony"
   },
   {
+    "id": 23119,
+    "creator_id": 380,
+    "field_name": "DATE_UPDATED",
+    "value": "2026-05-11 20:44:03"
+  },
+  {
     "id": 1074,
     "creator_id": 380,
     "field_name": "DOES_NSFW",
@@ -39219,46 +39225,52 @@
     "id": 3913,
     "creator_id": 380,
     "field_name": "ORDER_TYPES",
-    "value": "Feetpaws (as parts/separate)"
+    "value": "Bodysuits (as parts/separate)"
   },
   {
     "id": 3914,
     "creator_id": 380,
     "field_name": "ORDER_TYPES",
-    "value": "Full digitigrade"
+    "value": "Feetpaws (as parts/separate)"
   },
   {
     "id": 3915,
     "creator_id": 380,
     "field_name": "ORDER_TYPES",
-    "value": "Full plantigrade"
+    "value": "Full digitigrade"
   },
   {
     "id": 3916,
     "creator_id": 380,
     "field_name": "ORDER_TYPES",
-    "value": "Handpaws (as parts/separate)"
+    "value": "Full plantigrade"
   },
   {
     "id": 3917,
     "creator_id": 380,
     "field_name": "ORDER_TYPES",
-    "value": "Head (as parts/separate)"
+    "value": "Handpaws (as parts/separate)"
   },
   {
     "id": 3918,
     "creator_id": 380,
     "field_name": "ORDER_TYPES",
-    "value": "Mini partial (head + handpaws + tail)"
+    "value": "Head (as parts/separate)"
   },
   {
     "id": 3919,
     "creator_id": 380,
     "field_name": "ORDER_TYPES",
-    "value": "Partial (head + handpaws + tail + feetpaws)"
+    "value": "Mini partial (head + handpaws + tail)"
   },
   {
     "id": 3920,
+    "creator_id": 380,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 23120,
     "creator_id": 380,
     "field_name": "ORDER_TYPES",
     "value": "Tails (as parts/separate)"
@@ -41811,7 +41823,7 @@
     "id": 1674,
     "creator_id": 395,
     "field_name": "DATE_UPDATED",
-    "value": "2025-03-10 20:45:13"
+    "value": "2026-05-13 17:54:31"
   },
   {
     "id": 1678,
@@ -41889,7 +41901,7 @@
     "id": 1677,
     "creator_id": 395,
     "field_name": "NSFW_SOCIAL",
-    "value": "False"
+    "value": "True"
   },
   {
     "id": 1676,
@@ -41901,52 +41913,34 @@
     "id": 3389,
     "creator_id": 395,
     "field_name": "ORDER_TYPES",
-    "value": "Feetpaws (as parts/separate)"
+    "value": "Full digitigrade"
   },
   {
     "id": 3390,
     "creator_id": 395,
     "field_name": "ORDER_TYPES",
-    "value": "Full digitigrade"
+    "value": "Full plantigrade"
   },
   {
     "id": 3391,
     "creator_id": 395,
     "field_name": "ORDER_TYPES",
-    "value": "Full plantigrade"
+    "value": "Head (as parts/separate)"
   },
   {
     "id": 3392,
     "creator_id": 395,
     "field_name": "ORDER_TYPES",
-    "value": "Handpaws (as parts/separate)"
+    "value": "Mini partial (head + handpaws + tail)"
   },
   {
     "id": 3393,
     "creator_id": 395,
     "field_name": "ORDER_TYPES",
-    "value": "Head (as parts/separate)"
-  },
-  {
-    "id": 3394,
-    "creator_id": 395,
-    "field_name": "ORDER_TYPES",
-    "value": "Mini partial (head + handpaws + tail)"
-  },
-  {
-    "id": 3395,
-    "creator_id": 395,
-    "field_name": "ORDER_TYPES",
     "value": "Partial (head + handpaws + tail + feetpaws)"
   },
   {
-    "id": 3396,
-    "creator_id": 395,
-    "field_name": "ORDER_TYPES",
-    "value": "Tails (as parts/separate)"
-  },
-  {
-    "id": 3397,
+    "id": 3394,
     "creator_id": 395,
     "field_name": "ORDER_TYPES",
     "value": "Three-fourth (head + handpaws + tail + legs/pants + feetpaws)"

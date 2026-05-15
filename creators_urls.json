@@ -13476,22 +13476,34 @@
     "url": "https://rockystudio.webnode.cz/"
   },
   {
-    "id": 10302,
+    "id": 16022,
+    "creator_id": 380,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/alpinemutt.bsky.social"
+  },
+  {
+    "id": 16017,
     "creator_id": 380,
     "type": "URL_COMMISSIONS",
-    "url": "https://alpinehuskiesfursuits.weebly.com/status--queue.html"
+    "url": "https://alpinemuttfursuits.weebly.com/"
   },
   {
-    "id": 9291,
+    "id": 16019,
     "creator_id": 380,
     "type": "URL_DEVIANTART",
-    "url": "https://www.deviantart.com/NashobaPaws"
+    "url": "https://www.deviantart.com/AlpineMutt"
   },
   {
-    "id": 12302,
+    "id": 16023,
+    "creator_id": 380,
+    "type": "URL_DONATIONS",
+    "url": "https://ko-fi.com/alpinemutt"
+  },
+  {
+    "id": 16018,
     "creator_id": 380,
     "type": "URL_FAQ",
-    "url": "https://alpinemutt.weebly.com/faq.html"
+    "url": "https://alpinemuttfursuits.weebly.com/faq.html"
   },
   {
     "id": 12304,
@@ -13500,10 +13512,22 @@
     "url": "https://www.instagram.com/alpine.mutt/"
   },
   {
-    "id": 12301,
+    "id": 16020,
+    "creator_id": 380,
+    "type": "URL_LINKLIST",
+    "url": "https://linktr.ee/alpinemutt"
+  },
+  {
+    "id": 16021,
+    "creator_id": 380,
+    "type": "URL_OTHER",
+    "url": "https://alpinemuttart.square.site/"
+  },
+  {
+    "id": 16016,
     "creator_id": 380,
     "type": "URL_PRICES",
-    "url": "https://alpinemutt.weebly.com/pricing.html"
+    "url": "https://alpinemuttfursuits.weebly.com/pricing.html"
   },
   {
     "id": 12305,
@@ -13512,16 +13536,22 @@
     "url": "https://trello.com/b/CQHKAJzF/fursuit"
   },
   {
+    "id": 16024,
+    "creator_id": 380,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/+fLIzTidW-3QxZTAx"
+  },
+  {
     "id": 12303,
     "creator_id": 380,
     "type": "URL_TWITTER",
     "url": "https://twitter.com/alpinemutt"
   },
   {
-    "id": 12300,
+    "id": 16015,
     "creator_id": 380,
     "type": "URL_WEBSITE",
-    "url": "https://alpinemutt.weebly.com/"
+    "url": "https://alpinemuttfursuits.weebly.com/"
   },
   {
     "id": 10303,
@@ -14202,28 +14232,28 @@
     "url": "https://www.instagram.com/28ghostiez/"
   },
   {
-    "id": 14746,
+    "id": 16032,
     "creator_id": 395,
     "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/409218.jpg"
+    "url": "https://orca2.furtrack.com/thumb/1222726.jpg"
   },
   {
-    "id": 14743,
+    "id": 16033,
     "creator_id": 395,
     "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/494872.jpg"
+    "url": "https://orca2.furtrack.com/thumb/1271788.jpg"
   },
   {
-    "id": 14745,
+    "id": 16031,
     "creator_id": 395,
     "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/932698.jpg"
+    "url": "https://orca2.furtrack.com/thumb/1463683.jpg"
   },
   {
-    "id": 14744,
+    "id": 16030,
     "creator_id": 395,
     "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/935831.jpg"
+    "url": "https://orca2.furtrack.com/thumb/1809632.jpg"
   },
   {
     "id": 13257,
@@ -14232,28 +14262,28 @@
     "url": "https://www.furtrack.com/index/maker:28ghostiez"
   },
   {
-    "id": 14740,
+    "id": 16027,
     "creator_id": 395,
     "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/409218"
+    "url": "https://www.furtrack.com/p/1222726"
   },
   {
-    "id": 14737,
+    "id": 16028,
     "creator_id": 395,
     "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/494872"
+    "url": "https://www.furtrack.com/p/1271788"
   },
   {
-    "id": 14739,
+    "id": 16026,
     "creator_id": 395,
     "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/932698"
+    "url": "https://www.furtrack.com/p/1463683"
   },
   {
-    "id": 14738,
+    "id": 16025,
     "creator_id": 395,
     "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/935831"
+    "url": "https://www.furtrack.com/p/1809632"
   },
   {
     "id": 13249,
@@ -14268,10 +14298,10 @@
     "url": "https://trello.com/b/8G8Rd7ga/28ghostiez"
   },
   {
-    "id": 14742,
+    "id": 16029,
     "creator_id": 395,
     "type": "URL_TELEGRAM_CHANNEL",
-    "url": "https://t.me/+SGVSBSM13CxiN2Mx"
+    "url": "https://t.me/ghstyz"
   },
   {
     "id": 11325,
