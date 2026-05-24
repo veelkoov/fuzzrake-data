@@ -16680,6 +16680,12 @@
     "url": "https://www.alecrimcarmim.com/"
   },
   {
+    "id": 16034,
+    "creator_id": 441,
+    "type": "URL_DONATIONS",
+    "url": "https://ko-fi.com/alecrimcarmim"
+  },
+  {
     "id": 9862,
     "creator_id": 441,
     "type": "URL_FACEBOOK",
@@ -24240,6 +24246,12 @@
     "url": "https://www.facebook.com/profile.php?id=100081333125256"
   },
   {
+    "id": 16040,
+    "creator_id": 589,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/rita-fox-fursuits/"
+  },
+  {
     "id": 11870,
     "creator_id": 589,
     "type": "URL_FUR_AFFINITY",
@@ -26856,12 +26868,6 @@
     "url": "https://www.deviantart.com/tetocreations"
   },
   {
-    "id": 12479,
-    "creator_id": 645,
-    "type": "URL_FACEBOOK",
-    "url": "https://www.facebook.com/profile.php?id=100093694249372"
-  },
-  {
     "id": 15018,
     "creator_id": 645,
     "type": "URL_FAQ",
@@ -26872,12 +26878,6 @@
     "creator_id": 645,
     "type": "URL_FURTRACK",
     "url": "https://www.furtrack.com/user/Teto_Creations"
-  },
-  {
-    "id": 12480,
-    "creator_id": 645,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/teto_creations/"
   },
   {
     "id": 15024,
@@ -26956,12 +26956,6 @@
     "creator_id": 645,
     "type": "URL_TELEGRAM_CHANNEL",
     "url": "https://t.me/TetoCreations"
-  },
-  {
-    "id": 12478,
-    "creator_id": 645,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/Teto_Creations"
   },
   {
     "id": 12475,
@@ -39258,16 +39252,28 @@
     "url": "https://www.instagram.com/starzaras/"
   },
   {
-    "id": 15413,
+    "id": 16037,
     "creator_id": 864,
     "type": "URL_MINIATURES",
     "url": "https://orca2.furtrack.com/thumb/1331688.jpg"
   },
   {
-    "id": 15410,
+    "id": 16038,
+    "creator_id": 864,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1828368.jpg"
+  },
+  {
+    "id": 16035,
     "creator_id": 864,
     "type": "URL_PHOTOS",
     "url": "https://www.furtrack.com/p/1331688"
+  },
+  {
+    "id": 16036,
+    "creator_id": 864,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1828368"
   },
   {
     "id": 15408,
@@ -39628,6 +39634,12 @@
     "creator_id": 870,
     "type": "URL_TELEGRAM_CHANNEL",
     "url": "https://t.me/stitchwreck"
+  },
+  {
+    "id": 16039,
+    "creator_id": 870,
+    "type": "URL_WEBSITE",
+    "url": "https://stitchwreck.my.canva.site/"
   },
   {
     "id": 15513,

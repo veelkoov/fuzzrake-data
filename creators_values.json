@@ -49407,7 +49407,7 @@
     "id": 1498,
     "creator_id": 441,
     "field_name": "DATE_UPDATED",
-    "value": "2025-03-15 18:57:05"
+    "value": "2026-05-20 19:11:52"
   },
   {
     "id": 1502,
@@ -86505,7 +86505,7 @@
     "id": 21530,
     "creator_id": 645,
     "field_name": "DATE_UPDATED",
-    "value": "2025-05-25 20:10:38"
+    "value": "2026-05-18 05:48:19"
   },
   {
     "id": 2445,
@@ -125535,7 +125535,7 @@
     "id": 22452,
     "creator_id": 864,
     "field_name": "DATE_UPDATED",
-    "value": "2025-10-19 14:57:05"
+    "value": "2026-05-21 10:48:44"
   },
   {
     "id": 22330,
@@ -125547,22 +125547,34 @@
     "id": 22322,
     "creator_id": 864,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Adjustable eyebrows"
   },
   {
     "id": 22323,
     "creator_id": 864,
     "field_name": "FEATURES",
-    "value": "Movable jaw"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 22324,
     "creator_id": 864,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "Follow-me eyes"
   },
   {
     "id": 22325,
+    "creator_id": 864,
+    "field_name": "FEATURES",
+    "value": "Movable jaw"
+  },
+  {
+    "id": 23122,
+    "creator_id": 864,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 23123,
     "creator_id": 864,
     "field_name": "FEATURES",
     "value": "Removable horns/antlers"
@@ -125614,6 +125626,12 @@
     "creator_id": 864,
     "field_name": "OTHER_FEATURES",
     "value": "TPU head bases"
+  },
+  {
+    "id": 23121,
+    "creator_id": 864,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Fursuit clothing and accessories"
   },
   {
     "id": 22317,
@@ -126345,7 +126363,7 @@
     "id": 22943,
     "creator_id": 870,
     "field_name": "DATE_UPDATED",
-    "value": "2025-12-07 19:59:58"
+    "value": "2026-05-21 10:49:24"
   },
   {
     "id": 22532,
