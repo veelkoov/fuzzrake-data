@@ -16182,12 +16182,6 @@
     "url": "https://twitter.com/Kogera_I_Am"
   },
   {
-    "id": 11244,
-    "creator_id": 431,
-    "type": "URL_DEVIANTART",
-    "url": "https://www.deviantart.com/elfinstray"
-  },
-  {
     "id": 9780,
     "creator_id": 431,
     "type": "URL_FUR_AFFINITY",
@@ -16198,24 +16192,6 @@
     "creator_id": 431,
     "type": "URL_OTHER",
     "url": "https://toyhou.se/ElfinStray"
-  },
-  {
-    "id": 13002,
-    "creator_id": 431,
-    "type": "URL_PRICES",
-    "url": "https://elfinstray.weebly.com/commission.html"
-  },
-  {
-    "id": 13003,
-    "creator_id": 431,
-    "type": "URL_QUEUE",
-    "url": "https://elfinstray.weebly.com/commission.html"
-  },
-  {
-    "id": 13001,
-    "creator_id": 431,
-    "type": "URL_WEBSITE",
-    "url": "https://elfinstray.weebly.com/"
   },
   {
     "id": 9783,
@@ -33396,12 +33372,6 @@
     "url": "https://www.youtube.com/@wilddreamcreatures"
   },
   {
-    "id": 15568,
-    "creator_id": 758,
-    "type": "URL_COMMISSIONS",
-    "url": "https://defileddragon.carrd.co/#quotecontact"
-  },
-  {
     "id": 13962,
     "creator_id": 758,
     "type": "URL_COMMISSIONS",
@@ -33424,12 +33394,6 @@
     "creator_id": 758,
     "type": "URL_FUR_AFFINITY",
     "url": "https://www.furaffinity.net/user/defileddragon/"
-  },
-  {
-    "id": 13968,
-    "creator_id": 758,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/defileddragonfurs/"
   },
   {
     "id": 15579,
@@ -33492,12 +33456,6 @@
     "url": "https://scritch.es/pictures/bca5bf21-765d-4b0a-9506-4ba96bc0fd36"
   },
   {
-    "id": 15567,
-    "creator_id": 758,
-    "type": "URL_PRICES",
-    "url": "https://defileddragon.carrd.co/#prices"
-  },
-  {
     "id": 13971,
     "creator_id": 758,
     "type": "URL_QUEUE",
@@ -33526,12 +33484,6 @@
     "creator_id": 758,
     "type": "URL_TWITTER",
     "url": "https://twitter.com/DefiledDragon"
-  },
-  {
-    "id": 15566,
-    "creator_id": 758,
-    "type": "URL_WEBSITE",
-    "url": "https://defileddragon.carrd.co"
   },
   {
     "id": 13992,
