@@ -108003,7 +108003,7 @@
     "id": 21031,
     "creator_id": 758,
     "field_name": "DATE_UPDATED",
-    "value": "2025-10-29 19:13:17"
+    "value": "2026-06-04 13:21:59"
   },
   {
     "id": 3203,
@@ -114628,6 +114628,12 @@
     "creator_id": 799,
     "field_name": "DATE_ADDED",
     "value": "2024-12-15 17:58:02"
+  },
+  {
+    "id": 23124,
+    "creator_id": 799,
+    "field_name": "DATE_UPDATED",
+    "value": "2026-05-31 20:49:44"
   },
   {
     "id": 20222,
@@ -121866,6 +121872,12 @@
     "value": "2025-05-25 20:30:27"
   },
   {
+    "id": 23125,
+    "creator_id": 841,
+    "field_name": "DATE_UPDATED",
+    "value": "2026-06-01 14:57:28"
+  },
+  {
     "id": 21601,
     "creator_id": 841,
     "field_name": "DOES_NSFW",
@@ -122031,25 +122043,13 @@
     "id": 21597,
     "creator_id": 841,
     "field_name": "OTHER_FEATURES",
-    "value": "Pickable nose, ear vents, removable eyes (depending on base), fully lined heads"
+    "value": "Pickable nose, ear vents, removable eyes (depending on base), fully lined heads, more"
   },
   {
     "id": 21571,
     "creator_id": 841,
     "field_name": "PRODUCTION_MODELS",
-    "value": "Artistic liberty commissions"
-  },
-  {
-    "id": 21572,
-    "creator_id": 841,
-    "field_name": "PRODUCTION_MODELS",
     "value": "Premades"
-  },
-  {
-    "id": 21573,
-    "creator_id": 841,
-    "field_name": "PRODUCTION_MODELS",
-    "value": "Standard commissions"
   },
   {
     "id": 21574,
