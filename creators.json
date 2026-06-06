@@ -18418,7 +18418,7 @@
     "currencies_accepted": "EUR\nUSD\nGBP\nCAD\nCZK",
     "species_comment": "",
     "ages": "ADULTS",
-    "has_allergy_warning": null,
+    "has_allergy_warning": 0,
     "offers_payment_plans": 1,
     "payment_plans_info": "Flexible payment plans with no price increase. 30 % upfront, then 100 €+ per month until fully paid.",
     "user_id": 659
