@@ -18663,7 +18663,7 @@
     "id": 2766,
     "creator_id": 228,
     "field_name": "DATE_UPDATED",
-    "value": "2025-12-03 19:22:51"
+    "value": "2026-06-07 18:47:43"
   },
   {
     "id": 2770,
@@ -18681,82 +18681,88 @@
     "id": 11186,
     "creator_id": 228,
     "field_name": "FEATURES",
-    "value": "Attached handpaws and feetpaws"
+    "value": "Adjustable/wiggle ears"
   },
   {
     "id": 11187,
     "creator_id": 228,
     "field_name": "FEATURES",
-    "value": "Attached tail"
+    "value": "Attached handpaws and feetpaws"
   },
   {
     "id": 11188,
     "creator_id": 228,
     "field_name": "FEATURES",
-    "value": "Exchangeable hairs"
+    "value": "Attached tail"
   },
   {
     "id": 11189,
     "creator_id": 228,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Exchangeable hairs"
   },
   {
     "id": 11190,
     "creator_id": 228,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 11191,
     "creator_id": 228,
     "field_name": "FEATURES",
-    "value": "In-head fans"
+    "value": "Follow-me eyes"
   },
   {
     "id": 11192,
     "creator_id": 228,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "In-head fans"
   },
   {
     "id": 11193,
     "creator_id": 228,
     "field_name": "FEATURES",
-    "value": "LED eyes"
+    "value": "Indoor feet"
   },
   {
     "id": 11194,
     "creator_id": 228,
     "field_name": "FEATURES",
-    "value": "LED/EL lights"
+    "value": "LED eyes"
   },
   {
     "id": 11195,
     "creator_id": 228,
     "field_name": "FEATURES",
-    "value": "Movable jaw"
+    "value": "LED/EL lights"
   },
   {
     "id": 11196,
     "creator_id": 228,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Movable jaw"
   },
   {
     "id": 11197,
     "creator_id": 228,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "Outdoor feet"
   },
   {
     "id": 11198,
     "creator_id": 228,
     "field_name": "FEATURES",
-    "value": "Removable horns/antlers"
+    "value": "Removable eyelids"
   },
   {
     "id": 11199,
+    "creator_id": 228,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
+  },
+  {
+    "id": 23128,
     "creator_id": 228,
     "field_name": "FEATURES",
     "value": "Washable heads"
@@ -18849,7 +18855,7 @@
     "id": 11200,
     "creator_id": 228,
     "field_name": "OTHER_FEATURES",
-    "value": "UV furs and parts"
+    "value": "UV fur and any kind of magnetic accessory"
   },
   {
     "id": 11211,
@@ -18858,28 +18864,40 @@
     "value": "Collars"
   },
   {
+    "id": 11213,
+    "creator_id": 228,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Fursuit parts"
+  },
+  {
     "id": 11212,
     "creator_id": 228,
     "field_name": "OTHER_ORDER_TYPES",
     "value": "Harnesses"
   },
   {
-    "id": 11214,
+    "id": 11215,
     "creator_id": 228,
     "field_name": "OTHER_ORDER_TYPES",
     "value": "LEDs props"
   },
   {
-    "id": 11215,
+    "id": 23127,
     "creator_id": 228,
     "field_name": "OTHER_ORDER_TYPES",
     "value": "Muzzles"
   },
   {
-    "id": 11213,
+    "id": 11214,
     "creator_id": 228,
     "field_name": "OTHER_ORDER_TYPES",
     "value": "Props"
+  },
+  {
+    "id": 23126,
+    "creator_id": 228,
+    "field_name": "OTHER_STYLES",
+    "value": "Kemono (experiment)"
   },
   {
     "id": 11182,
