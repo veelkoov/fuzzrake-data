@@ -127110,6 +127110,12 @@
     "value": "2025-10-26 13:41:58"
   },
   {
+    "id": 23129,
+    "creator_id": 874,
+    "field_name": "DATE_UPDATED",
+    "value": "2026-06-09 18:47:02"
+  },
+  {
     "id": 22646,
     "creator_id": 874,
     "field_name": "DOES_NSFW",
@@ -127119,58 +127125,76 @@
     "id": 22633,
     "creator_id": 874,
     "field_name": "FEATURES",
-    "value": "Attached tail"
+    "value": "Adjustable eyebrows"
   },
   {
     "id": 22634,
     "creator_id": 874,
     "field_name": "FEATURES",
-    "value": "Exchangeable hairs"
+    "value": "Attached handpaws and feetpaws"
   },
   {
     "id": 22635,
     "creator_id": 874,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Attached tail"
   },
   {
     "id": 22636,
     "creator_id": 874,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Exchangeable hairs"
   },
   {
     "id": 22637,
     "creator_id": 874,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 22638,
     "creator_id": 874,
     "field_name": "FEATURES",
-    "value": "Movable jaw"
+    "value": "Follow-me eyes"
   },
   {
     "id": 22639,
     "creator_id": 874,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Indoor feet"
   },
   {
     "id": 22640,
     "creator_id": 874,
     "field_name": "FEATURES",
-    "value": "Removable blush"
+    "value": "Movable jaw"
   },
   {
     "id": 22641,
     "creator_id": 874,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "Outdoor feet"
   },
   {
     "id": 22642,
+    "creator_id": 874,
+    "field_name": "FEATURES",
+    "value": "Removable blush"
+  },
+  {
+    "id": 23131,
+    "creator_id": 874,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 23132,
+    "creator_id": 874,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
+  },
+  {
+    "id": 23133,
     "creator_id": 874,
     "field_name": "FEATURES",
     "value": "Washable heads"
@@ -127209,34 +127233,40 @@
     "id": 22627,
     "creator_id": 874,
     "field_name": "ORDER_TYPES",
-    "value": "Full plantigrade"
+    "value": "Full digitigrade"
   },
   {
     "id": 22628,
     "creator_id": 874,
     "field_name": "ORDER_TYPES",
-    "value": "Handpaws (as parts/separate)"
+    "value": "Full plantigrade"
   },
   {
     "id": 22629,
     "creator_id": 874,
     "field_name": "ORDER_TYPES",
-    "value": "Head (as parts/separate)"
+    "value": "Handpaws (as parts/separate)"
   },
   {
     "id": 22630,
     "creator_id": 874,
     "field_name": "ORDER_TYPES",
-    "value": "Mini partial (head + handpaws + tail)"
+    "value": "Head (as parts/separate)"
   },
   {
     "id": 22631,
     "creator_id": 874,
     "field_name": "ORDER_TYPES",
-    "value": "Partial (head + handpaws + tail + feetpaws)"
+    "value": "Mini partial (head + handpaws + tail)"
   },
   {
     "id": 22632,
+    "creator_id": 874,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 23130,
     "creator_id": 874,
     "field_name": "ORDER_TYPES",
     "value": "Tails (as parts/separate)"

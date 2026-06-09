@@ -39912,6 +39912,12 @@
     "url": "https://nicosfurryfriends.etsy.com"
   },
   {
+    "id": 16068,
+    "creator_id": 874,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:nicosfurryfriends"
+  },
+  {
     "id": 15558,
     "creator_id": 874,
     "type": "URL_INSTAGRAM",
@@ -39924,10 +39930,10 @@
     "url": "https://linktr.ee/Orange._.mutt"
   },
   {
-    "id": 15556,
+    "id": 16066,
     "creator_id": 874,
     "type": "URL_PRICES",
-    "url": "https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDExMjEzNjA5NjExMTUw?story_media_id=3463197280858043968_5946656018&igsh=NTB4em9yY3BpcXJv"
+    "url": "https://nicosfurryfriends.straw.page/commissioninfo"
   },
   {
     "id": 15561,
@@ -39936,16 +39942,28 @@
     "url": "https://trello.com/b/Y50Q3NgJ/fursuit-commission-list"
   },
   {
+    "id": 16069,
+    "creator_id": 874,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/+2djf5MmS2vU5YTYx"
+  },
+  {
+    "id": 16067,
+    "creator_id": 874,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/store/nicosfurryfriends"
+  },
+  {
     "id": 15562,
     "creator_id": 874,
     "type": "URL_TIKTOK",
     "url": "https://www.tiktok.com/@idiotdragonnico"
   },
   {
-    "id": 15555,
+    "id": 16065,
     "creator_id": 874,
     "type": "URL_WEBSITE",
-    "url": "https://linktr.ee/Orange._.mutt"
+    "url": "https://nicosfurryfriends.straw.page/"
   },
   {
     "id": 15609,
