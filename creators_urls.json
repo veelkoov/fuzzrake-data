@@ -17442,10 +17442,40 @@
     "url": "https://www.pockettcreations.com/"
   },
   {
+    "id": 16077,
+    "creator_id": 456,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/critterworkshop.bsky.social"
+  },
+  {
+    "id": 16075,
+    "creator_id": 456,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/CritterWorkshopStore"
+  },
+  {
     "id": 9999,
     "creator_id": 456,
     "type": "URL_FACEBOOK",
     "url": "https://www.facebook.com/CritterWorkshop/"
+  },
+  {
+    "id": 16073,
+    "creator_id": 456,
+    "type": "URL_FAQ",
+    "url": "https://www.critterworkshop.com/faq"
+  },
+  {
+    "id": 16070,
+    "creator_id": 456,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/critter-workshop/"
+  },
+  {
+    "id": 16076,
+    "creator_id": 456,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:critterworkshop"
   },
   {
     "id": 10000,
@@ -17454,10 +17484,40 @@
     "url": "https://www.instagram.com/critterworkshop/"
   },
   {
+    "id": 16072,
+    "creator_id": 456,
+    "type": "URL_PRICES",
+    "url": "https://www.critterworkshop.com/prices"
+  },
+  {
+    "id": 16078,
+    "creator_id": 456,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/CritterWorkshopUpdates"
+  },
+  {
+    "id": 16079,
+    "creator_id": 456,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@critterworkshop"
+  },
+  {
     "id": 9998,
     "creator_id": 456,
     "type": "URL_TWITTER",
     "url": "https://twitter.com/critterworkshop"
+  },
+  {
+    "id": 16071,
+    "creator_id": 456,
+    "type": "URL_WEBSITE",
+    "url": "https://www.critterworkshop.com/"
+  },
+  {
+    "id": 16074,
+    "creator_id": 456,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/channel/UCnz5CObBKxRUabTnHN07mWw"
   },
   {
     "id": 10010,

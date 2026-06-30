@@ -52254,6 +52254,18 @@
     "value": "2021-06-03 19:57:56"
   },
   {
+    "id": 23134,
+    "creator_id": 456,
+    "field_name": "DATE_UPDATED",
+    "value": "2026-06-23 21:42:05"
+  },
+  {
+    "id": 23138,
+    "creator_id": 456,
+    "field_name": "DOES_NSFW",
+    "value": "False"
+  },
+  {
     "id": 6390,
     "creator_id": 456,
     "field_name": "FEATURES",
@@ -52284,6 +52296,12 @@
     "value": "Outdoor feet"
   },
   {
+    "id": 23135,
+    "creator_id": 456,
+    "field_name": "FEATURES",
+    "value": "Washable heads"
+  },
+  {
     "id": 6385,
     "creator_id": 456,
     "field_name": "LANGUAGES",
@@ -52294,6 +52312,18 @@
     "creator_id": 456,
     "field_name": "LANGUAGES",
     "value": "English"
+  },
+  {
+    "id": 23137,
+    "creator_id": 456,
+    "field_name": "NSFW_SOCIAL",
+    "value": "False"
+  },
+  {
+    "id": 23136,
+    "creator_id": 456,
+    "field_name": "NSFW_WEBSITE",
+    "value": "False"
   },
   {
     "id": 6396,
@@ -52326,30 +52356,6 @@
     "value": "Tail zippered to bodysuit"
   },
   {
-    "id": 6403,
-    "creator_id": 456,
-    "field_name": "OTHER_ORDER_TYPES",
-    "value": "Fursuit bandanas"
-  },
-  {
-    "id": 6402,
-    "creator_id": 456,
-    "field_name": "OTHER_ORDER_TYPES",
-    "value": "Fursuit collars"
-  },
-  {
-    "id": 6401,
-    "creator_id": 456,
-    "field_name": "OTHER_ORDER_TYPES",
-    "value": "Fursuit scent bags"
-  },
-  {
-    "id": 6400,
-    "creator_id": 456,
-    "field_name": "OTHER_ORDER_TYPES",
-    "value": "Kigurumis"
-  },
-  {
     "id": 6387,
     "creator_id": 456,
     "field_name": "PRODUCTION_MODELS",
@@ -52378,6 +52384,12 @@
     "creator_id": 456,
     "field_name": "STYLES",
     "value": "Toony"
+  },
+  {
+    "id": 23139,
+    "creator_id": 456,
+    "field_name": "WORKS_WITH_MINORS",
+    "value": "False"
   },
   {
     "id": 1408,
