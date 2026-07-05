@@ -1608,10 +1608,28 @@
     "url": "https://donthugcacti.com/"
   },
   {
-    "id": 15216,
+    "id": 16095,
+    "creator_id": 44,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/tigerlagoon.bsky.social"
+  },
+  {
+    "id": 16085,
     "creator_id": 44,
     "type": "URL_COMMISSIONS",
-    "url": "https://deliciousdisguises.com/quotes"
+    "url": "https://www.deliciousdisguises.com/quotes"
+  },
+  {
+    "id": 16096,
+    "creator_id": 44,
+    "type": "URL_DONATIONS",
+    "url": "https://ko-fi.com/kalunapup"
+  },
+  {
+    "id": 16086,
+    "creator_id": 44,
+    "type": "URL_FAQ",
+    "url": "https://www.tiger-lagoon.com/faq"
   },
   {
     "id": 183,
@@ -1620,10 +1638,10 @@
     "url": "https://fursuitreview.com/m/delicious-disguises/"
   },
   {
-    "id": 13020,
+    "id": 16089,
     "creator_id": 44,
     "type": "URL_FURTRACK",
-    "url": "https://www.furtrack.com/index/maker:delicious_disguises"
+    "url": "https://www.furtrack.com/index/maker:tiger_lagoon"
   },
   {
     "id": 185,
@@ -1632,10 +1650,10 @@
     "url": "https://www.furaffinity.net/user/DeliciousDisguises/"
   },
   {
-    "id": 13018,
+    "id": 16088,
     "creator_id": 44,
     "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/deliciousdisguises/"
+    "url": "https://www.instagram.com/tigerlagoon/"
   },
   {
     "id": 13016,
@@ -1644,22 +1662,100 @@
     "url": "https://meow.social/@Deliciousdisguises"
   },
   {
+    "id": 16100,
+    "creator_id": 44,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1492347.jpg"
+  },
+  {
+    "id": 16103,
+    "creator_id": 44,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1600236.jpg"
+  },
+  {
+    "id": 16102,
+    "creator_id": 44,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/316292.jpg"
+  },
+  {
+    "id": 16099,
+    "creator_id": 44,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/901505.jpg"
+  },
+  {
+    "id": 16101,
+    "creator_id": 44,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/917221.jpg"
+  },
+  {
+    "id": 16091,
+    "creator_id": 44,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1492347"
+  },
+  {
+    "id": 16094,
+    "creator_id": 44,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1600236"
+  },
+  {
+    "id": 16093,
+    "creator_id": 44,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/316292"
+  },
+  {
+    "id": 16090,
+    "creator_id": 44,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/901505"
+  },
+  {
+    "id": 16092,
+    "creator_id": 44,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/917221"
+  },
+  {
+    "id": 16084,
+    "creator_id": 44,
+    "type": "URL_PRICES",
+    "url": "https://www.deliciousdisguises.com/quotes"
+  },
+  {
     "id": 13019,
     "creator_id": 44,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/FgMs4HBG/delicious-disguises-queue"
   },
   {
-    "id": 13017,
+    "id": 16097,
     "creator_id": 44,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/delishdisguises"
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/deliciousdisguises"
   },
   {
-    "id": 184,
+    "id": 16098,
+    "creator_id": 44,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@tigerlagoonfursuits"
+  },
+  {
+    "id": 16087,
+    "creator_id": 44,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/tiger_lagoon"
+  },
+  {
+    "id": 16083,
     "creator_id": 44,
     "type": "URL_WEBSITE",
-    "url": "https://www.deliciousdisguises.com/"
+    "url": "https://www.tiger-lagoon.com/"
   },
   {
     "id": 187,
@@ -16896,6 +16992,12 @@
     "url": "https://www.facebook.com/plaidpawsmaus/"
   },
   {
+    "id": 16081,
+    "creator_id": 444,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/crafty-critter-cabin/"
+  },
+  {
     "id": 9880,
     "creator_id": 444,
     "type": "URL_INSTAGRAM",
@@ -16938,10 +17040,10 @@
     "url": "https://twitter.com/plaidpawsmaus"
   },
   {
-    "id": 10890,
+    "id": 16082,
     "creator_id": 444,
     "type": "URL_WEBSITE",
-    "url": "https://plaidpawsbymaus.com/"
+    "url": "https://www.craftycrittercabin.com/"
   },
   {
     "id": 11199,
@@ -29808,10 +29910,10 @@
     "url": "https://www.furaffinity.net/user/argetandlazuli/"
   },
   {
-    "id": 13082,
+    "id": 16080,
     "creator_id": 689,
     "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/confused_arget/"
+    "url": "https://www.instagram.com/argetandlazuli/"
   },
   {
     "id": 13083,

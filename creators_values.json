@@ -3027,7 +3027,7 @@
     "id": 2694,
     "creator_id": 44,
     "field_name": "DATE_UPDATED",
-    "value": "2025-08-08 21:16:23"
+    "value": "2026-07-05 19:48:59"
   },
   {
     "id": 2698,
@@ -3153,7 +3153,7 @@
     "id": 2697,
     "creator_id": 44,
     "field_name": "NSFW_SOCIAL",
-    "value": "True"
+    "value": "False"
   },
   {
     "id": 2696,
@@ -3220,6 +3220,90 @@
     "creator_id": 44,
     "field_name": "ORDER_TYPES",
     "value": "Three-fourth (head + handpaws + tail + legs/pants + feetpaws)"
+  },
+  {
+    "id": 23150,
+    "creator_id": 44,
+    "field_name": "OTHER_FEATURES",
+    "value": "bat wings"
+  },
+  {
+    "id": 23151,
+    "creator_id": 44,
+    "field_name": "OTHER_FEATURES",
+    "value": "bird wings"
+  },
+  {
+    "id": 23152,
+    "creator_id": 44,
+    "field_name": "OTHER_FEATURES",
+    "value": "extra ears"
+  },
+  {
+    "id": 23153,
+    "creator_id": 44,
+    "field_name": "OTHER_FEATURES",
+    "value": "extra tails"
+  },
+  {
+    "id": 23149,
+    "creator_id": 44,
+    "field_name": "OTHER_FEATURES",
+    "value": "extra zippers"
+  },
+  {
+    "id": 23147,
+    "creator_id": 44,
+    "field_name": "OTHER_FEATURES",
+    "value": "inflatable belly"
+  },
+  {
+    "id": 23148,
+    "creator_id": 44,
+    "field_name": "OTHER_FEATURES",
+    "value": "inflatable bust"
+  },
+  {
+    "id": 23144,
+    "creator_id": 44,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Half-Heads"
+  },
+  {
+    "id": 23143,
+    "creator_id": 44,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Hoods"
+  },
+  {
+    "id": 23146,
+    "creator_id": 44,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Plush"
+  },
+  {
+    "id": 23145,
+    "creator_id": 44,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Props"
+  },
+  {
+    "id": 23141,
+    "creator_id": 44,
+    "field_name": "OTHER_STYLES",
+    "value": "halfsuit"
+  },
+  {
+    "id": 23142,
+    "creator_id": 44,
+    "field_name": "OTHER_STYLES",
+    "value": "hoods"
+  },
+  {
+    "id": 23140,
+    "creator_id": 44,
+    "field_name": "OTHER_STYLES",
+    "value": "quadsuit"
   },
   {
     "id": 6693,
@@ -94671,7 +94755,7 @@
     "id": 3164,
     "creator_id": 689,
     "field_name": "DATE_UPDATED",
-    "value": "2026-06-06 09:42:12"
+    "value": "2026-06-30 18:47:03"
   },
   {
     "id": 3165,
