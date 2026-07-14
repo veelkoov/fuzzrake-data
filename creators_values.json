@@ -72915,7 +72915,7 @@
     "id": 1831,
     "creator_id": 567,
     "field_name": "DATE_UPDATED",
-    "value": "2024-06-09 18:56:54"
+    "value": "2026-07-09 17:04:02"
   },
   {
     "id": 1829,
@@ -72975,67 +72975,85 @@
     "id": 1827,
     "creator_id": 567,
     "field_name": "NSFW_WEBSITE",
-    "value": "False"
+    "value": "True"
   },
   {
     "id": 17358,
     "creator_id": 567,
     "field_name": "ORDER_TYPES",
-    "value": "Feetpaws (as parts/separate)"
+    "value": "Bodysuits (as parts/separate)"
   },
   {
     "id": 17359,
     "creator_id": 567,
     "field_name": "ORDER_TYPES",
-    "value": "Handpaws (as parts/separate)"
+    "value": "Feetpaws (as parts/separate)"
   },
   {
     "id": 17360,
     "creator_id": 567,
     "field_name": "ORDER_TYPES",
-    "value": "Head (as parts/separate)"
+    "value": "Full digitigrade"
   },
   {
     "id": 17361,
     "creator_id": 567,
     "field_name": "ORDER_TYPES",
-    "value": "Mini partial (head + handpaws + tail)"
+    "value": "Full plantigrade"
   },
   {
     "id": 17362,
     "creator_id": 567,
     "field_name": "ORDER_TYPES",
-    "value": "Partial (head + handpaws + tail + feetpaws)"
+    "value": "Handpaws (as parts/separate)"
   },
   {
     "id": 17363,
     "creator_id": 567,
     "field_name": "ORDER_TYPES",
+    "value": "Head (as parts/separate)"
+  },
+  {
+    "id": 23154,
+    "creator_id": 567,
+    "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 23155,
+    "creator_id": 567,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 23156,
+    "creator_id": 567,
+    "field_name": "ORDER_TYPES",
     "value": "Tails (as parts/separate)"
-  },
-  {
-    "id": 17353,
-    "creator_id": 567,
-    "field_name": "OTHER_FEATURES",
-    "value": "Clear whiskers"
-  },
-  {
-    "id": 17356,
-    "creator_id": 567,
-    "field_name": "OTHER_FEATURES",
-    "value": "Digitigrade or plantigrade style feet paws"
   },
   {
     "id": 17355,
     "creator_id": 567,
     "field_name": "OTHER_FEATURES",
-    "value": "Finger or wrist escapes in hand paws"
+    "value": "Adjustable straps and padding to fit any head size"
+  },
+  {
+    "id": 17357,
+    "creator_id": 567,
+    "field_name": "OTHER_FEATURES",
+    "value": "Finger escapes in hand paws"
   },
   {
     "id": 17354,
     "creator_id": 567,
     "field_name": "OTHER_FEATURES",
-    "value": "Moisture-wicking fabric lining in hand paws and arm sleeves"
+    "value": "Hidden airtag pocket"
+  },
+  {
+    "id": 17353,
+    "creator_id": 567,
+    "field_name": "OTHER_FEATURES",
+    "value": "Magnetic eyelids"
   },
   {
     "id": 17352,
@@ -73044,16 +73062,16 @@
     "value": "Pickable nose"
   },
   {
-    "id": 17357,
+    "id": 23157,
     "creator_id": 567,
     "field_name": "OTHER_FEATURES",
-    "value": "Squeaker in tip of tail"
+    "value": "Swappable indoor/outdoor feetpaw soles"
   },
   {
-    "id": 17364,
+    "id": 17356,
     "creator_id": 567,
-    "field_name": "OTHER_ORDER_TYPES",
-    "value": "Arm sleeves"
+    "field_name": "OTHER_FEATURES",
+    "value": "Swappable magnetic pupils"
   },
   {
     "id": 17344,
@@ -84333,7 +84351,7 @@
     "id": 2350,
     "creator_id": 633,
     "field_name": "DATE_UPDATED",
-    "value": "2026-02-22 20:47:17"
+    "value": "2026-07-09 17:01:39"
   },
   {
     "id": 2349,
@@ -89367,7 +89385,7 @@
     "id": 23101,
     "creator_id": 658,
     "field_name": "DATE_UPDATED",
-    "value": "2026-04-02 13:27:52"
+    "value": "2026-07-09 17:45:31"
   },
   {
     "id": 2532,
