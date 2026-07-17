@@ -6516,12 +6516,6 @@
     "url": "https://www.deviantart.com/saltysuits"
   },
   {
-    "id": 887,
-    "creator_id": 206,
-    "type": "URL_FACEBOOK",
-    "url": "https://www.facebook.com/SaltySuits/"
-  },
-  {
     "id": 882,
     "creator_id": 206,
     "type": "URL_FURSUITREVIEW",
@@ -6534,22 +6528,10 @@
     "url": "https://www.furaffinity.net/user/saltysuits/"
   },
   {
-    "id": 888,
-    "creator_id": 206,
-    "type": "URL_TUMBLR",
-    "url": "https://saltysuits.tumblr.com/"
-  },
-  {
     "id": 886,
     "creator_id": 206,
     "type": "URL_TWITTER",
     "url": "https://twitter.com/saltysuits"
-  },
-  {
-    "id": 883,
-    "creator_id": 206,
-    "type": "URL_WEBSITE",
-    "url": "https://saltysuits.webs.com/"
   },
   {
     "id": 893,
@@ -38808,40 +38790,28 @@
     "url": "https://shimie-kimera.carrd.co/"
   },
   {
-    "id": 15267,
+    "id": 16138,
     "creator_id": 854,
     "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/1098829.jpg"
+    "url": "https://orca2.furtrack.com/thumb/1833749.jpg"
   },
   {
-    "id": 15268,
+    "id": 16139,
     "creator_id": 854,
     "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/1098831.jpg"
+    "url": "https://orca2.furtrack.com/thumb/1860190.jpg"
   },
   {
-    "id": 15269,
-    "creator_id": 854,
-    "type": "URL_MINIATURES",
-    "url": "https://orca2.furtrack.com/thumb/1098833.jpg"
-  },
-  {
-    "id": 15263,
+    "id": 16136,
     "creator_id": 854,
     "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/1098829"
+    "url": "https://www.furtrack.com/p/1833749"
   },
   {
-    "id": 15264,
+    "id": 16137,
     "creator_id": 854,
     "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/1098831"
-  },
-  {
-    "id": 15265,
-    "creator_id": 854,
-    "type": "URL_PHOTOS",
-    "url": "https://www.furtrack.com/p/1098833"
+    "url": "https://www.furtrack.com/p/1860190"
   },
   {
     "id": 15254,
