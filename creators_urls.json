@@ -936,42 +936,6 @@
     "url": "http://gofurit.co.uk/"
   },
   {
-    "id": 110,
-    "creator_id": 23,
-    "type": "URL_COMMISSIONS",
-    "url": "https://craftyvulpine.com/"
-  },
-  {
-    "id": 109,
-    "creator_id": 23,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/tayy_the_fur/"
-  },
-  {
-    "id": 9418,
-    "creator_id": 23,
-    "type": "URL_PRICES",
-    "url": "https://craftyvulpine.com/pricing"
-  },
-  {
-    "id": 9419,
-    "creator_id": 23,
-    "type": "URL_QUEUE",
-    "url": "https://trello.com/b/AdEK6hdL/fursuit-queue"
-  },
-  {
-    "id": 107,
-    "creator_id": 23,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/CraftyVulpine"
-  },
-  {
-    "id": 105,
-    "creator_id": 23,
-    "type": "URL_WEBSITE",
-    "url": "https://craftyvulpine.com/"
-  },
-  {
     "id": 15129,
     "creator_id": 24,
     "type": "URL_BLUESKY",
@@ -11704,54 +11668,6 @@
     "creator_id": 331,
     "type": "URL_WEBSITE",
     "url": "https://furgetfulfaefursuits.carrd.co/"
-  },
-  {
-    "id": 1551,
-    "creator_id": 332,
-    "type": "URL_DONATIONS",
-    "url": "https://www.patreon.com/TwilightKnightsCosplay"
-  },
-  {
-    "id": 11160,
-    "creator_id": 332,
-    "type": "URL_ETSY",
-    "url": "https://www.etsy.com/shop/TwilightKnights"
-  },
-  {
-    "id": 1549,
-    "creator_id": 332,
-    "type": "URL_FACEBOOK",
-    "url": "https://www.facebook.com/TwilightKnightsCosplay/"
-  },
-  {
-    "id": 1547,
-    "creator_id": 332,
-    "type": "URL_FAQ",
-    "url": "https://www.twilightknightscosplay.ca/commission-info"
-  },
-  {
-    "id": 1550,
-    "creator_id": 332,
-    "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/twilight_knights_cosplay/"
-  },
-  {
-    "id": 1546,
-    "creator_id": 332,
-    "type": "URL_PRICES",
-    "url": "https://www.twilightknightscosplay.ca/commission-info"
-  },
-  {
-    "id": 1548,
-    "creator_id": 332,
-    "type": "URL_TWITTER",
-    "url": "https://twitter.com/makubestu"
-  },
-  {
-    "id": 1545,
-    "creator_id": 332,
-    "type": "URL_WEBSITE",
-    "url": "https://www.twilightknightscosplay.ca/"
   },
   {
     "id": 1556,
