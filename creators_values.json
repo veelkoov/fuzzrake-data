@@ -94269,7 +94269,7 @@
     "id": 20699,
     "creator_id": 687,
     "field_name": "DATE_UPDATED",
-    "value": "2025-02-17 20:22:12"
+    "value": "2026-07-29 12:54:35"
   },
   {
     "id": 2719,
@@ -94599,7 +94599,7 @@
     "id": 2720,
     "creator_id": 687,
     "field_name": "WORKS_WITH_MINORS",
-    "value": "True"
+    "value": "False"
   },
   {
     "id": 2722,
