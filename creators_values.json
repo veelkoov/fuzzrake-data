@@ -93213,7 +93213,7 @@
     "id": 2704,
     "creator_id": 684,
     "field_name": "DATE_UPDATED",
-    "value": "2023-10-19 18:14:51"
+    "value": "2026-08-14 19:14:49"
   },
   {
     "id": 2685,
@@ -93256,6 +93256,12 @@
     "creator_id": 684,
     "field_name": "FEATURES",
     "value": "Removable horns/antlers"
+  },
+  {
+    "id": 23161,
+    "creator_id": 684,
+    "field_name": "FEATURES",
+    "value": "Washable heads"
   },
   {
     "id": 11999,
@@ -111273,7 +111279,13 @@
     "id": 20612,
     "creator_id": 781,
     "field_name": "DATE_UPDATED",
-    "value": "2026-01-18 11:15:17"
+    "value": "2026-08-13 20:52:59"
+  },
+  {
+    "id": 23160,
+    "creator_id": 781,
+    "field_name": "DOES_NSFW",
+    "value": "False"
   },
   {
     "id": 19621,
@@ -111370,6 +111382,12 @@
     "creator_id": 781,
     "field_name": "ORDER_TYPES",
     "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 23159,
+    "creator_id": 781,
+    "field_name": "OTHER_FEATURES",
+    "value": "In- & Outdoor feetpaws with exchangeable sole"
   },
   {
     "id": 19626,
