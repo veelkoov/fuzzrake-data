@@ -87369,7 +87369,7 @@
     "id": 20303,
     "creator_id": 651,
     "field_name": "DATE_UPDATED",
-    "value": "2025-06-29 07:02:30"
+    "value": "2026-08-16 06:34:33"
   },
   {
     "id": 2479,
@@ -127092,6 +127092,18 @@
     "value": "2025-11-09 21:32:20"
   },
   {
+    "id": 23162,
+    "creator_id": 876,
+    "field_name": "DATE_UPDATED",
+    "value": "2026-08-17 17:11:04"
+  },
+  {
+    "id": 23167,
+    "creator_id": 876,
+    "field_name": "DOES_NSFW",
+    "value": "False"
+  },
+  {
     "id": 22748,
     "creator_id": 876,
     "field_name": "FEATURES",
@@ -127141,6 +127153,12 @@
   },
   {
     "id": 22756,
+    "creator_id": 876,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
+  },
+  {
+    "id": 23164,
     "creator_id": 876,
     "field_name": "FEATURES",
     "value": "Washable heads"
@@ -127218,13 +127236,7 @@
     "value": "Tails (as parts/separate)"
   },
   {
-    "id": 22746,
-    "creator_id": 876,
-    "field_name": "ORDER_TYPES",
-    "value": "Three-fourth (head + handpaws + tail + legs/pants + feetpaws)"
-  },
-  {
-    "id": 22759,
+    "id": 23166,
     "creator_id": 876,
     "field_name": "OTHER_FEATURES",
     "value": "Eyelids!"
@@ -127234,6 +127246,18 @@
     "creator_id": 876,
     "field_name": "OTHER_FEATURES",
     "value": "Pickable noses!"
+  },
+  {
+    "id": 22759,
+    "creator_id": 876,
+    "field_name": "OTHER_FEATURES",
+    "value": "Plush piercings"
+  },
+  {
+    "id": 23165,
+    "creator_id": 876,
+    "field_name": "OTHER_FEATURES",
+    "value": "Props"
   },
   {
     "id": 22758,
@@ -127275,10 +127299,16 @@
     "id": 22734,
     "creator_id": 876,
     "field_name": "STYLES",
-    "value": "Semi Toony"
+    "value": "Kemono"
   },
   {
     "id": 22735,
+    "creator_id": 876,
+    "field_name": "STYLES",
+    "value": "Semi Toony"
+  },
+  {
+    "id": 23163,
     "creator_id": 876,
     "field_name": "STYLES",
     "value": "Toony"
