@@ -82383,7 +82383,7 @@
     "id": 3325,
     "creator_id": 625,
     "field_name": "DATE_UPDATED",
-    "value": "2024-10-11 20:31:20"
+    "value": "2026-08-31 05:56:18"
   },
   {
     "id": 2291,
@@ -82527,22 +82527,28 @@
     "id": 15342,
     "creator_id": 625,
     "field_name": "ORDER_TYPES",
-    "value": "Mini partial (head + handpaws + tail)"
+    "value": "Head (as parts/separate)"
   },
   {
     "id": 15343,
     "creator_id": 625,
     "field_name": "ORDER_TYPES",
-    "value": "Partial (head + handpaws + tail + feetpaws)"
+    "value": "Mini partial (head + handpaws + tail)"
   },
   {
     "id": 15344,
     "creator_id": 625,
     "field_name": "ORDER_TYPES",
-    "value": "Tails (as parts/separate)"
+    "value": "Partial (head + handpaws + tail + feetpaws)"
   },
   {
     "id": 15345,
+    "creator_id": 625,
+    "field_name": "ORDER_TYPES",
+    "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 23187,
     "creator_id": 625,
     "field_name": "ORDER_TYPES",
     "value": "Three-fourth (head + handpaws + tail + legs/pants + feetpaws)"
@@ -94209,7 +94215,7 @@
     "id": 3164,
     "creator_id": 689,
     "field_name": "DATE_UPDATED",
-    "value": "2026-06-30 18:47:03"
+    "value": "2026-08-29 07:16:21"
   },
   {
     "id": 3165,
@@ -100887,7 +100893,7 @@
     "id": 21755,
     "creator_id": 721,
     "field_name": "DATE_UPDATED",
-    "value": "2025-06-26 01:14:41"
+    "value": "2026-09-02 18:52:30"
   },
   {
     "id": 2984,
@@ -100899,58 +100905,52 @@
     "id": 18375,
     "creator_id": 721,
     "field_name": "FEATURES",
-    "value": "Attached tail"
+    "value": "Attached handpaws and feetpaws"
   },
   {
     "id": 18376,
     "creator_id": 721,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Attached tail"
   },
   {
     "id": 18377,
     "creator_id": 721,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 18378,
     "creator_id": 721,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "Follow-me eyes"
   },
   {
     "id": 18379,
     "creator_id": 721,
     "field_name": "FEATURES",
-    "value": "LED eyes"
+    "value": "Indoor feet"
   },
   {
     "id": 18380,
     "creator_id": 721,
     "field_name": "FEATURES",
-    "value": "LED/EL lights"
+    "value": "Outdoor feet"
   },
   {
     "id": 18381,
     "creator_id": 721,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Removable eyelids"
   },
   {
     "id": 18382,
     "creator_id": 721,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
-  },
-  {
-    "id": 18383,
-    "creator_id": 721,
-    "field_name": "FEATURES",
     "value": "Removable horns/antlers"
   },
   {
-    "id": 18384,
+    "id": 18383,
     "creator_id": 721,
     "field_name": "FEATURES",
     "value": "Washable heads"
@@ -100989,49 +100989,55 @@
     "id": 18394,
     "creator_id": 721,
     "field_name": "ORDER_TYPES",
-    "value": "Full digitigrade"
+    "value": "Full plantigrade"
   },
   {
     "id": 18395,
     "creator_id": 721,
     "field_name": "ORDER_TYPES",
-    "value": "Full plantigrade"
+    "value": "Handpaws (as parts/separate)"
   },
   {
     "id": 18396,
     "creator_id": 721,
     "field_name": "ORDER_TYPES",
-    "value": "Handpaws (as parts/separate)"
+    "value": "Head (as parts/separate)"
   },
   {
     "id": 18397,
     "creator_id": 721,
     "field_name": "ORDER_TYPES",
-    "value": "Head (as parts/separate)"
+    "value": "Mini partial (head + handpaws + tail)"
   },
   {
     "id": 18398,
     "creator_id": 721,
     "field_name": "ORDER_TYPES",
-    "value": "Mini partial (head + handpaws + tail)"
+    "value": "Partial (head + handpaws + tail + feetpaws)"
   },
   {
     "id": 18399,
     "creator_id": 721,
     "field_name": "ORDER_TYPES",
-    "value": "Partial (head + handpaws + tail + feetpaws)"
-  },
-  {
-    "id": 18400,
-    "creator_id": 721,
-    "field_name": "ORDER_TYPES",
     "value": "Tails (as parts/separate)"
   },
   {
-    "id": 18401,
+    "id": 23189,
     "creator_id": 721,
-    "field_name": "ORDER_TYPES",
-    "value": "Three-fourth (head + handpaws + tail + legs/pants + feetpaws)"
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Candles"
+  },
+  {
+    "id": 23190,
+    "creator_id": 721,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Fursuit Collars"
+  },
+  {
+    "id": 23188,
+    "creator_id": 721,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Fursuit sprays"
   },
   {
     "id": 18372,
@@ -109428,6 +109434,12 @@
     "value": "2024-09-29 10:35:09"
   },
   {
+    "id": 23191,
+    "creator_id": 770,
+    "field_name": "DATE_UPDATED",
+    "value": "2026-09-05 12:19:06"
+  },
+  {
     "id": 3284,
     "creator_id": 770,
     "field_name": "DOES_NSFW",
@@ -109437,31 +109449,49 @@
     "id": 13941,
     "creator_id": 770,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Attached tail"
   },
   {
     "id": 13942,
     "creator_id": 770,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Exchangeable hairs"
   },
   {
     "id": 13943,
     "creator_id": 770,
     "field_name": "FEATURES",
-    "value": "Indoor feet"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 13944,
     "creator_id": 770,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Follow-me eyes"
   },
   {
     "id": 13945,
     "creator_id": 770,
     "field_name": "FEATURES",
+    "value": "Indoor feet"
+  },
+  {
+    "id": 23196,
+    "creator_id": 770,
+    "field_name": "FEATURES",
+    "value": "Outdoor feet"
+  },
+  {
+    "id": 23197,
+    "creator_id": 770,
+    "field_name": "FEATURES",
     "value": "Removable eyelids"
+  },
+  {
+    "id": 23198,
+    "creator_id": 770,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
   },
   {
     "id": 13939,
@@ -109497,34 +109527,70 @@
     "id": 13947,
     "creator_id": 770,
     "field_name": "ORDER_TYPES",
-    "value": "Handpaws (as parts/separate)"
+    "value": "Full digitigrade"
   },
   {
     "id": 13948,
     "creator_id": 770,
     "field_name": "ORDER_TYPES",
-    "value": "Head (as parts/separate)"
+    "value": "Full plantigrade"
   },
   {
     "id": 13949,
     "creator_id": 770,
     "field_name": "ORDER_TYPES",
-    "value": "Mini partial (head + handpaws + tail)"
+    "value": "Handpaws (as parts/separate)"
   },
   {
     "id": 13950,
     "creator_id": 770,
     "field_name": "ORDER_TYPES",
-    "value": "Partial (head + handpaws + tail + feetpaws)"
+    "value": "Head (as parts/separate)"
   },
   {
     "id": 13951,
     "creator_id": 770,
     "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 23194,
+    "creator_id": 770,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 23195,
+    "creator_id": 770,
+    "field_name": "ORDER_TYPES",
     "value": "Tails (as parts/separate)"
   },
   {
+    "id": 23199,
+    "creator_id": 770,
+    "field_name": "OTHER_FEATURES",
+    "value": "Interchangeable eye meshes"
+  },
+  {
+    "id": 23200,
+    "creator_id": 770,
+    "field_name": "OTHER_FEATURES",
+    "value": "Neck pocket"
+  },
+  {
     "id": 13940,
+    "creator_id": 770,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Artistic liberty commissions"
+  },
+  {
+    "id": 23192,
+    "creator_id": 770,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Premades"
+  },
+  {
+    "id": 23193,
     "creator_id": 770,
     "field_name": "PRODUCTION_MODELS",
     "value": "Standard commissions"
@@ -109539,7 +109605,7 @@
     "id": 3285,
     "creator_id": 770,
     "field_name": "WORKS_WITH_MINORS",
-    "value": "True"
+    "value": "False"
   },
   {
     "id": 3286,
@@ -125814,6 +125880,12 @@
     "value": "2025-10-26 13:11:01"
   },
   {
+    "id": 23168,
+    "creator_id": 869,
+    "field_name": "DATE_UPDATED",
+    "value": "2026-09-06 11:06:51"
+  },
+  {
     "id": 22491,
     "creator_id": 869,
     "field_name": "DOES_NSFW",
@@ -127689,13 +127761,67 @@
     "id": 22942,
     "creator_id": 879,
     "field_name": "DATE_UPDATED",
-    "value": "2026-05-08 07:57:05"
+    "value": "2026-08-29 07:17:53"
   },
   {
     "id": 22836,
     "creator_id": 879,
     "field_name": "DOES_NSFW",
     "value": "False"
+  },
+  {
+    "id": 23175,
+    "creator_id": 879,
+    "field_name": "FEATURES",
+    "value": "Adjustable eyebrows"
+  },
+  {
+    "id": 23176,
+    "creator_id": 879,
+    "field_name": "FEATURES",
+    "value": "Exchangeable hairs"
+  },
+  {
+    "id": 23177,
+    "creator_id": 879,
+    "field_name": "FEATURES",
+    "value": "Exchangeable tongues"
+  },
+  {
+    "id": 23178,
+    "creator_id": 879,
+    "field_name": "FEATURES",
+    "value": "Follow-me eyes"
+  },
+  {
+    "id": 23179,
+    "creator_id": 879,
+    "field_name": "FEATURES",
+    "value": "Indoor feet"
+  },
+  {
+    "id": 23180,
+    "creator_id": 879,
+    "field_name": "FEATURES",
+    "value": "Outdoor feet"
+  },
+  {
+    "id": 23181,
+    "creator_id": 879,
+    "field_name": "FEATURES",
+    "value": "Removable blush"
+  },
+  {
+    "id": 23182,
+    "creator_id": 879,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 23183,
+    "creator_id": 879,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
   },
   {
     "id": 22828,
@@ -127719,19 +127845,61 @@
     "id": 22832,
     "creator_id": 879,
     "field_name": "ORDER_TYPES",
-    "value": "Handpaws (as parts/separate)"
+    "value": "Feetpaws (as parts/separate)"
   },
   {
     "id": 22994,
     "creator_id": 879,
     "field_name": "ORDER_TYPES",
+    "value": "Handpaws (as parts/separate)"
+  },
+  {
+    "id": 23171,
+    "creator_id": 879,
+    "field_name": "ORDER_TYPES",
+    "value": "Head (as parts/separate)"
+  },
+  {
+    "id": 23172,
+    "creator_id": 879,
+    "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 23173,
+    "creator_id": 879,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 23174,
+    "creator_id": 879,
+    "field_name": "ORDER_TYPES",
     "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 23186,
+    "creator_id": 879,
+    "field_name": "OTHER_FEATURES",
+    "value": "Finger Escapes"
   },
   {
     "id": 22995,
     "creator_id": 879,
     "field_name": "OTHER_FEATURES",
     "value": "Hidden Belt Loop"
+  },
+  {
+    "id": 23185,
+    "creator_id": 879,
+    "field_name": "OTHER_FEATURES",
+    "value": "Squeakers"
+  },
+  {
+    "id": 23184,
+    "creator_id": 879,
+    "field_name": "OTHER_FEATURES",
+    "value": "Tail Gore Details"
   },
   {
     "id": 22829,
@@ -127753,6 +127921,18 @@
   },
   {
     "id": 22831,
+    "creator_id": 879,
+    "field_name": "STYLES",
+    "value": "Kemono"
+  },
+  {
+    "id": 23169,
+    "creator_id": 879,
+    "field_name": "STYLES",
+    "value": "Semi Toony"
+  },
+  {
+    "id": 23170,
     "creator_id": 879,
     "field_name": "STYLES",
     "value": "Toony"

@@ -25920,6 +25920,12 @@
     "url": "https://www.kurenji.com/"
   },
   {
+    "id": 16180,
+    "creator_id": 625,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/shrumibo.bsky.social"
+  },
+  {
     "id": 14188,
     "creator_id": 625,
     "type": "URL_COMMISSIONS",
@@ -25942,6 +25948,12 @@
     "creator_id": 625,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/SnVZQhb2/shrumibo-fursuit-queue"
+  },
+  {
+    "id": 16181,
+    "creator_id": 625,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/shrumibo"
   },
   {
     "id": 12227,
@@ -31176,10 +31188,10 @@
     "url": "https://fursuitreview.com/m/caboodle-costumes/"
   },
   {
-    "id": 13595,
+    "id": 16185,
     "creator_id": 721,
     "type": "URL_FURTRACK",
-    "url": "https://www.furtrack.com/index/maker:angelvixenstudios"
+    "url": "https://www.furtrack.com/index/maker:alpineanthros"
   },
   {
     "id": 15127,
@@ -31188,10 +31200,28 @@
     "url": "https://www.instagram.com/alpineanthros/"
   },
   {
-    "id": 13594,
+    "id": 16187,
+    "creator_id": 721,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1701624.jpg"
+  },
+  {
+    "id": 16186,
+    "creator_id": 721,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1701624"
+  },
+  {
+    "id": 16183,
+    "creator_id": 721,
+    "type": "URL_PRICES",
+    "url": "https://docs.google.com/document/d/1KwjKoCaMrGbEMX9RTOV8HHRqOxoraLnG3TubGAVAtCo/edit?usp=sharing"
+  },
+  {
+    "id": 16184,
     "creator_id": 721,
     "type": "URL_QUEUE",
-    "url": "https://trello.com/b/cTiXh2lD/vixen-fursuits"
+    "url": "https://trello.com/invite/b/5e113087a95e9e82509d89f9/ATTI947cb022822d20f342f42f3fd2a655be23BB59C3/alpine-anthros"
   },
   {
     "id": 13593,
@@ -31204,6 +31234,12 @@
     "creator_id": 721,
     "type": "URL_TWITTER",
     "url": "https://twitter.com/AlpineAnthros"
+  },
+  {
+    "id": 16182,
+    "creator_id": 721,
+    "type": "URL_WEBSITE",
+    "url": "https://alpineanthros.com/"
   },
   {
     "id": 13598,
@@ -34006,6 +34042,12 @@
     "creator_id": 770,
     "type": "URL_FURSUITREVIEW",
     "url": "https://fursuitreview.com/m/puzzoz/"
+  },
+  {
+    "id": 16188,
+    "creator_id": 770,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:puzzoz"
   },
   {
     "id": 14086,
@@ -39486,16 +39528,28 @@
     "url": "https://x.com/fish_fursuits"
   },
   {
-    "id": 15492,
+    "id": 16166,
     "creator_id": 869,
     "type": "URL_COMMISSIONS",
-    "url": "https://www.dualpaw.de/"
+    "url": "https://europe-west1-dualpawstuidos.cloudfunctions.net/commissionStatusPage"
   },
   {
     "id": 15494,
     "creator_id": 869,
     "type": "URL_INSTAGRAM",
     "url": "https://www.instagram.com/dualpawstudios/"
+  },
+  {
+    "id": 16189,
+    "creator_id": 869,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/DualPawStudiosChat"
+  },
+  {
+    "id": 16167,
+    "creator_id": 869,
+    "type": "URL_THE_DEALERS_DEN",
+    "url": "https://www.thedealersden.com/display-feedback/dualpawstudios"
   },
   {
     "id": 15493,
@@ -40314,10 +40368,10 @@
     "url": "https://www.facebook.com/profile.php?id=61583860912481"
   },
   {
-    "id": 15709,
+    "id": 16169,
     "creator_id": 879,
     "type": "URL_FURTRACK",
-    "url": "https://www.furtrack.com/index/maker:mahnuggets"
+    "url": "https://www.furtrack.com/index/maker:mahnuggets_fur"
   },
   {
     "id": 15707,
@@ -40338,76 +40392,76 @@
     "url": "https://linktr.ee/mahnuggets"
   },
   {
-    "id": 16010,
+    "id": 16178,
     "creator_id": 879,
     "type": "URL_MINIATURES",
-    "url": "https://storage.scritch.es/scritch/2e91df4cb97a0010e1a90dfb6c8640d3090a6020/thumbnail_d59ef414-8f10-404d-baed-4cab7d5be522.jpeg"
+    "url": "https://orca2.furtrack.com/thumb/1665149.jpg"
   },
   {
-    "id": 16012,
+    "id": 16176,
     "creator_id": 879,
     "type": "URL_MINIATURES",
-    "url": "https://storage.scritch.es/scritch/801f27454a606823480a6c932a7cb5056efb0dff/thumbnail_28a78641-df59-4f89-bb6c-77063a15cde4.jpeg"
+    "url": "https://orca2.furtrack.com/thumb/2165344.jpg"
   },
   {
-    "id": 16011,
+    "id": 16179,
     "creator_id": 879,
     "type": "URL_MINIATURES",
-    "url": "https://storage.scritch.es/scritch/c250c1fe0ea8fdc5f3d0ff3bff7ff62d17c0a302/thumbnail_fe447aa7-06c6-4ff3-8238-848bc4c496db.jpeg"
+    "url": "https://orca2.furtrack.com/thumb/2165351.jpg"
   },
   {
-    "id": 16013,
+    "id": 16177,
     "creator_id": 879,
     "type": "URL_MINIATURES",
-    "url": "https://storage.scritch.es/scritch/f0522dac4db69398b3f273bcd11a2a3557e67783/thumbnail_61f96279-39c3-4c32-8704-f34f3ac10e86.jpeg"
+    "url": "https://orca2.furtrack.com/thumb/2165357.jpg"
   },
   {
-    "id": 16014,
+    "id": 16175,
     "creator_id": 879,
     "type": "URL_MINIATURES",
-    "url": "https://storage.scritch.es/scritch/fbe0c80f4ebb2701e73448accfc5c5a439fba9b5/thumbnail_099ed804-f50d-4dbf-9e10-e8b8907016ba.jpeg"
+    "url": "https://orca2.furtrack.com/thumb/2165365.jpg"
   },
   {
-    "id": 16006,
+    "id": 16173,
     "creator_id": 879,
     "type": "URL_PHOTOS",
-    "url": "https://scritch.es/pictures/37a111cb-96af-4e01-be14-e18ce51afbd7"
+    "url": "https://www.furtrack.com/p/1665149"
   },
   {
-    "id": 16008,
+    "id": 16171,
     "creator_id": 879,
     "type": "URL_PHOTOS",
-    "url": "https://scritch.es/pictures/6b0a7e19-e787-4bef-9c48-2ba3b56ef3a8"
+    "url": "https://www.furtrack.com/p/2165344"
   },
   {
-    "id": 16007,
+    "id": 16174,
     "creator_id": 879,
     "type": "URL_PHOTOS",
-    "url": "https://scritch.es/pictures/77884650-6d2e-41aa-8aaf-ccebe6a9dd38"
+    "url": "https://www.furtrack.com/p/2165351"
   },
   {
-    "id": 16009,
+    "id": 16172,
     "creator_id": 879,
     "type": "URL_PHOTOS",
-    "url": "https://scritch.es/pictures/837da4dd-f2a0-4f5b-b567-d3b456d5c0c6"
+    "url": "https://www.furtrack.com/p/2165357"
   },
   {
-    "id": 16005,
+    "id": 16170,
     "creator_id": 879,
     "type": "URL_PHOTOS",
-    "url": "https://scritch.es/pictures/fd10ddd4-79b0-4ccb-9e3b-2d1fd77f7589"
+    "url": "https://www.furtrack.com/p/2165365"
+  },
+  {
+    "id": 16168,
+    "creator_id": 879,
+    "type": "URL_PRICES",
+    "url": "https://furfinder.cc/makers/879"
   },
   {
     "id": 15662,
     "creator_id": 879,
     "type": "URL_QUEUE",
     "url": "https://trello.com/b/B6MpbAro"
-  },
-  {
-    "id": 15663,
-    "creator_id": 879,
-    "type": "URL_SCRITCH",
-    "url": "https://scritch.es/mahnuggets"
   },
   {
     "id": 15824,
