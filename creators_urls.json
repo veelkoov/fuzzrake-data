@@ -40762,5 +40762,203 @@
     "creator_id": 884,
     "type": "URL_YOUTUBE",
     "url": "https://www.youtube.com/@grob-in-the-grove"
+  },
+  {
+    "id": 16190,
+    "creator_id": 885,
+    "type": "URL_COMMISSIONS",
+    "url": "https://www.instagram.com/purplefoxcreations/"
+  },
+  {
+    "id": 16205,
+    "creator_id": 885,
+    "type": "URL_DONATIONS",
+    "url": "https://ko-fi.com/purplefoxcreations"
+  },
+  {
+    "id": 16194,
+    "creator_id": 885,
+    "type": "URL_ETSY",
+    "url": "https://www.etsy.com/shop/PurpleFCreations"
+  },
+  {
+    "id": 16197,
+    "creator_id": 885,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:purplefoxcreations"
+  },
+  {
+    "id": 16191,
+    "creator_id": 885,
+    "type": "URL_FUR_AFFINITY",
+    "url": "https://www.furaffinity.net/user/mossblox/"
+  },
+  {
+    "id": 16192,
+    "creator_id": 885,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/purplefoxcreations/"
+  },
+  {
+    "id": 16193,
+    "creator_id": 885,
+    "type": "URL_LINKLIST",
+    "url": "https://purplefoxcreations.carrd.co"
+  },
+  {
+    "id": 16204,
+    "creator_id": 885,
+    "type": "URL_OTHER",
+    "url": "https://scritch.es/purplefoxcreations"
+  },
+  {
+    "id": 16203,
+    "creator_id": 885,
+    "type": "URL_OTHER",
+    "url": "www.furtrack.com/user/PurpleFoxCreations"
+  },
+  {
+    "id": 16199,
+    "creator_id": 885,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/6405e7ee-cc96-4db6-b21c-b36bb98f6391"
+  },
+  {
+    "id": 16200,
+    "creator_id": 885,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/a1b94c5d-730a-4a87-9df1-893156e7ad7d"
+  },
+  {
+    "id": 16201,
+    "creator_id": 885,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/a89a035e-18cb-4dfb-aa48-60677f90a978"
+  },
+  {
+    "id": 16198,
+    "creator_id": 885,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/bdec29da-23f1-47ca-ad87-86912d1b3ae4"
+  },
+  {
+    "id": 16202,
+    "creator_id": 885,
+    "type": "URL_PHOTOS",
+    "url": "https://scritch.es/pictures/cdd45c3d-efe5-4216-950e-e6fa2742292a"
+  },
+  {
+    "id": 16195,
+    "creator_id": 885,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/T5yOzMWh/pfc-queue"
+  },
+  {
+    "id": 16196,
+    "creator_id": 885,
+    "type": "URL_SCRITCH",
+    "url": "https://scritch.es/purplefoxcreations"
+  },
+  {
+    "id": 16223,
+    "creator_id": 886,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/fersuits.bsky.social"
+  },
+  {
+    "id": 16207,
+    "creator_id": 886,
+    "type": "URL_COMMISSIONS",
+    "url": "https://wildsoft.es/fersuits/en/"
+  },
+  {
+    "id": 16209,
+    "creator_id": 886,
+    "type": "URL_FURTRACK",
+    "url": "https://www.furtrack.com/index/maker:fersuits"
+  },
+  {
+    "id": 16218,
+    "creator_id": 886,
+    "type": "URL_INSTAGRAM",
+    "url": "https://www.instagram.com/fersuits/"
+  },
+  {
+    "id": 16226,
+    "creator_id": 886,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1094182.jpg"
+  },
+  {
+    "id": 16227,
+    "creator_id": 886,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1276072.jpg"
+  },
+  {
+    "id": 16225,
+    "creator_id": 886,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/1439531.jpg"
+  },
+  {
+    "id": 16228,
+    "creator_id": 886,
+    "type": "URL_MINIATURES",
+    "url": "https://orca2.furtrack.com/thumb/2190864.jpg"
+  },
+  {
+    "id": 16220,
+    "creator_id": 886,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1094182"
+  },
+  {
+    "id": 16221,
+    "creator_id": 886,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1276072"
+  },
+  {
+    "id": 16219,
+    "creator_id": 886,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/1439531"
+  },
+  {
+    "id": 16222,
+    "creator_id": 886,
+    "type": "URL_PHOTOS",
+    "url": "https://www.furtrack.com/p/2190864"
+  },
+  {
+    "id": 16213,
+    "creator_id": 886,
+    "type": "URL_TELEGRAM_CHANNEL",
+    "url": "https://t.me/fersuits"
+  },
+  {
+    "id": 16224,
+    "creator_id": 886,
+    "type": "URL_TIKTOK",
+    "url": "https://www.tiktok.com/@fersuits"
+  },
+  {
+    "id": 16217,
+    "creator_id": 886,
+    "type": "URL_TWITTER",
+    "url": "https://twitter.com/Fersuits"
+  },
+  {
+    "id": 16206,
+    "creator_id": 886,
+    "type": "URL_WEBSITE",
+    "url": "https://wildsoft.es/fersuits/en/"
+  },
+  {
+    "id": 16208,
+    "creator_id": 886,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.twitch.tv/fersuits"
   }
 ]

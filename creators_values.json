@@ -124407,7 +124407,7 @@
     "id": 22180,
     "creator_id": 858,
     "field_name": "DATE_UPDATED",
-    "value": "2025-09-21 08:05:09"
+    "value": "2026-09-08 17:17:58"
   },
   {
     "id": 22169,
@@ -124546,6 +124546,18 @@
     "creator_id": 858,
     "field_name": "OTHER_FEATURES",
     "value": "Squeakers in Paws"
+  },
+  {
+    "id": 23259,
+    "creator_id": 858,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Badges"
+  },
+  {
+    "id": 23258,
+    "creator_id": 858,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Props"
   },
   {
     "id": 22156,
@@ -128690,6 +128702,360 @@
   {
     "id": 22975,
     "creator_id": 884,
+    "field_name": "STYLES",
+    "value": "Toony"
+  },
+  {
+    "id": 23201,
+    "creator_id": 885,
+    "field_name": "DATE_ADDED",
+    "value": "2026-09-06 20:24:05"
+  },
+  {
+    "id": 23226,
+    "creator_id": 885,
+    "field_name": "DOES_NSFW",
+    "value": "False"
+  },
+  {
+    "id": 23214,
+    "creator_id": 885,
+    "field_name": "FEATURES",
+    "value": "Exchangeable tongues"
+  },
+  {
+    "id": 23215,
+    "creator_id": 885,
+    "field_name": "FEATURES",
+    "value": "Follow-me eyes"
+  },
+  {
+    "id": 23216,
+    "creator_id": 885,
+    "field_name": "FEATURES",
+    "value": "Indoor feet"
+  },
+  {
+    "id": 23217,
+    "creator_id": 885,
+    "field_name": "FEATURES",
+    "value": "Outdoor feet"
+  },
+  {
+    "id": 23218,
+    "creator_id": 885,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 23202,
+    "creator_id": 885,
+    "field_name": "LANGUAGES",
+    "value": "English"
+  },
+  {
+    "id": 23225,
+    "creator_id": 885,
+    "field_name": "NSFW_SOCIAL",
+    "value": "False"
+  },
+  {
+    "id": 23224,
+    "creator_id": 885,
+    "field_name": "NSFW_WEBSITE",
+    "value": "True"
+  },
+  {
+    "id": 23206,
+    "creator_id": 885,
+    "field_name": "ORDER_TYPES",
+    "value": "Feetpaws (as parts/separate)"
+  },
+  {
+    "id": 23207,
+    "creator_id": 885,
+    "field_name": "ORDER_TYPES",
+    "value": "Handpaws (as parts/separate)"
+  },
+  {
+    "id": 23208,
+    "creator_id": 885,
+    "field_name": "ORDER_TYPES",
+    "value": "Head (as parts/separate)"
+  },
+  {
+    "id": 23209,
+    "creator_id": 885,
+    "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 23210,
+    "creator_id": 885,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 23211,
+    "creator_id": 885,
+    "field_name": "ORDER_TYPES",
+    "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 23219,
+    "creator_id": 885,
+    "field_name": "OTHER_FEATURES",
+    "value": "Pickable nose"
+  },
+  {
+    "id": 23221,
+    "creator_id": 885,
+    "field_name": "OTHER_FEATURES",
+    "value": "feathers"
+  },
+  {
+    "id": 23222,
+    "creator_id": 885,
+    "field_name": "OTHER_FEATURES",
+    "value": "gore tail base"
+  },
+  {
+    "id": 23223,
+    "creator_id": 885,
+    "field_name": "OTHER_FEATURES",
+    "value": "hidden belt loops"
+  },
+  {
+    "id": 23220,
+    "creator_id": 885,
+    "field_name": "OTHER_FEATURES",
+    "value": "squeakers/noise makers"
+  },
+  {
+    "id": 23212,
+    "creator_id": 885,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Accessories"
+  },
+  {
+    "id": 23213,
+    "creator_id": 885,
+    "field_name": "OTHER_ORDER_TYPES",
+    "value": "Props"
+  },
+  {
+    "id": 23203,
+    "creator_id": 885,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Premades"
+  },
+  {
+    "id": 23204,
+    "creator_id": 885,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Standard commissions"
+  },
+  {
+    "id": 23205,
+    "creator_id": 885,
+    "field_name": "STYLES",
+    "value": "Toony"
+  },
+  {
+    "id": 23227,
+    "creator_id": 886,
+    "field_name": "DATE_ADDED",
+    "value": "2026-09-06 20:24:16"
+  },
+  {
+    "id": 23260,
+    "creator_id": 886,
+    "field_name": "DATE_UPDATED",
+    "value": "2026-09-12 06:51:53"
+  },
+  {
+    "id": 23257,
+    "creator_id": 886,
+    "field_name": "DOES_NSFW",
+    "value": "True"
+  },
+  {
+    "id": 23243,
+    "creator_id": 886,
+    "field_name": "FEATURES",
+    "value": "Adjustable eyebrows"
+  },
+  {
+    "id": 23244,
+    "creator_id": 886,
+    "field_name": "FEATURES",
+    "value": "Adjustable/wiggle ears"
+  },
+  {
+    "id": 23245,
+    "creator_id": 886,
+    "field_name": "FEATURES",
+    "value": "Attached handpaws and feetpaws"
+  },
+  {
+    "id": 23246,
+    "creator_id": 886,
+    "field_name": "FEATURES",
+    "value": "Attached tail"
+  },
+  {
+    "id": 23247,
+    "creator_id": 886,
+    "field_name": "FEATURES",
+    "value": "Exchangeable tongues"
+  },
+  {
+    "id": 23248,
+    "creator_id": 886,
+    "field_name": "FEATURES",
+    "value": "Follow-me eyes"
+  },
+  {
+    "id": 23249,
+    "creator_id": 886,
+    "field_name": "FEATURES",
+    "value": "In-head fans"
+  },
+  {
+    "id": 23250,
+    "creator_id": 886,
+    "field_name": "FEATURES",
+    "value": "Indoor feet"
+  },
+  {
+    "id": 23251,
+    "creator_id": 886,
+    "field_name": "FEATURES",
+    "value": "Movable jaw"
+  },
+  {
+    "id": 23252,
+    "creator_id": 886,
+    "field_name": "FEATURES",
+    "value": "Outdoor feet"
+  },
+  {
+    "id": 23253,
+    "creator_id": 886,
+    "field_name": "FEATURES",
+    "value": "Removable blush"
+  },
+  {
+    "id": 23254,
+    "creator_id": 886,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 23261,
+    "creator_id": 886,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
+  },
+  {
+    "id": 23229,
+    "creator_id": 886,
+    "field_name": "LANGUAGES",
+    "value": "English"
+  },
+  {
+    "id": 23230,
+    "creator_id": 886,
+    "field_name": "LANGUAGES",
+    "value": "French (limited)"
+  },
+  {
+    "id": 23228,
+    "creator_id": 886,
+    "field_name": "LANGUAGES",
+    "value": "Spanish"
+  },
+  {
+    "id": 23256,
+    "creator_id": 886,
+    "field_name": "NSFW_SOCIAL",
+    "value": "True"
+  },
+  {
+    "id": 23255,
+    "creator_id": 886,
+    "field_name": "NSFW_WEBSITE",
+    "value": "True"
+  },
+  {
+    "id": 23234,
+    "creator_id": 886,
+    "field_name": "ORDER_TYPES",
+    "value": "Feetpaws (as parts/separate)"
+  },
+  {
+    "id": 23235,
+    "creator_id": 886,
+    "field_name": "ORDER_TYPES",
+    "value": "Full digitigrade"
+  },
+  {
+    "id": 23236,
+    "creator_id": 886,
+    "field_name": "ORDER_TYPES",
+    "value": "Full plantigrade"
+  },
+  {
+    "id": 23237,
+    "creator_id": 886,
+    "field_name": "ORDER_TYPES",
+    "value": "Handpaws (as parts/separate)"
+  },
+  {
+    "id": 23238,
+    "creator_id": 886,
+    "field_name": "ORDER_TYPES",
+    "value": "Head (as parts/separate)"
+  },
+  {
+    "id": 23239,
+    "creator_id": 886,
+    "field_name": "ORDER_TYPES",
+    "value": "Mini partial (head + handpaws + tail)"
+  },
+  {
+    "id": 23240,
+    "creator_id": 886,
+    "field_name": "ORDER_TYPES",
+    "value": "Partial (head + handpaws + tail + feetpaws)"
+  },
+  {
+    "id": 23241,
+    "creator_id": 886,
+    "field_name": "ORDER_TYPES",
+    "value": "Tails (as parts/separate)"
+  },
+  {
+    "id": 23242,
+    "creator_id": 886,
+    "field_name": "ORDER_TYPES",
+    "value": "Three-fourth (head + handpaws + tail + legs/pants + feetpaws)"
+  },
+  {
+    "id": 23231,
+    "creator_id": 886,
+    "field_name": "PRODUCTION_MODELS",
+    "value": "Standard commissions"
+  },
+  {
+    "id": 23232,
+    "creator_id": 886,
+    "field_name": "STYLES",
+    "value": "Semi Toony"
+  },
+  {
+    "id": 23233,
+    "creator_id": 886,
     "field_name": "STYLES",
     "value": "Toony"
   }
