@@ -22374,6 +22374,12 @@
     "url": "https://www.sasa-creations.de/faq/"
   },
   {
+    "id": 16242,
+    "creator_id": 552,
+    "type": "URL_FURSUITREVIEW",
+    "url": "https://fursuitreview.com/m/sasa-creations/"
+  },
+  {
     "id": 13887,
     "creator_id": 552,
     "type": "URL_FURTRACK",
@@ -37638,10 +37644,10 @@
     "url": "https://bsky.app/profile/squirrel-suits.bsky.social"
   },
   {
-    "id": 14888,
+    "id": 16241,
     "creator_id": 832,
     "type": "URL_COMMISSIONS",
-    "url": "https://twitter.com/SquirrelSuits"
+    "url": "https://bsky.app/profile/squirrel-suits.bsky.social"
   },
   {
     "id": 14891,
@@ -38172,12 +38178,6 @@
     "url": "https://t.me/starryariarts"
   },
   {
-    "id": 15097,
-    "creator_id": 843,
-    "type": "URL_FAQ",
-    "url": "https://www.starryariart.com/faq"
-  },
-  {
     "id": 15103,
     "creator_id": 843,
     "type": "URL_FURTRACK",
@@ -38202,22 +38202,10 @@
     "url": "https://orca2.furtrack.com/thumb/81055.jpg"
   },
   {
-    "id": 15101,
-    "creator_id": 843,
-    "type": "URL_OTHER_SHOP",
-    "url": "https://www.starryariart.com/"
-  },
-  {
     "id": 15104,
     "creator_id": 843,
     "type": "URL_PHOTOS",
     "url": "https://www.furtrack.com/p/81055"
-  },
-  {
-    "id": 15095,
-    "creator_id": 843,
-    "type": "URL_PRICES",
-    "url": "https://www.starryariart.com/copy-of-digital-commissions"
   },
   {
     "id": 15102,
@@ -38236,12 +38224,6 @@
     "creator_id": 843,
     "type": "URL_TUMBLR",
     "url": "https://www.tumblr.com/starryariart"
-  },
-  {
-    "id": 15094,
-    "creator_id": 843,
-    "type": "URL_WEBSITE",
-    "url": "https://www.starryariart.com/"
   },
   {
     "id": 15115,
@@ -39042,10 +39024,10 @@
     "url": "https://alpharatnests.ca/"
   },
   {
-    "id": 15343,
+    "id": 16239,
     "creator_id": 860,
     "type": "URL_DONATIONS",
-    "url": "https://ko-fi.com/pyree"
+    "url": "https://ko-fi.com/wishsker"
   },
   {
     "id": 15338,
@@ -39054,22 +39036,16 @@
     "url": "https://www.furtrack.com/index/maker:alpharat"
   },
   {
-    "id": 15334,
+    "id": 16236,
     "creator_id": 860,
     "type": "URL_INSTAGRAM",
-    "url": "https://www.instagram.com/alpharatnests/"
+    "url": "https://www.instagram.com/wishsker/"
   },
   {
-    "id": 15335,
-    "creator_id": 860,
-    "type": "URL_LINKLIST",
-    "url": "https://linktr.ee/alpharat"
-  },
-  {
-    "id": 15336,
+    "id": 16237,
     "creator_id": 860,
     "type": "URL_OTHER_SHOP",
-    "url": "https://ko-fi.com/pyree/shop"
+    "url": "https://ko-fi.com/wishsker/shop"
   },
   {
     "id": 15342,
@@ -39096,34 +39072,28 @@
     "url": "https://www.furtrack.com/p/791765"
   },
   {
-    "id": 15332,
+    "id": 16235,
     "creator_id": 860,
     "type": "URL_PRICES",
-    "url": "https://alpharatnests.ca/#pricing"
+    "url": "https://wishsker.ca/#pricing"
   },
   {
-    "id": 15337,
+    "id": 16238,
     "creator_id": 860,
     "type": "URL_QUEUE",
-    "url": "https://trello.com/b/vDxAiLW1/alpharatnests"
+    "url": "https://trello.com/b/vDxAiLW1/wishskers-queue"
   },
   {
-    "id": 15344,
+    "id": 16240,
     "creator_id": 860,
     "type": "URL_TELEGRAM_CHANNEL",
-    "url": "https://t.me/alpharats"
+    "url": "https://t.me/wishsker"
   },
   {
-    "id": 15345,
-    "creator_id": 860,
-    "type": "URL_TIKTOK",
-    "url": "https://www.tiktok.com/@alpharatnests"
-  },
-  {
-    "id": 15331,
+    "id": 16234,
     "creator_id": 860,
     "type": "URL_WEBSITE",
-    "url": "https://alpharatnests.ca/"
+    "url": "https://wishsker.ca"
   },
   {
     "id": 15391,

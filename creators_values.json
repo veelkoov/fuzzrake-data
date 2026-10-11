@@ -120135,7 +120135,7 @@
     "id": 23037,
     "creator_id": 832,
     "field_name": "DATE_UPDATED",
-    "value": "2026-04-29 18:58:23"
+    "value": "2026-10-03 10:14:59"
   },
   {
     "id": 21321,
@@ -124800,6 +124800,12 @@
     "value": "2025-09-21 08:25:46"
   },
   {
+    "id": 23264,
+    "creator_id": 860,
+    "field_name": "DATE_UPDATED",
+    "value": "2026-10-03 10:14:41"
+  },
+  {
     "id": 22241,
     "creator_id": 860,
     "field_name": "DOES_NSFW",
@@ -124809,34 +124815,52 @@
     "id": 22232,
     "creator_id": 860,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Adjustable/wiggle ears"
   },
   {
     "id": 22233,
     "creator_id": 860,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "Exchangeable hairs"
   },
   {
     "id": 22234,
     "creator_id": 860,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Exchangeable tongues"
   },
   {
     "id": 22235,
     "creator_id": 860,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "Follow-me eyes"
   },
   {
     "id": 22236,
     "creator_id": 860,
     "field_name": "FEATURES",
-    "value": "Removable horns/antlers"
+    "value": "Indoor feet"
   },
   {
     "id": 22237,
+    "creator_id": 860,
+    "field_name": "FEATURES",
+    "value": "Outdoor feet"
+  },
+  {
+    "id": 23265,
+    "creator_id": 860,
+    "field_name": "FEATURES",
+    "value": "Removable eyelids"
+  },
+  {
+    "id": 23266,
+    "creator_id": 860,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
+  },
+  {
+    "id": 23267,
     "creator_id": 860,
     "field_name": "FEATURES",
     "value": "Washable heads"
