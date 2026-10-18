@@ -6768,6 +6768,12 @@
     "url": "https://wildspotworks.com/"
   },
   {
+    "id": 16257,
+    "creator_id": 216,
+    "type": "URL_BLUESKY",
+    "url": "https://bsky.app/profile/pinali.net"
+  },
+  {
     "id": 11501,
     "creator_id": 216,
     "type": "URL_COMMISSIONS",
@@ -6790,6 +6796,12 @@
     "creator_id": 216,
     "type": "URL_PRICES",
     "url": "https://www.pinali.net/pricing"
+  },
+  {
+    "id": 16256,
+    "creator_id": 216,
+    "type": "URL_QUEUE",
+    "url": "https://trello.com/b/FXX5jZt9/studio-pinali"
   },
   {
     "id": 938,
@@ -29718,6 +29730,12 @@
     "url": "https://ko-fi.com/argetandlazuli"
   },
   {
+    "id": 16250,
+    "creator_id": 689,
+    "type": "URL_FACEBOOK",
+    "url": "https://www.facebook.com/argetandlazuli/"
+  },
+  {
     "id": 15237,
     "creator_id": 689,
     "type": "URL_FAQ",
@@ -29730,10 +29748,10 @@
     "url": "https://fursuitreview.com/m/argetandlazuli/"
   },
   {
-    "id": 13084,
+    "id": 16253,
     "creator_id": 689,
     "type": "URL_FURTRACK",
-    "url": "https://www.furtrack.com/user/ArgetAndLazuli"
+    "url": "https://www.furtrack.com/index/maker:argetandlazuli"
   },
   {
     "id": 15238,
@@ -29748,10 +29766,10 @@
     "url": "https://www.instagram.com/argetandlazuli/"
   },
   {
-    "id": 13083,
+    "id": 16252,
     "creator_id": 689,
     "type": "URL_LINKLIST",
-    "url": "http://linktr.ee/argetandlazuli"
+    "url": "https://linktr.ee/argetandlazuli"
   },
   {
     "id": 15248,
@@ -29784,6 +29802,18 @@
     "url": "https://orca2.furtrack.com/thumb/1340803.jpg"
   },
   {
+    "id": 16254,
+    "creator_id": 689,
+    "type": "URL_OTHER",
+    "url": "https://www.reddit.com/user/ArgetAndLazuli"
+  },
+  {
+    "id": 16255,
+    "creator_id": 689,
+    "type": "URL_OTHER",
+    "url": "https://www.threads.com/@argetandlazuli"
+  },
+  {
     "id": 15240,
     "creator_id": 689,
     "type": "URL_PHOTOS",
@@ -29814,10 +29844,52 @@
     "url": "https://www.furtrack.com/p/1340803"
   },
   {
+    "id": 16248,
+    "creator_id": 689,
+    "type": "URL_PRICES",
+    "url": "https://argetandlazuli.com/3dbases"
+  },
+  {
+    "id": 16247,
+    "creator_id": 689,
+    "type": "URL_PRICES",
+    "url": "https://argetandlazuli.com/diykits"
+  },
+  {
+    "id": 16246,
+    "creator_id": 689,
+    "type": "URL_PRICES",
+    "url": "https://argetandlazuli.com/fursuitparts"
+  },
+  {
     "id": 15236,
     "creator_id": 689,
     "type": "URL_PRICES",
     "url": "https://argetandlazuli.com/pricing"
+  },
+  {
+    "id": 16244,
+    "creator_id": 689,
+    "type": "URL_PRICES",
+    "url": "https://argetandlazuli.com/primagen"
+  },
+  {
+    "id": 16243,
+    "creator_id": 689,
+    "type": "URL_PRICES",
+    "url": "https://argetandlazuli.com/protogen"
+  },
+  {
+    "id": 16249,
+    "creator_id": 689,
+    "type": "URL_PRICES",
+    "url": "https://argetandlazuli.com/sprays"
+  },
+  {
+    "id": 16245,
+    "creator_id": 689,
+    "type": "URL_PRICES",
+    "url": "https://argetandlazuli.com/toonysemirealistic"
   },
   {
     "id": 15239,
@@ -29842,6 +29914,12 @@
     "creator_id": 689,
     "type": "URL_WEBSITE",
     "url": "https://argetandlazuli.com/"
+  },
+  {
+    "id": 16251,
+    "creator_id": 689,
+    "type": "URL_YOUTUBE",
+    "url": "https://www.youtube.com/@argetandlazuli"
   },
   {
     "id": 13104,

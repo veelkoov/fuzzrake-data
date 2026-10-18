@@ -16617,7 +16617,7 @@
     "id": 1783,
     "creator_id": 216,
     "field_name": "DATE_UPDATED",
-    "value": "2022-07-24 14:10:15"
+    "value": "2026-10-18 12:57:09"
   },
   {
     "id": 1787,
@@ -94215,7 +94215,7 @@
     "id": 3164,
     "creator_id": 689,
     "field_name": "DATE_UPDATED",
-    "value": "2026-08-29 07:16:21"
+    "value": "2026-10-16 06:21:49"
   },
   {
     "id": 3165,
@@ -94269,34 +94269,40 @@
     "id": 4173,
     "creator_id": 689,
     "field_name": "FEATURES",
-    "value": "LED/EL lights"
+    "value": "LED eyes"
   },
   {
     "id": 4174,
     "creator_id": 689,
     "field_name": "FEATURES",
-    "value": "Movable jaw"
+    "value": "LED/EL lights"
   },
   {
     "id": 4175,
     "creator_id": 689,
     "field_name": "FEATURES",
-    "value": "Outdoor feet"
+    "value": "Movable jaw"
   },
   {
     "id": 21998,
     "creator_id": 689,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "Outdoor feet"
   },
   {
     "id": 21999,
     "creator_id": 689,
     "field_name": "FEATURES",
-    "value": "Removable horns/antlers"
+    "value": "Removable eyelids"
   },
   {
     "id": 22000,
+    "creator_id": 689,
+    "field_name": "FEATURES",
+    "value": "Removable horns/antlers"
+  },
+  {
+    "id": 23269,
     "creator_id": 689,
     "field_name": "FEATURES",
     "value": "Washable heads"
@@ -94356,6 +94362,12 @@
     "value": "Adjustable headstrap"
   },
   {
+    "id": 23278,
+    "creator_id": 689,
+    "field_name": "OTHER_FEATURES",
+    "value": "Animated cheek LEDs"
+  },
+  {
     "id": 22007,
     "creator_id": 689,
     "field_name": "OTHER_FEATURES",
@@ -94366,6 +94378,18 @@
     "creator_id": 689,
     "field_name": "OTHER_FEATURES",
     "value": "Arm sleeves"
+  },
+  {
+    "id": 23273,
+    "creator_id": 689,
+    "field_name": "OTHER_FEATURES",
+    "value": "Boop sensor"
+  },
+  {
+    "id": 23277,
+    "creator_id": 689,
+    "field_name": "OTHER_FEATURES",
+    "value": "Camera mode for photos and video"
   },
   {
     "id": 22013,
@@ -94386,6 +94410,12 @@
     "value": "Floor dragger"
   },
   {
+    "id": 23279,
+    "creator_id": 689,
+    "field_name": "OTHER_FEATURES",
+    "value": "GIF player on the visor"
+  },
+  {
     "id": 22008,
     "creator_id": 689,
     "field_name": "OTHER_FEATURES",
@@ -94398,16 +94428,40 @@
     "value": "Horns"
   },
   {
+    "id": 23276,
+    "creator_id": 689,
+    "field_name": "OTHER_FEATURES",
+    "value": "Internal OLED HUD"
+  },
+  {
     "id": 22014,
     "creator_id": 689,
     "field_name": "OTHER_FEATURES",
     "value": "NFC tags"
   },
   {
+    "id": 23270,
+    "creator_id": 689,
+    "field_name": "OTHER_FEATURES",
+    "value": "Own LED firmware"
+  },
+  {
+    "id": 23271,
+    "creator_id": 689,
+    "field_name": "OTHER_FEATURES",
+    "value": "Phone app control"
+  },
+  {
     "id": 22002,
     "creator_id": 689,
     "field_name": "OTHER_FEATURES",
     "value": "Poseable tongue"
+  },
+  {
+    "id": 23281,
+    "creator_id": 689,
+    "field_name": "OTHER_FEATURES",
+    "value": "Removable electronics"
   },
   {
     "id": 22011,
@@ -94428,49 +94482,79 @@
     "value": "Squeakers"
   },
   {
-    "id": 21996,
+    "id": 23280,
+    "creator_id": 689,
+    "field_name": "OTHER_FEATURES",
+    "value": "Swappable power bank"
+  },
+  {
+    "id": 23275,
+    "creator_id": 689,
+    "field_name": "OTHER_FEATURES",
+    "value": "Tilt sensor"
+  },
+  {
+    "id": 23274,
+    "creator_id": 689,
+    "field_name": "OTHER_FEATURES",
+    "value": "Voice reactive mouth"
+  },
+  {
+    "id": 23272,
+    "creator_id": 689,
+    "field_name": "OTHER_FEATURES",
+    "value": "Wireless remote"
+  },
+  {
+    "id": 21997,
     "creator_id": 689,
     "field_name": "OTHER_PRODUCTS",
     "value": "3D Printed Accessories"
   },
   {
-    "id": 4183,
+    "id": 21992,
     "creator_id": 689,
     "field_name": "OTHER_PRODUCTS",
     "value": "Accessories"
   },
   {
-    "id": 4182,
+    "id": 4183,
     "creator_id": 689,
     "field_name": "OTHER_PRODUCTS",
     "value": "Arm sleeves"
   },
   {
-    "id": 21992,
+    "id": 21993,
     "creator_id": 689,
     "field_name": "OTHER_PRODUCTS",
     "value": "Fursuit props"
   },
   {
-    "id": 21995,
+    "id": 21996,
     "creator_id": 689,
     "field_name": "OTHER_PRODUCTS",
     "value": "Fursuit sandals"
   },
   {
-    "id": 21993,
+    "id": 21994,
     "creator_id": 689,
     "field_name": "OTHER_PRODUCTS",
     "value": "Fursuit sprays"
   },
   {
-    "id": 21994,
+    "id": 21995,
     "creator_id": 689,
     "field_name": "OTHER_PRODUCTS",
     "value": "Head bases"
   },
   {
-    "id": 21997,
+    "id": 4182,
+    "creator_id": 689,
+    "field_name": "OTHER_PRODUCTS",
+    "value": "Protogen DIY kits"
+  },
+  {
+    "id": 23268,
     "creator_id": 689,
     "field_name": "OTHER_PRODUCTS",
     "value": "Protogen Visors"
