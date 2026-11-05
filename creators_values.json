@@ -92364,6 +92364,12 @@
     "value": "2023-09-27 19:37:38"
   },
   {
+    "id": 23282,
+    "creator_id": 679,
+    "field_name": "DATE_UPDATED",
+    "value": "2026-10-26 21:31:52"
+  },
+  {
     "id": 2654,
     "creator_id": 679,
     "field_name": "DOES_NSFW",
@@ -92379,37 +92385,37 @@
     "id": 15712,
     "creator_id": 679,
     "field_name": "FEATURES",
-    "value": "Exchangeable tongues"
+    "value": "Exchangeable hairs"
   },
   {
     "id": 15713,
     "creator_id": 679,
     "field_name": "FEATURES",
-    "value": "Follow-me eyes"
+    "value": "In-head fans"
   },
   {
     "id": 15714,
     "creator_id": 679,
     "field_name": "FEATURES",
-    "value": "In-head fans"
+    "value": "LED eyes"
   },
   {
     "id": 15715,
     "creator_id": 679,
     "field_name": "FEATURES",
-    "value": "LED eyes"
+    "value": "LED/EL lights"
   },
   {
     "id": 15716,
     "creator_id": 679,
     "field_name": "FEATURES",
-    "value": "LED/EL lights"
+    "value": "Removable blush"
   },
   {
     "id": 15717,
     "creator_id": 679,
     "field_name": "FEATURES",
-    "value": "Removable eyelids"
+    "value": "Removable horns/antlers"
   },
   {
     "id": 15718,
@@ -92448,6 +92454,12 @@
     "value": "Standard commissions"
   },
   {
+    "id": 23285,
+    "creator_id": 679,
+    "field_name": "OTHER_FEATURES",
+    "value": "Boop sensor"
+  },
+  {
     "id": 15719,
     "creator_id": 679,
     "field_name": "OTHER_FEATURES",
@@ -92458,6 +92470,18 @@
     "creator_id": 679,
     "field_name": "OTHER_FEATURES",
     "value": "Multiple faces"
+  },
+  {
+    "id": 23283,
+    "creator_id": 679,
+    "field_name": "OTHER_FEATURES",
+    "value": "Remote control"
+  },
+  {
+    "id": 23284,
+    "creator_id": 679,
+    "field_name": "OTHER_FEATURES",
+    "value": "Speech sensor"
   },
   {
     "id": 15725,
