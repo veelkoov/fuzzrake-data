@@ -2,7 +2,11 @@
 /.gitkeep
 
 # Private stuff should never be published
+/posts.*
+/posts_votes.*
 /submissions.*
+/topics_reads.*
+/user_roles.*
 /users.*
 
 # Volatile information, easily reproducible
